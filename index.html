@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>POD GOD — The Best Podcast Editor Out There</title>
-  <meta name="description" content="POD GOD — the best podcast editor out there. Coming soon.">
+  <title>POD GOD — Podcast Tools</title>
+  <meta name="description" content="POD GOD — podcast player and editor. Coming soon.">
   <meta property="og:title" content="POD GOD">
-  <meta property="og:description" content="The best podcast editor out there. Coming soon.">
+  <meta property="og:description" content="Podcast player and editor. Coming soon.">
   <meta property="og:image" content="https://podgod.ca/img.png">
   <meta property="og:url" content="https://podgod.ca">
   <meta property="og:type" content="website">
@@ -34,7 +34,6 @@
       overflow-x: hidden;
     }
 
-    /* Subtle animated gradient background */
     body::before {
       content: '';
       position: fixed;
@@ -59,7 +58,7 @@
     .container {
       position: relative;
       z-index: 1;
-      max-width: 900px;
+      max-width: 960px;
       width: 100%;
       padding: 3rem 1.5rem;
       text-align: center;
@@ -82,61 +81,96 @@
       font-size: 1.25rem;
       font-weight: 500;
       color: #94a3b8;
-      margin-bottom: 0.6rem;
+      margin-bottom: 2.5rem;
       animation: fadeInUp 0.8s ease-out 0.15s both;
+    }
+
+    .products {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      animation: fadeInUp 0.8s ease-out 0.3s both;
+    }
+
+    .product-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 16px;
+      padding: 2rem 1.5rem;
+      text-align: center;
+      transition: border-color 0.3s ease, box-shadow 0.3s ease;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .product-card:hover {
+      border-color: rgba(200, 80, 242, 0.2);
+      box-shadow: 0 0 40px rgba(120, 40, 200, 0.08);
+    }
+
+    .product-image {
+      width: 100%;
+      height: 240px;
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .product-image img {
+      max-width: 100%;
+      max-height: 100%;
+      height: auto;
+      display: block;
+      object-fit: contain;
+    }
+
+    .player-image img {
+      width: 240px;
+      height: 240px;
+    }
+
+    .editor-image {
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow:
+        0 0 0 1px rgba(255, 255, 255, 0.06),
+        0 12px 40px -8px rgba(0, 0, 0, 0.5);
+    }
+
+    .product-name {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #e2e8f0;
+      margin-bottom: 0.3rem;
+    }
+
+    .product-platforms {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: #64748b;
+      margin-bottom: 1rem;
+    }
+
+    .product-desc {
+      font-size: 0.95rem;
+      color: #94a3b8;
+      line-height: 1.5;
+      margin-bottom: 1.2rem;
     }
 
     .coming-soon {
       display: inline-block;
-      font-size: 0.85rem;
+      font-size: 0.75rem;
       font-weight: 600;
       letter-spacing: 0.15em;
       text-transform: uppercase;
       color: #0b0e17;
       background: linear-gradient(135deg, #ff4d8d, #c850f2);
-      padding: 0.45rem 1.4rem;
+      padding: 0.4rem 1.2rem;
       border-radius: 999px;
-      margin-bottom: 3rem;
-      animation: fadeInUp 0.8s ease-out 0.3s both;
-    }
-
-    .screenshot-wrapper {
-      position: relative;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow:
-        0 0 0 1px rgba(255, 255, 255, 0.06),
-        0 25px 80px -12px rgba(0, 0, 0, 0.6),
-        0 0 60px rgba(120, 40, 200, 0.12);
-      animation: fadeInUp 1s ease-out 0.45s both;
-    }
-
-    .screenshot-wrapper img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-
-    /* Subtle shine on hover */
-    .screenshot-wrapper::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(
-        105deg,
-        transparent 40%,
-        rgba(255, 255, 255, 0.03) 45%,
-        rgba(255, 255, 255, 0.05) 50%,
-        rgba(255, 255, 255, 0.03) 55%,
-        transparent 60%
-      );
-      opacity: 0;
-      transition: opacity 0.4s ease;
-      pointer-events: none;
-    }
-
-    .screenshot-wrapper:hover::after {
-      opacity: 1;
+      margin-top: auto;
     }
 
     @keyframes fadeInUp {
@@ -150,7 +184,6 @@
       }
     }
 
-    /* Responsive */
     @media (max-width: 640px) {
       .logo {
         font-size: 3rem;
@@ -161,16 +194,41 @@
       .container {
         padding: 2rem 1rem;
       }
+      .products {
+        grid-template-columns: 1fr;
+      }
+      .player-image img {
+        width: 120px;
+        height: 120px;
+      }
     }
   </style>
 </head>
 <body>
   <main class="container">
     <h1 class="logo">POD GOD</h1>
-    <p class="tagline">The best podcast editor out there.</p>
-    <span class="coming-soon">Coming Soon</span>
-    <div class="screenshot-wrapper">
-      <img src="img.png" alt="POD GOD — podcast editor interface showing waveform editing and filler word detection" width="1024" height="530">
+    <p class="tagline">The best podcast player and editor out there.</p>
+
+    <div class="products">
+      <div class="product-card">
+        <div class="product-image player-image">
+          <img src="player-icon.png" alt="POD GOD Player" width="240" height="240">
+        </div>
+        <div class="product-name">Player</div>
+        <div class="product-platforms">iOS &amp; Android</div>
+        <p class="product-desc">Simple, fast, ad-free. No account needed.</p>
+        <span class="coming-soon">Coming Soon</span>
+      </div>
+
+      <div class="product-card">
+        <div class="product-image editor-image">
+          <img src="img.png" alt="POD GOD Editor — podcast editor interface" width="1024" height="530">
+        </div>
+        <div class="product-name">Editor</div>
+        <div class="product-platforms">macOS, Windows &amp; Linux</div>
+        <p class="product-desc">Professional quality with the click of a button.</p>
+        <span class="coming-soon">Coming Soon</span>
+      </div>
     </div>
   </main>
 </body>
