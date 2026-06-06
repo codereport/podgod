@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-06-06",
   "platforms": ["x", "bluesky", "mastodon", "linkedin", "youtube", "tiktok", "instagram"],
   "entities": [
@@ -25,10 +25,24 @@
         "x": "bigtechnology",
         "bluesky": null,
         "mastodon": null,
-        "linkedin": null,
-        "youtube": "bigtechnologypodcast",
+        "linkedin": "company/big-technology",
+        "youtube": "Alex.kantrowitz",
         "tiktok": null,
         "instagram": null
+      }
+    },
+    {
+      "id": "alex-kantrowitz",
+      "name": "Alex Kantrowitz",
+      "aliases": ["kantrowitz"],
+      "handles": {
+        "x": "Kantrowitz",
+        "bluesky": "kantrowitz.bsky.social",
+        "mastodon": null,
+        "linkedin": "in/alexkantrowitz",
+        "youtube": "Alex.kantrowitz",
+        "tiktok": null,
+        "instagram": "alexkantrowitz"
       }
     }
   ]
