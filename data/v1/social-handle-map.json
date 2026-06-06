@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-06",
+  "platforms": ["x", "bluesky", "mastodon", "linkedin", "youtube", "tiktok", "instagram"],
+  "entities": [
+    {
+      "id": "geoffrey-hinton",
+      "name": "Geoffrey Hinton",
+      "aliases": ["hinton", "geoff hinton"],
+      "handles": {
+        "x": "geoffreyhinton",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "big-technology-podcast",
+      "name": "Big Technology Podcast",
+      "aliases": ["big technology", "big tech podcast", "big tech"],
+      "handles": {
+        "x": "bigtechnology",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": "bigtechnologypodcast",
+        "tiktok": null,
+        "instagram": null
+      }
+    }
+  ]
+}
