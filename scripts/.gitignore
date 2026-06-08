@@ -1,0 +1,5 @@
+# Cached source photos downloaded by make_personality_art.py
+.cache/
+
+# Hand-picked source photos (unknown license; only the derived art PNGs are published)
+photos/

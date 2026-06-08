@@ -1,0 +1,26 @@
+{
+  "jensen-huang": {
+    "wikipedia_title": "Jensen Huang",
+    "cached": true
+  },
+  "andrej-karpathy": {
+    "local_photo": "scripts/photos/andrej-karpathy.jpeg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "demis-hassabis": {
+    "wikipedia_title": "Demis Hassabis",
+    "cached": true
+  },
+  "geoffrey-hinton": {
+    "wikipedia_title": "Geoffrey Hinton",
+    "cached": true
+  },
+  "ilya-sutskever": {
+    "local_photo": "scripts/photos/ilya-sutskever.jpg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "boris-cherny": {
+    "local_photo": "scripts/photos/boris-cherny.jpeg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  }
+}

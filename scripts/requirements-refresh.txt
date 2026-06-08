@@ -1,0 +1,2 @@
+# Dependencies for refresh_personalities.py (runs in the daily GitHub Action).
+requests>=2.31,<3

@@ -1,0 +1,63 @@
+name: Refresh Personalities
+
+on:
+  schedule:
+    # 14:00 UTC = 10:00 AM at UTC-4 (shifts by 1h under DST). GitHub cron is UTC.
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Time window to scan (e.g. 24h for the daily run, 365d for a backfill)."
+        required: false
+        default: "24h"
+      only:
+        description: "Optional personality id to limit to (e.g. jensen-huang). Blank = all."
+        required: false
+        default: ""
+
+concurrency:
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements-refresh.txt
+
+      - name: Refresh personality feeds
+        env:
+          # Optional: if these secrets are set, discovery uses PodcastIndex
+          # byperson (better matches). If absent, it falls back to the iTunes
+          # Search API automatically - no signup/key required.
+          PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+          PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+          # Daily schedule passes nothing -> defaults below. Manual dispatch can override.
+          SINCE: ${{ github.event.inputs.since || '24h' }}
+          ONLY: ${{ github.event.inputs.only || '' }}
+        run: |
+          if [ -n "$ONLY" ]; then
+            python scripts/refresh_personalities.py --since "$SINCE" --only "$ONLY"
+          else
+            python scripts/refresh_personalities.py --since "$SINCE"
+          fi
+
+      - name: Commit updated feeds
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(personalities): refresh meta-podcast feeds"
+          file_pattern: "data/v1/personalities.json data/v1/personalities/*.json"
+          commit_user_name: "podgod-bot"
+          commit_user_email: "bot@podgod.ca"

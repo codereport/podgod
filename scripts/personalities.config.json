@@ -1,0 +1,59 @@
+{
+  "_comment": "Seed config for the personalities meta-podcast feature. Each entry drives both episode discovery (refresh_personalities.py via PodcastIndex byperson) and cover-art generation (make_personality_art.py via Wikimedia). Add a new person here, then run the one-time backfill (refresh_personalities.py --since 365d --only <id>) and the art script.",
+  "defaults": {
+    "min_duration_sec": 600,
+    "max_episodes": 50
+  },
+  "personalities": [
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "aliases": ["karpathy"],
+      "title": "AI researcher",
+      "queries": ["Andrej Karpathy"],
+      "wikimedia": "Andrej Karpathy"
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "Geoffrey Hinton",
+      "aliases": ["hinton", "geoff hinton"],
+      "title": "Godfather of AI",
+      "queries": ["Geoffrey Hinton"],
+      "wikimedia": "Geoffrey Hinton",
+      "handle_entity_id": "geoffrey-hinton"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "aliases": ["sutskever", "ilya"],
+      "title": "AI researcher",
+      "queries": ["Ilya Sutskever"],
+      "wikimedia": "Ilya Sutskever"
+    },
+    {
+      "id": "boris-cherny",
+      "name": "Boris Cherny",
+      "aliases": ["cherny"],
+      "title": "Creator of Claude Code",
+      "queries": ["Boris Cherny"],
+      "wikimedia": "Boris Cherny"
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "aliases": ["hassabis"],
+      "title": "DeepMind CEO",
+      "queries": ["Demis Hassabis"],
+      "wikimedia": "Demis Hassabis"
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": ["jensen huang", "jensen"],
+      "title": "NVIDIA CEO",
+      "queries": ["Jensen Huang"],
+      "wikimedia": "Jensen Huang",
+      "feed_blocklist": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-06",
+  "personalities": [
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "aliases": [
+        "karpathy"
+      ],
+      "title": "AI researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
+      "episode_count": 18,
+      "handle_entity_id": null
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "Geoffrey Hinton",
+      "aliases": [
+        "hinton",
+        "geoff hinton"
+      ],
+      "title": "Godfather of AI",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
+      "episode_count": 26,
+      "handle_entity_id": "geoffrey-hinton"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "aliases": [
+        "sutskever",
+        "ilya"
+      ],
+      "title": "AI researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
+      "episode_count": 22,
+      "handle_entity_id": null
+    },
+    {
+      "id": "boris-cherny",
+      "name": "Boris Cherny",
+      "aliases": [
+        "cherny"
+      ],
+      "title": "Creator of Claude Code",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/boris-cherny.json",
+      "episode_count": 17,
+      "handle_entity_id": null
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "aliases": [
+        "hassabis"
+      ],
+      "title": "DeepMind CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
+      "episode_count": 37,
+      "handle_entity_id": null
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": [
+        "jensen huang",
+        "jensen"
+      ],
+      "title": "NVIDIA CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
+      "episode_count": 31,
+      "handle_entity_id": null
+    }
+  ]
+}

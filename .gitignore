@@ -1,0 +1,7 @@
+# Python (local scripts tooling)
+.venv/
+__pycache__/
+*.pyc
+
+# Local source-photo cache for art generation
+scripts/.cache/
