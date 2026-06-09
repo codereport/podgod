@@ -49,6 +49,7 @@ REPO_ROOT = SCRIPT_DIR.parent
 CONFIG_PATH = SCRIPT_DIR / "personalities.config.json"
 DATA_DIR = REPO_ROOT / "data" / "v1"
 PERSON_DIR = DATA_DIR / "personalities"
+ART_DIR = PERSON_DIR / "art"
 INDEX_PATH = DATA_DIR / "personalities.json"
 
 SITE_BASE = "https://podgod.ca/data/v1/personalities"
@@ -138,6 +139,7 @@ def fetch_podcastindex(
             "feed_url": item.get("feedUrl"),
             "audio_url": audio_url,
             "artwork_url": item.get("image") or item.get("feedImage"),
+            "podcast_artwork_url": item.get("feedImage") or item.get("image"),
             "duration": item.get("duration"),
             "pub_date": to_iso(item.get("datePublished")),
             "episode_url": item.get("link"),
@@ -147,6 +149,31 @@ def fetch_podcastindex(
         all_text = " ".join(norm(item.get(k)) for k in ("title", "description", "feedTitle"))
         out.append((ep, {"title": title, "all": all_text}))
     return out
+
+
+def fetch_itunes_collection_art(session: requests.Session, collection_ids: set[Any]) -> dict[str, str]:
+    """Resolve each source podcast's (collection) artwork via the iTunes lookup
+    endpoint, so the app can show the show's art distinctly from episode art."""
+    ids = [str(c) for c in collection_ids if c]
+    art: dict[str, str] = {}
+    for i in range(0, len(ids), 100):  # lookup accepts a comma-separated batch
+        batch = ids[i:i + 100]
+        try:
+            resp = session.get(
+                "https://itunes.apple.com/lookup",
+                params={"id": ",".join(batch), "entity": "podcast"},
+                headers={"User-Agent": USER_AGENT},
+                timeout=30,
+            )
+            resp.raise_for_status()
+            for r in resp.json().get("results") or []:
+                cid = r.get("collectionId")
+                img = r.get("artworkUrl600") or r.get("artworkUrl160") or r.get("artworkUrl100")
+                if cid and img:
+                    art[str(cid)] = img
+        except requests.RequestException as exc:
+            print(f"  ! collection art lookup failed: {exc}", file=sys.stderr)
+    return art
 
 
 def fetch_itunes(session: requests.Session, query: str) -> list[tuple[dict[str, Any], dict[str, str]]]:
@@ -175,6 +202,10 @@ def fetch_itunes(session: requests.Session, query: str) -> list[tuple[dict[str, 
             "feed_url": r.get("feedUrl"),
             "audio_url": audio_url,
             "artwork_url": artwork,
+            # Source-podcast (collection) art is resolved in a later batch lookup;
+            # default to the episode art so there is always something.
+            "podcast_artwork_url": artwork,
+            "collection_id": r.get("collectionId"),
             "duration": duration,
             "pub_date": r.get("releaseDate"),
             "episode_url": r.get("trackViewUrl"),
@@ -288,6 +319,21 @@ def merge_episodes(
     return ordered[:max_episodes]
 
 
+def artwork_url_for(pid: str) -> str:
+    """Public art URL with a content-hash cache-buster (`?v=<hash>`).
+
+    Clients (and expo-image) cache by exact URL, so reusing the same URL after
+    regenerating a PNG would keep serving the stale image. Hashing the committed
+    art file makes the URL change only when the art actually changes."""
+    base = f"{SITE_BASE}/art/{pid}.png"
+    art_path = ART_DIR / f"{pid}.png"
+    try:
+        digest = hashlib.md5(art_path.read_bytes()).hexdigest()[:8]
+        return f"{base}?v={digest}"
+    except OSError:
+        return base
+
+
 def load_json(path: Path) -> dict[str, Any]:
     if not path.exists():
         return {}
@@ -391,7 +437,21 @@ def main() -> int:
         max_episodes = person.get("max_episodes", defaults.get("max_episodes", 50))
         merged = merge_episodes(existing_eps, fresh, max_episodes)
 
-        artwork_url = f"{SITE_BASE}/art/{pid}.png"
+        # Resolve each episode's source-podcast (collection) art so the player can
+        # offer "podcast art" vs "episode art" without ever using the personality cover.
+        if source == "itunes":
+            cids = {e.get("collection_id") for e in merged if e.get("collection_id")}
+            if cids:
+                art_map = fetch_itunes_collection_art(session, cids)
+                for e in merged:
+                    cid = e.get("collection_id")
+                    if cid and art_map.get(str(cid)):
+                        e["podcast_artwork_url"] = art_map[str(cid)]
+        for e in merged:
+            if not e.get("podcast_artwork_url"):
+                e["podcast_artwork_url"] = e.get("artwork_url")
+
+        artwork_url = artwork_url_for(pid)
         feed_payload = {
             "version": FEED_VERSION,
             "id": pid,

@@ -3,8 +3,8 @@
   "id": "sean-parent",
   "name": "Sean Parent",
   "title": "C++ luminary",
-  "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png",
-  "updatedAt": "2026-06-08",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=6adb2f2a",
+  "updatedAt": "2026-06-09",
   "episodes": [
     {
       "guid": "Buzzsprout-17853779",
@@ -18,7 +18,9 @@
       "pub_date": "2025-09-26T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-253-sean-parent-on-ai-and-cursor/id1541407369?i=1000728551040&uo=4",
       "itunes_id": 1000728551040,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369
     },
     {
       "guid": "Buzzsprout-17853769",
@@ -32,7 +34,9 @@
       "pub_date": "2025-09-19T12:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-252-sean-parent-on-rust-and-ai/id1541407369?i=1000727502188&uo=4",
       "itunes_id": 1000727502188,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369
     },
     {
       "guid": "Buzzsprout-17829963",
@@ -46,7 +50,9 @@
       "pub_date": "2025-09-12T12:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-251-sean-parent-c-under-the-sea-keynote-preview/id1541407369?i=1000726501206&uo=4",
       "itunes_id": 1000726501206,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369
     },
     {
       "guid": "Buzzsprout-17792241",
@@ -60,7 +66,9 @@
       "pub_date": "2025-09-05T12:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-250-sean-parent-on-ai/id1541407369?i=1000725143780&uo=4",
       "itunes_id": 1000725143780,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369
     }
   ]
 }

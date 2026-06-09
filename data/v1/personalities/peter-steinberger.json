@@ -3,8 +3,8 @@
   "id": "peter-steinberger",
   "name": "Peter Steinberger",
   "title": "Founder of PSPDFKit",
-  "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png",
-  "updatedAt": "2026-06-08",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=d09d6cf7",
+  "updatedAt": "2026-06-09",
   "episodes": [
     {
       "guid": "73b3a2f273038e5ff9182f9615c426d4",
@@ -18,7 +18,9 @@
       "pub_date": "2026-05-24T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/wie-hast-du-openclaw-gebaut-und-an-openai-verkauft/id1510727410?i=1000769295890&uo=4",
       "itunes_id": 1000769295890,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/77/38/6f7738a9-e456-bf71-4dbd-920dfd1f0942/mza_6752638388253255988.jpg/600x600bb.jpg",
+      "collection_id": 1510727410
     },
     {
       "guid": "27b76a201f3d5c967be8d14ed8ef867d",
@@ -32,7 +34,9 @@
       "pub_date": "2026-05-24T01:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/er-l%C3%B6ste-den-ki-agenten-hype-aus-openclaw-gr%C3%BCnder-peter/id1056312052?i=1000769279823&uo=4",
       "itunes_id": 1000769279823,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
+      "collection_id": 1056312052
     },
     {
       "guid": "cd095758-4385-45d4-97a9-a078cf108e5f",
@@ -46,7 +50,9 @@
       "pub_date": "2026-04-21T03:25:16Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep9-%E4%B9%9D%E7%A7%92-ai-%E9%BE%8D%E8%9D%A6%E5%B0%B1%E6%8E%A5%E7%AE%A1%E4%BA%86%E4%BB%96%E7%9A%84%E9%9B%BB%E8%85%A6-ted-%E7%88%86%E7%B4%85-openclaw-peter-steinberger-%E5%B0%88%E8%A8%AA/id1888959424?i=1000762508712&uo=4",
       "itunes_id": 1000762508712,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/2d/26/032d2691-ff48-50de-7c3b-5ffe8319831b/mza_9311569610895513690.jpg/600x600bb.jpg",
+      "collection_id": 1888959424
     },
     {
       "guid": "69e064cf501ebe6715dd4fa7",
@@ -60,7 +66,9 @@
       "pub_date": "2026-04-17T15:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/how-i-created-openclaw-the-breakthrough-ai-agent/id160904630?i=1000762049792&uo=4",
       "itunes_id": 1000762049792,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+      "collection_id": 160904630
     },
     {
       "guid": "https://manuelcorpas.github.io/podcast/audio/2026-03-01-peter-steinberger-ai-agent-hack-imperial-college.mp3",
@@ -74,7 +82,9 @@
       "pub_date": "2026-03-01T12:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger-keynote-building-open-source-ai-agents/id1252419814?i=1000752313347&uo=4",
       "itunes_id": 1000752313347,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/e5/45/29e54547-63a5-0feb-6103-ec5be5d9f8bd/mza_12400467309150059788.jpg/600x600bb.jpg",
+      "collection_id": 1252419814
     },
     {
       "guid": "034cea0a-add0-4e4a-bf9c-523a61067a19",
@@ -88,7 +98,9 @@
       "pub_date": "2026-03-01T04:08:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE8%E5%89%B2%E3%81%AF%E6%B6%88%E3%81%88%E3%82%8Bapp-is-dead%E3%81%AE%E6%99%82%E4%BB%A3-openclaw%E9%96%8B%E7%99%BA%E8%80%85-peter-steinberger/id1767313170?i=1000752249927&uo=4",
       "itunes_id": 1000752249927,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/29/10/4c2910ea-0105-8d2b-e1f0-b4e4a6549326/mza_16246820895275099093.jpg/600x600bb.jpg",
+      "collection_id": 1767313170
     },
     {
       "guid": "f8b3ead5-3e09-4628-a52f-dc4249e78f2c",
@@ -102,7 +114,9 @@
       "pub_date": "2026-02-25T08:38:01Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/openclaw%E3%81%AF%E4%BD%95%E3%81%8C%E6%96%B0%E3%81%97%E3%81%84%E3%81%AE%E3%81%8B-openclaw%E9%96%8B%E7%99%BA%E8%80%85-peter-steinberger/id1767313170?i=1000751354562&uo=4",
       "itunes_id": 1000751354562,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/29/10/4c2910ea-0105-8d2b-e1f0-b4e4a6549326/mza_16246820895275099093.jpg/600x600bb.jpg",
+      "collection_id": 1767313170
     },
     {
       "guid": "5a958d2f-331f-4299-8501-0176aa2a18a4",
@@ -116,7 +130,9 @@
       "pub_date": "2026-02-21T23:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger-bei-openai-erstes-cybercab-rollt/id1644165036?i=1000750824589&uo=4",
       "itunes_id": 1000750824589,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/07/70/1e/07701ec2-3314-f2a4-df0f-8587cf3e1944/mza_12463471222994358787.jpg/600x600bb.jpg",
+      "collection_id": 1644165036
     },
     {
       "guid": "b3ad0a62-0e5e-11f1-b4f8-63cbe084f4c0",
@@ -130,7 +146,9 @@
       "pub_date": "2026-02-20T16:26:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/uneasy-money-why-peter-steinberger-and-non-crypto/id1895962226?i=1000764917704&uo=4",
       "itunes_id": 1000764917704,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/4f/90/8b4f90ec-080d-29fe-0d75-663d2e1fa423/mza_11561740799050212866.jpg/600x600bb.jpg",
+      "collection_id": 1895962226
     },
     {
       "guid": "Buzzsprout-18710870",
@@ -144,7 +162,9 @@
       "pub_date": "2026-02-19T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/openai-hires-openclaw-creator-peter-steinberger-nikita/id1617985004?i=1000750456488&uo=4",
       "itunes_id": 1000750456488,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/18/2c/43182c9a-80a2-2422-6040-ef9a6dddf43d/mza_5460273745105007424.jpg/600x600bb.jpg",
+      "collection_id": 1617985004
     },
     {
       "guid": "Buzzsprout-18705605",
@@ -158,7 +178,9 @@
       "pub_date": "2026-02-19T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/491-peter-steinberger-goes-openai-das-ende-der-software/id1491263926?i=1000750426891&uo=4",
       "itunes_id": 1000750426891,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/29/be/c029be67-39e4-321b-f2fe-dbb47f721de6/mza_16124859101518449737.jpg/600x600bb.jpg",
+      "collection_id": 1491263926
     },
     {
       "guid": "16ceb6e5-fc48-4b42-9e34-5aa9a3871d78",
@@ -172,7 +194,9 @@
       "pub_date": "2026-02-18T11:17:52Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/openais-hire-of-openclaw-creator-peter-steinberger/id1878894464?i=1000750758409&uo=4",
       "itunes_id": 1000750758409,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/0a/3a/9c0a3a15-d03e-5023-c66c-b16de9ae9e62/mza_6227877512029782127.jpg/600x600bb.jpg",
+      "collection_id": 1878894464
     },
     {
       "guid": "188ea9c4-f87f-4191-b9d1-9f76b61797d4",
@@ -186,7 +210,9 @@
       "pub_date": "2026-02-17T23:30:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/openai-holt-openclaw-erfinder-peter-steinberger-an/id1745390548?i=1000750230595&uo=4",
       "itunes_id": 1000750230595,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/11/86/ab/1186ab29-5ab6-7c27-24d9-f066fa4cbf64/mza_13036567813906108625.jpg/600x600bb.jpg",
+      "collection_id": 1745390548
     },
     {
       "guid": "aiwithkyle.podbean.com/5a987513-2560-31bd-acb8-7d09210d6abb",
@@ -200,7 +226,9 @@
       "pub_date": "2026-02-17T05:30:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/143-openai-buys-viral-openclaw-anthropic-fumbles-europe/id1825779580?i=1000750083750&uo=4",
       "itunes_id": 1000750083750,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/cf/51/5bcf519d-28b5-213d-ff73-77937cd4fd97/mza_16521470908447789342.png/600x600bb.jpg",
+      "collection_id": 1825779580
     },
     {
       "guid": "a2ec0418-a18b-4d0c-bcb5-6467a0ef5f30",
@@ -214,7 +242,9 @@
       "pub_date": "2026-02-16T16:36:21Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger-joins-openai-as-personal-agents-go/id1735389207?i=1000749998054&uo=4",
       "itunes_id": 1000749998054,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/2f/77/1f2f777d-fdad-9329-4341-6006f49a0136/mza_5604013237156455218.jpg/600x600bb.jpg",
+      "collection_id": 1735389207
     },
     {
       "guid": "3ecebdd1-87f9-4e86-ae6c-f2b685272304",
@@ -228,7 +258,9 @@
       "pub_date": "2026-02-16T13:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/openai-assume-il-pap%C3%A0-di-openclaw-peter-steinberger/id1768250980?i=1000749970229&uo=4",
       "itunes_id": 1000749970229,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/38/c8/17/38c81723-afdd-296e-86e8-f004ffc632ef/mza_3227399854291351548.jpg/600x600bb.jpg",
+      "collection_id": 1768250980
     },
     {
       "guid": "3bc7f935-c38d-5409-aa44-f58e229e3787",
@@ -242,7 +274,9 @@
       "pub_date": "2026-02-16T09:04:10Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/startup-indiana-c2i-capta-us%24-15-milh%C3%B5es-para-resolver/id1874790809?i=1000749944233&uo=4",
       "itunes_id": 1000749944233,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/47/a9/7047a978-e580-3158-2f08-0b2d8d19dcb9/mza_9770561701278398727.jpg/600x600bb.jpg",
+      "collection_id": 1874790809
     },
     {
       "guid": "84b8bb54-25e6-4020-8827-00f2de274cb9",
@@ -256,7 +290,9 @@
       "pub_date": "2026-02-15T02:52:54Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-openclaw-saga-peter-steinberger-on-self-modifying/id1785204769?i=1000749786650&uo=4",
       "itunes_id": 1000749786650,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/21/b5/5b21b5ed-a4e4-61f5-6763-39cd728bb28b/mza_8940241363465430390.jpg/600x600bb.jpg",
+      "collection_id": 1785204769
     },
     {
       "guid": "50dde8e8-1ff8-4bc3-8cbb-f6c3942a16be",
@@ -270,7 +306,9 @@
       "pub_date": "2026-02-13T15:54:05Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart7/id1811607854?i=1000749612546&uo=4",
       "itunes_id": 1000749612546,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "99f25560-b46f-42cc-8437-692599973ad3",
@@ -284,7 +322,9 @@
       "pub_date": "2026-02-13T15:51:38Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart6/id1811607854?i=1000749612484&uo=4",
       "itunes_id": 1000749612484,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "06fba805-a030-4609-9c4b-b5e8720fad2d",
@@ -298,7 +338,9 @@
       "pub_date": "2026-02-12T16:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-rise-of-the-claw-with-openclaws-peter-steinberger/id117488860?i=1000751184859&uo=4",
       "itunes_id": 1000751184859,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/2c/2f/f6/2c2ff6d4-64cc-d31f-0ca5-c4f147a9fd81/mza_12960178720465515157.jpg/600x600bb.jpg",
+      "collection_id": 117488860
     },
     {
       "guid": "7c2d6aa6-d196-4e9e-89a4-d5223d748b94",
@@ -312,7 +354,9 @@
       "pub_date": "2026-02-12T14:20:50Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart5/id1811607854?i=1000749442115&uo=4",
       "itunes_id": 1000749442115,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "a067888d-cade-45bc-9783-1be673bd9a6d",
@@ -326,7 +370,9 @@
       "pub_date": "2026-02-12T14:15:51Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart4/id1811607854?i=1000749442011&uo=4",
       "itunes_id": 1000749442011,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "8b48c7c8-7234-4409-b7d4-a42a807ffde6",
@@ -340,7 +386,9 @@
       "pub_date": "2026-02-12T14:11:21Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart3/id1811607854?i=1000749442012&uo=4",
       "itunes_id": 1000749442012,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "27ed2e5f-fd38-49d5-b64b-a05e2d4670fc",
@@ -354,7 +402,9 @@
       "pub_date": "2026-02-12T14:06:14Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart2/id1811607854?i=1000749442144&uo=4",
       "itunes_id": 1000749442144,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "053bcc8c-8d18-4ab2-a4f2-39f44bdadf95",
@@ -368,7 +418,9 @@
       "pub_date": "2026-02-12T14:04:09Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCpart1/id1811607854?i=1000749442033&uo=4",
       "itunes_id": 1000749442033,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
+      "collection_id": 1811607854
     },
     {
       "guid": "https://lexfridman.com/?p=6413",
@@ -382,7 +434,9 @@
       "pub_date": "2026-02-12T03:10:39Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/491-openclaw-the-viral-ai-agent-that-broke-the/id1434243584?i=1000749366733&uo=4",
       "itunes_id": 1000749366733,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/600x600bb.jpg",
+      "collection_id": 1434243584
     },
     {
       "guid": "e700ac980b3795dcf193ac25512784d7",
@@ -396,7 +450,9 @@
       "pub_date": "2026-02-03T23:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/eveline-steinberger-keine-lust-auf-mainstream/id1823188109?i=1000747933297&uo=4",
       "itunes_id": 1000747933297,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/ba/ed/6cbaed24-5617-7fcd-dc01-db799380bd79/mza_5170375563973838716.png/600x600bb.jpg",
+      "collection_id": 1823188109
     },
     {
       "guid": "6980babd073030367adb3a6d",
@@ -410,7 +466,9 @@
       "pub_date": "2026-02-02T14:59:04Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep40-clawdbot%E5%88%9B%E5%A7%8B%E4%BA%BApeter-steinberger%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E8%AE%BF%E8%B0%88/id1856574829?i=1000747713997&uo=4",
       "itunes_id": 1000747713997,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/00/0f/31000f9a-f407-95d9-fafc-c859957bb4e9/mza_7280137495695839080.jpg/600x600bb.jpg",
+      "collection_id": 1856574829
     },
     {
       "guid": "b4486b4c-ae1d-41fb-af47-54f29d78ffa2",
@@ -424,7 +482,9 @@
       "pub_date": "2026-02-01T14:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/how-openclaws-creator-uses-ai-to-run-his-life-in-40/id1736359687?i=1000747567276&uo=4",
       "itunes_id": 1000747567276,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/9d/62/69/9d6269d1-ec6c-4686-16c2-20a117ef266c/mza_4869623135449196254.jpg/600x600bb.jpg",
+      "collection_id": 1736359687
     },
     {
       "guid": "0ebfa18f-84d8-4de7-8cd1-ac24bd42575a",
@@ -438,7 +498,9 @@
       "pub_date": "2026-01-31T05:06:35Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80-%EB%AA%B0%ED%8A%B8%EB%B4%87-peter-steinberger%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EC%8B%9D/id1854108295?i=1000747442443&uo=4",
       "itunes_id": 1000747442443,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/95/26/bc95267c-8c04-fc15-cff5-1cefe6e08ed1/mza_11888390368139562347.jpg/600x600bb.jpg",
+      "collection_id": 1854108295
     },
     {
       "guid": "55d24925-198b-4b0a-bc31-3af3fc3d83d4",
@@ -452,7 +514,9 @@
       "pub_date": "2026-01-28T05:22:13Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/full-interview-clawdbots-peter-steinberger-makes-first/id1772360235?i=1000746965358&uo=4",
       "itunes_id": 1000746965358,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/91/db/3991db3a-72d2-a790-2676-d9a8ece72f2f/mza_9318876029142238572.jpg/600x600bb.jpg",
+      "collection_id": 1772360235
     },
     {
       "guid": "0d0f40fb-ff88-4fde-95b1-e03b8c5efd45",
@@ -466,7 +530,9 @@
       "pub_date": "2026-01-27T23:23:31Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/clawdbot-creator-peter-steinberger-joins-metas-premium/id1772360235?i=1000746931879&uo=4",
       "itunes_id": 1000746931879,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/91/db/3991db3a-72d2-a790-2676-d9a8ece72f2f/mza_9318876029142238572.jpg/600x600bb.jpg",
+      "collection_id": 1772360235
     },
     {
       "guid": "ea0d7f37-08a8-4ba5-9c66-b8e1063f3e63",
@@ -480,7 +546,9 @@
       "pub_date": "2026-01-25T00:26:56Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep-21-peter-steinberger-creator-of-clawdbot/id1896571149?i=1000770432654&uo=4",
       "itunes_id": 1000770432654,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/e3/7b/92e37bfd-1809-fa6b-57b2-0f7eaa09f5e0/mza_3783866776857493562.jpg/600x600bb.jpg",
+      "collection_id": 1896571149
     },
     {
       "guid": "19a26bde-fbb4-40ca-9099-1e5f8128ceaf",
@@ -494,7 +562,9 @@
       "pub_date": "2025-12-08T10:44:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/is-alex-karp-the-philosopher-of-silicon-valley/id708371900?i=1000740199533&uo=4",
       "itunes_id": 1000740199533,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/db/03/badb034c-8f86-e25b-fa3a-005a054909ea/mza_3838394041807074305.jpeg/600x600bb.jpg",
+      "collection_id": 708371900
     },
     {
       "guid": "ebdee360-bd79-4d80-b9fc-547f5dcfc08c",
@@ -508,7 +578,9 @@
       "pub_date": "2025-07-06T22:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/106-vibe-coding-vs-agentic-engineering-mit-peter-steinberger/id1564647339?i=1000716018122&uo=4",
       "itunes_id": 1000716018122,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/85/01/75/8501756e-de62-9496-4ec6-46dcc21c24cc/mza_15818610995032363121.jpg/600x600bb.jpg",
+      "collection_id": 1564647339
     },
     {
       "guid": "647d4cde-195d-4ad0-bd58-0334c0b204ac",
@@ -522,7 +594,9 @@
       "pub_date": "2025-06-16T03:19:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/inside-apples-ai-fail-mit-peter-steinberger/id1533084242?i=1000713032107&uo=4",
       "itunes_id": 1000713032107,
-      "added_at": "2026-06-08T22:56:43.778397Z"
+      "added_at": "2026-06-08T22:56:43.778397Z",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/e0/8c/90e08c5f-63bb-38a5-a852-0bbaa1983ea3/mza_14848729376580426752.jpg/600x600bb.jpg",
+      "collection_id": 1533084242
     }
   ]
 }
