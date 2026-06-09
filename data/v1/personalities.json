@@ -22,7 +22,7 @@
         "geoff hinton"
       ],
       "title": "Godfather of AI",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=78aebfdb",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=1707f551",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
       "episode_count": 26,
       "handle_entity_id": "geoffrey-hinton"
@@ -35,7 +35,7 @@
         "ilya"
       ],
       "title": "AI researcher",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=36c293b5",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=6c0f5908",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
       "episode_count": 22,
       "handle_entity_id": null
@@ -59,7 +59,7 @@
         "hassabis"
       ],
       "title": "DeepMind CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=0ae399b1",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=19c32a10",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
       "episode_count": 37,
       "handle_entity_id": null
@@ -72,7 +72,7 @@
         "jensen"
       ],
       "title": "NVIDIA CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=e7ef0300",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=0f28592f",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
       "episode_count": 31,
       "handle_entity_id": null
@@ -99,6 +99,19 @@
       "title": "C++ luminary",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=6adb2f2a",
       "feed_url": "https://podgod.ca/data/v1/personalities/sean-parent.json",
+      "episode_count": 4,
+      "handle_entity_id": null
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "aliases": [
+        "elon musk",
+        "elon"
+      ],
+      "title": "Tesla & SpaceX CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=89e13547",
+      "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
       "episode_count": 4,
       "handle_entity_id": null
     }

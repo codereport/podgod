@@ -1,19 +1,19 @@
 {
   "jensen-huang": {
-    "wikipedia_title": "Jensen Huang",
-    "cached": true
+    "local_photo": "scripts/photos/jensen-huang.jpg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   },
   "andrej-karpathy": {
     "local_photo": "scripts/photos/andrej-karpathy.jpeg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
   },
   "demis-hassabis": {
-    "wikipedia_title": "Demis Hassabis",
-    "cached": true
+    "local_photo": "scripts/photos/demis-hassabis.jpg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   },
   "geoffrey-hinton": {
-    "wikipedia_title": "Geoffrey Hinton",
-    "cached": true
+    "local_photo": "scripts/photos/geoffrey-hinton.avif",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   },
   "ilya-sutskever": {
     "local_photo": "scripts/photos/ilya-sutskever.jpg",
@@ -29,6 +29,10 @@
   },
   "sean-parent": {
     "local_photo": "scripts/photos/sean-parent.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "elon-musk": {
+    "local_photo": "scripts/photos/elon-musk.jpg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }

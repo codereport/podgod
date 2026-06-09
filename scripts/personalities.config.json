@@ -70,6 +70,15 @@
       "title": "C++ luminary",
       "queries": ["Sean Parent"],
       "wikimedia": "Sean Parent"
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "aliases": ["elon musk", "elon"],
+      "title": "Tesla & SpaceX CEO",
+      "queries": ["Elon Musk"],
+      "wikimedia": "Elon Musk",
+      "feed_blocklist": ["the elon musk update", "elon musk thinking", "elon musk podcast", "ihip news", "daily elon"]
     }
   ]
 }
