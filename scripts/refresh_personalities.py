@@ -92,6 +92,29 @@ def to_iso(unix_ts: Any) -> str | None:
     return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat().replace("+00:00", "Z")
 
 
+# Several Substack-hosted shows (e.g. Lenny's Podcast) are also mirrored on
+# Spreaker. iTunes sometimes returns the Spreaker mirror's enclosure, which 404s
+# once that mirror is taken down - leaving an unplayable episode. When the guid
+# tells us the canonical home is Substack (`substack:post:<id>`) and the audio is
+# such a Spreaker download URL, the shared file hash lets us rebuild the stable
+# Substack URL.
+SPREAKER_DOWNLOAD_RE = re.compile(
+    r"^https?://api\.spreaker\.com/download/episode/\d+/([A-Za-z0-9]+\.mp3)", re.I
+)
+SUBSTACK_GUID_RE = re.compile(r"substack:post:(\d+)")
+
+
+def canonicalize_audio_url(ep: dict[str, Any]) -> str | None:
+    audio = ep.get("audio_url")
+    if not audio:
+        return audio
+    guid_match = SUBSTACK_GUID_RE.match(str(ep.get("guid") or ""))
+    spreaker_match = SPREAKER_DOWNLOAD_RE.match(str(audio))
+    if guid_match and spreaker_match:
+        return f"https://api.substack.com/feed/podcast/{guid_match.group(1)}/{spreaker_match.group(1)}"
+    return audio
+
+
 def episode_key(ep: dict[str, Any]) -> str:
     """Stable dedup key: prefer guid, fall back to audio/episode URL."""
     return (
@@ -450,6 +473,11 @@ def main() -> int:
         for e in merged:
             if not e.get("podcast_artwork_url"):
                 e["podcast_artwork_url"] = e.get("artwork_url")
+            # Repair dead mirror enclosures so episodes stay playable, including
+            # ones already stored from a previous (pre-fix) run.
+            fixed_audio = canonicalize_audio_url(e)
+            if fixed_audio and fixed_audio != e.get("audio_url"):
+                e["audio_url"] = fixed_audio
 
         artwork_url = artwork_url_for(pid)
         feed_payload = {
