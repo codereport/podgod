@@ -22,5 +22,13 @@
   "boris-cherny": {
     "local_photo": "scripts/photos/boris-cherny.jpeg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "peter-steinberger": {
+    "local_photo": "scripts/photos/peter-steinberger.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "sean-parent": {
+    "local_photo": "scripts/photos/sean-parent.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }

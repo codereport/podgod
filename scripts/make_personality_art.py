@@ -29,6 +29,16 @@ import io
 import json
 import os
 import sys
+
+# Keep each worker's ML runtime single-threaded. Without this, every rembg/
+# onnxruntime session grabs one thread per CPU core; with many parallel workers
+# on a high-core machine that oversubscribes threads and crashes the pool
+# (BrokenProcessPool). Must be set before onnxruntime is imported (workers fork
+# this process, so they inherit these).
+for _var in ("OMP_NUM_THREADS", "ONNXRUNTIME_NUM_THREADS", "OPENBLAS_NUM_THREADS",
+             "MKL_NUM_THREADS", "NUMEXPR_NUM_THREADS"):
+    os.environ.setdefault(_var, "1")
+
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
@@ -311,7 +321,7 @@ def to_grayscale(img: Image.Image) -> Image.Image:
     return Image.merge("RGBA", (gray, gray, gray, alpha))
 
 
-def compose(name: str, subject: Image.Image, logo: Image.Image, grayscale: bool = True) -> Image.Image:
+def compose(name: str, subject: Image.Image, grayscale: bool = True) -> Image.Image:
     canvas = diagonal_gradient(CANVAS).convert("RGBA")
 
     subj = autocrop_alpha(subject)
@@ -341,10 +351,6 @@ def compose(name: str, subject: Image.Image, logo: Image.Image, grayscale: bool 
     dark_layer = Image.new("RGBA", (CANVAS, CANVAS), DARK + (0,))
     dark_layer.putalpha(scrim)
     canvas.alpha_composite(dark_layer)
-
-    # Logo badge (top-left).
-    badge = logo.resize((LOGO_SIZE, LOGO_SIZE), Image.LANCZOS)
-    canvas.alpha_composite(badge, (MARGIN, MARGIN))
 
     # Name, bottom-centered, auto-fit to width.
     draw = ImageDraw.Draw(canvas)
@@ -379,7 +385,7 @@ def find_local_photo(pid: str):
     """Return a hand-picked source photo at scripts/photos/<id>.<ext>, if present."""
     if not LOCAL_PHOTO_DIR.is_dir():
         return None
-    for ext in ("png", "jpg", "jpeg", "webp"):
+    for ext in ("png", "jpg", "jpeg", "webp", "avif"):
         candidate = LOCAL_PHOTO_DIR / f"{pid}.{ext}"
         if candidate.exists():
             return candidate
@@ -415,8 +421,7 @@ def process_person(person: dict[str, Any], remove_bg: bool, model: str, edge_ero
 
     try:
         subject = cutout_subject(raw, remove_bg, model, edge_erode)
-        logo = ensure_logo()
-        art = compose(name, subject, logo, grayscale)
+        art = compose(name, subject, grayscale)
         ART_DIR.mkdir(parents=True, exist_ok=True)
         out_path = ART_DIR / f"{pid}.png"
         art.save(out_path, "PNG")
@@ -427,6 +432,25 @@ def process_person(person: dict[str, Any], remove_bg: bool, model: str, edge_ero
         result["status"] = "error"
         result["error"] = str(exc)
     return result
+
+
+def auto_jobs(remove_bg: bool) -> int:
+    """Pick a worker count that won't OOM. Each rembg/birefnet worker needs
+    ~9-10GB resident, so cap by free RAM (MemAvailable). Without background
+    removal the work is light, so just use the cores (capped)."""
+    cpu = os.cpu_count() or 1
+    if not remove_bg:
+        return min(cpu, 8)
+    gb_per_worker = 12
+    headroom_gb = 8  # leave room for the base process + avoid leaning on swap
+    try:
+        with open("/proc/meminfo", encoding="utf-8") as fh:
+            avail_kb = next(int(l.split()[1]) for l in fh if l.startswith("MemAvailable"))
+        avail_gb = avail_kb // (1024 * 1024)
+        by_mem = max(1, (avail_gb - headroom_gb) // gb_per_worker)
+    except (OSError, StopIteration, ValueError):
+        by_mem = 2
+    return max(1, min(cpu, by_mem, 6))
 
 
 def main() -> int:
@@ -446,7 +470,13 @@ def main() -> int:
         default=1,
         help="Pixels to trim from the cutout edge to remove the background halo (default: 1, 0 disables).",
     )
-    parser.add_argument("--jobs", type=int, default=os.cpu_count() or 1, help="Parallel workers (default: all cores).")
+    parser.add_argument(
+        "--jobs",
+        type=int,
+        default=0,
+        help="Parallel workers. Default (0) auto-sizes from free RAM, since the "
+             "birefnet model uses ~9GB per worker and over-parallelizing OOMs.",
+    )
     args = parser.parse_args()
 
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
@@ -458,9 +488,9 @@ def main() -> int:
         print("No personalities to process.", file=sys.stderr)
         return 2
 
-    ensure_logo()  # render once up front so workers reuse the asset
     remove_bg = not args.no_bg
-    jobs = max(1, min(args.jobs, len(people)))
+    requested_jobs = args.jobs if args.jobs > 0 else auto_jobs(remove_bg)
+    jobs = max(1, min(requested_jobs, len(people)))
     print(f"Generating art for {len(people)} personality(ies) with {jobs} worker(s)...")
 
     credits: dict[str, Any] = {}

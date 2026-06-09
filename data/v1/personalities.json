@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-08",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -11,7 +11,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
-      "episode_count": 18,
+      "episode_count": 19,
       "handle_entity_id": null
     },
     {
@@ -75,6 +75,31 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
       "episode_count": 31,
+      "handle_entity_id": null
+    },
+    {
+      "id": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "aliases": [
+        "steinberger",
+        "steipete"
+      ],
+      "title": "Founder of PSPDFKit",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/peter-steinberger.json",
+      "episode_count": 37,
+      "handle_entity_id": null
+    },
+    {
+      "id": "sean-parent",
+      "name": "Sean Parent",
+      "aliases": [
+        "sean parent"
+      ],
+      "title": "C++ luminary",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png",
+      "feed_url": "https://podgod.ca/data/v1/personalities/sean-parent.json",
+      "episode_count": 4,
       "handle_entity_id": null
     }
   ]

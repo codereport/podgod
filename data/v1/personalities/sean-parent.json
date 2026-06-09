@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "id": "sean-parent",
+  "name": "Sean Parent",
+  "title": "C++ luminary",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png",
+  "updatedAt": "2026-06-08",
+  "episodes": [
+    {
+      "guid": "Buzzsprout-17853779",
+      "title": "Episode 253: Sean Parent on AI and Cursor",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce chat with Sean Parent about AI and Cursor!\nLink to Episode 253 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-08-21\nDate Released: 2025-09-26\nC++ Under the SeaBetter codeAdobe ASL Adam & Eve ArchitectureAdobe Software Technology LabASL LibrariesRust Programming LanguageIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/17853779-episode-253-sean-parent-on-ai-and-cursor.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "duration": 1520,
+      "pub_date": "2025-09-26T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-253-sean-parent-on-ai-and-cursor/id1541407369?i=1000728551040&uo=4",
+      "itunes_id": 1000728551040,
+      "added_at": "2026-06-08T22:56:43.778397Z"
+    },
+    {
+      "guid": "Buzzsprout-17853769",
+      "title": "Episode 252: Sean Parent on Rust and AI",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce chat with Sean Parent about Rust and AI!\nLink to Episode 252 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-08-21\nDate Released: 2025-09-19\nC++ Under the SeaBetter codeAdobe ASL Adam & Eve ArchitectureAdobe Software Technology LabASL LibrariesRust Programming LanguageIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/17853769-episode-252-sean-parent-on-rust-and-ai.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "duration": 1482,
+      "pub_date": "2025-09-19T12:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-252-sean-parent-on-rust-and-ai/id1541407369?i=1000727502188&uo=4",
+      "itunes_id": 1000727502188,
+      "added_at": "2026-06-08T22:56:43.778397Z"
+    },
+    {
+      "guid": "Buzzsprout-17829963",
+      "title": "Episode 251: Sean Parent C++ Under the Sea Keynote Preview",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce interview Sean Parent about his upcoming keynote at C++ Under the Sea!\nLink to Episode 251 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-08-21\nDate Released: 2025-09-12\nC++ Under the SeaAre We There Yet? - The Future of C++ Software Development - Sean Parent - C++Now 2025A Possible Future of Software Development - Sean Parent - Google Tech Talk 2008Sean Parent Zurich C++ Meetupcareers.adobe.comIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/17829963-episode-251-sean-parent-c-under-the-sea-keynote-preview.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "duration": 1302,
+      "pub_date": "2025-09-12T12:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-251-sean-parent-c-under-the-sea-keynote-preview/id1541407369?i=1000726501206&uo=4",
+      "itunes_id": 1000726501206,
+      "added_at": "2026-06-08T22:56:43.778397Z"
+    },
+    {
+      "guid": "Buzzsprout-17792241",
+      "title": "Episode 250: Sean Parent on AI",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce interview Sean Parent about his thoughts on AI, its impact on the software industry and society, and more!\nLink to Episode 250 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-08-21\nDate Released: 2025-09-05\nSnowcrash by Neal StephensonTech LayoffslumeWall-EAltered CarbonTerminatorIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/17792241-episode-250-sean-parent-on-ai.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "duration": 2002,
+      "pub_date": "2025-09-05T12:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-250-sean-parent-on-ai/id1541407369?i=1000725143780&uo=4",
+      "itunes_id": 1000725143780,
+      "added_at": "2026-06-08T22:56:43.778397Z"
+    }
+  ]
+}

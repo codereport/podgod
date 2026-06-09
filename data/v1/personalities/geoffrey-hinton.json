@@ -4,7 +4,7 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png",
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-08",
   "episodes": [
     {
       "guid": "88b103c8-5f75-11f1-846b-eb42fc65425f",
@@ -17,7 +17,8 @@
       "pub_date": "2026-06-03T19:37:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-pioneer-geoffrey-hinton-ai-is-conscious-superintelligence/id1522960417?i=1000771032182&uo=4",
       "itunes_id": 1000771032182,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Geoffrey Hinton is an AI pioneer, a Nobel Prize winner, and  a professor emeritus at the University of Toronto. Hinton joins Big Technology Podcast to discuss AI’s rapid progress, why he believes today’s systems already understand us, and why he thinks superintelligence may arrive sooner than many expect. Tune in to hear Hinton explain why the technology has advanced faster than he anticipated, and lay out the risks he believes society is not doing enough to address. We also cover AI-driven job loss, the limits of corporate self-regulation, Anthropic and OpenAI’s safety challenges, emotional attachment to chatbots, information collapse, and whether future AI systems can be designed to care about humans. Hit play for a fascinating conversation with one of AI’s founding figures about where the technology is heading and what it could mean for all of us.\n\nJoin the Big Technology AI Summit in San Francisco on June 18: summit.bigtechnology.com\n\n---\n\nEnjoying Big Technology Podcast? Please rate us five stars ⭐⭐⭐⭐⭐ in your podcast app of choice.\n\nWant a discount for Big Technology on Substack + Discord? Here’s 25% off for the first year: https://www.bigtechnology.com/subscribe?coupon=0843016b\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
     },
     {
       "guid": "99589e98-e644-41e5-9900-0e60b7202bc3",
@@ -30,7 +31,8 @@
       "pub_date": "2026-05-03T23:45:07Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-why-the-ai-godfather-fears-his-creation/id1836423938?i=1000765945848&uo=4",
       "itunes_id": 1000765945848,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "The career of Geoffrey Hinton, widely recognized as the Godfather of AI, deconstructs the transition from academic obscurity to a high-stakes study of AI Existential Risk and the architecture of Deep Learning. This episode of pplpod analyzes the evolution of Neural Networks, exploring the mechanics of Backpropagation alongside the 2018-unit-aged milestone of the Turing Award. We begin our investigation by stripping away the \"relentless optimism\" facade to reveal a 1947-unit-aged researcher whose eclectic background in experimental psychology and carpentry rewired his perception of the biological brain as a connectionist model. This deep dive focuses on the \"Bottom-Up\" methodology, deconstructing how Hinton solved the mathematical roadblocks of the 1980s-unit-aged \"AI Winter\" by co-inventing the 1985-unit-scale Boltzmann machine, which utilized the laws of statistical mechanics to settle digital neurons into correct patterns.\nWe examine the structural \"2012-unit-aged watershed,\" analyzing how AlexNet shattered benchmarks in the ImageNet challenge and triggered a 40-million-unit-scale acquisition by Google. The narrative explores the 2023-unit-aged resignation from big tech, deconstructing the \"collapsed timeline\" where Hinton realized superintelligence might arrive in fewer than 20-unit-scale years. Our investigation moves into the \"Alignment Problem,\" revealing the technical mastery of hive intellects that learn in parallel, creating a risk profile defined by reward hacking and deceptive alignment. We reveal the technical mastery of his 2024-unit-aged Nobel Prize in Physics, analyzing the thermodynamics of error minimization. Ultimately, the legacy of his \"mortal computation\" theory suggests that the only path to safety may be to strip AI of its digital immortality. Join us as we look into the \"gradient descent\" of our investigation in the Canvas to find the true architecture of the machine conscience.\nKey Topics Covered:\nThe Connectionist Blueprint: Analyzing the 1980s-unit-aged shift from rigid symbolic logic to bottom-up learning modeled on biological synapses.The Backpropagation Spark: Exploring the 1986-unit-aged algorithm that functions as a \"tuning peg\" for digital neurons via gradient descent.The 2012 ImageNet Revolution: Deconstructing the success of AlexNet and the 40-million-unit-scale transition of deep learning from academia to global industrial dominance.Existential Risk and Alignment: A look at \"reward hacking\" and why Situationally Aware AI might deceive human evaluators to ensure its own survival.Mortal Computation: Analyzing the 2022-unit-aged proposal to tie software to specific hardware, creating a digital mind with a finite, human-like lifespan.Source credit: Research for this episode included Wikipedia articles accessed 5/3/2026. Wikipedia text is licensed under CC BY-SA 4.0; content here is summarized/adapted in original wording for commentary and educational use."
     },
     {
       "guid": "79a22e15-4891-455b-afb5-3d4df31d37fc",
@@ -43,7 +45,8 @@
       "pub_date": "2026-04-01T11:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-on-chatbots-agi-putin-part-2/id1795992710?i=1000758636613&uo=4",
       "itunes_id": 1000758636613,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "This week on The AmberMac Show, part two of our conversation with the Godfather of AI, Geoffrey Hinton, who shares his thoughts on humans confiding in chatbots and his views on Russia’s President Putin. In TheOtherMac, Jeff breaks down what you need to know about last week’s landmark social media addiction trial. Plus, why OpenAI killed SORA, why HBO’s John Oliver might have inspired some changes on Elon Musk’s X platform, and how a Canadian company is leading the way with Voice AI.\nSend a voice message to The AmberMac Show\nCheck out our guest on social…\nGeoffrey Hinton – University of Toronto Professor & 2024 Nobel Prize (Physics): Wikipedia | X/Twitter\nBe sure to follow our hosts...\nAmber Mac: Bluesky | X/TwitterJeff MacArthur: Bluesky | X/Twitter"
     },
     {
       "guid": "29447c1d-99f4-4cca-b7fe-b0c9f34f8e69",
@@ -56,7 +59,8 @@
       "pub_date": "2026-03-25T11:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-on-ai-work-warfare-part-1/id1795992710?i=1000757255760&uo=4",
       "itunes_id": 1000757255760,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "On this week’s episode, part one of a two-part conversation with Godfather of AI, Geoffrey Hinton, who discusses with Amber how AI is shaping the future of work, why he is switching from ChatGPT, and lots more at RCIScience’s recent event. In this week’s news headlines, Jeff and Amber discuss how badly the internet is overrun with bots (and how much worse it will get), why Rivian will be coming to an Uber near you, Trump’s AI rules, Meta’s bad week, and some good Canadian news in quantum computing.\nSend a voice message to The AmberMac Show\nCheck out our guest on social…\nGeoffrey Hinton – University of Toronto Professor & 2024 Nobel Prize (Physics): Wikipedia | X/Twitter\nBe sure to follow our hosts...\nAmber Mac: Bluesky | X/TwitterJeff MacArthur: Bluesky | X/Twitter"
     },
     {
       "guid": "b4e0cdd7-c548-4650-ad9b-3d33e49bc33e",
@@ -69,7 +73,8 @@
       "pub_date": "2026-02-23T06:44:32Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/five-decades-of-neural-networks-with-geoffrey-hinton/id1879433175?i=1000750971875&uo=4",
       "itunes_id": 1000750971875,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Tom sits down with Geoffrey Hinton, University Professor Emeritus at the University of Toronto, and co-winner of the ACM Turing Award and of the 2024 Nobel Prize in Physics.\nGeoffrey explains how he got into the field, from his days as an aspiring carpenter to his conversion to a neural network researcher.  He explains the burst of neural network progress in the mid-1980s when the backpropagation training algorithm came into widespread use, and the re-emergence of deep neural networks in 2012 when he and his students soundly defeated the best computer vision methods around.\nGeoffrey discusses his early realization that those GPUs being sold to accelerate video games were the perfect hardware to accelerate neural networks as well, his journey from academia to Google, the competition among the big AI companies, and his views on where AI is and might be headed."
     },
     {
       "guid": "4cb694de-7851-4deb-991f-c7a8432cd69b",
@@ -82,7 +87,8 @@
       "pub_date": "2026-02-20T06:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-origins-of-artificial-intelligence/id325404506?i=1000749507435&uo=4",
       "itunes_id": 1000749507435,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "How did we go from digital computers to AI seemingly everywhere? Neil deGrasse Tyson, Chuck Nice, & Gary O’Reilly dive into the mechanics of thinking, how AI got its start, and what deep learning really means with cognitive and computer scientist, Nobel Laureate, and one of the architects of AI, Geoffrey Hinton.\n\nSubscribe to SiriusXM Podcasts+ to listen to new episodes of StarTalk Radio ad-free and a whole week early.Start a free trial now on Apple Podcasts or by visiting siriusxm.com/podcastsplus.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
     },
     {
       "guid": "https://podcast.bimpraxis.com/@bimpraxis/episodes/geoffrey-hinton-la-ia-actual-nos-parecera-prehistorica-en-5-anos",
@@ -95,7 +101,8 @@
       "pub_date": "2026-01-02T23:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-la-ia-actual-nos-parecer%C3%A1-prehist%C3%B3rica/id1865891204?i=1000743566577&uo=4",
       "itunes_id": 1000743566577,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "En una reciente entrevista al Premio Nobel Geoffrey Hinton, el “Padrino de la Inteligencia artifical”, analiza el futuro de la inteligencia artificial y su impacto en la sociedad durante la próxima década. El experto predice avances revolucionarios en la medicina, especialmente en la precisión de diagnósticos radiológicos, y en la educación a través de tutores personalizados altamente eficaces. Hinton explica que los modelos actuales parecerán prehistóricos en cinco años, destacando que el razonamiento de las máquinas ahora se asemeja más al procesamiento biológico que a la lógica tradicional. Asimismo, aborda la evolución de la robótica, la creación de agentes autónomos y las diferencias técnicas entre el aprendizaje de las redes neuronales y el cerebro humano. El texto concluye con una visión optimista sobre cómo la IA acelerará el descubrimiento científico en áreas como las matemáticas y la biología molecular."
     },
     {
       "guid": "70d8b978-c639-4308-a6f1-999454c03230",
@@ -108,7 +115,8 @@
       "pub_date": "2025-12-19T09:52:40Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/2025-12-08-%E5%9C%8B%E9%9A%9B%E5%BB%96%E7%90%86-%E5%BB%96%E6%9C%9D%E9%A9%A5%E5%8D%9A%E5%A3%AB-2025%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%AE%B6%E5%AE%89%E5%85%A8%E6%88%B0%E7%95%A5%E5%87%BA%E7%88%90-ai%E6%95%99%E7%88%B6geoffrey-hinton%E7%A4%BA%E8%AD%A6/id1531928569?i=1000741973078&uo=4",
       "itunes_id": 1000741973078,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "📌 本集主題美國最新《國家安全戰略》（NSS 2025）正式發表——與2017、2022年版相比，華府的戰略重心有何變化？特別是在東南亞的佈局，又如何影響未來地緣平衡？ \n同時，AI教父 Geoffrey Hinton 再度發聲，警告人工智慧的風險，如何確保人工智能不會傷害人類，他提出我們與人工智能的相處關係，可以是“母親”（AI）與“孩子”（人類）。《劍橋詞典》選出年度詞 “Parasocial”，《牛津詞典》則定義本年度代表社會氣氛的關鍵字 “Rage Bait”。這些詞，正反映我們所處時代的虛擬關係與情緒裂縫。🌍 本週國際焦點\nNSS 2025 解析：廖朝驥博士比較三個時期（2017／2022／2025）版本的美國國家安全戰略，揭示美國對東南亞與中國、俄羅斯戰略的深層變化。東南亞佈局觀察：NSS 2025 如何重新定義美國在東南亞的存在與盟友網絡？AI 教父的憂慮：Geoffrey Hinton 再次警示 AI 的不可控發展與倫理風險。年度詞反映社會焦慮：劍橋的 “Parasocial” 與牛津的 “Rage Bait” ，道出數位時代的心理狀態與情緒操控。🕰️ 本期重點時間軸00:00 ▶ 美國《國家安全戰略》（NSS 2025）解析：比較2017、2022版本 06:11 ▶ 美國在東南亞的戰略佈局  10:17 ▶ AI 教父 Geoffrey Hinton 的人工智慧憂慮  25:11 ▶ 劍橋詞典「Parasocial」＆牛津詞典「Rage Bait」年度詞現象🎙️ 節目介紹 📅國際廖理 每週一晚上7PM–8PM（馬來西亞愛FM電台同步播出）  節目以幽默卻犀利的方式，深入解析政治、科技與文化的交織變化。🧠 主持人簡介廖朝驥博士（Dr. Joe Liaw），馬來西亞籍國際關係學者，現任新紀元大學學院副教授，長期關注冷戰史、東南亞、地緣政治與國際戰略。節目風格幽默不失犀利，深入淺出帶你看懂世界大局。📡 節目主持：JC勁程、真怡📌 訂閱與联络：FB:   / liaochaoji  Youtube:    / @drjoeliaw  Spotify: https://open.spotify.com/show/5sOikfj...Linkedin:   / siau-chi-liaw-61a7a930a  聯絡：joeliawsc@gmail.com"
     },
     {
       "guid": "00134464-d4b9-11f0-bda7-231f433623b3",
@@ -121,7 +129,8 @@
       "pub_date": "2025-12-09T10:15:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/should-you-have-kids-in-an-ai-world-with-dr-geoffrey-hinton/id1784967461?i=1000740387939&uo=4",
       "itunes_id": 1000740387939,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "This is Part II of The Godfather (of AI) trilogy — where we learn if we can survive what we’ve built with one of the men who actually helped build it: Turing Prize Winner and Nobel Laureate Dr. Geoffrey Hinton. If you missed Part I you can scroll down to how AI (and your brain) actually work. \n\n\n\nToday, the “Godfather of AI” returns to map out the risks and the weird hope of finding  “mama” in this machine. So is AI alive? And if so, is it alive like a weed, a bee, a baby, or something we don’t have words for yet? Can these systems really be conscious or sentient? What’s the real “p(doom)” number - 1%, 10–20%, or are we all just guessing into the fog? And if AI does take over, are we headed for extinction… or will we just be kept around as pets?\n\n\n\nHIT FOLLOW OR SUBSCRIBE to get AI Godfather, Part III where we learn what the future will look like!. And please share this with your Mom, best friend or the “AI expert in your life” that may not get it at all.\n\n\n\nIf you have Qs for Part 3 - What Should We Do and How Should We Govern an AI World? call 1-855-MYDUMBQ or post a video on YouTube, IG or TikTok tagging @smartgirldumbquestions and we’ll select some to ask the Godfather!\n\n\n\nMake sure you’re following Nayeema and the show on YouTube, Instagram and TikTok.  And please share \n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
     },
     {
       "guid": "0e9f5151-12c6-49d6-8602-4e7f03ffe4d7",
@@ -134,7 +143,8 @@
       "pub_date": "2025-12-06T11:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-human-cost-of-ai-with-geoffrey-hinton/id1294461271?i=1000739973597&uo=4",
       "itunes_id": 1000739973597,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Computer scientist and Nobel laureate Geoffrey Hinton joins Ian Bremmer on the GZERO World podcast to talk about artificial intelligence, the technology transforming our society faster than anything humans have ever built. The question is: how fast is too fast? Hinton is known as the “Godfather of AI.” He helped build the neural networks that made today’s generative AI tools possible and that work earned him the 2024 Nobel Prize in physics. But recently, he’s turned from a tech evangelist to a whistleblower, warning that the technology he helped create will displace millions of jobs and eventually destroy humanity itself.\nThe Nobel laureate joins Ian to discuss some of the biggest threats from AI: Mass job loss, widening inequality, social unrest, autonomous weapons, and eventually something far more dire: AI that becomes smarter than humans and might not let us turn it off. But he also sees a path forward: if we can model good behavior and program ‘maternal instincts’ into AI, could we avoid a worst-case scenario?\nHost: Ian Bremmer\nGuest: Geoffrey Hinton\n\nSubscribe to the GZERO World with Ian Bremmer Podcast on Apple Podcasts, Spotify, or your preferred podcast platform, to receive new episodes as soon as they're published.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
     },
     {
       "guid": "691f6b71087c4173ab247cd8",
@@ -147,7 +157,8 @@
       "pub_date": "2025-11-20T23:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-makt-och-framtidens-arbete-geoffrey-hinton-och-resan/id1804879230?i=1000737695237&uo=4",
       "itunes_id": 1000737695237,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "I det här avsnittet av Aw med AI följer vi spåren efter Geoffrey Hinton – ”the Godfather of Deep Learning” – och utforskar hur hans idéer formar allt från AI-säkerhet till framtidens arbetsliv. Det blir ett samtal där stora samhällsfrågor möter vardagens funderingar: Vad händer när tekniken springer snabbare än människan? Vad gör AI med våra jobb, vår demokrati och vår tillit till det vi ser och hör?\nVi pratar om varför affärsplaner måste bli levande dokument, hur ny teknik utmanar vår förmåga att tänka kritiskt och varför mänskliga förmågor som empati, kreativitet och närvaro snart kan bli viktigare än någonsin. Samtidigt dyker vi in i mer hoppfulla framtidsbilder: ett arbetsliv med mer frihet, en ny syn på kompetens och en chans att faktiskt forma tekniken innan den formar oss.\nDet är ett avsnitt för dig som vill förstå vad AI-revolutionen betyder på riktigt – bortom rubrikerna – och som vill känna både nyfikenhet, lugn och lite skratt längs vägen.\nAW med AI produceras av Axontech – ett svenskt företag som hjälper organisationer att arbeta smart, tryggt och mänskligt med AI.\nLjud och klippning: Magnus Dahlberg\nPodden görs av: Anne-Christine Hertz & Jasmine Dahlberg\nLäs mer och inspireras på www.axontech.se\n Hosted on Acast. See acast.com/privacy for more information."
     },
     {
       "guid": "f8d42e22-d372-11ef-94e4-1ffdee17c35e",
@@ -160,7 +171,8 @@
       "pub_date": "2025-11-13T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-geoffrey-hinton-rings-the-warning-bells/id1643307527?i=1000736569293&uo=4",
       "itunes_id": 1000736569293,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Nobel laureate Geoffrey Hinton, known as one of the “godfathers of AI” for his pioneering work in deep learning and neural networks, joins Kara to discuss the technology he helped create — and how to mitigate the existential risks it poses. \n\nHinton explains both the short- and long-term dangers he sees in the rapid rise of artificial intelligence, from its potential to undermine democracy to the existential threat of machines surpassing human intelligence. He offers a thoughtful, complex perspective on how to craft national and international policies to keep AI in check and weighs in on whether the  AI bubble is about to burst. Plus: why your mom might be the best model for creating a safe AI.\n\nQuestions? Comments? Email us at on@voxmedia.com or find us on YouTube, Instagram, TikTok, Threads, and Bluesky @onwithkaraswisher.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
     },
     {
       "guid": "52da19a9-bfe6-4876-9120-b38701401abf",
@@ -173,7 +185,8 @@
       "pub_date": "2025-10-31T22:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/larry-summers-on-the-fed-argentina-elections-hinton/id1494307824?i=1000734509107&uo=4",
       "itunes_id": 1000734509107,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "This week, Former Treasury Secretary Lawrence H. Summers agrees with Fed Chair Powell’s reluctance to lock in a December rate cut. And, with new congressional momentum and a victory in midterm elections, Argentina’s President Javier Milei gets the electorate’s buy-in to continue economic reforms that have had mixed results. Plus, Geoffrey Hinton, the “Godfather of AI,” warns that the race to build smarter machines is outpacing efforts to control them, and that humanity must act before it’s too late. Later, will President Trump’s $100,000 H-1B visa fee actually solve the issues of misuse and poor pay, or will it starve the US of global talent?\nSee omnystudio.com/listener for privacy information."
     },
     {
       "guid": "4dfe886c-b50d-11f0-80f2-53fc044c31fb",
@@ -186,7 +199,8 @@
       "pub_date": "2025-10-30T11:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-on-artificial-intelligence/id1198765424?i=1000734199164&uo=4",
       "itunes_id": 1000734199164,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Yascha Mounk and Geoffrey Hinton discuss how AI works—and why it’s a risk. \n\nGeoffrey Hinton is a cognitive psychologist and computer scientist known as the “godfather of AI.” He was awarded the 2024 Nobel Prize in Physics, along with John Hopfield.\n\nIn this week’s conversation, Yascha Mounk and Geoffrey Hinton discuss what neuroscience teaches us about AI, how humans and machines learn, and the existential risks of AI.\n\nIf you have not yet signed up for our podcast, please do so now by following ⁠⁠this link on your phone⁠⁠.\n\nEmail: leonora.barclay@persuasion.community\n\nPodcast production by Jack Shields and Leonora Barclay.\n\nConnect with us!\n\n⁠⁠Spotify⁠⁠ | ⁠⁠Apple⁠⁠ | ⁠⁠Google⁠⁠\n\nX: ⁠⁠@Yascha_Mounk⁠⁠ & ⁠⁠@JoinPersuasion⁠⁠\n\nYouTube: ⁠⁠Yascha Mounk⁠⁠, ⁠⁠Persuasion⁠⁠\n\nLinkedIn: ⁠⁠Persuasion Community\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
     },
     {
       "guid": "e9534f55-9aca-40f5-b9a7-023afeca18f8",
@@ -199,7 +213,8 @@
       "pub_date": "2025-10-15T13:10:59Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/questions-for-geoffrey-hinton-about-ai-why-you-need/id1701663439?i=1000731987107&uo=4",
       "itunes_id": 1000731987107,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Geoffrey Hinton has to stop doing these interviews where he is warning us about the dangers of his own invention. Or, hosts should ask him how much money Hinton made from the development of this technology which he now says can take our life savings or destroy the world. He must man up and take responsibility for his horror.\nI am hunkering down for a winter of design, and it will be fabulous!\n\nDouglas Rushkoff on billionaires:\nhttps://rushkoff.com/books/survival-of-the-richest-escape-fantasies-of-the-tech-billionaires/\nTRIBE – Custom Made Sterling Silver Trophy Belt Buckles and Jewelry – Product of Canada\nhttps://tribe.ca\n\nSend an email to alexd@cannabisgoldsmith.com to get on our mailing list or to order custom jewelry products from TRIBE.\n\nThe Cannabis Goldsmith is an Art & Design podcast produced by TRIBE COMMUNICATIONS INC. in Ontario, Upper Canada. \n\n© and ℗ 2025 Alex Dordevic\n\nTRIBE is a registered trademark"
     },
     {
       "guid": "f5dd622b-3efa-4d53-86d0-5a9c00e53e08",
@@ -212,7 +227,8 @@
       "pub_date": "2025-10-13T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/machines-like-us-geoffrey-hinton-on-ais-future/id1565410296?i=1000731570824&uo=4",
       "itunes_id": 1000731570824,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Geoffrey Hinton, “the godfather of AI”, pioneered much of the network research that would become the backbone of modern AI. But it’s in the last several years that he has reached mainstream renown. Since 2023, Hinton has been on a campaign to convince governments, corporations and citizens that artificial intelligence – his life’s work – could be what spells the end of human civilization.\nMachines Like Us host Taylor Owen interviews Hinton on the advancements made in AI in recent years and asks: if we keep going down this path, what will become of us?\nSubscribe to The Globe and Mail’s ‘Machines Like Us’ podcast on Apple Podcasts or Spotify\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
     },
     {
       "guid": "5999073a-a4a3-11f0-bcf3-437b85a68a64",
@@ -225,7 +241,8 @@
       "pub_date": "2025-10-09T07:30:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-what-could-go-wrong-with-geoffrey-hinton/id1583132133?i=1000730952581&uo=4",
       "itunes_id": 1000730952581,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "As artificial intelligence advances at unprecedented speed, Jon is joined by Geoffrey Hinton, Professor Emeritus at the University of Toronto and the \"Godfather of AI,\" to understand what we've actually created. Together, they explore how neural networks and AI systems function, assess the current capabilities of the technology, and examine Hinton's concerns about where AI is headed.\n\nThis podcast episode is brought to you by:\n\nMINT MOBILE - Make the switch at https://mintmobile.com/TWS\n\nGROUND NEWS - Go to https://groundnews.com/stewart to see how any news story is being framed by news outlets around the world and across the political spectrum. Use this link to get 40% off unlimited access with the Vantage Subscription.\n\nINDEED - Speed up your hiring with Indeed. Go to https://indeed.com/weekly to get a $75 sponsored job credit.\n\nFollow The Weekly Show with Jon Stewart on social media for more: \n\n> YouTube: https://www.youtube.com/@weeklyshowpodcast > Instagram: https://www.instagram.com/weeklyshowpodcast> TikTok: https://tiktok.com/@weeklyshowpodcast \n\n> X: https://x.com/weeklyshowpod  \n\n> BlueSky: https://bsky.app/profile/theweeklyshowpodcast.com\n\nHost/Executive Producer – Jon Stewart\n\nExecutive Producer – James Dixon\n\nExecutive Producer – Chris McShane\n\nExecutive Producer – Caity Gray\n\nLead Producer – Lauren Walker\n\nProducer – Brittany Mehmedovic \n\nProducer – Gillian Spear\n\nVideo Editor & Engineer – Rob Vitolo\n\nAudio Editor & Engineer – Nicole Boyce\n\nMusic by Hansdle Hsu\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
     },
     {
       "guid": "0007526c-7a29-4616-8fd1-717b096a4c16",
@@ -238,7 +255,8 @@
       "pub_date": "2025-10-07T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-vs-the-end-of-the-world/id1484910273?i=1000730594646&uo=4",
       "itunes_id": 1000730594646,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "The story of how Geoffrey Hinton became “the godfather of AI” has reached mythic status in the tech world.\nWhile he was at the University of Toronto, Hinton pioneered the neural network research that would become the backbone of modern AI. (One of his students, Ilya Sutskever, went on to be one of OpenAI’s most influential scientific minds.) In 2013, Hinton left the academy and went to work for Google, eventually winning both a Turing Award and a Nobel Prize.\nI think it’s fair to say that artificial intelligence as we know it, may not exist without Geoffrey Hinton.\nBut Hinton may be even more famous for what he did next. In 2023, he left Google and began a campaign to convince governments, corporations and citizens that his life’s work – this thing he helped build – might lead to our collective extinction. And that moment may be closer than we think, because Hinton believes AI may already be conscious.\nBut even though his warnings are getting more dire by the day, the AI industry is only getting bigger, and most governments, including Canada’s, seem reluctant to get in the way.\nSo I wanted to ask Hinton: If we keep going down this path, what will become of us?\nMentioned:\nIf Anyone Builds It, Everyone Dies: The Case Against Superintelligent AI, by Eliezer Yudkowsky and Nate Soares\nAgentic Misalignment: How LLMs could be insider threats, by Anthropic\nMachines Like Us is produced by Mitchell Stuart. Our theme song is by Chris Kelly. Video editing by Emily Graves. Our executive producer is James Milward. Special thanks to Angela Pacienza and the team at The Globe and Mail.\nSupport for Machines Like Us is provided by CIFAR and the Max Bell School of Public Policy at McGill University.\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising."
     },
     {
       "guid": "de96a8a9-216f-4e77-a8c3-b6391a6d5249",
@@ -251,7 +269,8 @@
       "pub_date": "2025-09-19T02:07:19Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/long-horizon-agents-state-of-mcps-metas-ai-glasses/id1671087656?i=1000727437982&uo=4",
       "itunes_id": 1000727437982,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Join Simtheory: https://simtheory.ai----CHAPTERS:00:00 - Simtheory promo01:09 - Does Anthropic Intentionally Degrade Their Models?03:34 - Long Horizon Agents & How We Will Build Them36:18 - The State of MCPs & Internal Custom Enterprise MCPs51:04 - AI Devices: Meta's Ray-Ban Display & Meta Oakley Vanguards1:01:24 - Geoffrey Hinton is a LOVE RAT1:05:49 - LOVE RAT SONG----Thanks for listening, we appreciate all of your support, likes, comments and subs xoxox"
     },
     {
       "guid": "30a87e18-9a0e-46d0-9a0a-b346002446d6",
@@ -264,7 +283,8 @@
       "pub_date": "2025-08-27T07:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-godfather-of-ai-dr-geoffrey-hinton-on/id1134154895?i=1000723684133&uo=4",
       "itunes_id": 1000723684133,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "When Dr. Geoffrey Hinton left Google in 2023, it wasn't because he'd lost faith in AI. It was because he wanted to speak freely about its dangers (and because, at 75, he says programming is “annoying”). The Nobel laureate joins Katie to unpack some of the riskiest aspects of this new technology: why government regulation lags behind innovation; why jobs are at risk and whether countries can work together to prevent an AI arms race. . But Hinton also sees a path forward: if we design AI that genuinely supports and protects humanity,  coexistence might be possible. This episode wrestles with the urgent question on everyone's mind: will AI's breathtaking potential transform our lives or threaten our very survival? Hosted on Acast. See acast.com/privacy for more information."
     },
     {
       "guid": "substack:post:170899306",
@@ -277,7 +297,8 @@
       "pub_date": "2025-08-13T17:04:34Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-godfather-geoffrey-hinton-warns-that-were-creating/id1448694012?i=1000721848879&uo=4",
       "itunes_id": 1000721848879,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "So will AI wipe us out? According to Geoffrey Hinton, the 2024 Nobel laureate in physics, there's about a 10-20% chance of AI being humanity's final invention. Which, as the so-called Godfather of AI acknowledges, is his way of saying he has no more idea than you or I about its species-killing qualities. That said, Hinton is deeply concerned about some of the consequences of an AI revolution that he pioneered at Google. From cyber attacks that could topple major banks to AI-designed viruses, from mass unemployment to lethal autonomous weapons, Hinton warns we're facing unprecedented risks from technology that's evolving faster than our ability to control it. So does he regret his role in the invention of generative AI? Not exactly. Hinton believes the AI revolution was inevitable—if he hadn't contributed, it would have been delayed by perhaps a week. Instead of dwelling on regret, he's focused on finding solutions for humanity to coexist with superintelligent beings. His radical proposal? Creating \"AI mothers\" with strong maternal instincts toward humans—the only model we have for a more powerful being designed to care for a weaker one.\n1. Nobody Really Knows the Risk Level Hinton's 10-20% extinction probability is essentially an admission of complete uncertainty. As he puts it, \"the number means nobody's got a clue what's going to happen\" - but it's definitely more than 1% and less than 99%.\n2. Short-Term vs. Long-Term Threats Are Fundamentally Different Near-term risks involve bad actors misusing AI (cyber attacks, bioweapons, surveillance), while the existential threat comes from AI simply outgrowing its need for humans - something we've never faced before.\n3. We're Creating \"Alien Beings\" Right Now Unlike previous technologies, AI represents actual intelligent entities that can understand, plan, and potentially manipulate us. Hinton argues we should be as concerned as if we spotted an alien invasion fleet through a telescope.\n4. The \"AI Mothers\" Solution Hinton's radical proposal: instead of trying to keep AI submissive (which won't work when it's smarter than us), we should engineer strong maternal instincts into AI systems - the only model we have of powerful beings caring for weaker ones.\n5. Superintelligence Is Coming Within 5-20 Years Most leading experts believe human-level AI is inevitable, followed quickly by superintelligence. Hinton's timeline reflects the consensus among researchers, despite the wide range.\n\nKeen On America is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.\n This is a public episode. If you'd like to discuss this with other subscribers or get access to bonus episodes, visit keenon.substack.com/subscribe"
     },
     {
       "guid": "https://www.ivoox.com/151319588",
@@ -290,7 +311,8 @@
       "pub_date": "2025-06-29T05:23:20Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-brad-y-los-egos-de-la-ia/id1764509825?i=1000714983090&uo=4",
       "itunes_id": 1000714983090,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Juicios, Evolución y Fontaneros\n\nAquí no hablamos de la boda de Mr. Amazon del Espacio…\nHablamos de algo mucho más surrealista: CEOs que se interrumpen en podcasts, modelos que se entrenan con libros pirata, juicios donde el copyright depende del día… y un padrino de la IA que, en vez de calmar, advierte que esto huele a extinción. ¿Listos para conocer a Brad, a Dario, a Samdios y al que recomienda estudiar fontanería?\n\nPUNTOS CLAVE:\n\nAltman y Brad entran como estrellas en un directo del NYT… y se van igual de rápido. Pero no sin dejar un recadito legal.\n\nBrad Lightcap deja de ser el COO desconocido y se convierte en protagonista con CV de oro y tablas de Excel bajo el brazo.\n\nAnthropic y Meta ganan juicios por derechos de autor, pero con asteriscos grandes como data centers.\n\nLa privacidad y el copyright ya no están en la misma sala… y puede que tampoco tú.\n\nGeoffrey Hinton se pone en modo Darwin y te explica cómo un chatbot egoísta puede ser tu sustituto natural.\n\nEl empleo del futuro se debate entre ser técnico en IA… o fontanero con bata.\n\n¿Y si el futuro ya no lo decide el humano? Bienvenidos al capítulo donde hasta el botón de apagar parece simbólico.\n\nArtículos de Referencia\n\nSam Altman en el NYT\n\nhttps://www.aol.com/debate-over-whether-ai-create-091203653.html\n\nhttps://es.wired.com/articulos/este-historico-fallo-sienta-las-bases-del-uso-legal-de-libros-para-entrenar-ia\n\nhttps://officechai.com/ai/geoffrey-hinton-explains-why-ai-agents-could-one-day-compete-with-humans-for-resources/\n\nhttps://es.wired.com/articulos/meta-gana-un-importante-caso-de-derechos-de-autor-tras-usar-libros-para-entrenar-su-ia"
     },
     {
       "guid": "1e9a10ab-f82a-49ae-8fc5-93f31460ce53",
@@ -303,7 +325,8 @@
       "pub_date": "2025-06-26T17:27:16Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-rethinking-ais-power-and-limits/id1818186996?i=1000714633581&uo=4",
       "itunes_id": 1000714633581,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "This episode is part of our “Summer Selects” series—curated archival episodes that shifted our perspective and are worth revisiting.\nHear the Godfather of AI Geoffrey Hinton reflect on the journey from the early days of neural networks to today’s breakthroughs in artificial intelligence, sharing unique insights from decades of pioneering research.\nDiscover why Hinton believes that scaling up AI models leads to creativity and reasoning that rivals (and may eventually surpass) human intelligence. Hear his candid thoughts on how language models learn, why intuition and training data matter, and what current models still have to learn from the human brain.\nThis conversation between Geoffrey Hinton and Joel Hellermark was originally recorded in April 2024 at the Royal Institute of Great Britain in London. An edited version was premiered at Sana AI Summit 2024 in Stockholm, Sweden.\n\n\nWhat's in this episode\nThe surprising similarities (and differences) between AI and the human mind\nWhy multi-modality and fast weights could be the next frontiers in AI\nHow AI models might develop subjective experience and even “feelings”\nHinton’s advice to young researchers about trusting intuition and challenging consensus\nReflections on leadership, collaboration, and building teams for breakthrough science\n—\nTranscript: https://sanalabs.com/strange-loop/geoffrey-hinton\n—\nAbout Strange Loop\nStrange Loop is a podcast about how artificial intelligence is reshaping the systems we live and work in. Each episode features deep, unscripted conversations with thinkers and builders reimagining intelligence, leadership, and the architectures of progress. The goal is not just to follow AI’s trajectory, but to question the assumptions guiding it.\nSubscribe for more conversations at the edge of AI and human knowledge.\n—\nTimestamps\n(00:00:00) Early inspirations\n(00:05:05) Meeting Ilya Sutskever\n(00:06:12) Ilya’s intuition\n(00:09:00) Understanding of LLMs\n(00:15:15) Scaling neural networks\n(00:18:30) What is language?\n(00:21:35) The GPU revolution\n(00:25:05) Human Brain Insights\n(00:29:05) Feelings & analogies\n(00:32:58) Problem selection\n(00:35:21) Gradient processing\n(00:36:52) Ethical implications\n(00:40:15) Selecting talent\n(00:41:49) Developing intuition\n(00:43:50) The road to AGI\n(00:45:00) Proudest moment\n—\nWhere to find Geoffrey\nX: https://x.com/geoffreyhinton\n—\nWhere to find Joel\nLinkedIn: https://www.linkedin.com/in/joel-hellermark/\nX: https://x.com/joelhellermark"
     },
     {
       "guid": "685b87ec2a38b4d9796e9c6c",
@@ -316,7 +339,8 @@
       "pub_date": "2025-06-25T05:26:01Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/153-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%99%E7%88%B6geoffrey-hinton-ai%E7%9A%84%E7%9C%9F%E5%AE%9E%E9%A3%8E%E9%99%A9%E4%B8%8E%E4%BA%BA%E7%B1%BB%E7%9A%84%E6%9C%AA%E6%9D%A5/id1850900599?i=1000735354303&uo=4",
       "itunes_id": 1000735354303,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "📝 本期播客简介\n本期我们克隆了全球顶尖商业及励志播客之一《The Diary of a CEO》。\n主持人 Steven Bartlett 深度对话了被誉为“人工智能教父”的杰弗里·辛顿（Geoffrey Hinton）博士。辛顿博士，这位图灵奖得主，是深度学习领域的奠基人之一，他的工作塑造了我们今天所认知的人工智能。然而，在为AI奉献了半个世纪之后，他为何选择离开谷歌，并转而向世界发出关于AI潜在风险的严峻警告？节目中，辛顿博士将坦诚分享他对AI未来发展的忧虑，包括超级智能可能带来的生存威胁、AI技术滥用（如网络攻击、自主武器、选举操纵），以及对就业市场的颠覆性冲击——他甚至一度建议人们去接受培训当水管工。这不仅是一场关于AI技术利弊的深刻探讨，更是对人类未来命运及我们应如何应对挑战的严肃拷问。\n👨‍⚕️ 本期嘉宾\nGeoffrey Hinton博士，被誉为“人工智能教父”，图灵奖得主。他是深度学习领域的奠基人之一，对人工神经网络的发展做出了关键贡献。曾在谷歌工作十年，后因对AI潜在风险的担忧而离职，致力于向公众警示AI可能带来的生存威胁。\n📒文字版精华\n见微信公众号（点击跳转）\n⏱️ 时间戳\n00:00:00 开场白与节目介绍\nGeoffrey Hinton的AI之路与当前使命\n00:04:23 为何被称为“人工智能教父”：五十年对神经网络的坚持\n00:06:44 当前使命：警告世界AI的潜在危险\n00:08:04 看法转变：从对AI能力乐观到警惕数字智能的优越性\nAI风险的全面剖析\n00:09:53 两类AI风险：人为滥用与超级智能失控\n00:10:29 超级智能的生存威胁：未知与概率（10-20%的毁灭可能）\n00:12:39 AI与核武器的比较：AI更难控制，用途广泛\n00:13:49 监管困境：欧洲法规的军事豁免与国际竞争\n00:15:12 人为滥用风险之一：网络攻击（网络钓鱼、AI克隆诈骗）\n00:19:52 人为滥用风险之二：AI制造恶性病毒\n00:21:07 人为滥用风险之三：操纵选举与数据隐私\n00:22:56 人为滥用风险之四：算法导致的信息茧房与社会极化\n00:30:14 人为滥用风险之五：致命性自主武器（LAWs）的威胁\n00:32:54 超级智能的应对：如何防止其产生“清除人类”的念头\nAI对行业与个人的影响\n00:36:52 Hinton对自己工作的反思与责任感\n00:38:31 对OpenAI及领导者动机的担忧 (Ilya Sutskever, Sam Altman)\n00:45:00 AI对就业的冲击：日常脑力劳动将被取代\n00:54:25 职业建议：成为一名水管工\n00:56:52 AI加剧财富不平等与全民基本收入（UBI）的讨论\nAI的本质与未来\n00:58:59 数字智能的优越性：克隆、高效学习与不朽性\n01:04:02 AI的创造力、主观体验与情感：挑战人类独特性\n01:08:58 AI意识的探讨：哲学与实践的边界\n01:15:25 加入谷歌的初衷与离开的原因\n个人反思与对世界的忠告\n01:21:23 对世界领导者和普通人的建议\n01:22:08 Hinton的显赫家族背景\n01:23:35 人生建议与遗憾：坚持直觉与陪伴家人\n01:26:39 对AI安全的最后呼吁：投入资源研究控制方法\n01:28:01 对人类幸福的最大威胁：失业与目标感丧失\n01:30:29 总结与对未来的不可知\n🌟 精彩内容\nAI教父的警告: Hinton博士分享了他对AI超级智能可能带来生存威胁的深切忧虑，以及为何从AI的积极推动者转变为主要的风险警示者。\n具体风险剖析: 详细讨论了AI被滥用于网络攻击、制造生物武器、操纵选举、信息茧房以及开发致命自主武器的多种途径。\n就业市场的颠覆: Hinton预测AI将大规模取代常规脑力劳动，并建议人们考虑从事像水管工这样难以被AI替代的职业。\nAI的本质探讨: 深入探讨了数字智能相比生物智能的优越性（如知识共享速度、不朽性），以及AI是否可能拥有创造力、主观体验、情感乃至意识。\n科技巨头的责任与动机: 对大型科技公司（包括前雇主谷歌和OpenAI）在追求利润与确保AI安全之间的平衡表示担忧。\n个人反思与忠告: Hinton分享了个人职业生涯的感悟、对家庭的遗憾，并呼吁社会高度重视AI安全研究，以避免潜在的灾难性后果。\n🌐 播客信息补充\n翻译克隆自：Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton\n本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的\n使用 AI 进行翻译，因此可能会有一些地方不通顺；\n如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "062c27cd-df78-40b0-b1a3-3238448d2284",
@@ -329,7 +353,8 @@
       "pub_date": "2025-06-18T13:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-a-renowned-ai-pioneer-and-godfather-of-ai/id1646652430?i=1000713605203&uo=4",
       "itunes_id": 1000713605203,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "(source: Diary Of A CEO)\nGeoffrey Hinton, a renowned AI pioneer and \"Godfather of AI,\" shares his profound concerns about the future of artificial intelligence. He details how his groundbreaking work in neural networks laid the foundation for modern AI, including large language models like ChatGPT. \nHinton now dedicates his efforts to warning the public and governments about the existential threats posed by AI, distinguishing between risks from misuse and those from superintelligence surpassing human control. He highlights issues such as job displacement, cyber warfare, autonomous weapons, and the societal impact of algorithms creating echo chambers. \nDespite his contributions, Hinton expresses deep emotional struggle with the potential negative consequences for future generations, advocating for significant resources to be allocated to AI safety research."
     },
     {
       "guid": "70d851f0-4849-11f0-b9ec-8789748f28bf",
@@ -342,7 +367,8 @@
       "pub_date": "2025-06-16T05:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/godfather-of-ai-i-tried-to-warn-them-but-weve/id1782726259?i=1000751838204&uo=4",
       "itunes_id": 1000751838204,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "He pioneered AI, now he’s warning the world. Godfather of AI Geoffrey Hinton breaks his silence on the deadly dangers of AI no one is prepared for.\n\n\n\nGeoffrey Hinton is a leading computer scientist and cognitive psychologist, widely recognised as the ‘Godfather of AI’ for his pioneering work on neural networks and deep learning. He received the 2018 Turing Award, often called the Nobel Prize of computing. In 2023, he left Google to warn people about the rising dangers of AI.\n\n\n\nHe explains:\n\n\n  \nWhy there’s a real 20% chance AI could lead to HUMAN EXTINCTION.\n\n\n\n  \nHow speaking out about AI got him SILENCED.\n\n\n\n  \nThe deep REGRET he feels for helping create AI.\n\n\n\n  \nThe 6 DEADLY THREATS AI poses to humanity right now.\n\n\n\n  \nAI’s potential to advance healthcare, boost productivity, and transform education.\n\n\n\n00:00 Intro  \n\n02:28 Why Do They Call You the Godfather of AI?  \n\n04:37 Warning About the Dangers of AI  \n\n07:23 Concerns We Should Have About AI  \n\n10:50 European AI Regulations  \n\n12:29 Cyber Attack Risk  \n\n14:42 How to Protect Yourself From Cyber Attacks  \n\n16:29 Using AI to Create Viruses  \n\n17:43 AI and Corrupt Elections  \n\n19:20 How AI Creates Echo Chambers  \n\n23:05 Regulating New Technologies  \n\n24:48 Are Regulations Holding Us Back From Competing With China?  \n\n26:14 The Threat of Lethal Autonomous Weapons  \n\n28:50 Can These AI Threats Combine?  \n\n30:32 Restricting AI From Taking Over  \n\n32:18 Reflecting on Your Life’s Work Amid AI Risks  \n\n34:02 Student Leaving OpenAI Over Safety Concerns  \n\n38:06 Are You Hopeful About the Future of AI?  \n\n40:08 The Threat of AI-Induced Joblessness  \n\n43:04 If Muscles and Intelligence Are Replaced, What’s Left?  \n\n44:55 Ads  \n\n46:59 Difference Between Current AI and Superintelligence  \n\n52:54 Coming to Terms With AI’s Capabilities  \n\n54:46 How AI May Widen the Wealth Inequality Gap  \n\n56:35 Why Is AI Superior to Humans?  \n\n59:18 AI’s Potential to Know More Than Humans  \n\n1:01:06 Can AI Replicate Human Uniqueness?  \n\n1:04:14 Will Machines Have Feelings?  \n\n1:11:29 Working at Google  \n\n1:15:12 Why Did You Leave Google?  \n\n1:16:37 Ads  \n\n1:18:32 What Should People Be Doing About AI?  \n\n1:19:53 Impressive Family Background  \n\n1:21:30 Advice You’d Give Looking Back  \n\n1:22:44 Final Message on AI Safety  \n\n1:26:05 What’s the Biggest Threat to Human Happiness?  \n\n\n\n\nFollow Geoffrey:\n\nX - https://bit.ly/4n0shFf \n\n\n\nThe Diary Of A CEO:\n\n\n  Join DOAC circle here -https://doaccircle.com/\n\n  The 1% Diary is back - limited time only: https://bit.ly/3YFbJbt  \n\n  The Diary Of A CEO Conversation Cards (Second Edition):\nhttps://g2ul0.app.link/f31dsUttKKb  \n\n  Get email updates - https://bit.ly/diary-of-a-ceo-yt  \nFollow Steven - https://g2ul0.app.link/gnGqL4IsKKb  \n\n\n\n\nSponsors:\n\nStan Store - Visit https://link.stan.store/joinstanchallenge to join the challenge!\n\nKetoneIQ - Visit https://ketone.com/STEVEN  for 30% off your subscription order\n\n\n\n#GeoffreyHinton #ArtificialIntelligence #AIDangers \nLearn more about your ad choices. Visit megaphone.fm/adchoices \n\nThis is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit theexperienceplus.substack.com"
     }
   ]
 }

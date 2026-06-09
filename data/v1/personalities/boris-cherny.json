@@ -4,7 +4,7 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png",
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-08",
   "episodes": [
     {
       "guid": "6a15f8e883dd9b6e11ced341",
@@ -17,7 +17,8 @@
       "pub_date": "2026-05-27T00:05:25Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/claude-code-creator-boris-cherny-on-the-end-of/id1868844067?i=1000769734571&uo=4",
       "itunes_id": 1000769734571,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "In the third episode of the Platformer podcast, Claude Code creator Boris Cherny explains how he's automating his own job. He hasn't written a line of code in more than six months, and thinks the title \"software engineer\" could start to disappear as soon as this year. \nPlatformer's Casey Newton talks to the inventor of the fastest-growing AI coding tool in the world about what Cherny actually means when he says coding is \"solved,\" why he predicts companies will need both far fewer engineers and far more of them, what he tells new computer science grads about where to build a career now, and whether all this added productivity will ever let anyone work less. (Hint: so far, it just means doing more). \nCherny also explains the surprise that keeps upending his own predictions: the people getting the most out of AI tools are increasingly electricians, doctors, and carpenters rather than professional engineers.\nPlus, Platformer fellow Ella Markianos joins at the top of the show to discuss a new Microsoft study on AI and jobs.\nDisclosure: Casey's fiancé works at Anthropic.\nWho else should we have on this show? Let us know at casey@platformer.news.\nSponsored by Atlassian Rovo | Become an AI-native team with Rovo. https://www.atlassian.com/rovo\n Hosted on Acast. See acast.com/privacy for more information."
     },
     {
       "guid": "db5f0738-5385-11f1-8cf4-3fde62afe2e7",
@@ -30,7 +31,8 @@
       "pub_date": "2026-05-20T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/claude-code-head-boris-cherny-insane-growth-tokenmaxxing/id1522960417?i=1000768721139&uo=4",
       "itunes_id": 1000768721139,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Boris Cherney is the head of Claude Code at Anthropic. Cherney joins Big Technology to discuss Claude Code’s explosive growth and whether the rise of AI agents is sustainable. Tune in to hear how Claude Code is changing software development, why Anthropic believes agents will spread far beyond coding, and what happens when people start running hundreds or thousands of AI agents in parallel. We also cover token maxing, rate limits, Codex competition, SaaS disruption, self-improving AI, and whether today’s models really understand the consequences of their actions. Hit play for a sharp look at the agent boom from one of the people building it.\n\n\n\nJoin the Big Technology AI Summit: https://summit.bigtechnology.com\n\n\n\n---\n\nEnjoying Big Technology Podcast? Please rate us five stars ⭐⭐⭐⭐⭐ in your podcast app of choice.\n\nWant a discount for Big Technology on Substack + Discord? Here’s 25% off for the first year: https://www.bigtechnology.com/subscribe?coupon=0843016b\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
     },
     {
       "guid": "69fc57a41b7bd50295a81ad5",
@@ -43,7 +45,8 @@
       "pub_date": "2026-05-07T09:17:20Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/claude-code%E4%B9%8B%E7%88%B6boris-cherny-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4coding%E5%B7%B2%E8%A2%AB%E8%A7%A3%E5%86%B3-%E4%BB%A5%E5%8F%8A%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88/id1889829123?i=1000766596323&uo=4",
       "itunes_id": 1000766596323,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "在 2026 年的 AI Ascent 峰会上,Claude Code 的创造者 Boris Cherny 与红杉资本合伙人 Lauren Reeder 展开了一场关于编程未来的深度对话（原视频链接：https://www.youtube.com/watch?v=SlGRN8jh2RI）。\nBoris 提出了一个震撼性的观点:编码已经被解决——至少对他而言是这样。这位曾经的《TypeScript 编程》作者,如今已经一整年没有手写过一行代码,却每天从手机上提交几十个 PR,最高纪录达到 150 个。他在手机上同时运行 5 到 10 个会话,每个会话中有数百个智能体在并行工作,到了晚上甚至会有几千个智能体在深度运作。他最推崇的功能是\"循环\"(loop)——通过 cron 安排重复性任务,让 Claude 自动照看 PR、修复 CI、抓取 Twitter 反馈并聚类分析。\n这场对话不仅探讨了技术本身,更深入剖析了 AI 对商业格局的重塑。Boris 引用\"七种力量\"理论,指出 AI 将削弱\"转换成本\"和\"流程能力\"这类护城河,却让网络效应和规模经济变得更加重要。他预言未来十年,颠覆性初创公司的数量将增加十倍,因为小团队现在可以原生于 AI 进行构建,不受大公司内部阻力的束缚。\n最令人深思的是 Boris 对软件民主化的类比。他将当下与 1400 年代印刷机的出现相提并论:印刷机问世后五十年内,欧洲出版的文献超过了过去一千年,书籍成本下降 100 倍。同样,软件开发正在成为像发短信一样自然的技能,未来编写会计软件的最佳人选可能不是工程师,而是顶尖的会计师——因为深刻的领域知识才是真正的难点,编码本身反而是简单的部分。\n这场对话为我们描绘了一个激动人心的未来:编程的终结,恰恰是创造的新开始。\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "Buzzsprout-19133490",
@@ -56,7 +59,8 @@
       "pub_date": "2026-05-06T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/t6-e093-inside-x-la-programaci%C3%B3n-est%C3%A1-resuelta-y-ahora/id1576725819?i=1000766415661&uo=4",
       "itunes_id": 1000766415661,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "# TEMA \nLA PROGRAMACIÓN ESTÁ RESUELTA ¿Y ahora que es lo siguiente? con Boris Cherny\n\n# PRESENTA Y DIRIGE \n🧠Plácido Doménech Espí\n⭐Creador de xHUB.AI\n🏢CEO MXND.AI : Software + AI\n✉️placido.domenech@mxnd.ai\n\n# xHUB.AI\nxHUB.AI es una comunidad de Inteligencia Artificial y Ciencias transversales de habla hispana.\n\n# REDES SOCIALES\n🌐 youtube : xhubai\n🌐 X  :   xhub_ai | placidodomenech\n🌐 twitch :   xhub_ai | placidodomenech\n🌐 instagram :   / xhub_ai | placidodomenech\n🌐 discord : Pídenos acceso mediante DM en redes sociales.\n\n# PODCAST\n🎧 buzzsprout : https://xhubai.buzzsprout.com/\n🎧 spotify : https://open.spotify.com/show/2SPqvrGGvZkALTy6jSokxI?si=1927a4d04b5145c4\n🎧 apple : https://podcasts.apple.com/es/podcast/xhub-ai/id1576725819\n🎧 amazon music : https://music.amazon.com/podcasts/e4ff4e8c-4efb-4aed-907e-09b2b1d7aa86\n🎧 ivoox : https://go.ivoox.com/sq/1337641\n\n# APÓYANOS\nSi te ha gustado nuestro contenido, apoya a la comunidad y el canal de xHUB.AI:\n❤️BuyMeACoffe : https://www.buymeacoffee.com/xhubai\n❤️Paypal : pladoes@gmail.com\n❤️ivoox Podcast : https://www.ivoox.com/support/1337641\n\n# CONTACTAR\n¿Quieres anunciarte, alguna propuesta interesante o consulta? Envíanos un correo.\n✉️ Correo : xhubai.spain@gmail.com💬\nSend us Fan Mail\nSupport the show"
     },
     {
       "guid": "69fa91fce05c0efcd6efc21d",
@@ -69,7 +73,8 @@
       "pub_date": "2026-05-06T01:02:22Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/boris-cherny-%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BC%96%E7%A8%8B%E5%B7%B2%E8%A2%AB%E8%A7%A3%E5%86%B3/id1827758935?i=1000766350357&uo=4",
       "itunes_id": 1000766350357,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "背景：近日Claude Code “之父”Boris Cherny 在 Sequoia AI Ascent 大会上的访谈。\n“编程已经被解决，Loop 是未来。”\n“最合适写会计软件的是会计师而不是工程师，因为编程是简单部分，懂业务才是难的部分。”\n“切换成本和流程效力这两种（护城河）会被 AI 抹平”\n“领先的关键在组织怎么改造自己。技术大家都能拿到，但要把整个公司从手写代码切到模型生成代码……这是组织行为的改造，比技术本身慢得多。”\n“我们其实是在做一个初期完全不具备 PMF 的东西。我们很清楚它前六个月不会有 PMF，因为我们是在为下一代模型做开发。我们从始至终就是这个思路。”\n来源：https://www.youtube.com/watch?v=SlGRN8jh2RI\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "d73930f8-47f4-11f1-a018-3b5d50482f68",
@@ -82,7 +87,8 @@
       "pub_date": "2026-05-05T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/anthropics-boris-cherny-codings-printing-press-moment/id1750736528?i=1000766203785&uo=4",
       "itunes_id": 1000766203785,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Boris Cherny, creator of Claude Code at Anthropic, joins Sequoia partner Lauren Reeder at AI Ascent 2026 to talk about where coding goes from here. He explains why he hasn't written a line of code in 2026, why he now ships dozens of PRs a day from his phone, and why he believes coding is effectively solved — at least for the code he writes. Also: why loops are the future, why he thinks Claude Code itself may be 100 lines of code a year from now, and why the invention of the printing press is the right analogy for what's about to happen to software."
     },
     {
       "guid": "5e32f802-2dba-4149-87c2-a5733be97f3d",
@@ -95,7 +101,8 @@
       "pub_date": "2026-04-07T09:43:48Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/412-max-the-boris-cherny-workflow-mastering-claude/id1817430058?i=1000760011550&uo=4",
       "itunes_id": 1000760011550,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "If you’ve ever watched Claude Code sprint confidently in the wrong direction, you’re not alone. 🛑 In April 2026, the secret to elite output isn't a complex prompt; it's the specific habits used by the man who built it, Boris Cherny. We are breaking down the \"Boris Method\"—from the mandatory 80% Plan Mode rule to the CLAUDE.md pruning habit—that separates \"Vibe Coders\" from professional engineers.\nWe’ll talk about:\nThe 80% Plan Mode Rule: Why Boris starts almost every session with Shift + Tab (twice). Entering read-only mode allows Claude to research your \"Intricacies\" and \"Intensities\" without modifying a single file.The Annotation Cycle: Moving beyond \"build this\"—using a plan.md file as a living artifact where you add inline notes before the AI touches your source code.Pruning CLAUDE.md: Why a 1,000-line instruction file is a liability. The 2026 consensus: keep it under 100 instructions and delete it entirely if the model starts to \"drift.\"Verification Loops: The single highest-leverage habit—giving Claude a tool (like a test runner or the new Computer Use browser) to verify its own work before it reports \"Done.\"Parallel Sessions vs. Overlap: Why Boris runs multiple Claude instances for different tasks (Architecture vs. Documentation) but never on the same file at the same time.Skills 2.0 (The Workflow Shift): Moving from \"Reusable Prompts\" to Reusable Systems. Why the new SKILL.md format (now at 277k+ installs for Frontend Design) is the new standard.The \"Don't Bet Against the Model\" Mindset: Why spending 4 hours on a complex prompt \"hack\" is a waste of time in 2026, as the underlying model is likely to solve that friction in the next update.Keywords: Boris Cherny Claude Code 2026, Claude Code Plan Mode, CLAUDE.md Best Practices, Claude Code Computer Use, SKILL.md Format, Vibe Coding 2026, Claude Code Verification Loops, Anthropic CLI Update, Future of Work, Tech Mastery 2026\nLinks:\nNewsletter: Sign up for our FREE daily newsletter.Our Community: Get 3-level AI tutorials across industries.Join AI Fire Academy: 500+ advanced AI workflows ($14,500+ Value)Our Socials:\nFacebook Group: Join 285K+ AI buildersX (Twitter): Follow us for daily AI dropsYouTube: Watch AI walkthroughs & tutorials"
     },
     {
       "guid": "https://media.bilingualpodcastplayer.com/notebooklm/2026/lenny-podcast-interview-boris-cherny-ai-solves-programming.m4a",
@@ -108,7 +115,8 @@
       "pub_date": "2026-03-26T00:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/lennys%E6%92%AD%E5%AE%A2%E8%AE%BF%E8%B0%88claude-code%E5%BB%BA%E9%80%A0%E8%80%85boris-cherny-%E7%BC%96%E7%A8%8B%E5%B7%B2%E8%A2%ABai%E8%A7%A3%E5%86%B3/id1851201187?i=1000757448097&uo=4",
       "itunes_id": 1000757448097,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Lenny's播客访谈Claude Code建造者Boris Cherny：编程已被AI解决"
     },
     {
       "guid": "69a95f49d7ec33e774549f3a",
@@ -121,7 +129,8 @@
       "pub_date": "2026-03-05T11:00:48Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/450-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84-%E5%8D%B0%E5%88%B7%E6%9C%BA-%E6%97%B6%E5%88%BB-%E5%AF%B9%E8%AF%9D-claude-code-%E5%88%9B%E9%80%A0%E8%80%85-boris-cherny-%E7%9A%84-ai-%E7%BC%96%E7%A8%8B%E8%BF%9B%E5%8C%96%E8%AE%BA/id1850900599?i=1000753319974&uo=4",
       "itunes_id": 1000753319974,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "📝 本期播客简介\n本期我们克隆了：顶尖工程播客《The Pragmatic Engineer Podcast》Building Claude Code with Boris Cherny\n当你加入全球最顶尖的 AI 实验室，第一个手写的 PR 竟然因为“不是 AI 写的”被拒绝，这是一种什么体验？本期嘉宾 Boris Cherny 是 Anthropic 的工程负责人，也是近期风靡开发者圈的 Claude Code 的核心推手。在加入 Anthropic 之前，他在 Meta 掌管着 Instagram、WhatsApp 等数万名工程师的代码质量。\n在这期节目中，Boris 揭秘了 Claude Code 是如何从一个简单的 Bash 脚本演变成具备高度自主性的 AI 智能体。他分享了自己令人惊叹的“非人”工作流：每天开启 5 个并行终端，提交 20 到 30 个 PR，且 100% 的代码由 AI 生成，自己则转型为“代码指挥官”。我们还深入探讨了 Anthropic 内部独特的工程文化——为什么他们没有 PRD？为什么所有人的头衔都是“技术员工”？为什么现在是“通才”和“ADHD 式思维”的黄金时代？这不仅是一场关于工具的讨论，更是一场关于在 AI 彻底改变生产力边际成本的今天，工程师该如何重新定义自身价值的深度思考。\n👨‍⚕️ 本期嘉宾\nBoris Cherny，Anthropic 工程负责人，Claude Code 创造者。曾任 Meta 工程总监，负责全公司的代码质量与开发者基础设施。他是《TypeScript 编程》一书的作者，也是硅谷著名的技术通才，致力于探索 AI 如何重塑软件工程的未来。\n⏱️ 时间戳\n00:00 开场 & 嘉宾背景介绍\n从抄写员到印刷机\n02:05 职业生涯起点：从 eBay 卖卡到用计算器编写“考试求解器”\n05:31 创业教训：骑着摩托车去医院观察医生，发现 PMF 的真相\n07:52 Meta 七年：从 Facebook Groups 到重构 Instagram 的技术栈\n11:02 卓越工程：如何用数据证明“代码质量”能带来两位数的效率提升\nClaude Code 的诞生与进化\n12:52 震撼时刻：加入 Anthropic 的第一个 PR 被拒绝，理由是“没用 AI”\n14:22 灵感迸发：从调用 API 的聊天机器人到具备 Bash 权限的智能体\n16:21 苦涩的教训：为什么不该把模型关在盒子里，而是要给它工具\n18:56 内部辩论：是把这种“作弊神器”留着自用，还是公开发布？\nAI 时代的极致工作流\n21:09 效率巅峰：每天 30 个 PR，100% AI 生成，IDE 已经从电脑中消失\n22:34 技巧揭秘：5 个并行终端、Git Worktree 与手机端编程的崛起\n25:37 角色转变：从“手艺人”到“代码审查员”，如何管理并行代理\n28:26 自动化审查：如何让 Claude 捕捉 80% 的 Bug 并自发编写 Lint 规则\n技术架构与安全哲学\n33:08 瑞士奶酪模型：分层防御提示词注入与安全风险\n35:25 舍弃 RAG：为什么“代理式搜索”在代码场景下击败了向量数据库\n38:33 权限系统：如何平衡 AI 的自主性与人类的最终控制权\nAnthropic 的工程文化\n39:39 职级消失：为什么所有人都叫“技术员工（MTS）”？\n41:24 跨界融合：当财务人员和数据科学家也开始用 Claude Code 写代码\n42:58 抛弃 PRD：用 20 个可运行的原型代替枯燥的文档说明\n46:33 疯狂的周末：Daisy 如何用 Agent Swarm 在两天内构建了插件系统\n未来的工程师画像\n59:59 印刷机隐喻：抄写员消失了，但“作者”的市场扩大了一万倍\n01:03:43 身份危机：当模型写得比你好，如何处理对“编程艺术”的哀悼\n01:08:23 技能重塑：为什么现在是“通才之年”和“ADHD 优势之年”？\n01:10:29 书单推荐：从《三体》到《Scala 函数式编程》\n🌟 精彩内容\n💡 拒绝手写代码的时代\nBoris 分享了他在 Anthropic 的入职经历：导师拒绝了他的手写 PR，要求他必须使用内部 AI 工具生成。这标志着工程范式的根本转变——从“亲自编写”转向“意图表达”。\n“Opus 引入的 Bug 比我亲手写的少 10 倍，我为什么还要自己写？”\n🛠️ 并行代理与“指挥官”模式\nBoris 揭秘了他的工作流：不再盯着一个 IDE 窗口，而是开启多个并行代理处理不同的任务。他甚至在手机上完成了 1/3 的代码工作。这种模式下，工程师的能力不再取决于打字速度，而取决于上下文切换和任务编排的能力。\n“工作变成了在不同的 Claude 实例之间跳转，这更像是管理，而不是传统的深挖代码。”\n🚀 代理式搜索 vs. RAG\n在构建 Claude Code 时，Boris 发现传统的 RAG（检索增强生成）在处理快速迭代的代码时存在“漂移”和同步问题。他们最终选择了更简单的“代理式搜索”——让模型直接使用 grep 和 glob。\n“事实证明，给模型强大的工具，比给它一个复杂的索引数据库更有效。”\n💻 “不写文档，只做原型”\n在 Anthropic，PRD（产品需求文档）几乎不存在。团队推崇“Show, don't write”。为了设计一个待办事项功能，工程师会在一天内做出 20 个可运行的原型进行体感测试。\n“构建成本已经低到可以忽略，所以我们在开火前不再需要漫长的瞄准，而是不断尝试。”\n❤️ 程序员的未来：从抄写员到作者\nBoris 提出了一个深刻的行业洞察：程序员正处于 15 世纪印刷机发明前的抄写员时刻。虽然识字和书写的门槛降低了，但这并不意味着人的消失，而是意味着文学（软件）市场的无限扩张。\n“抛弃对语言和框架的偏见，未来属于那些能跨越工程、产品和业务的通才。”\n🌐 播客信息补充\n翻译克隆自：The Pragmatic Engineer Podcast\n本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的\n使用 AI 进行翻译，因此可能会有一些地方不通顺；\n如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight\n```\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "substack:post:189707865",
@@ -134,7 +143,8 @@
       "pub_date": "2026-03-04T18:09:46Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/building-claude-code-with-boris-cherny/id1769051199?i=1000753093675&uo=4",
       "itunes_id": 1000753093675,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Brought to You By:\n• Statsig — ⁠ The unified platform for flags, analytics, experiments, and more.\n• Sonar – The makers of SonarQube, the industry standard for automated code review\n• WorkOS – Everything you need to make your app enterprise ready.\n—\nBoris Cherny is the creator and Head of Claude Code at Anthropic. He previously spent five years at Meta as a Principal Engineer and is the author of the book Programming TypeScript.\nIn this episode of Pragmatic Engineer, we went through how Claude Code was built and what it means when engineers no longer write most of the code themselves.\nWe discuss how Claude Code evolved from a side project into a core internal tool at Anthropic and how Boris uses it day-to-day. We go deep into workflow details, including parallel agents, PR structure, deterministic review patterns, and how the system retrieves context from large codebases. We also get into how Claude Cowork was built.\nAs coding becomes more accessible, the role of engineers shifts rather than shrinks. We examine what that shift means in practice, which skills become more important, and why the lines between product, engineering, and design are blurring.\n—\nTimestamps\n(00:00) Intro\n(11:15) Lessons from Meta\n(19:46) Joining Anthropic\n(23:08) The origins of Claude Code\n(32:55) Boris's Claude Code workflow\n(36:27) Parallel agents\n(40:25) Code reviews\n(47:18) Claude Code's architecture\n(52:38) Permissions and sandboxing\n(55:05) Engineering culture at Anthropic\n(1:05:15) Claude Cowork\n(1:12:48) Observability and privacy\n(1:14:45) Agent swarms\n(1:21:16) LLMs and the printing press analogy\n(1:30:16) Standout engineer archetypes\n(1:32:12) What skills still matter for engineers\n(1:35:24) Book recommendations\n—\nThe Pragmatic Engineer deepdives relevant for this episode:\n• How Claude Code is built\n• How Anthropic built Artifacts\n• How Codex is built\n• Real-world engineering challenges: building Cursor\n—\nProduction and marketing by ⁠⁠⁠⁠⁠⁠⁠⁠https://penname.co/⁠⁠⁠⁠⁠⁠⁠⁠. For inquiries about sponsoring the podcast, email podcast@pragmaticengineer.com.\n \n\nGet full access to The Pragmatic Engineer at newsletter.pragmaticengineer.com/subscribe"
     },
     {
       "guid": "d20d779a-21fe-40b4-adfc-346addf85148",
@@ -147,7 +157,8 @@
       "pub_date": "2026-02-23T17:44:44Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/claude-code-t%E1%BB%AB-prototype-terminal-%C4%91%E1%BA%BFn-c%C3%B4ng-c%E1%BB%A5-ai-coding/id1877199382?i=1000751057662&uo=4",
       "itunes_id": 1000751057662,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "🎙️ Phân tích chuyên sâu cuộc phỏng vấn Boris Cherny — người sáng tạo Claude Code — trên Y Combinator Lightcone Podcast. Từ khoảnh khắc \"feel the AGI\" khi terminal tự mở và gõ lệnh, đến công cụ AI coding chiếm 4% commit toàn cầu trên GitHub — hành trình đầy bất ngờ của Claude  Code.  📌 Nội dung chính:  00:00 Giới thiệu Boris Cherny & Claude Code  01:22 Câu chuyện khởi nguồn — \"Feel the AGI\"  06:20 CLAUDE.md & Triết lý tối giản  11:50 Anthropic nội bộ dùng Claude Code  15:30 Plan Mode — 30 phút xây dựng  19:10 Mama Claude & Sub-agents  24:30 The Bitter Lesson — Xây dựng cho tương lai  32:10 Năng suất 1000x — Builder vs Engineer  37:00 Kết luận & Bài học rút ra  🔗 Podcast gốc: Y Combinator Lightcone Podcast  🎧 Tạo podcast AI miễn phí tại: https://podcast.chandlernguyen.com/vi"
     },
     {
       "guid": "63249677-cd13-4ad5-b48a-0c1f0f88fee9",
@@ -160,7 +171,8 @@
       "pub_date": "2026-02-20T14:17:42Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-294-boris-cherny-on-a-post-code-world/id1816472895?i=1000750667233&uo=4",
       "itunes_id": 1000750667233,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Head of Claude Code: What happens after coding is solved | Boris Cherny\nlink to the source"
     },
     {
       "guid": "substack:post:188147394",
@@ -173,7 +185,8 @@
       "pub_date": "2026-02-19T13:31:57Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/head-of-claude-code-what-happens-after-coding-is/id1895961400?i=1000764894751&uo=4",
       "itunes_id": 1000764894751,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Boris Cherny is the creator and head of Claude Code at Anthropic. What began as a simple terminal-based prototype just a year ago has transformed the role of software engineering and is increasingly transforming all professional work.We discuss:1. How Claude Code grew from a quick hack to 4% of public GitHub commits, with daily active users doubling last month2. The counterintuitive product principles that drove Claude Code’s success3. Why Boris believes coding is “solved”4. The latent demand that shaped Claude Code and Cowork5. Practical tips for getting the most out of Claude Code and Cowork6. How underfunding teams and giving them unlimited tokens leads to better AI products7. Why Boris briefly left Anthropic for Cursor, then returned after just two weeks8. Three principles Boris shares with every new team member—Brought to you by:DX—The developer intelligence platform designed by leading researchers: https://getdx.com/lennySentry—Code breaks, fix it faster: https://sentry.io/lennyMetaview—The AI platform for recruiting: https://metaview.ai/lenny—Episode transcript: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens—Archive of all Lenny's Podcast transcripts: https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&st=ahz0fj11&dl=0—Where to find Boris Cherny:• X: https://x.com/bcherny• LinkedIn: https://www.linkedin.com/in/bcherny• Website: https://borischerny.com—Where to find Lenny:• Newsletter: https://www.lennysnewsletter.com• X: https://twitter.com/lennysan• LinkedIn: https://www.linkedin.com/in/lennyrachitsky/—In this episode, we cover:(00:00) Introduction to Boris and Claude Code(03:45) Why Boris briefly left Anthropic for Cursor (and what brought him back)(05:35) One year of Claude Code(08:41) The origin story of Claude Code(13:29) How fast AI is transforming software development(15:01) The importance of experimentation in AI innovation(16:17) Boris’s current coding workflow (100% AI-written)(17:32) The next frontier(22:24) The downside of rapid innovation (24:02) Principles for the Claude Code team(26:48) Why you should give engineers unlimited tokens(27:55) Will coding skills still matter in the future?(32:15) The printing press analogy for AI’s impact(36:01) Which roles will AI transform next?(40:41) Tips for succeeding in the AI era(44:37) Poll: Which roles are enjoying their jobs more with AI(46:32) The principle of latent demand in product development(51:53) How Cowork was built in just 10 days(54:04) The three layers of AI safety at Anthropic(59:35) Anxiety when AI agents aren’t working(01:02:25) Boris’s Ukrainian roots(01:03:21) Advice for building AI products(01:08:38) Pro tips for using Claude Code effectively(01:11:16) Thoughts on Codex(01:12:13) Boris’s post-AGI plans(01:14:02) Lightning round and final thoughts—References: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens—Production and marketing by https://penname.co/. For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com.—Lenny may be an investor in the companies discussed. \n\nTo hear more, visit www.lennysnewsletter.com"
     },
     {
       "guid": "c3ba829f-66a0-4a3e-8227-f113d4d5ab1b",
@@ -186,7 +199,8 @@
       "pub_date": "2026-02-17T21:59:09Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/inside-claude-code-with-its-creator-boris-cherny/id1236907421?i=1000750220847&uo=4",
       "itunes_id": 1000750220847,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "A very special guest on this episode of the Lightcone! Boris Cherny, the creator of Claude Code, sits down to share the incredible journey of developing one of the most transformative coding tools of the AI era."
     },
     {
       "guid": "https://media.bilingualpodcastplayer.com/notebooklm/2025/interview-with-boris-cherny-on-claude-code-ai-trend-leadership.m4a",
@@ -199,7 +213,8 @@
       "pub_date": "2025-12-19T00:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/claude-code%E5%88%9B%E5%BB%BA%E8%80%85boris-cherny%E8%AE%BF%E8%B0%88-%E5%8F%91%E7%8E%B0%E6%BD%9C%E5%9C%A8%E9%9C%80%E6%B1%82-%E9%A2%86%E5%AF%BCai%E6%B5%AA%E6%BD%AE/id1851201187?i=1000741921803&uo=4",
       "itunes_id": 1000741921803,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Claude Code创建者Boris Cherny访谈：发现潜在需求_领导AI浪潮 来源:https://www.youtube.com/watch?v=AmdLVWMdjOk"
     },
     {
       "guid": "694135614c65abaff34810ba",
@@ -212,7 +227,8 @@
       "pub_date": "2025-12-16T10:42:51Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/358-ai%E6%97%B6%E4%BB%A3%E7%9A%84%E5%B7%A5%E7%A8%8B%E9%A2%86%E5%AF%BC%E5%8A%9B-%E4%BB%8Emeta%E9%A6%96%E5%B8%AD%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%B0claude-code%E5%88%9B%E9%80%A0%E8%80%85-boris-cherny%E7%9A%84%E6%88%90%E9%95%BF%E5%93%B2%E5%AD%A6/id1850900599?i=1000741512658&uo=4",
       "itunes_id": 1000741512658,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "📝 本期播客简介\n本期播客克隆了 Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic\n邀请到 Claude Code 的创造者、前 Meta 首席工程师 Boris Cherny。他分享了从 Meta 早期在 Facebook 群组部门的工程师生涯，到后来在 Instagram 日本办公室的经历，以及最终加入 Anthropic 投身 AI 安全与 Claude Code 开发的职业旅程。Boris 深入探讨了“潜在需求”的产品哲学、通才工程师的重要性、如何通过个人项目扩大影响力、在大公司中应对文化差异与大规模项目规划的挑战。他还分享了对 AI 编程未来、生产力提升以及如何持续赢得信任的深刻见解。这是一堂关于技术领导力、产品思维和在快速变化的科技浪潮中保持成长的实战课。\n👨‍⚕️ 本期嘉宾\nBoris Cherny，Claude Code 的创造者，前 Meta 首席工程师，现任 Anthropic 工程师。\n⏱️ 时间戳\n开场 & 播客简介\n00:00 开场 & 播客简介\nMeta 工程师生涯\n01:02 早期项目与通才精神：Messenger与Facebook群组整合，工程师的“用户研究”\n05:10 “潜在需求”的产品哲学：产品成功的核心原则，Marketplace与Facebook Dating的案例\n06:36 跨部门协作的“噩梦”：文化与目标差异，以及解决之道\n09:07 个人项目与影响力：uc框架、TypeScript书籍与社区，支线任务的重要性\n15:39 降级入职的“幸运”：低期望值带来的探索空间\n17:00 Comet项目与基础设施建设：Facebook群组网页端重写，影响基础设施方向\n20:58 AI赋能工程效率：AI如何大幅减少项目所需时间和人力\n22:07 与高管沟通的艺术：给VP汇报的“三个选项”策略\n23:09 无头衔文化与赢得信任：Meta与Anthropic的无头衔文化，持续赢得信任的重要性\n25:43 大规模项目规划与技术领导力：规划数百名工程师的工作，技术设计“游戏”\n31:02 公共群组项目与技术分歧：复杂功能改动，数据模型辩论与垃圾信息挑战\n34:10 领导资深工程师：冒名顶替综合症与处理技术分歧的经验\n37:39 工程师的产品思维：理解权衡与情境感知，填补产品经理空缺\n38:56 “卓越工程”与自动化：通过自动化解决日常痛点，扩大影响力\n44:10 转岗Instagram与文化冲击：为爱搬家到日本，Instagram的产品驱动文化与“下线”功能\n47:03 重新建立信誉：跨越半个地球的挑战，重新找回写代码的乐趣\n49:23 Instagram代码库迁移：从Python到Hack，工程驱动与产品驱动的文化差异\n51:38 授权的艺术：信任与监控，晋升是影响力的滞后副产品\nAnthropic 与 Claude Code\n54:49 加入Anthropic的动机：LLM的震撼与AI安全使命，AI对社会的变革性影响\n59:55 Claude Code的诞生与成功：超越自动补全，\"为六个月后的模型做产品\"的哲学\n01:01:00 模型能力飞跃：Sonnet和Opus四的发布，Anthropic工程师效率增长70%\n01:02:11 AI编程的挑战与未来：AI编程的“粗制滥造”，结对编程与手动编码\n01:04:24 Claude Code的广泛应用：数据科学与销售团队\n01:05:36 对竞争的看法：专注于解决用户问题\n职业生涯反思与建议\n01:06:38 非CS学位的影响：通过实践学习编程\n01:07:22 生产力技巧：学会使用Claude Code自动化与编排，创作者日程与管理者日程的转变\n01:09:47 给年轻工程师的建议：相信常识\n🌟 精彩内容\n💡 “潜在需求”的产品哲学\nBoris Cherny 认为，产品成功的关键在于发现用户已有的“潜在需求”，而非试图改变用户行为。他以 Facebook Marketplace 和 Dating 为例，说明如何通过观察用户“滥用”现有产品的方式，来打造出成功的新产品，因为人们只会做他们想做的事。\n🚀 AI 赋能下的工程效率飞跃\n曾经需要数十名工程师花费数年完成的 Facebook 群组迁移项目，在 AI 工具（如 Claude Code）的帮助下，如今可能只需少数工程师在数月内完成。Boris 强调，AI 模型发展速度惊人，产品开发应着眼于“六个月后的模型”，而非当下。\n🤝 无头衔文化与持续赢得信任\n无论是 Meta 的“软件工程师”头衔，还是 Anthropic 的“技术人员”，Boris 都推崇这种无头衔文化。他认为，头衔不重要，关键在于持续通过影响力、解决问题来赢得同事的信任和尊重，这是一种健康的工程师文化，要求你不断证明自己。\n🤖 AI时代的生产力革命\n传统的生产力技巧已过时。Boris 指出，未来的工程师将更多地扮演“编排者”的角色，利用 Claude Code 等 AI 工具自动化繁琐工作，甚至让多个 AI 实例协同完成任务。他本人每天早上醒来就会启动多个 AI Agent 开始工作，这彻底改变了编程方式。\n🌍 AI安全与使命驱动\nBoris 加入 Anthropic 的深层动力是 LLM 的“魔法”及其对社会的变革性影响。他强调 AI 安全的重要性，认为随着模型能力增强，潜在风险也急剧上升，Anthropic 在 AI 安全上的投入和对模型发布的谨慎态度，体现了其强烈的使命感。\n🌐 播客信息补充\n本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的\n使用 AI 进行翻译，因此可能会有一些地方不通顺；\n如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "56a1d8bd-46d9-46cb-9188-017e41eac866",
@@ -225,7 +241,8 @@
       "pub_date": "2025-12-15T13:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/boris-cherny-creator-of-claude-code-on-how-his-career-grew/id1777363835?i=1000741365593&uo=4",
       "itunes_id": 1000741365593,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Boris Cherny is the Creator of Claude Code but few people know his full career story. I interviewed him about everything he learned growing at Meta and for insights from his time building Claude Code at Anthropic. \n\n𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗹𝗶𝗻𝗸𝘀:\n• Transcript: https://www.developing.dev/p/boris-cherny-creator-of-claude-code\n• YouTube: https://youtu.be/AmdLVWMdjOk\n• Apple: https://podcasts.apple.com/au/podcast/the-peterman-pod/id1777363835\n\n𝗧𝗶𝗺𝗲𝘀𝘁𝗮𝗺𝗽𝘀:\n00:00:00 - Intro\n00:00:59 - Starting at FB\n00:09:43 - Early side projects and book rec\n00:17:05 - Being under leveled\n00:18:55 - Staff (IC6) promo story\n00:25:19 - Proximity to leadership learnings\n00:29:36 - Scoping out work for 100s of engs\n00:35:31 - Senior Staff (IC7) promo story\n00:44:39 - How to find side projects\n00:50:45 - Principal (IC8) promo story\n00:54:20 - Building credibility in a new org\n01:04:23 - Joining Anthropic\n01:10:05 - Why Claude Code succeeded\n01:15:56 - Claude Code use outside of code \n01:17:22 - What he thinks of competition\n01:22:57 - Advice for his younger self\n01:23:57 - Outro\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗕𝗼𝗿𝗶𝘀:\n• LinkedIn: https://www.linkedin.com/in/bcherny/\n• X/Twitter: https://x.com/bcherny\n• Threads: https://www.threads.com/@boris_cherny\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗥𝘆𝗮𝗻:\n• Newsletter: https://www.developing.dev/\n• X/Twitter: https://x.com/ryanlpeterman\n• LinkedIn: https://www.linkedin.com/in/ryanlpeterman/\n• Threads: https://www.threads.com/@ryanlpeterman\n• Instagram: https://www.instagram.com/ryanlpeterman\n• TikTok: https://www.tiktok.com/@ryanlpeterman"
     }
   ]
 }

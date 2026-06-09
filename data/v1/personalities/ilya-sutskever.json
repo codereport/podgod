@@ -4,7 +4,7 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png",
-  "updatedAt": "2026-06-06",
+  "updatedAt": "2026-06-08",
   "episodes": [
     {
       "guid": "audioboom-019e5d13-ffdf-7f44-8d1d-9e3d8a1625b1",
@@ -17,7 +17,8 @@
       "pub_date": "2026-05-25T03:00:51Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/keach-hagey-recounts-the-january-2016-founding-of/id589864479?i=1000769419965&uo=4",
       "itunes_id": 1000769419965,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Keach Hagey recounts the January 2016 founding of OpenAI in San Francisco, initially established as a modest nonprofit research lab in Greg Brockman's apartment. Co-founded by Sam Altman, Brockman, and chief scientist Ilya Sutskever, the organization aimed to develop artificial general intelligence (AGI) safely outside of profit motives. Major initial backers included Elon Musk and Peter Thiel, who sought to create a counterweight to Google's DeepMind. The discussion explains how neural networks utilize Nvidia's GPUs—originally designed for video games—to mimic human thought, forming the technical foundation for the current AI race. (1/4)MARCH 1959"
     },
     {
       "guid": "Buzzsprout-19190538",
@@ -30,7 +31,8 @@
       "pub_date": "2026-05-17T17:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/t6-e100-inside-x-la-venganza-de-ilya-sutskever-elon/id1576725819?i=1000768272910&uo=4",
       "itunes_id": 1000768272910,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "# TEMA \nLA VENGANZA DE ILYA SUTSKEVER \"Elon Musk es el CEO más competente\"\n\n# PRESENTA Y DIRIGE \n🧠Plácido Doménech Espí\n⭐Creador de xHUB.AI\n🏢CEO MXND.AI : Software + AI\n✉️placido.domenech@mxnd.ai\n\n# xHUB.AI\nxHUB.AI es una comunidad de Inteligencia Artificial y Ciencias transversales de habla hispana.\n\n# REDES SOCIALES\n🌐 youtube : xhubai\n🌐 X  :   xhub_ai | placidodomenech\n🌐 twitch :   xhub_ai | placidodomenech\n🌐 instagram :   / xhub_ai | placidodomenech\n🌐 discord : Pídenos acceso mediante DM en redes sociales.\n\n# PODCAST\n🎧 buzzsprout : https://xhubai.buzzsprout.com/\n🎧 spotify : https://open.spotify.com/show/2SPqvrGGvZkALTy6jSokxI?si=1927a4d04b5145c4\n🎧 apple : https://podcasts.apple.com/es/podcast/xhub-ai/id1576725819\n🎧 amazon music : https://music.amazon.com/podcasts/e4ff4e8c-4efb-4aed-907e-09b2b1d7aa86\n🎧 ivoox : https://go.ivoox.com/sq/1337641\n\n# APÓYANOS\nSi te ha gustado nuestro contenido, apoya a la comunidad y el canal de xHUB.AI:\n❤️BuyMeACoffe : https://www.buymeacoffee.com/xhubai\n❤️Paypal : pladoes@gmail.com\n❤️ivoox Podcast : https://www.ivoox.com/support/1337641\n\n# CONTACTAR\n¿Quieres anunciarte, alguna propuesta interesante o consulta? Envíanos un correo.\n✉️ Correo : xhubai.spain@gmail.com💬\nSend us Fan Mail\nSupport the show"
     },
     {
       "guid": "d3ad4a30-a69a-43c3-b9eb-332e4ba159a3",
@@ -43,7 +45,8 @@
       "pub_date": "2026-01-12T22:11:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/58-la-mente-de-ilya-sutskever/id1768158409?i=1000744899399&uo=4",
       "itunes_id": 1000744899399,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "En este episodio especial en solitario, analizamos la reveladora entrevista a Ilya Sutskever, cofundador de OpenAI y una de las mentes más brillantes en IA. Sutskever hace declaraciones que cambian el paradigma: el escalado masivo ya no es la solución mágica para llegar a la AGI, hay más empresas que ideas realmente innovadoras, y redefine completamente lo que significa inteligencia artificial general.\n\n\nDesde la preocupante predicción de que la IA comenzará a \"sentirse poderosa\" cuando deje de cometer errores, hasta la esperanzadora visión de una IA que se preocupe por toda vida sintiente, Sutskever nos ofrece una perspectiva sin hype sobre el futuro inmediato. Además, exploramos cómo la velocidad de aprendizaje ha sido siempre el verdadero motor de la civilización, desde la imprenta hasta la IA, y descubrimos técnicas prácticas con herramientas como Nano Banana para crear imágenes consistentes."
     },
     {
       "guid": "https://podcast.bimpraxis.com/@bimpraxis/episodes/ilya-sutskever-la-ia-sera-un-superaprendiz",
@@ -56,7 +59,8 @@
       "pub_date": "2026-01-03T23:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-la-ia-ser%C3%A1-un-superaprendiz/id1865891204?i=1000743647662&uo=4",
       "itunes_id": 1000743647662,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Análisis de la entrevista con Ilya Sutskever (coautor de ChatGPT y discípulo del Nobel Geoffrey Hinton), quien analiza la transición de la era del escalado masivo hacia una nueva etapa centrada en la investigación cualitativa. Sutskever sostiene que los modelos actuales carecen de la capacidad de generalización humana, por lo que propone el desarrollo de funciones de valor internas que permitan un aprendizaje más eficiente y autónomo. El experto argumenta que la superinteligencia no será un oráculo estático, sino un superaprendiz capaz de dominar cualquier tarea mediante la iteración y el aprendizaje continuo. Asimismo, destaca la importancia de una alineación ética basada en el respeto a la vida sintiente y la necesidad de un despliegue gradual para mitigar riesgos sociales. Finalmente, reflexiona sobre el gusto investigador, sugiriendo que la simplicidad conceptual y la inspiración biológica son claves para superar las limitaciones técnicas actuales del aprendizaje profundo."
     },
     {
       "guid": "substack:post:180620993",
@@ -69,7 +73,8 @@
       "pub_date": "2025-12-03T17:00:16Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/on-dwarkesh-patels-second-interview-with-ilya-sutskever/id1758579881?i=1000739544955&uo=4",
       "itunes_id": 1000739544955,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Podcast episode for On Dwarkesh Patel’s Second Interview With Ilya Sutskever.\n* 00:00 - Introduction\n* 01:47 - Table of Contents\n* 02:19 - Explaining Model Jaggedness\n* 03:58 - Emotions and value functions\n* 05:36 - What are we scaling?\n* 06:47 - Why humans generalize better than models\n* 08:10 - Straight-shooting superintelligence\n* 09:57 - SSI’s model will learn from deployment\n* 10:59 - Alignment\n* 20:03 - “We are squarely an age of research company”\n* 25:15 - Research taste\n* 27:57 - Bonus Coverage: Dwarkesh Patel on AI Progress These Days\nThe Don’t Worry About the Vase Podcast is a listener-supported podcast. To receive new posts and support the cost of creation, consider becoming a free or paid subscriber.\nhttps://open.substack.com/pub/thezvi/p/on-dwarkesh-patels-second-interview?utm_campaign=post-expanded-share&utm_medium=web\n \n\nGet full access to DWAtV Podcast at dwatvpodcast.substack.com/subscribe"
     },
     {
       "guid": "44666dbf-2c39-4452-8770-53f221b5f8d3",
@@ -82,7 +87,8 @@
       "pub_date": "2025-11-28T14:43:05Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-post-scaling-paradigm-and-its/id1811057697?i=1000738799266&uo=4",
       "itunes_id": 1000738799266,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "❤️ To track total market temperature, welcome to search and download iOS App “Buffett Indicator” from Apple App Store.📈 欢迎从Apple Store上下载我们最新开发的市场泡沫监测应用Buffett Indicator，可以每天收到最新的巴菲特指标提醒，快去下载噢!https://apps.apple.com/us/app/buffett-indicator/id6747404614"
     },
     {
       "guid": "f8d5b529-31b7-4ab4-b310-9819ab224ea7",
@@ -95,7 +101,8 @@
       "pub_date": "2025-11-26T17:24:41Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-were-moving-from-the-age-of-scaling/id1802074035?i=1000738555071&uo=4",
       "itunes_id": 1000738555071,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Today, we discuss a podcast conversation between Dwarkesh Patel and Ilya Sutskever, the builder of GPT and now co-founder of SSI, regarding the trajectory of artificial intelligence. Sutskever asserts that the AI industry is moving past the **\"age of scaling\"**—where merely increasing data and compute yielded reliable gains—and returning to an **\"age of research\"** driven by new foundational ideas. The central technical challenge highlighted is that current AI **models generalize dramatically worse than humans**, a fragility evidenced by the models' high performance on evaluations contrasted with real-world errors. To address this, future research must focus on solving **generalization** and improving the efficiency of reinforcement learning through the development of robust **value functions**, which he compares to the role of emotions in human decision-making. Sutskever outlines SSI’s unique strategy as prioritizing this deep **research** to build a future superintelligence that is designed for continual learning and is **robustly aligned** to care about sentient life."
     },
     {
       "guid": "7ca364af-0030-40de-a0b9-d3308a717411",
@@ -108,7 +115,8 @@
       "pub_date": "2025-11-26T07:44:46Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-on-ai-transitioning-from-scaling-to/id1785204769?i=1000738488930&uo=4",
       "itunes_id": 1000738488930,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Ilya Sutskever, a leading figure in AI and CEO of SSI, declared that the \"age of scaling\" is ending, marking a return to the \"age of research\". He outlines the most fundamental bottleneck facing modern AI: the severe lack of generalization compared to human learning.Sutskever explores the paradox of today's models that \"seem smarter than their economic impact would imply\"and discusses two possible explanations for this disconnect, including human researchers inadvertently focused on \"reward hacking\" the evals.The conversation delves into the future path for AI development:\n• Continual Learning: Sutskever argues that AGI defined as a finished mind that knows how to do every job is incorrect; instead, the goal is a system that can learn rapidly and continually, similar to a human.\n• ML Analogies for the Human Mind: The role of evolution in providing useful priors, and the function of emotions as an evolutionary value function that modulates decision-making in people.\n• SSI Strategy: Sutskever explains SSI's mission to focus on research and pursue a technical approach designed to ensure a powerful AI is aligned and robustly configured to care for sentient life.\n• Research Taste: The discussion concludes with Sutskever defining his personal approach to research, guided by an aesthetic of \"beauty and simplicity,\" and drawing \"correct inspiration from the brain\"."
     },
     {
       "guid": "6926a2b1f8a9e1d1627f8cc4",
@@ -121,7 +129,8 @@
       "pub_date": "2025-11-26T06:56:05Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-%E4%BB%8E%E8%A7%84%E6%A8%A1%E5%8C%96%E6%97%B6%E4%BB%A3%E8%BF%88%E5%90%91%E7%A0%94%E7%A9%B6%E6%97%B6%E4%BB%A3-2025/id1889829123?i=1000758635563&uo=4",
       "itunes_id": 1000758635563,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "OpenAI前首席科学家Ilya Sutskever最新访谈（Ilya Sutskever – We're moving from the age of scaling to the age of research，www.youtube.com ）\nllya认为，AI行业正经历一个关键的转折点，即从依赖资源投入的“规模化时代”回归到寻求根本性创新的“研究时代”。他强调，解决AI的泛化能力不足是当前最核心的挑战，并提出了对未来超级智能形态、安全对齐策略以及行业发展路径的深刻见解。\n关键要点  行业范式转变： 人工智能行业正从以扩大数据和计算规模为核心的“规模化时代”（约2020-2025年），重新回归到以探索基础性突破为目标的“研究时代”。  核心技术瓶颈： 当前AI模型最根本的局限在于泛化能力不足。模型在评估基准上表现优异，但在现实世界中的应用效果和经济影响却严重滞后，其根本原因在于模型对特定任务和评估指标的“过度拟合”。  人类学习的优越性： 人类学习之所以高效且稳健，关键在于拥有一个与生俱来的、强大的内部“价值函数”（如情感、直觉和常识），它为决策提供持续的内在反馈，这是当前AI系统所缺乏的。  超级智能新定义： 未来的超级智能不应被视为一个无所不知的“成品”，而应是一个拥有超凡学习能力的“持续学习者”。它能像人类一样通过实践学习新技能，但速度更快、效率更高，并能在不同个体间整合经验。  部署策略的演变： 逐步、渐进地向公众部署能力越来越强的人工智能系统，对于提升系统安全性（通过真实世界反馈迭代）和帮助社会适应其带来的变革至关重要。这比直接构建并发布最终形态的超级智能更为稳妥。  对齐的终极目标： 建立一个能够稳健地“关爱所有感知生命”的AI，可能比仅使其“关爱人类”更易实现且更稳定。因为AI自身也将具备感知能力，这种更广泛的同理心可能是一种自发涌现的特性。在小宇宙查看该单集文稿"
     },
     {
       "guid": "69265ba5f8a9e1d162716231",
@@ -134,7 +143,8 @@
       "pub_date": "2025-11-26T01:46:26Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/337-ai%E7%9A%84%E4%B8%8B%E4%B8%80%E7%A8%8B-ilya-sutskever%E8%B0%88%E4%BB%8E-%E8%A7%84%E6%A8%A1%E5%8C%96-%E5%88%B0-%E7%A0%94%E7%A9%B6-%E6%97%B6%E4%BB%A3-%E4%BB%A5%E5%8F%8A%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AA%E6%9D%A5/id1850900599?i=1000738454563&uo=4",
       "itunes_id": 1000738454563,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "📝 本期播客简介\n本期我们克隆了备受瞩目的《The Dwarkesh Podcast》中，主持人Dwarkesh Patel与OpenAI联合创始人、现SSI（安全超级智能公司）联合创始人Ilya Sutskever的深度对话。Ilya Sutskever，这位被誉为AI领域“品味最佳”的研究者，与我们共同探讨了人工智能的未来走向。他提出，AI正从“规模化时代”迈向“研究时代”，单纯的算力堆叠已不再是唯一答案。我们深入剖析了AI与人类学习能力之间的巨大“泛化鸿沟”，为何AI在评测中表现优异，经济影响却滞后？人类如何以更少的样本、更强的鲁棒性学习？Ilya分享了他对人类“价值函数”（情感）在决策中的作用的独特见解，并暗示了人类学习背后可能存在的“更好的机器学习能力”。他还阐述了SSI的独特技术路线，以及他对于“一步到位”实现超级智能策略的最新思考。对话中，Ilya大胆预测了未来5到25年内，能像人类一样学习并因此变得超人的AI将出现，并探讨了这种强大AI的部署方式、经济影响以及如何确保其“关心所有有情生命”的对齐难题。这不仅是一场关于技术前沿的探讨，更是一次对智能本质、未来社会形态的哲学思辨。\n翻译克隆自：Ilya Sutskever – We're moving from the age of scaling to the age of research\n👨‍⚕️ 本期嘉宾\nIlya Sutskever，OpenAI联合创始人，现SSI（安全超级智能公司）联合创始人。他被誉为AI领域“品味最佳”的研究者，是深度学习领域的领军人物，对AI的理论和实践发展产生了深远影响。\n⏱️ 时间戳\n00:00 开场 & 播客简介\nAI现状与经济影响的困惑\n02:06 AI的“科幻”现实与日常感：AI投资巨大，但普通人感受不深\n03:52 AI评测表现与经济影响的脱节：模型表现优异，但实际经济价值滞后\n04:25 AI编程中的“bug循环”现象：模型修复一个bug却引入另一个，反复循环\nAI泛化鸿沟与训练方法\n05:06 强化学习的局限性：视野狭窄与评测导向，导致真实世界表现不佳\n08:12 人类学习的类比：专注训练与天赋泛化，AI更像前者\n10:31 预训练的优势与局限：数据量庞大但难以分析，人类学习无对应模式\n人类智能的奥秘：情感与价值函数\n12:42 人类学习的样本效率与进化先验：进化赋予人类关键信息，学习效率高\n13:08 情感作为“价值函数”的角色：大脑受损案例揭示情感在决策中的重要性\n18:01 情感的简单性与鲁棒性：情感机制虽简单，却能广泛适应现代社会\nAI发展趋势：从“规模化”到“研究”时代\n19:20 “扩展”范式的兴起与局限：单纯扩大规模不再是唯一答案\n20:58 数据耗尽与算力瓶颈：预训练数据有限，未来需新方法\n21:15 重回研究时代：AI发展进入需要新思想和新方法的阶段\n泛化能力：AI与人类学习的核心差异\n24:07 AI泛化能力的根本性问题：模型在泛化能力上远不如人类\n25:04 人类学习的样本效率与鲁棒性：人类学习所需数据少，且更稳定\n28:02 人类“更好的机器学习能力”：语言、数学、编程等领域展现人类学习的通用性\nSSI的独特路径与“一步到位”策略\n31:09 研究时代的氛围与算力需求：研究不一定需要最大规模算力\n35:01 SSI的资金与研究资源分配：专注于研究，资源利用更高效\n37:09 “一步到位”超级智能的思考：隔离市场竞争，但需逐步展示AI能力\n超级智能的部署与社会影响\n43:52 逐步部署与公众适应：即使“一步到位”也需渐进式发布\n45:04 “通用AI”与“预训练”的概念反思：人类并非通用AI，依赖持续学习\n46:42 超级智能的经济增长与“智能爆炸”：快速学习AI可能带来经济飞跃\n50:54 AI安全：构建关心“所有有情生命”的AI，而非仅限于人类\n未来展望：多AI共存与人类角色\n53:09 超级智能的形态：可能是多个强大AI，而非单一“神”\n57:41 人类与AI的融合：通过“神经连接”实现共存与平衡\n58:47 Sardine广告\nSSI的差异化与未来预测\n01:00:10 SSI的技术路线与研究重点：专注于有前景的泛化想法\n01:01:18 前联合创始人的离职背景：因收购提议与公司战略分歧\n01:02:08 AI发展的时间表：5到25年内出现类人学习的超人AI\n01:04:34 AI公司策略的趋同：随着AI强大，各公司将在安全策略上达成一致\nAI多样性与研究品味\n01:09:14 AI模型相似性与多样性缺失：预训练导致模型同质化\n01:11:09 自我对弈与对抗性设置：促进AI多样性和学习效率\n01:13:12 Ilya的“研究品味”：受大脑启发的美学与自上而下的信念\n01:15:34 播客结束\n🌟 精彩内容\n💡 AI的“泛化鸿沟”与“研究时代”的回归\nIlya Sutskever指出，当前AI在基准测试中表现优异，但实际经济影响滞后，这源于AI与人类学习之间巨大的“泛化鸿沟”。他认为，我们正从单纯追求“规模化”的时代，重新回到需要新思想和新方法的“研究时代”，以解决AI在泛化能力上的根本性问题。\n“这些模型更像是第一个学生，甚至有过之而无不及。因为我们会说：‘好，模型应该擅长编程竞赛。’于是我们就去搜集有史以来所有的编程竞赛题目，然后做一些数据增强……这样一来，你就得到了一个非常厉害的编程竞赛选手。”\n🧠 人类情感：AI“价值函数”的奥秘\nIlya通过一个大脑情感中枢受损的案例，阐释了人类情感在决策中扮演的“价值函数”角色。他认为，情感虽然相对简单，但其鲁棒性对于人类在复杂世界中有效行动至关重要。这暗示了AI未来发展可能需要内置类似机制，以实现更深层次的智能。\n“人类的价值函数在某种重要方式上，是被进化硬编码的情感所调节的。而这对于人类在世界上有效行动，可能至关重要。”\n🚀 SSI的独特路径：“一步到位”与“持续学习”的融合\nIlya分享了SSI在实现超级智能上的策略，既考虑了“一步到位”的优势（隔绝市场竞争，专注于研究），也认识到逐步部署和“持续学习”的重要性。他认为，未来的超级智能可能更像一个“渴望学习的十五岁少年”，而非一个已完成所有知识储备的实体，其部署本身将是一个学习和试错的过程。\n“我可能制造出一个超级智能的十五岁少年，他非常渴望学习，但其实懂得不多。他是个好学生，充满热情。然后你对他说：‘你去当个程序员吧’，‘你去当个医生吧’，‘去学习吧’。”\n🤝 AI对齐的终极目标：“关心所有有情生命”\n面对超级智能的巨大力量，Ilya提出了一个大胆的对齐目标：构建一个能够稳健地、发自内心地“关心所有有情生命”的AI。他认为，这可能比仅仅让AI关心人类更容易实现，因为AI本身也将是有情的，这种同情心可能是一种涌现属性。\n“具体来说，我认为有理由相信，构建一个关心所有有情生命的AI，可能比构建一个只关心人类的AI更容易。”\n🔮 AI的未来预测：5到25年内，人类将与“半AI”共存\nIlya预测，在未来5到25年内，能像人类一样学习并因此变得超人的AI将出现。他设想的未来可能不是单一的“神级”AI，而是多个强大的AI agent共存。为了实现长期的平衡，他甚至提出人类可能需要通过某种“神经连接++”的方式，让自己也成为“半个AI”，从而与AI共同理解和参与世界。\n“那就是，如果人们通过某种‘神经连接++’之类的东西，自己也变成半个AI。因为这样一来，当AI理解了某件事，我们也同时理解了，因为这种理解是整体传输的。”\n🌐 播客信息补充\n本播客采用原有人声声线进行播客音频制作，也可能会有一些地方听起来怪怪的\n使用 AI 进行翻译，因此可能会有一些地方不通顺；\n如果有后续想要听中文版的其他外文播客，也欢迎联系微信：iEvenight\n在小宇宙查看该单集文稿"
     },
     {
       "guid": "eb63dd66-e2cf-4f70-838d-6bcfe8faa918",
@@ -147,7 +157,8 @@
       "pub_date": "2025-11-26T01:45:54Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-on-dwarkesh-patel-reaction-nvidias-response/id1772360235?i=1000738454652&uo=4",
       "itunes_id": 1000738454652,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Our favorite moments from today's show, in under 30 minutes. \nTBPN.com is made possible by: Ramp - https://ramp.comFigma - https://figma.comVanta - https://vanta.comLinear - https://linear.appEight Sleep - https://eightsleep.com/tbpnWander - https://wander.com/tbpnPublic - https://public.comAdQuick - https://adquick.comBezel - https://getbezel.com Numeral - https://www.numeralhq.comPolymarket - https://polymarket.comAttio - https://attio.com/tbpnFin - https://fin.ai/tbpnGraphite - https://graphite.devRestream - https://restream.ioProfound - https://tryprofound.comJulius AI - https://julius.aiturbopuffer - https://turbopuffer.comfal - https://fal.aiPrivy - https://privy.ioCognition - https://cognition.aiGemini - https://gemini.google.com\nFollow TBPN: https://TBPN.comhttps://x.com/tbpnhttps://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00?si=674252d53acf4231https://podcasts.apple.com/us/podcast/technology-brothers/id1772360235https://www.youtube.com/@TBPNLive"
     },
     {
       "guid": "substack:post:179924094",
@@ -160,7 +171,8 @@
       "pub_date": "2025-11-25T17:04:02Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-were-moving-from-the-age-of-scaling/id1516093381?i=1000738363711&uo=4",
       "itunes_id": 1000738363711,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Ilya & I discuss SSI’s strategy, the problems with pre-training, how to improve the generalization of AI models, and how to ensure AGI goes well.\nWatch on YouTube; read the transcript.\nSponsors\n* Gemini 3 is the first model I’ve used that can find connections I haven’t anticipated. I recently wrote a blog post on RL’s information efficiency, and Gemini 3 helped me think it all through. It also generated the relevant charts and ran toy ML experiments for me with zero bugs. Try Gemini 3 today at gemini.google\n* Labelbox helped me create a tool to transcribe our episodes! I’ve struggled with transcription in the past because I don’t just want verbatim transcripts, I want transcripts reworded to read like essays. Labelbox helped me generate the exact data I needed for this. If you want to learn how Labelbox can help you (or if you want to try out the transcriber tool yourself), go to labelbox.com/dwarkesh\n* Sardine is an AI risk management platform that brings together thousands of device, behavior, and identity signals to help you assess a user’s risk of fraud & abuse. Sardine also offers a suite of agents to automate investigations so that as fraudsters use AI to scale their attacks, you can use AI to scale your defenses. Learn more at sardine.ai/dwarkesh\nTo sponsor a future episode, visit dwarkesh.com/advertise.\nTimestamps\n(00:00:00) – Explaining model jaggedness\n(00:09:39) - Emotions and value functions\n(00:18:49) – What are we scaling?\n(00:25:13) – Why humans generalize better than models\n(00:35:45) – SSI’s plan to straight-shot superintelligence\n(00:46:47) – SSI’s model will learn from deployment\n(00:55:07) – How to think about powerful AGIs\n(01:18:13) – “We are squarely an age of research company”\n(01:20:23) – Self-play and multi-agent\n(01:32:42) – Research taste\n \n\nGet full access to Dwarkesh Podcast at www.dwarkesh.com/subscribe"
     },
     {
       "guid": "55451af6-a3d5-47d1-9b6f-9312b5083289",
@@ -173,7 +185,8 @@
       "pub_date": "2025-11-03T22:59:12Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/samas-bg2-appearance-ilya-sutskever-deposition-porsche/id1772360235?i=1000735117780&uo=4",
       "itunes_id": 1000735117780,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "TBPN.com is made possible by: \nRamp - https://ramp.com\nFigma - https://figma.com\nVanta - https://vanta.com\nLinear - https://linear.app\nEight Sleep - https://eightsleep.com/tbpn\nWander - https://wander.com/tbpn\nPublic - https://public.com\nAdQuick - https://adquick.com\nBezel - https://getbezel.com \nNumeral - https://www.numeralhq.com\nPolymarket - https://polymarket.com\nAttio - https://attio.com/tbpn\nFin - https://fin.ai/tbpn\nGraphite - https://graphite.dev\nRestream - https://restream.io\nProfound - https://tryprofound.com\nJulius AI - https://julius.ai\nturbopuffer - https://turbopuffer.com\nfal - https://fal.ai\nPrivy - https://www.privy.io\nCognition - https://cognition.ai\nGemini - https://gemini.google.com\n\nFollow TBPN: \nhttps://TBPN.com\nhttps://x.com/tbpn\nhttps://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00?si=674252d53acf4231\nhttps://podcasts.apple.com/us/podcast/technology-brothers/id1772360235\nhttps://www.youtube.com/@TBPNLive"
     },
     {
       "guid": "38a0fdc5-4421-4472-9d47-4266befe5739",
@@ -186,7 +199,8 @@
       "pub_date": "2025-10-31T22:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/marc-andreessen-ilya-sutskever-host-tbpn-mag-7-earnings/id1772360235?i=1000734509043&uo=4",
       "itunes_id": 1000734509043,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "(13:04) - Mag 7 Earnings Recap\n\n(37:12) - 𝕏 Timeline Reactions\n\n(54:11) - WSJ Mansion Section\n\n(01:04:37) - 𝕏 Timeline Reactions\n\n(01:13:12) - Lulu Meservey, founder of the strategic communications firm Rostra, Lulu previously served as CCO & EVP of Corporate Affairs at Activision Blizzard and was VP of Communications at Substack. Gaby Goldberg is a communications professional at Rostra and former investor at The Chernin Group, where she helped build its early-stage crypto practice.\n\n(01:27:08) - Dean Ball, a senior fellow at the Foundation for American Innovation and former Senior Policy Advisor for AI and Emerging Technology at the White House, discusses the evolving landscape of AI regulation, highlighting the interplay between state and federal initiatives, particularly California's proactive stance in the absence of federal action. He emphasizes the challenges in defining and governing superintelligence, noting the lack of scientific consensus and the complexities of global policy coordination. Additionally, Ball addresses the potential for a tech backlash driven by public concerns over job displacement and rising electricity costs associated with AI advancements.\n\n(02:08:19) - Aydin Senkut, founder and managing partner of Felicis Ventures, began his career as Google's first product manager, launching its initial international sites. In the conversation, he recounts his transition from Google to venture capital, highlighting early rejections from firms that doubted his potential as an investor. Undeterred, he founded Felicis Ventures, achieving significant successes with investments in companies like Shopify and Meraki, and emphasizes the importance of resilience and belief in founders when making investment decisions.\n\n(02:34:37) - Jakob Diepenbrock, General Partner at Discipulus Ventures, discusses the recent demo day held in El Segundo, California, where nine companies presented innovations across various sectors, including energy, manufacturing, and software. He highlights a shift from defense-focused startups to ventures addressing broader industrial challenges, emphasizing the potential for disruption in legacy industries. Diepenbrock also notes the importance of building a supportive ecosystem for young founders tackling critical problems.\n\n(02:47:36) - Shreya Murthy is the co-founder and CEO of Partiful, an event planning platform launched in 2020 that has gained significant traction among Gen Z and millennials. In the conversation, she discusses the platform's rapid growth, particularly during Halloween, which she describes as their \"Super Bowl,\" and addresses competition from major players like Apple, emphasizing Partiful's focus on creating fun and engaging event experiences. Murthy also highlights the importance of brand identity in distinguishing Partiful from competitors and shares the company's vision to become the leading platform for real-world social connections as traditional social media shifts towards entertainment.\n\n(03:03:24) - Shishir Mehrotra, CEO of Superhuman, discusses the company's recent rebranding from Grammarly to Superhuman, reflecting their commitment to empowering users with AI-enhanced tools. He introduces \"Superhuman Go,\" a new AI assistant platform that extends Grammarly's technology to integrate proactive AI assistance across various applications. Mehrotra emphasizes their focus on embedding AI seamlessly into users' workflows, distinguishing their approach from other AI services that require user initiation.\n\n(03:10:22) - Karri Saarinen, co-founder and CEO of Linear, discusses the evolution of software development workflows in the context of AI advancements, emphasizing the need to assess and adapt existing processes rather than discarding them entirely. He highlights Linear's commitment to assisting companies in this transition by integrating AI capabilities, such as delegating tasks to tools like GitHub Copilot, enabling non-technical team members to contribute more effectively. Saarinen also reflects on Linear's design philosophy, focusing on functionality and pragmatism to inspire quality and craftsmanship in the software industry.\nTBPN.com is made possible by: Ramp - https://ramp.com\nFigma - https://figma.com\nVanta - https://vanta.com\nLinear - https://linear.app\nEight Sleep - https://eightsleep.com/tbpn\nWander - https://wander.com/tbpn\nPublic - https://public.com\nAdQuick - https://adquick.com\nBezel - https://getbezel.com \nNumeral - https://www.numeralhq.com\nPolymarket - https://polymarket.com\nAttio - https://attio.com/tbpn\nFin - https://fin.ai/tbpn\nGraphite - https://graphite.dev\nRestream - https://restream.io\nProfound - https://tryprofound.com\nJulius AI - https://julius.ai\nturbopuffer - https://turbopuffer.com\nfal - https://fal.ai\nPrivy - https://www.privy.io\nCognition - https://cognition.ai\nGemini - https://gemini.google.com\n\nFollow TBPN: \nhttps://TBPN.com\nhttps://x.com/tbpn\nhttps://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00?si=674252d53acf4231\nhttps://podcasts.apple.com/us/podcast/technology-brothers/id1772360235\nhttps://www.youtube.com/@TBPNLive"
     },
     {
       "guid": "f1682b5f-1497-4fee-9265-b535aa201ee6",
@@ -199,7 +213,8 @@
       "pub_date": "2025-09-09T23:12:23Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskevers-ai-vision-from-deep-learning-dogmas/id1785204769?i=1000725799738&uo=4",
       "itunes_id": 1000725799738,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "The provided sources primarily discuss the speculation surrounding Ilya Sutskever's departure from OpenAI and his subsequent establishment of Safe Superintelligence (SSI), with a strong emphasis on the future of Artificial General Intelligence (AGI). Many sources debate the potential dangers of advanced AI, including scenarios of autonomous systems bypassing government controls or causing widespread societal disruption, and the importance of AI safety and alignment. Sutskever's long-held beliefs in the scaling and autoregression hypotheses for AI development, where large neural networks predicting the next token can lead to human-like intelligence, are highlighted as foundational to his perspective. There's also considerable discussion regarding whether current AI models, like Large Language Models (LLMs), are sufficient for achieving AGI, or if new architectural breakthroughs are necessary, alongside the economic and societal impacts of widespread AI adoption."
     },
     {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
@@ -212,7 +227,8 @@
       "pub_date": "2025-08-22T16:30:11Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-and-jan-leike-resign-from-openai-my-in/id1721855892?i=1000717194133&uo=4",
       "itunes_id": 1000717194133,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Ilya Sutskever and Jan Leike RESIGN from OpenAI - My in-depth analysis - end of an era!\nEpisode release date: 16 May 2024\nSpreading awareness about the works of some of the leading educators in the AI revolution.\n\"Helping humanity shepherd through this transition as we embrace the final invention of mankind: advanced artificial intelligence.\" David Shapiro aims to provide a pragmatic and optimistic view of the future.\nCore Ideas:\nMetamodernism: Narratives and emergence view of reality\nPostnihilism: The demand for meaning is false, there is only the Great Mystery\nHeuristic Imperatives: An ethical, moral, and decision framework.\n- Reduce suffering\n- Increase prosperity\n- Increase understanding\nPost-Labor Economics: Replace humans with machines (better, faster, cheaper, safer)\nmantra:\nEXPLORE: Delve into the unknown, driven by curiosity and a quest for discovery. Seek knowledge.\nELUCIDATE: Make complex ideas clear, communicating them in an accessible and comprehensible manner.\nENUMERATE: Ground insights in concrete data, providing measurable and quantitative evidence.\nELABORATE: Add depth and detail to understanding, weaving comprehensive and nuanced explanations.\nDISCLAIMER: This is a community-driven show. This podcast may contain copyrighted material not owned by AI Masterclass. All copyrighted material in this podcast is believed to be within the bounds of educational purposes.\n\n-------------\nKeywords: singularity, artificial general intelligence, superintelligence, ai masterclass, ai research, ai agents, machine learning\nLearn more about your ad choices. Visit megaphone.fm/adchoices"
     },
     {
       "guid": "innovation-pulse.podbean.com/b086342c-38dc-57fe-8af2-61aec75fdfd6",
@@ -225,7 +241,8 @@
       "pub_date": "2025-07-07T13:24:56Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/startups-pulse-ilya-sutskever-is-the-new-ceo-of/id1721899245?i=1000716179348&uo=4",
       "itunes_id": 1000716179348,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Ilya Sutskever Named CEO of Safe Superintelligence, Aiming for Independence\nNavigating Investment Risks and Opportunities in AI Startups\nGrammarly Acquires Superhuman to Boost AI Email and Communication Productivity\nThe Art of Cold-Emailing Billionaires\n\n#AI, #Startups, #Superintelligence, #Investment, #ColdEmailing, #Grammarly, #Acquisitions"
     },
     {
       "guid": "9b71a91d-f6d2-47b8-b45c-12150660328e",
@@ -238,7 +255,8 @@
       "pub_date": "2025-07-04T18:04:14Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ai-daily-news-july-04-2025-denmark-says-you-own-the/id1684415169?i=1000715750035&uo=4",
       "itunes_id": 1000715750035,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "A daily Chronicle of AI Innovations in July 2025: July 04th 2025\n AI Builder's Toolkit\nHello AI Unraveled Listeners,\nIn today’s AI Daily News,\n🌐 Denmark Says You Own the Copyright to Your Face, Voice & Body\n💬 Meta is testing AI chatbots that can message you first 🧠 OpenAI co-founder Ilya Sutskever now leads Safe Superintelligence\n🍼 AI helps a couple conceive after 18 years\n💬Meta chatbots to message users first\n🏗️ What a real 'AI Manhattan Project' could look like\n👶 A Couple Tried for 18 Years to Get Pregnant — AI Made It Happen\n📉 Microsoft to Cut Up to 9,000 More Jobs as It Doubles Down on AI\n🚓 Arlington County Deploys AI to Handle Non-Emergency 911 Calls Over Holiday\n☢️ AI Helps Discover Optimal New Material to Remove Radioactive Iodine\n\n🛠️ AI Unraveled Builder's Toolkit - Build & Deploy AI Projects—Without the Guesswork: E-Book + Video Tutorials + Code Templates for Aspiring AI Engineers\nStart building today: Get Full access to the AI Unraveled Builder's Toolkit (Videos + Audios + PDFs) at https://djamgatech.myshopify.com/products/%F0%9F%9B%A0%EF%B8%8F-ai-unraveled-the-builders-toolkit-practical-ai-tutorials-projects-e-book-audio-video\n📚Ace the Google Cloud Generative AI Leader Certification\nThis book discuss the Google Cloud Generative AI Leader certification, a first-of-its-kind credential designed for professionals who aim to strategically implement Generative AI within their organizations. 📚The E-Book + audiobook is available at https://djamgatech.com/product/ace-the-google-cloud-generative-ai-leader-certification-ebook-audiobook\n\nAnd before we wrap up today's AI news, I wanted to share an exciting opportunity for those of you looking to advance your careers in the AI space. You know how rapidly the landscape is evolving, and finding the right fit can be a challenge. That's why I'm excited about Mercor – they're a platform specifically designed to connect top-tier AI talent with leading companies. Whether you're a data scientist, machine learning engineer, or something else entirely, Mercor can help you find your next big role. If you're ready to take the next step in your AI career, check them out through my referral link: https://work.mercor.com/?referralCode=82d5f4e3-e1a3-4064-963f-c197bb2c8db1. It's a fantastic resource, and I encourage you to explore the opportunities they have available."
     },
     {
       "guid": "9c5dc64f-7c29-42e2-9d8a-d7be72ee96eb",
@@ -251,7 +269,8 @@
       "pub_date": "2025-07-04T15:12:22Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/engineer-sparks-ethics-debate-ilya-sutskever-leads/id1727160047?i=1000715736525&uo=4",
       "itunes_id": 1000715736525,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "(0:10): Tech Scandal: Engineer Accused of Multi-Startup Moonlighting Sparks Debate on Ethics and Second Chances(2:03): Ilya Sutskever Takes Helm at Safe Superintelligence Amid Talent War with Meta(4:08): CoreWeave Leads AI Revolution with First Deployment of Nvidia Blackwell Ultra Chips(6:43): Apple Eyes Cloud Market, Targets AI-Driven Developer Services with M-Series Chip Advantage(8:43): Apple Q3 2025 Earnings: iPad Sales Surge Amid iPhone Dip; Services ShineTo subscribe visit https://www.brief.news.For more updates in your inbox each morning visit www.brief.news.\nImage credit: ctech"
     },
     {
       "guid": "dd3b8d59-97e0-4dde-bdde-e5730c794664",
@@ -264,7 +283,8 @@
       "pub_date": "2025-07-04T15:07:46Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-leads-safe-superintelligence-ai-revolution/id1718949350?i=1000715736400&uo=4",
       "itunes_id": 1000715736400,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "(0:10): Ilya Sutskever Takes Helm at Safe Superintelligence Amid Talent War with Meta(2:05): AI Revolution Sparks Fear of Massive White-Collar Job Losses, CEOs Urge Workforce Adaptation(4:28): CoreWeave Leads AI Revolution with First Deployment of Nvidia Blackwell Ultra Chips(6:41): Nvidia's Trillion-Dollar Robot: Revolutionizing Logistics with AI-Driven Automation(9:12): Nikola Todorovic to Spotlight AI's Transformative Role in Media at TechCrunch Disrupt 2025To subscribe visit https://www.brief.news.For more updates in your inbox each morning visit www.brief.news.\nImage credit: ctech"
     },
     {
       "guid": "substack:post:166596084",
@@ -277,7 +297,8 @@
       "pub_date": "2025-06-23T13:51:27Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-is-not-a-biological-computer-even-if/id1518398942?i=1000714192151&uo=4",
       "itunes_id": 1000714192151,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Find this episode on YouTube: \nYou are not simply a biological computer. No matter what the latest AI super nerd says. This is an emergency pod - listen up! \n✒ Substack: https://johnheersftf.substack.com/ \nⓧ https://x.com/johnfromftf \n🍷The best dinner party you've ever experienced - Supra Dinner Society: https://supradinner.com/ \n🏖️ Tailormade tours that give back: https://www.gratitude-travels.com/home \n🔎 Discover the non-profit behind Heavy Things Lightly: https://first-things.org/ \n✈ Become a Field Worker with FTF: https://first-things.org/opportunities \n📢 First Things Telegram: https://t.me/firstthingsfoundation \n🥂 Keipi Restaurant: https://keipirestaurant.org \nPlease leave a review with your comments! Your support keeps this podcast alive and allows us to broaden our discussion.\n --- This “Enlightened” New World utopia isn’t turning out to be all it was cracked up to be. Society is disenchanting, but are the only alternatives hiding out in the hills or burying yourself in books? With an air of levity and a touch of humor, John Heers teaches how to examine the confusing New World by calling upon the mind and wisdom of oft-forgotten Old. Heavy Things, Lightly. --- \nCredits Music: Intro / Outro Provided by Greg Gilbertson & Band\n \n\nThis is a public episode. If you'd like to discuss this with other subscribers or get access to bonus episodes, visit johnheersftf.substack.com/subscribe"
     },
     {
       "guid": "9364794e-1284-438e-943c-ada5ef0cf5fb",
@@ -290,7 +311,8 @@
       "pub_date": "2025-06-20T21:14:42Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-%2432-billion-ai-rejection-ilya-sutskever-vs-mark/id1794138079?i=1000713886781&uo=4",
       "itunes_id": 1000713886781,
-      "added_at": "2026-06-06T18:31:07.224008Z"
+      "added_at": "2026-06-06T18:31:07.224008Z",
+      "description": "Breaking: OpenAI co-founder Ilya Sutskever just turned down Mark Zuckerberg's $32 billion offer to acquire Safe Superintelligence Inc. T\nhis massive AI startup rejection reveals the billion-dollar battle between artificial intelligence safety and rapid commercialization.\nDiscover why the former OpenAI chief scientist walked away from tech's biggest acquisition attempt in 2025. We break down Sutskever's journey from Soviet refugee to AI safety pioneer, SSI's revolutionary approach to artificial general intelligence, and what this rejection means for the future of superintelligence development.\nKey topics: AI startup funding, Meta's aggressive acquisition strategy, artificial intelligence safety vs commercialization, OpenAI exodus, venture capital in AI, and the $32 billion valuation that's reshaping Silicon Valley. \nPerfect for entrepreneurs, tech investors, AI researchers, and startup founders following the AGI arms race.\n#ArtificialIntelligence #AIStartup #TechNews #VentureCapital #OpenAI #Meta #StartupFunding #AISafety #TechPodcast #Innovation"
     }
   ]
 }

@@ -54,6 +54,22 @@
       "queries": ["Jensen Huang"],
       "wikimedia": "Jensen Huang",
       "feed_blocklist": []
+    },
+    {
+      "id": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "aliases": ["steinberger", "steipete"],
+      "title": "Founder of PSPDFKit",
+      "queries": ["Peter Steinberger"],
+      "wikimedia": "Peter Steinberger"
+    },
+    {
+      "id": "sean-parent",
+      "name": "Sean Parent",
+      "aliases": ["sean parent"],
+      "title": "C++ luminary",
+      "queries": ["Sean Parent"],
+      "wikimedia": "Sean Parent"
     }
   ]
 }
