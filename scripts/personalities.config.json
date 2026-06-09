@@ -79,6 +79,33 @@
       "queries": ["Elon Musk"],
       "wikimedia": "Elon Musk",
       "feed_blocklist": ["the elon musk update", "elon musk thinking", "elon musk podcast", "ihip news", "daily elon"]
+    },
+    {
+      "id": "fei-fei-li",
+      "name": "Fei-Fei Li",
+      "aliases": ["fei-fei li", "fei fei li", "feifei li", "fei-fei"],
+      "title": "Godmother of AI",
+      "queries": ["Fei-Fei Li"],
+      "wikimedia": "Fei-Fei Li",
+      "feed_blocklist": ["get the check", "biography flash"]
+    },
+    {
+      "id": "lisa-su",
+      "name": "Lisa Su",
+      "aliases": ["lisa su", "dr. lisa su"],
+      "title": "AMD CEO",
+      "queries": ["Lisa Su"],
+      "wikimedia": "Lisa Su",
+      "feed_blocklist": ["biography flash", "100 success stories", "the arvid pod", "smarttechcheck", "matter of fact"]
+    },
+    {
+      "id": "mira-murati",
+      "name": "Mira Murati",
+      "aliases": ["mira murati", "murati"],
+      "title": "Thinking Machines CEO",
+      "queries": ["Mira Murati"],
+      "wikimedia": "Mira Murati",
+      "feed_blocklist": ["biography flash", "ai fire daily", "daily ai", "ai brief", "ai unraveled", "brianbot", "gen zeo", "blocknews", "tokenizados", "bad boys", "life bond", "patchperfect", "aw med ai", "künstlich intelligent", "startup insider", "the information's titv", "top tech", "le centre de gravité", "intelligence artificielle générale", "ai daily"]
     }
   ]
 }

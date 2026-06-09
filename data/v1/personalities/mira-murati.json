@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "id": "mira-murati",
+  "name": "Mira Murati",
+  "title": "Thinking Machines CEO",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=bde53b1d",
+  "updatedAt": "2026-06-09",
+  "episodes": [
+    {
+      "guid": "624f38e5-8d22-4280-a6ff-a3bab7d8dd00",
+      "title": "Ep: 236- Boys Club Live: Mira Murati's Thinking Machine demo, Hantavirus Conspiracy, Jake Shane/Kacey Musgraves Moment, Musk/Altman court case, with co-host Quasimatt and guests Rubén Steckel (AirTM), Prince Boucher (LumaAI),  Sahil Goswami (Dart Bank)",
+      "podcast_title": "Boys Club",
+      "description": "00:00 Welcome to Boys' Club\n 01:32 Show Me Your Stack\n 02:21 QuasiMatt Doxxing Bit\n 04:24 Thinking Machine Demo\n 13:06 Altman Texts and Lawsuit\n 16:43 Kacey Musgraves Discourse\n 23:14 Rubén Steckel Joins\n 24:47 Stablecoins Go Mainstream\n 29:48 Local Stablecoins 101\n 33:11 Stablecoins In The US\n 34:40 Institutional Tailwinds\n 36:51 AirTM Wallet Vision\n 38:06 Tala Loan Partnership\n 41:22 What Payments Lack\n 43:59 Hantavirus Conspiracy\n 50:59 Meet Prince From Luma AI\n 51:56 How Luma Works\n 56:06 Enterprise Adoption Fears\n 01:01:55 Slop Cannon Culture\n 01:06:10 Intentional Slop Debate\n 01:06:43 Inside the Creative Summit\n 01:07:25 AI Unlocks VFX Creativity\n 01:09:59 Mission Athletic Club Story\n 01:11:38 Designing Club Merch\n 01:12:04 Luma Model Stress Tests\n 01:12:34 Why Tools Empower Creatives\n 01:13:27 Show Me Your Stack Plug\n 01:15:10 Farza and Clicky Clip\n 01:19:41 New Segment Cash Tips, guest Sahil Goswammi\n 01:21:04 Sahil's Crypto Banking Path\n 01:24:10 Clarity Act Breaking News\n 01:26:02 Stablecoin Yield Fight\n 01:34:27 Future of Money Programmable\n 01:36:37 Agentic Payments and Stables\n 01:40:49 One Minute Cash Tip\n 01:42:25 Wrap Up and Sign Off",
+      "feed_url": "https://rss.libsyn.com/shows/407666/destinations/3373115.xml",
+      "audio_url": "https://traffic.libsyn.com/secure/6fa77ce4-1fe7-4b9c-a3a0-8ad86aa3e515/5.14.26_livestream_-_full_ep.mp4?dest-id=3373115",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/04/a2/4c04a241-2e84-3579-7803-034da95d1318/mza_13786579046651013105.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/04/a2/4c04a241-2e84-3579-7803-034da95d1318/mza_13786579046651013105.png/600x600bb.jpg",
+      "collection_id": 1616327892,
+      "duration": 6161,
+      "pub_date": "2026-05-14T22:34:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ep-236-boys-club-live-mira-muratis-thinking-machine/id1616327892?i=1000767836328&uo=4",
+      "itunes_id": 1000767836328,
+      "added_at": "2026-06-09T19:25:53.673692Z"
+    }
+  ]
+}

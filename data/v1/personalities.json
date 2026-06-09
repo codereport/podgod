@@ -114,6 +114,47 @@
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
       "episode_count": 4,
       "handle_entity_id": null
+    },
+    {
+      "id": "fei-fei-li",
+      "name": "Fei-Fei Li",
+      "aliases": [
+        "fei-fei li",
+        "fei fei li",
+        "feifei li",
+        "fei-fei"
+      ],
+      "title": "Godmother of AI",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=0c3ef377",
+      "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
+      "episode_count": 15,
+      "handle_entity_id": null
+    },
+    {
+      "id": "lisa-su",
+      "name": "Lisa Su",
+      "aliases": [
+        "lisa su",
+        "dr. lisa su"
+      ],
+      "title": "AMD CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=983e23cd",
+      "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
+      "episode_count": 21,
+      "handle_entity_id": null
+    },
+    {
+      "id": "mira-murati",
+      "name": "Mira Murati",
+      "aliases": [
+        "mira murati",
+        "murati"
+      ],
+      "title": "Thinking Machines CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=bde53b1d",
+      "feed_url": "https://podgod.ca/data/v1/personalities/mira-murati.json",
+      "episode_count": 1,
+      "handle_entity_id": null
     }
   ]
 }

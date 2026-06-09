@@ -34,5 +34,17 @@
   "elon-musk": {
     "local_photo": "scripts/photos/elon-musk.jpg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "fei-fei-li": {
+    "local_photo": "scripts/photos/fei-fei-li.jpg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "lisa-su": {
+    "local_photo": "scripts/photos/lisa-su.avif",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "mira-murati": {
+    "local_photo": "scripts/photos/mira-murati.jpeg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }
