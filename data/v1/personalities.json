@@ -40,6 +40,19 @@
       "handle_entity_id": null
     },
     {
+      "id": "courtney-dauwalter",
+      "name": "Courtney Dauwalter",
+      "aliases": [
+        "courtney dauwalter",
+        "dauwalter"
+      ],
+      "title": "Ultramarathon champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
+      "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
+      "episode_count": 11,
+      "handle_entity_id": null
+    },
+    {
       "id": "demis-hassabis",
       "name": "Demis Hassabis",
       "aliases": [

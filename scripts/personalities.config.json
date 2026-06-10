@@ -47,6 +47,23 @@
       ]
     },
     {
+      "id": "courtney-dauwalter",
+      "name": "Courtney Dauwalter",
+      "aliases": [
+        "courtney dauwalter",
+        "dauwalter"
+      ],
+      "title": "Ultramarathon champion",
+      "queries": [
+        "Courtney Dauwalter"
+      ],
+      "wikimedia": "Courtney Dauwalter",
+      "feed_blocklist": [
+        "audio biography",
+        "biography flash"
+      ]
+    },
+    {
       "id": "demis-hassabis",
       "name": "Demis Hassabis",
       "aliases": [
