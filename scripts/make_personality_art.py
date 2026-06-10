@@ -327,19 +327,21 @@ def compose(name: str, subject: Image.Image, grayscale: bool = True) -> Image.Im
     subj = autocrop_alpha(subject)
     if grayscale:
         subj = to_grayscale(subj)
-    # Scale the subject to ~78% of canvas height, anchored to the bottom so the
-    # face sits in the upper-middle and the name has room below.
-    target_h = int(CANVAS * 0.80)
+    # Scale the subject to fill ~92% of the canvas height, anchored to the bottom.
+    # Wider-than-canvas cutouts (head + broad shoulders) bleed off the sides
+    # rather than being shrunk to fit, so the face stays large and the art fills
+    # the frame. (No top-left logo badge to leave room for anymore.) The name
+    # sits over the lower portion with a scrim for legibility.
+    target_h = int(CANVAS * 0.92)
     scale = target_h / subj.height
-    target_w = int(subj.width * scale)
-    if target_w > CANVAS:
-        scale = CANVAS / subj.width
-        target_w = CANVAS
-        target_h = int(subj.height * scale)
+    target_w = max(1, int(subj.width * scale))
     subj = subj.resize((target_w, target_h), Image.LANCZOS)
-    sx = (CANVAS - target_w) // 2
+    sx = (CANVAS - target_w) // 2  # may be negative -> shoulders bleed off-frame
     sy = CANVAS - target_h
-    canvas.alpha_composite(subj, (sx, sy))
+    # Paste onto a full-canvas layer (paste clips negative offsets) then composite.
+    subj_layer = Image.new("RGBA", (CANVAS, CANVAS), (0, 0, 0, 0))
+    subj_layer.paste(subj, (sx, sy), subj)
+    canvas.alpha_composite(subj_layer)
 
     # Bottom scrim for text legibility.
     scrim = Image.new("L", (CANVAS, CANVAS), 0)

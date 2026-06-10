@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -9,35 +9,9 @@
         "karpathy"
       ],
       "title": "AI researcher",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=b486c750",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
       "episode_count": 19,
-      "handle_entity_id": null
-    },
-    {
-      "id": "geoffrey-hinton",
-      "name": "Geoffrey Hinton",
-      "aliases": [
-        "hinton",
-        "geoff hinton"
-      ],
-      "title": "Godfather of AI",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=1707f551",
-      "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 26,
-      "handle_entity_id": "geoffrey-hinton"
-    },
-    {
-      "id": "ilya-sutskever",
-      "name": "Ilya Sutskever",
-      "aliases": [
-        "sutskever",
-        "ilya"
-      ],
-      "title": "AI researcher",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=6c0f5908",
-      "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
-      "episode_count": 22,
       "handle_entity_id": null
     },
     {
@@ -47,7 +21,7 @@
         "cherny"
       ],
       "title": "Creator of Claude Code",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=57cf742d",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
       "feed_url": "https://podgod.ca/data/v1/personalities/boris-cherny.json",
       "episode_count": 17,
       "handle_entity_id": null
@@ -59,47 +33,9 @@
         "hassabis"
       ],
       "title": "DeepMind CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=19c32a10",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
       "episode_count": 37,
-      "handle_entity_id": null
-    },
-    {
-      "id": "jensen-huang",
-      "name": "Jensen Huang",
-      "aliases": [
-        "jensen huang",
-        "jensen"
-      ],
-      "title": "NVIDIA CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=0f28592f",
-      "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 32,
-      "handle_entity_id": null
-    },
-    {
-      "id": "peter-steinberger",
-      "name": "Peter Steinberger",
-      "aliases": [
-        "steinberger",
-        "steipete"
-      ],
-      "title": "Founder of PSPDFKit",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=d09d6cf7",
-      "feed_url": "https://podgod.ca/data/v1/personalities/peter-steinberger.json",
-      "episode_count": 37,
-      "handle_entity_id": null
-    },
-    {
-      "id": "sean-parent",
-      "name": "Sean Parent",
-      "aliases": [
-        "sean parent"
-      ],
-      "title": "C++ luminary",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=6adb2f2a",
-      "feed_url": "https://podgod.ca/data/v1/personalities/sean-parent.json",
-      "episode_count": 4,
       "handle_entity_id": null
     },
     {
@@ -110,7 +46,7 @@
         "elon"
       ],
       "title": "Tesla & SpaceX CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=89e13547",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
       "episode_count": 4,
       "handle_entity_id": null
@@ -125,9 +61,48 @@
         "fei-fei"
       ],
       "title": "Godmother of AI",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=0c3ef377",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
       "episode_count": 15,
+      "handle_entity_id": null
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "Geoffrey Hinton",
+      "aliases": [
+        "hinton",
+        "geoff hinton"
+      ],
+      "title": "Godfather of AI",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
+      "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
+      "episode_count": 26,
+      "handle_entity_id": "geoffrey-hinton"
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "aliases": [
+        "sutskever",
+        "ilya"
+      ],
+      "title": "AI researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
+      "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
+      "episode_count": 22,
+      "handle_entity_id": null
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "aliases": [
+        "jensen huang",
+        "jensen"
+      ],
+      "title": "NVIDIA CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
+      "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
+      "episode_count": 33,
       "handle_entity_id": null
     },
     {
@@ -138,7 +113,7 @@
         "dr. lisa su"
       ],
       "title": "AMD CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=983e23cd",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
       "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
       "episode_count": 21,
       "handle_entity_id": null
@@ -151,9 +126,34 @@
         "murati"
       ],
       "title": "Thinking Machines CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=bde53b1d",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
       "feed_url": "https://podgod.ca/data/v1/personalities/mira-murati.json",
       "episode_count": 1,
+      "handle_entity_id": null
+    },
+    {
+      "id": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "aliases": [
+        "steinberger",
+        "steipete"
+      ],
+      "title": "Founder of PSPDFKit",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
+      "feed_url": "https://podgod.ca/data/v1/personalities/peter-steinberger.json",
+      "episode_count": 37,
+      "handle_entity_id": null
+    },
+    {
+      "id": "sean-parent",
+      "name": "Sean Parent",
+      "aliases": [
+        "sean parent"
+      ],
+      "title": "C++ luminary",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=dbc9fded",
+      "feed_url": "https://podgod.ca/data/v1/personalities/sean-parent.json",
+      "episode_count": 4,
       "handle_entity_id": null
     }
   ]
