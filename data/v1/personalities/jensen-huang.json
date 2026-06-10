@@ -4,8 +4,24 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=0f28592f",
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "episodes": [
+    {
+      "guid": "0fae4dc4-6456-11f1-9180-3f07b7c1bee8",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "podcast_title": "Training Data",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from retrieval, where data centers store files we look up, to generation, where every word, image, and video is produced in real time and customized for whoever is asking. He explains why NVIDIA's AI factories are the dynamos of this era: machines that take in electrons and send out tokens of intelligence, just as Siemens' dynamo once turned motion into electricity. Jensen frames intelligence as the third force to \"cocoon\" the planet after electricity and the internet. He describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles the fear that AI will erase jobs, using radiology and software engineering to show how automation raised labor demand instead of killing it. His bottom line: you won't lose your job to AI, but you might lose it to someone who uses AI.\n\nHosted by Konstantine Buhler, Sequoia Capital",
+      "feed_url": "https://feeds.megaphone.fm/trainingdata",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI2705410687.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/90/cc/dc90cc93-154a-3aaf-c2e0-76a0e7ea6168/mza_10106777445263047290.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/90/cc/dc90cc93-154a-3aaf-c2e0-76a0e7ea6168/mza_10106777445263047290.png/600x600bb.jpg",
+      "collection_id": 1750736528,
+      "duration": 2480,
+      "pub_date": "2026-06-10T09:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/live-jensen-huang-on-building-the-dynamo-of/id1750736528?i=1000772003925&uo=4",
+      "itunes_id": 1000772003925,
+      "added_at": "2026-06-10T16:55:41.976416Z"
+    },
     {
       "guid": "adb83d06-992d-4b8d-bc71-d4dd402ff5ec",
       "title": "Jensen Huang: AI Revolution Ka Sabse Powerful Insaan Kaun?",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -74,7 +74,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=0f28592f",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 32,
+      "episode_count": 33,
       "handle_entity_id": null
     },
     {
@@ -127,7 +127,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=0c3ef377",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 15,
+      "episode_count": 16,
       "handle_entity_id": null
     },
     {

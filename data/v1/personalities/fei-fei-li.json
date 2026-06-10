@@ -4,8 +4,24 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=0c3ef377",
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "episodes": [
+    {
+      "guid": "20260609",
+      "title": "Fei-Fei Li sobre World Models, Gemma4 12b encoder-free, Cerebro humano y next token prediction",
+      "podcast_title": "Inteligencia Artificial Semanal",
+      "description": "Vídeo de dron entrenado con RL vs. campeón humano: aquí.\n          Un podcast de Gargoyles Devon (gargoylesdevon@gmail.com)Podcast: https://pod.link/1723256857 | Youtube: https://www.youtube.com/channel/UC4ewDq9cCPd9eqA88M6yvEQ",
+      "feed_url": "https://podcast.lamesalimon.com/lamesalimon.xml",
+      "audio_url": "https://podcast.lamesalimon.com/episodes/podcast_20260609.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ae/75/90/ae7590ce-800f-3654-f044-be00806a2217/mza_16500072465733122649.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ae/75/90/ae7590ce-800f-3654-f044-be00806a2217/mza_16500072465733122649.png/600x600bb.jpg",
+      "collection_id": 1723256857,
+      "duration": 3985,
+      "pub_date": "2026-06-09T20:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-sobre-world-models-gemma4-12b-encoder-free/id1723256857?i=1000771948137&uo=4",
+      "itunes_id": 1000771948137,
+      "added_at": "2026-06-10T16:55:41.976416Z"
+    },
     {
       "guid": "5444eb2a-7c0a-48ee-9320-b730ed84af8a",
       "title": "Fei-Fei Li, World Models, Deep Seeks Modelle in den Modellen und starke KI Start-Ups aus Österreich",
