@@ -27,6 +27,19 @@
       "handle_entity_id": null
     },
     {
+      "id": "cole-hocker",
+      "name": "Cole Hocker",
+      "aliases": [
+        "cole hocker",
+        "hocker"
+      ],
+      "title": "Olympic 1500m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/cole-hocker.png?v=b835672c",
+      "feed_url": "https://podgod.ca/data/v1/personalities/cole-hocker.json",
+      "episode_count": 23,
+      "handle_entity_id": null
+    },
+    {
       "id": "demis-hassabis",
       "name": "Demis Hassabis",
       "aliases": [
@@ -78,6 +91,18 @@
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
       "episode_count": 26,
       "handle_entity_id": "geoffrey-hinton"
+    },
+    {
+      "id": "grant-fisher",
+      "name": "Grant Fisher",
+      "aliases": [
+        "grant fisher"
+      ],
+      "title": "Olympic distance runner",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/grant-fisher.png?v=6f8afe5e",
+      "feed_url": "https://podgod.ca/data/v1/personalities/grant-fisher.json",
+      "episode_count": 20,
+      "handle_entity_id": null
     },
     {
       "id": "ilya-sutskever",

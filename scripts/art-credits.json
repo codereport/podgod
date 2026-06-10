@@ -46,5 +46,13 @@
   "mira-murati": {
     "local_photo": "scripts/photos/mira-murati.jpeg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "cole-hocker": {
+    "local_photo": "scripts/photos/cole-hocker.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "grant-fisher": {
+    "local_photo": "scripts/photos/grant-fisher.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }

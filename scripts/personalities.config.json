@@ -30,6 +30,23 @@
       "wikimedia": "Boris Cherny"
     },
     {
+      "id": "cole-hocker",
+      "name": "Cole Hocker",
+      "aliases": [
+        "cole hocker",
+        "hocker"
+      ],
+      "title": "Olympic 1500m champion",
+      "queries": [
+        "Cole Hocker"
+      ],
+      "wikimedia": "Cole Hocker",
+      "feed_blocklist": [
+        "audio biography",
+        "biography flash"
+      ]
+    },
+    {
       "id": "demis-hassabis",
       "name": "Demis Hassabis",
       "aliases": [
@@ -93,6 +110,22 @@
       ],
       "wikimedia": "Geoffrey Hinton",
       "handle_entity_id": "geoffrey-hinton"
+    },
+    {
+      "id": "grant-fisher",
+      "name": "Grant Fisher",
+      "aliases": [
+        "grant fisher"
+      ],
+      "title": "Olympic distance runner",
+      "queries": [
+        "Grant Fisher"
+      ],
+      "wikimedia": "Grant Fisher",
+      "feed_blocklist": [
+        "audio biography",
+        "biography flash"
+      ]
     },
     {
       "id": "ilya-sutskever",
