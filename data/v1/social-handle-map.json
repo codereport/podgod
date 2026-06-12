@@ -1,8 +1,36 @@
 {
-  "version": 2,
-  "updatedAt": "2026-06-06",
+  "version": 3,
+  "updatedAt": "2026-06-12",
   "platforms": ["x", "bluesky", "mastodon", "linkedin", "youtube", "tiktok", "instagram"],
   "entities": [
+    {
+      "id": "conor-hoekstra",
+      "name": "Conor Hoekstra",
+      "aliases": ["conor", "code_report", "codereport", "code report"],
+      "handles": {
+        "x": "code_report",
+        "bluesky": "codereport.bsky.social",
+        "mastodon": "code_report@mastodon.social",
+        "linkedin": "in/conorhoekstra",
+        "youtube": "code_report",
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "ben-deane",
+      "name": "Ben Deane",
+      "aliases": ["ben", "elbeno"],
+      "handles": {
+        "x": "ben_deane",
+        "bluesky": "elbeno.com",
+        "mastodon": null,
+        "linkedin": "in/elbeno",
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
     {
       "id": "geoffrey-hinton",
       "name": "Geoffrey Hinton",
