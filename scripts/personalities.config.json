@@ -227,6 +227,20 @@
       ]
     },
     {
+      "id": "palmer-luckey",
+      "name": "Palmer Luckey",
+      "aliases": [
+        "palmer luckey",
+        "palmer lucky",
+        "luckey"
+      ],
+      "title": "Founder of Anduril & Oculus",
+      "queries": [
+        "Palmer Luckey"
+      ],
+      "wikimedia": "Palmer Luckey"
+    },
+    {
       "id": "peter-steinberger",
       "name": "Peter Steinberger",
       "aliases": [

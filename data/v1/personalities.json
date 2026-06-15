@@ -170,6 +170,20 @@
       "handle_entity_id": null
     },
     {
+      "id": "palmer-luckey",
+      "name": "Palmer Luckey",
+      "aliases": [
+        "palmer luckey",
+        "palmer lucky",
+        "luckey"
+      ],
+      "title": "Founder of Anduril & Oculus",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
+      "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
+      "episode_count": 33,
+      "handle_entity_id": null
+    },
+    {
       "id": "peter-steinberger",
       "name": "Peter Steinberger",
       "aliases": [

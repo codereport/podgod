@@ -58,5 +58,9 @@
   "courtney-dauwalter": {
     "local_photo": "scripts/photos/courtney-dauwalter.jpg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "palmer-luckey": {
+    "local_photo": "scripts/photos/palmer-luckey.png",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }
