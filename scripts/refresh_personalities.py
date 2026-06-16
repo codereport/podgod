@@ -44,6 +44,21 @@ from typing import Any
 
 import requests
 
+try:
+    # Optional: language-detection fallback for episodes whose source carries no
+    # language tag (e.g. iTunes episode search). PodcastIndex `feedLanguage` is
+    # used first; this only fills the gaps. Seeded for deterministic output.
+    from langdetect import DetectorFactory, LangDetectException
+    from langdetect import detect as _langdetect_detect
+
+    DetectorFactory.seed = 0
+    _HAS_LANGDETECT = True
+except Exception:  # pragma: no cover - langdetect is optional
+    _HAS_LANGDETECT = False
+
+    class LangDetectException(Exception):  # type: ignore[no-redef]
+        pass
+
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 CONFIG_PATH = SCRIPT_DIR / "personalities.config.json"
@@ -90,6 +105,42 @@ def to_iso(unix_ts: Any) -> str | None:
     if ts <= 0:
         return None
     return datetime.fromtimestamp(ts, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+_HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def normalize_lang(code: str | None) -> str | None:
+    """Normalize an RSS/ISO language tag to a base lowercase code.
+
+    e.g. 'en-US' -> 'en', 'ZH_hans' -> 'zh', '' -> None. Anything that isn't a
+    plausible 2-3 letter alpha code is dropped."""
+    if not code:
+        return None
+    base = re.split(r"[-_]", str(code).strip().lower(), maxsplit=1)[0]
+    return base if base.isalpha() and 2 <= len(base) <= 3 else None
+
+
+def detect_language(ep: dict[str, Any]) -> str | None:
+    """Best-effort language for an episode.
+
+    Prefer the feed's declared language; otherwise detect from the episode title
+    plus a plain-text snippet of the description (langdetect, when available).
+    Returns a normalized base code (e.g. 'en') or None when undeterminable."""
+    declared = normalize_lang(ep.get("language"))
+    if declared:
+        return declared
+    if not _HAS_LANGDETECT:
+        return None
+    title = ep.get("title") or ""
+    desc = _HTML_TAG_RE.sub(" ", ep.get("description") or "")
+    sample = f"{title}. {desc}".strip()
+    if len(sample) < 8:
+        return None
+    try:
+        return normalize_lang(_langdetect_detect(sample))
+    except LangDetectException:
+        return None
 
 
 # Several Substack-hosted shows (e.g. Lenny's Podcast) are also mirrored on
@@ -166,6 +217,7 @@ def fetch_podcastindex(
             "duration": item.get("duration"),
             "pub_date": to_iso(item.get("datePublished")),
             "episode_url": item.get("link"),
+            "language": normalize_lang(item.get("feedLanguage")),
             "podcastindex_id": item.get("id"),
         }
         title = norm(item.get("title"))
@@ -232,6 +284,8 @@ def fetch_itunes(session: requests.Session, query: str) -> list[tuple[dict[str, 
             "duration": duration,
             "pub_date": r.get("releaseDate"),
             "episode_url": r.get("trackViewUrl"),
+            # iTunes episode search exposes no language; filled by detect_language.
+            "language": None,
             "itunes_id": r.get("trackId"),
         }
         title = norm(r.get("trackName"))
@@ -256,12 +310,21 @@ def name_matches(texts: dict[str, str], person: dict[str, Any], scope: str) -> b
     return any(n and n in hay for n in needles)
 
 
-def feed_allowed(ep: dict[str, Any], person: dict[str, Any]) -> bool:
+def feed_allowed(ep: dict[str, Any], person: dict[str, Any], defaults: dict[str, Any]) -> bool:
+    """Reject an episode whose source feed or episode title looks like a
+    news/digest/recap show (global blocklists) or matches the person's own
+    feed_blocklist; honor an optional per-person feed_allowlist."""
     feed_title = norm(ep.get("podcast_title"))
     feed_url = norm(ep.get("feed_url"))
+    ep_title = norm(ep.get("title"))
     allowlist = [norm(x) for x in person.get("feed_allowlist", [])]
-    blocklist = [norm(x) for x in person.get("feed_blocklist", [])]
-    if blocklist and any(b and (b in feed_title or b in feed_url) for b in blocklist):
+    feed_blocklist = [
+        norm(x) for x in (*person.get("feed_blocklist", []), *defaults.get("global_feed_blocklist", []))
+    ]
+    title_blocklist = [norm(x) for x in defaults.get("global_title_blocklist", [])]
+    if feed_blocklist and any(b and (b in feed_title or b in feed_url) for b in feed_blocklist):
+        return False
+    if title_blocklist and any(b and b in ep_title for b in title_blocklist):
         return False
     if allowlist:
         return any(a and (a in feed_title or a in feed_url) for a in allowlist)
@@ -282,35 +345,39 @@ def within_window(ep: dict[str, Any], cutoff_ts: int) -> bool:
 
 
 def discover(
-    fetcher,
+    backends: list[tuple[str, Any, str]],
     person: dict[str, Any],
     defaults: dict[str, Any],
     cutoff_ts: int,
     now_iso: str,
-    match_scope: str,
 ) -> list[dict[str, Any]]:
-    """Fetch + filter fresh episodes for one person (already normalized).
-    `fetcher(query)` returns list[(normalized_ep, texts)]."""
+    """Fetch + filter fresh episodes for one person across one or more backends.
+
+    `backends` is a list of (label, fetcher, match_scope). Each `fetcher(query)`
+    returns list[(normalized_ep, texts)]. Backends are tried in order and unioned
+    by episode key; the first backend to produce a given episode wins, so list the
+    higher-quality source (PodcastIndex) first to prefer its richer metadata."""
     min_duration = person.get("min_duration_sec", defaults.get("min_duration_sec", 600))
     seen: dict[str, dict[str, Any]] = {}
-    for query in person.get("queries", [person["name"]]):
-        try:
-            candidates = fetcher(query)
-        except requests.RequestException as exc:
-            print(f"  ! query '{query}' failed: {exc}", file=sys.stderr)
-            continue
-        for ep, texts in candidates:
-            if not name_matches(texts, person, match_scope):
+    for label, fetcher, match_scope in backends:
+        for query in person.get("queries", [person["name"]]):
+            try:
+                candidates = fetcher(query)
+            except requests.RequestException as exc:
+                print(f"  ! [{label}] query '{query}' failed: {exc}", file=sys.stderr)
                 continue
-            if not feed_allowed(ep, person):
-                continue
-            duration = ep.get("duration")
-            if isinstance(duration, int) and duration < min_duration:
-                continue
-            if not within_window(ep, cutoff_ts):
-                continue
-            ep["added_at"] = now_iso
-            seen[episode_key(ep)] = ep
+            for ep, texts in candidates:
+                if not name_matches(texts, person, match_scope):
+                    continue
+                if not feed_allowed(ep, person, defaults):
+                    continue
+                duration = ep.get("duration")
+                if isinstance(duration, int) and duration < min_duration:
+                    continue
+                if not within_window(ep, cutoff_ts):
+                    continue
+                ep["added_at"] = now_iso
+                seen.setdefault(episode_key(ep), ep)
     return list(seen.values())
 
 
@@ -387,8 +454,11 @@ def resolve_source(requested: str) -> str:
         return "podcastindex"
     if requested == "itunes":
         return "itunes"
-    # auto
-    return "podcastindex" if has_pi else "itunes"
+    # auto: when PodcastIndex keys exist, use BOTH backends and union the results.
+    # PodcastIndex `byperson` is guest-accurate (well-tagged names), while iTunes
+    # title-search provides coverage for common-name / weakly-tagged people that
+    # byperson returns only noise for. Neither alone is a superset of the other.
+    return "both" if has_pi else "itunes"
 
 
 def main() -> int:
@@ -420,16 +490,19 @@ def main() -> int:
 
     source = resolve_source(args.source)
     session = requests.Session()
-    if source == "podcastindex":
+    # Build the ordered backend list. PodcastIndex first so its richer metadata
+    # wins on dedup; iTunes second for coverage. Scopes: byperson is already
+    # person-accurate (match leniently across all text); iTunes term search is
+    # broad, so require the name in the episode title.
+    backends: list[tuple[str, Any, str]] = []
+    if source in ("podcastindex", "both"):
         pi_key = os.environ["PODCASTINDEX_KEY"]
         pi_secret = os.environ["PODCASTINDEX_SECRET"]
-        fetcher = lambda q: fetch_podcastindex(session, pi_key, pi_secret, q)
-        # byperson is already person-accurate, so match the name leniently.
-        match_scope = "all"
-    else:
-        fetcher = lambda q: fetch_itunes(session, q)
-        # iTunes term search is broad; require the name in the episode title.
-        match_scope = "title"
+        backends.append(
+            ("podcastindex", lambda q: fetch_podcastindex(session, pi_key, pi_secret, q), "all")
+        )
+    if source in ("itunes", "both"):
+        backends.append(("itunes", lambda q: fetch_itunes(session, q), "title"))
 
     config = load_json(CONFIG_PATH)
     defaults = config.get("defaults", {})
@@ -455,21 +528,26 @@ def main() -> int:
         feed_path = PERSON_DIR / f"{pid}.json"
         feed = load_json(feed_path)
         existing_eps = feed.get("episodes", []) if isinstance(feed, dict) else []
+        # Re-apply current blocklists to already-stored episodes so tightened
+        # rules retroactively purge news/digest noise (merge otherwise preserves
+        # existing episodes verbatim, and capping would keep junk over interviews).
+        existing_eps = [e for e in existing_eps if feed_allowed(e, person, defaults)]
 
-        fresh = discover(fetcher, person, defaults, cutoff_ts, now_iso, match_scope)
+        fresh = discover(backends, person, defaults, cutoff_ts, now_iso)
         max_episodes = person.get("max_episodes", defaults.get("max_episodes", 50))
         merged = merge_episodes(existing_eps, fresh, max_episodes)
 
         # Resolve each episode's source-podcast (collection) art so the player can
-        # offer "podcast art" vs "episode art" without ever using the personality cover.
-        if source == "itunes":
-            cids = {e.get("collection_id") for e in merged if e.get("collection_id")}
-            if cids:
-                art_map = fetch_itunes_collection_art(session, cids)
-                for e in merged:
-                    cid = e.get("collection_id")
-                    if cid and art_map.get(str(cid)):
-                        e["podcast_artwork_url"] = art_map[str(cid)]
+        # offer "podcast art" vs "episode art" without ever using the personality
+        # cover. Only iTunes-sourced episodes carry a collection_id; PodcastIndex
+        # episodes already include feedImage as podcast_artwork_url.
+        cids = {e.get("collection_id") for e in merged if e.get("collection_id")}
+        if cids:
+            art_map = fetch_itunes_collection_art(session, cids)
+            for e in merged:
+                cid = e.get("collection_id")
+                if cid and art_map.get(str(cid)):
+                    e["podcast_artwork_url"] = art_map[str(cid)]
         for e in merged:
             if not e.get("podcast_artwork_url"):
                 e["podcast_artwork_url"] = e.get("artwork_url")
@@ -478,6 +556,11 @@ def main() -> int:
             fixed_audio = canonicalize_audio_url(e)
             if fixed_audio and fixed_audio != e.get("audio_url"):
                 e["audio_url"] = fixed_audio
+            # Tag language (declared feed language, else detected) so the player
+            # can offer a per-language filter. Backfills onto pre-existing episodes
+            # that were stored before language tagging existed.
+            if not e.get("language"):
+                e["language"] = detect_language(e)
 
         artwork_url = artwork_url_for(pid)
         feed_payload = {
@@ -508,9 +591,23 @@ def main() -> int:
     # Rebuild the index in config order so it stays stable/diff-friendly.
     config_order = [p["id"] for p in config.get("personalities", [])]
     ordered_index = [index_by_id[i] for i in config_order if i in index_by_id]
+
+    # Global set of languages present across ALL per-person feeds (scan every
+    # file on disk, not just the ones refreshed this run, so a --only run keeps
+    # the union complete). Drives the player's language picker; a language only
+    # appears once at least one episode uses it.
+    languages: set[str] = set()
+    for feed_file in PERSON_DIR.glob("*.json"):
+        feed_doc = load_json(feed_file)
+        for e in feed_doc.get("episodes", []) if isinstance(feed_doc, dict) else []:
+            lang = normalize_lang(e.get("language"))
+            if lang:
+                languages.add(lang)
+
     index_payload = {
         "version": FEED_VERSION,
         "updatedAt": today,
+        "languages": sorted(languages),
         "personalities": ordered_index,
     }
     if write_json(INDEX_PATH, index_payload):

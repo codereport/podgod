@@ -2,7 +2,49 @@
   "_comment": "Seed config for the personalities meta-podcast feature. Each entry drives both episode discovery (refresh_personalities.py via PodcastIndex byperson) and cover-art generation (make_personality_art.py via Wikimedia). Add a new person here, then run the one-time backfill (refresh_personalities.py --since 365d --only <id>) and the art script.",
   "defaults": {
     "min_duration_sec": 600,
-    "max_episodes": 50
+    "max_episodes": 100,
+    "_global_blocklist_comment": "Applied to EVERY personality. These drop news/digest/recap shows that merely mention a person rather than featuring them as a guest. feed checks match the source podcast title/url; title checks match the episode title.",
+    "global_feed_blocklist": [
+      "daily news",
+      "news rundown",
+      "ai daily",
+      "daily ai",
+      "ai news",
+      "tech news",
+      "this week in ai",
+      "week in ai",
+      "ai weekly",
+      "weekly ai",
+      "news roundup",
+      "top stories",
+      "headlines",
+      "newscast",
+      "daily brief",
+      "morning brief",
+      "the daily ai",
+      "tech briefing",
+      "in the news",
+      "news minute"
+    ],
+    "global_title_blocklist": [
+      "news rundown",
+      "daily news",
+      "news roundup",
+      "ai weekly rundown",
+      "weekly rundown",
+      "rundown",
+      "roundup",
+      "top stories",
+      "headlines",
+      "week in review",
+      "this week in ai",
+      "daily brief",
+      "morning brief",
+      "hablemos de",
+      "早报",
+      "週報",
+      "周报"
+    ]
   },
   "personalities": [
     {
@@ -92,7 +134,13 @@
         "elon musk thinking",
         "elon musk podcast",
         "ihip news",
-        "daily elon"
+        "daily elon",
+        "verdict with ted cruz",
+        "the mark simone show",
+        "larry with larry o'connor",
+        "the wright report",
+        "prof g markets",
+        "the ben ferguson podcast"
       ]
     },
     {

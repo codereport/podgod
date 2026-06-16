@@ -1,2 +1,5 @@
 # Dependencies for refresh_personalities.py (runs in the daily GitHub Action).
 requests>=2.31,<3
+# Language detection fallback for episodes whose source has no language tag
+# (e.g. iTunes episode search). PodcastIndex `feedLanguage` is preferred.
+langdetect>=1.0.9

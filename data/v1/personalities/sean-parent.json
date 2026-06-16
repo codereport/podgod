@@ -7,6 +7,40 @@
   "updatedAt": "2026-06-16",
   "episodes": [
     {
+      "guid": "Buzzsprout-18304237",
+      "title": "Episode 263: 🇳🇱 The Sean Parent Origin Story",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce interview Sean Parent about the origin story of his career in software engineering!\nLink to Episode 263 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-10-10\nDate Released: 2025-12-05\nSource CodeTRS80Ohio Scientific ChallengerExidy SorcererIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/18304237-episode-263-the-sean-parent-origin-story.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369,
+      "duration": 2528,
+      "pub_date": "2025-12-05T13:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-263-the-sean-parent-origin-story/id1541407369?i=1000739854710&uo=4",
+      "itunes_id": 1000739854710,
+      "added_at": "2026-06-16T21:04:03.835569Z",
+      "language": "en"
+    },
+    {
+      "guid": "Buzzsprout-18264398",
+      "title": "Episode 262: 🇳🇱 Chaos with Sean Parent! Bikes, Buses, Waffles & More!",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "In this episode, Conor and Bryce interview Sean Parent about generic programming and there is much chaos!\nLink to Episode 262 on WebsiteDiscuss this episode, leave a comment, or ask a question (on GitHub)Socials\nADSP: The Podcast: TwitterConor Hoekstra: Twitter | BlueSky | MastodonBryce Adelstein Lelbach: TwitterAbout the Guest:\nSean Parent is a senior principal scientist and software architect managing Adobe's Software Technology Lab. Sean first joined Adobe in 1993 working on Photoshop and is one of the creators of Photoshop Mobile, Lightroom Mobile, and Lightroom Web. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\nShow Notes\nDate Recorded: 2025-10-10\nDate Released: 2025-11-28\nKoala bear cryingabscond DefintionSean's C++ Under the Sea KeynotePacific++ 2018: Sean Parent \"Generic Programming\"From Mathematics to Generic Programming (FM2GP)ParrotParrot on GitHubIntro Song Info\nMiss You by Sarah Jansen https://soundcloud.com/sarahjansenmusic\nCreative Commons — Attribution 3.0 Unported — CC BY 3.0\nFree Download / Stream: http://bit.ly/l-miss-you\nMusic promoted by Audio Library https://youtu.be/iYYxnasvfx8",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/18264398-episode-262-chaos-with-sean-parent-bikes-buses-waffles-more.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d8/dc/2d/d8dc2d13-e526-4c09-04e4-3f4de284d7ed/mza_11374389464229064252.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
+      "collection_id": 1541407369,
+      "duration": 2192,
+      "pub_date": "2025-11-28T13:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-262-chaos-with-sean-parent-bikes-buses-waffles-more/id1541407369?i=1000738790868&uo=4",
+      "itunes_id": 1000738790868,
+      "added_at": "2026-06-16T21:04:03.835569Z",
+      "language": "en"
+    },
+    {
       "guid": "Buzzsprout-17853779",
       "title": "Episode 253: Sean Parent on AI and Cursor",
       "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
@@ -20,7 +54,8 @@
       "itunes_id": 1000728551040,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
-      "collection_id": 1541407369
+      "collection_id": 1541407369,
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-17853769",
@@ -36,7 +71,8 @@
       "itunes_id": 1000727502188,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
-      "collection_id": 1541407369
+      "collection_id": 1541407369,
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-17829963",
@@ -52,7 +88,8 @@
       "itunes_id": 1000726501206,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
-      "collection_id": 1541407369
+      "collection_id": 1541407369,
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-17792241",
@@ -68,7 +105,8 @@
       "itunes_id": 1000725143780,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg",
-      "collection_id": 1541407369
+      "collection_id": 1541407369,
+      "language": "en"
     }
   ]
 }

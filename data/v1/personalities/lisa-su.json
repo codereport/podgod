@@ -20,7 +20,8 @@
       "pub_date": "2026-06-07T22:30:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/how-amds-lisa-su-views-the-future-of-ai/id1886705492?i=1000756327576&uo=4",
       "itunes_id": 1000756327576,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "cmpkycdep06gh01oc2kf1d9p1",
@@ -36,7 +37,8 @@
       "pub_date": "2026-05-26T07:02:15Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/are-we-in-an-ai-bubble-amds-lisa-su-speaks-out-in/id1673884319?i=1000769599581&uo=4",
       "itunes_id": 1000769599581,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-19198338",
@@ -52,7 +54,8 @@
       "pub_date": "2026-05-18T20:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/%E7%9C%8B%E8%98%87%E5%A7%BF%E4%B8%B0%E5%A6%82%E4%BD%95%E6%89%AD%E8%BD%89amd-%E5%BE%9E2%E5%85%83%E5%9E%83%E5%9C%BE%E8%82%A1%E5%88%B07000%E5%84%84%E5%B8%82%E5%80%BC%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-lisa-su%E5%BE%9E%E5%8F%B0%E5%8D%97%E5%A5%B3%E5%AD%A9%E5%88%B0%E5%8D%83%E5%84%84%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%ADceo/id1896761338?i=1000768458249&uo=4",
       "itunes_id": 1000768458249,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "ko"
     },
     {
       "guid": "35c72f60-d5e2-11f0-893d-e7348e079bee",
@@ -68,13 +71,14 @@
       "pub_date": "2026-01-10T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/live-from-ces-2026-with-amd-ceo-lisa-su/id1463412603?i=1000744580322&uo=4",
       "itunes_id": 1000744580322,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "696059318f388c61e1ef2e34",
       "title": "EP34｜AMD CEO Lisa Su专访 - AI 不是泡沫，需求将爆发至 50 亿用户",
       "podcast_title": "硅谷声研所",
-      "description": "AMD（超威半导体）董事会主席兼首席执行官Dr. Lisa Su是半导体行业的领军人物，自2014年起担任AMD CEO，带领公司实现技术突破与市场复苏。她拥有麻省理工学院电气工程博士学位，在半导体设计与战略发展方面拥有深厚经验，尤其在推动AI、高性能计算和PC市场创新方面备受瞩目。\n本期播客讨论内容介绍：本期播客采访于2026年国际消费电子展（CES）期间进行，Lisa Su与主持人深入探讨：\n  AMD 最新发布的 Helios 系统 与 MI 455X 芯片（全球首款2纳米制程AI芯片）的技术突破与市场意义  AI 算力需求的爆发式增长：从当前 10亿用户 到未来5年 50亿用户 的预测  AMD 在 数据中心、企业级应用、边缘计算 等多元化市场的产品布局（如 MI 440X）  与 OpenAI、甲骨文 等合作伙伴的生态共建  AI 对全球经济的实际影响与生产力提升  中美技术合作与出口管制议题  AMD 在 AI PC、机器人、实体AI 等新兴领域的战略规划本期关键话题  技术趋势：了解2纳米芯片、AI算力规模化、异构计算等前沿技术进展  市场洞察：掌握AI从云到端、从训练到推理的全场景应用趋势  战略视角：学习AMD如何在开放生态与自主研发之间平衡发展  行业预测：认识AI用户增长、算力缺口、能源与内存瓶颈等关键挑战  跨界应用：窥见AI在医疗、金融、机器人、软件开发等领域的落地实践关注我的博客：硅谷声研所更多问题可以联系：Nonecoco\n前往小宇宙评论区与主播互动",
+      "description": "AMD（超威半导体）董事会主席兼首席执行官Dr. Lisa Su是半导体行业的领军人物，自2014年起担任AMD CEO，带领公司实现技术突破与市场复苏。她拥有麻省理工学院电气工程博士学位，在半导体设计与战略发展方面拥有深厚经验，尤其在推动AI、高性能计算和PC市场创新方面备受瞩目。本期播客讨论内容介绍：本期播客采访于2026年国际消费电子展（CES）期间进行，Lisa Su与主持人深入探讨：* AMD 最新发布的 Helios 系统 与 MI 455X 芯片（全球首款2纳米制程AI芯片）的技术突破与市场意义* AI 算力需求的爆发式增长：从当前 10亿用户 到未来5年 50亿用户 的预测* AMD 在 数据中心、企业级应用、边缘计算 等多元化市场的产品布局（如 MI 440X）* 与 OpenAI、甲骨文 等合作伙伴的生态共建* AI 对全球经济的实际影响与生产力提升* ...去小宇宙查看完整单集简介前往小宇宙评论区与主播互动",
       "feed_url": "https://feed.xyzfm.space/gled4wm7j8c4",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/696059318f388c61e1ef2e34/media.xyzcdn.net/69074610aca57a5e75a40cf7/lsBJINsiL89UeL_gCJaUGeZiISOO.m4a",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/00/0f/31000f9a-f407-95d9-fafc-c859957bb4e9/mza_7280137495695839080.jpg/600x600bb.jpg",
@@ -84,7 +88,8 @@
       "pub_date": "2026-01-09T01:30:35Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep34-amd-ceo-lisa-su%E4%B8%93%E8%AE%BF-ai-%E4%B8%8D%E6%98%AF%E6%B3%A1%E6%B2%AB-%E9%9C%80%E6%B1%82%E5%B0%86%E7%88%86%E5%8F%91%E8%87%B3-50-%E4%BA%BF%E7%94%A8%E6%88%B7/id1856574829?i=1000744379739&uo=4",
       "itunes_id": 1000744379739,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "zh"
     },
     {
       "guid": "a1362b89-fa38-40fc-886f-b3cb0024ecdd",
@@ -100,7 +105,8 @@
       "pub_date": "2026-01-07T02:27:18Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/china-japan-tensions-jensen-huang-lisa-su-at-ces/id1663863437?i=1000744060471&uo=4",
       "itunes_id": 1000744060471,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "960ec9ce-fc5d-49ca-af42-b3ca014b7427",
@@ -116,7 +122,8 @@
       "pub_date": "2026-01-06T20:14:39Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-talks-new-data-center-chip-demand/id1690236827?i=1000744023075&uo=4",
       "itunes_id": 1000744023075,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "prx_5901_f664cd2b-26d8-427d-8e92-0bb0eec3e7e8",
@@ -132,7 +139,8 @@
       "pub_date": "2025-12-11T15:23:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-isnt-afraid-of-the-competition/id266391367?i=1000740861134&uo=4",
       "itunes_id": 1000740861134,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "gid://art19-episode-locator/V0/9HW8dfY60hGHkqn2mqM09dy5HtG882KI3fKn8AoXri4",
@@ -148,7 +156,8 @@
       "pub_date": "2025-11-15T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/possible-lisa-su-on-semiconductors-compute-and-big-bets/id1763085968?i=1000736852833&uo=4",
       "itunes_id": 1000736852833,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "67bb7601-64f9-4890-89fa-a9cb84ee41d2",
@@ -164,7 +173,8 @@
       "pub_date": "2025-11-12T17:19:43Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amds-lisa-su-on-ai-chips-shaun-whites-snow-league-11-12-25/id1480890290?i=1000736462518&uo=4",
       "itunes_id": 1000736462518,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "d1390fb625e5e8ac0eef274e024db3cb",
@@ -180,7 +190,8 @@
       "pub_date": "2025-10-07T13:49:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ki-chancen-noch-untersch%C3%A4tzt-amd-ceo-lisa-su/id1522455553?i=1000730618698&uo=4",
       "itunes_id": 1000730618698,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "de"
     },
     {
       "guid": "85e02038-75c5-42e6-a14a-b36f004f5b81",
@@ -196,7 +207,8 @@
       "pub_date": "2025-10-07T04:54:01Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-openai-president-greg-brockman-talk/id1690236827?i=1000730526877&uo=4",
       "itunes_id": 1000730526877,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "1a84f708-98a4-11f0-8b31-2feaced0ccaf",
@@ -212,7 +224,8 @@
       "pub_date": "2025-09-24T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/lisa-su-on-semiconductors-compute-and-big-bets/id1677184070?i=1000728188128&uo=4",
       "itunes_id": 1000728188128,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "68b0968746792aead13e9471",
@@ -228,7 +241,8 @@
       "pub_date": "2025-08-28T23:01:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-on-the-ai-chip-race-and-nvidia/id1233991021?i=1000723952781&uo=4",
       "itunes_id": 1000723952781,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "gid://art19-episode-locator/V0/rf0q4ENkSq88qhfUC2S3LLZfiLGHxA62nhUB2mu4a-M",
@@ -244,7 +258,8 @@
       "pub_date": "2025-08-27T07:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/view-from-the-top-lisa-su-is-still-curious-about-how/id1725380194?i=1000723683258&uo=4",
       "itunes_id": 1000723683258,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "d30e6697-cd49-463a-ba19-b331013c33d8",
@@ -260,7 +275,8 @@
       "pub_date": "2025-08-06T19:22:02Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-talks-strong-pc-demand/id1690236827?i=1000720952229&uo=4",
       "itunes_id": 1000720952229,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "6a15f44e-f77f-445b-849b-b331011e2d26",
@@ -276,7 +292,8 @@
       "pub_date": "2025-08-06T17:39:48Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/amd-ceo-lisa-su-on-the-chipmakers-ai-forecast/id1611767434?i=1000720930119&uo=4",
       "itunes_id": 1000720930119,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "09ed1711-6bf4-4d31-a7c0-c80cc7fa74d7",
@@ -292,7 +309,8 @@
       "pub_date": "2025-07-25T23:07:54Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/behind-the-scenes-at-the-all-in-ai-summit-w-potus/id315114957?i=1000719047283&uo=4",
       "itunes_id": 1000719047283,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "00782733-efe0-4c41-8581-f867072f540e",
@@ -308,7 +326,8 @@
       "pub_date": "2025-07-23T22:40:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/winning-the-ai-race-part-3-jensen-huang-lisa-su-james/id1502871393?i=1000718738622&uo=4",
       "itunes_id": 1000718738622,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-17398066",
@@ -324,7 +343,8 @@
       "pub_date": "2025-06-25T16:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/episode-2-lisa-su-amd-nina-kuscsik-and-the-glass-cliff/id1821687065?i=1000714534372&uo=4",
       "itunes_id": 1000714534372,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     },
     {
       "guid": "7d2a465c-3136-4064-b79a-5148cd274fd5",
@@ -340,7 +360,8 @@
       "pub_date": "2025-06-12T21:05:01Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/closing-bell-overtime-exclusive-interview-with-amd-ceo/id1612281974?i=1000712647751&uo=4",
       "itunes_id": 1000712647751,
-      "added_at": "2026-06-09T19:25:53.673692Z"
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
     }
   ]
 }

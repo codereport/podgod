@@ -20,7 +20,8 @@
       "itunes_id": 1000769295890,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6f/77/38/6f7738a9-e456-bf71-4dbd-920dfd1f0942/mza_6752638388253255988.jpg/600x600bb.jpg",
-      "collection_id": 1510727410
+      "collection_id": 1510727410,
+      "language": "de"
     },
     {
       "guid": "27b76a201f3d5c967be8d14ed8ef867d",
@@ -36,7 +37,8 @@
       "itunes_id": 1000769279823,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/05/26/e1052677-7242-8dee-615d-47e244e4975c/mza_612793993452847160.jpg/600x600bb.jpg",
-      "collection_id": 1056312052
+      "collection_id": 1056312052,
+      "language": "de"
     },
     {
       "guid": "cd095758-4385-45d4-97a9-a078cf108e5f",
@@ -52,7 +54,8 @@
       "itunes_id": 1000762508712,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/2d/26/032d2691-ff48-50de-7c3b-5ffe8319831b/mza_9311569610895513690.jpg/600x600bb.jpg",
-      "collection_id": 1888959424
+      "collection_id": 1888959424,
+      "language": "no"
     },
     {
       "guid": "69e064cf501ebe6715dd4fa7",
@@ -68,7 +71,8 @@
       "itunes_id": 1000762049792,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
-      "collection_id": 160904630
+      "collection_id": 160904630,
+      "language": "en"
     },
     {
       "guid": "https://manuelcorpas.github.io/podcast/audio/2026-03-01-peter-steinberger-ai-agent-hack-imperial-college.mp3",
@@ -84,7 +88,8 @@
       "itunes_id": 1000752313347,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/29/e5/45/29e54547-63a5-0feb-6103-ec5be5d9f8bd/mza_12400467309150059788.jpg/600x600bb.jpg",
-      "collection_id": 1252419814
+      "collection_id": 1252419814,
+      "language": "en"
     },
     {
       "guid": "034cea0a-add0-4e4a-bf9c-523a61067a19",
@@ -100,7 +105,8 @@
       "itunes_id": 1000752249927,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/29/10/4c2910ea-0105-8d2b-e1f0-b4e4a6549326/mza_16246820895275099093.jpg/600x600bb.jpg",
-      "collection_id": 1767313170
+      "collection_id": 1767313170,
+      "language": "ja"
     },
     {
       "guid": "f8b3ead5-3e09-4628-a52f-dc4249e78f2c",
@@ -116,7 +122,8 @@
       "itunes_id": 1000751354562,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/29/10/4c2910ea-0105-8d2b-e1f0-b4e4a6549326/mza_16246820895275099093.jpg/600x600bb.jpg",
-      "collection_id": 1767313170
+      "collection_id": 1767313170,
+      "language": "ja"
     },
     {
       "guid": "5a958d2f-331f-4299-8501-0176aa2a18a4",
@@ -132,23 +139,25 @@
       "itunes_id": 1000750824589,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/07/70/1e/07701ec2-3314-f2a4-df0f-8587cf3e1944/mza_12463471222994358787.jpg/600x600bb.jpg",
-      "collection_id": 1644165036
+      "collection_id": 1644165036,
+      "language": "de"
     },
     {
       "guid": "b3ad0a62-0e5e-11f1-b4f8-63cbe084f4c0",
       "title": "Uneasy Money: Why Peter Steinberger and Non-Crypto People Hate the Crypto Mob",
       "podcast_title": "Unchained",
-      "description": "LayerZero’s Bryan Pellegrino joins to unpack Base's decision to leave the OP Stack, Zora's migration to Solana and more.  Thank you to our sponsors!      ⁠Fuse: The Energy Network  – Shift your energy use and earn rewards.       ⁠MultiChain Advisors -⁠ The Growth & Capital Markets Partner You Need      Coinbase's Base is making a shock move away from Optimism's OP Stack.  In this Uneasy Money episode, LayerZero Labs CEO Bryan Pellegrino joins hosts Kain Warwick and Taylor Monahan to unpack whether this is the right move for Base and what it could mean for Optimism.  Beyond Base's big move, the trio also discuss Zora's Solana migration, whether Coinbase was wrong to initially pursue a super app strategy with Base App, Peter Steinberger joining OpenAI, the launch of Zero blockchain and OpenAI's EVMbench.  Will OpenAI's acqui-hiring of Peter prove to be a “generational fumble” for Anthropic? And can crypto fix its brand problem?  Also, learn why the rise of AI agents have Kain and Tay confident that open source will win in the end.  Hosts:      ⁠Kain Warwick⁠, Founder of Infinex and Synthetix       ⁠Taylor Monahan⁠, Security Expert     Guest:      Bryan Pellegrino, CEO of LayerZero Labs   Links:      Unchained:        Zora Shocks Base Community With Solana Pivot       ⁠⁠BlackRock Just Chose Uniswap. The Market Didn’t Care. Here’s Why.       ⁠⁠LayerZero Launches ‘Zero’ Layer 1 as Citadel, ARK Buy ZRO       ⁠⁠How Zero Blockchain Cracked 2 Million TPS and Is Still Decentralized       ⁠⁠Uneasy Money: Are Institutions Creating a New Crypto Meta?       ⁠⁠Uneasy Money: How the Increasingly Better AI Agents Are Being Used OnchainVitalik Rethinks Ethereum’s L2 Playbook, Calls for Shift Toward Native Rollups       Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://www.spreaker.com/show/7000872/episodes/feed",
-      "audio_url": "https://api.spreaker.com/download/episode/71787028/lshml2662307141.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ce/3a/91/ce3a9109-8d9f-b162-eabc-b022c66de0fc/mza_11082370700056673657.jpg/600x600bb.jpg",
-      "duration": 4991,
+      "description": "LayerZero’s Bryan Pellegrino joins to unpack Base's decision to leave the OP Stack, Zora's migration to Solana and more.\n\nThank you to our sponsors!\n\n\n  \n⁠Fuse: The Energy Network  – Shift your energy use and earn rewards.\n\n\n\n  \n⁠MultiChain Advisors -⁠ The Growth & Capital Markets Partner You Need\n\n\n\n\n\nCoinbase's Base is making a shock move away from Optimism's OP Stack.\n\nIn this Uneasy Money episode, LayerZero Labs CEO Bryan Pellegrino joins hosts Kain Warwick and Taylor Monahan to unpack whether this is the right move for Base and what it could mean for Optimism.\n\nBeyond Base's big move, the trio also discuss Zora's Solana migration, whether Coinbase was wrong to initially pursue a super app strategy with Base App, Peter Steinberger joining OpenAI, the launch of Zero blockchain and OpenAI's EVMbench.\n\nWill OpenAI's acqui-hiring of Peter prove to be a “generational fumble” for Anthropic? And can crypto fix its brand problem?\n\nAlso, learn why the rise of AI agents have Kain and Tay confident that open source will win in the end.\n\nHosts:\n\n\n  \n⁠Kain Warwick⁠, Founder of Infinex and Synthetix\n\n\n\n  \n⁠Taylor Monahan⁠, Security Expert\n\n\n\n\nGuest:\n\n\n  \nBryan Pellegrino, CEO of LayerZero Labs\n\n\nLinks:\n\n\n  \nUnchained:\n\n\n\n\n  \nZora Shocks Base Community With Solana Pivot\n\n\n\n  \n⁠⁠BlackRock Just Chose Uniswap. The Market Didn’t Care. Here’s Why.\n\n\n\n  \n⁠⁠LayerZero Launches ‘Zero’ Layer 1 as Citadel, ARK Buy ZRO\n\n\n\n  \n⁠⁠How Zero Blockchain Cracked 2 Million TPS and Is Still Decentralized\n\n\n\n  \n⁠⁠Uneasy Money: Are Institutions Creating a New Crypto Meta?\n\n\n\n  \n⁠⁠Uneasy Money: How the Increasingly Better AI Agents Are Being Used OnchainVitalik Rethinks Ethereum’s L2 Playbook, Calls for Shift Toward Native Rollups\n\n\n\n\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/LSHML4761942757",
+      "audio_url": "https://pdrl.fm/98e0b1/traffic.megaphone.fm/LSHML2662307141.mp3?updated=1771605686",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c9/c2/ed/c9c2ed19-02ba-a07c-5010-c5ebfdd0ab24/mza_11665034845223496592.jpeg/600x600bb.jpg",
+      "duration": 5035,
       "pub_date": "2026-02-20T16:26:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/uneasy-money-why-peter-steinberger-and-non-crypto/id1895962226?i=1000764917704&uo=4",
-      "itunes_id": 1000764917704,
+      "episode_url": "https://podcasts.apple.com/us/podcast/uneasy-money-why-peter-steinberger-and-non-crypto/id1123922160?i=1000750683427&uo=4",
+      "itunes_id": 1000750683427,
       "added_at": "2026-06-08T22:56:43.778397Z",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/4f/90/8b4f90ec-080d-29fe-0d75-663d2e1fa423/mza_11561740799050212866.jpg/600x600bb.jpg",
-      "collection_id": 1895962226
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c9/c2/ed/c9c2ed19-02ba-a07c-5010-c5ebfdd0ab24/mza_11665034845223496592.jpeg/600x600bb.jpg",
+      "collection_id": 1123922160,
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-18710870",
@@ -164,7 +173,8 @@
       "itunes_id": 1000750456488,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/43/18/2c/43182c9a-80a2-2422-6040-ef9a6dddf43d/mza_5460273745105007424.jpg/600x600bb.jpg",
-      "collection_id": 1617985004
+      "collection_id": 1617985004,
+      "language": "en"
     },
     {
       "guid": "Buzzsprout-18705605",
@@ -180,7 +190,8 @@
       "itunes_id": 1000750426891,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/29/be/c029be67-39e4-321b-f2fe-dbb47f721de6/mza_16124859101518449737.jpg/600x600bb.jpg",
-      "collection_id": 1491263926
+      "collection_id": 1491263926,
+      "language": "de"
     },
     {
       "guid": "16ceb6e5-fc48-4b42-9e34-5aa9a3871d78",
@@ -196,7 +207,8 @@
       "itunes_id": 1000750758409,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/0a/3a/9c0a3a15-d03e-5023-c66c-b16de9ae9e62/mza_6227877512029782127.jpg/600x600bb.jpg",
-      "collection_id": 1878894464
+      "collection_id": 1878894464,
+      "language": "en"
     },
     {
       "guid": "188ea9c4-f87f-4191-b9d1-9f76b61797d4",
@@ -212,7 +224,8 @@
       "itunes_id": 1000750230595,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/11/86/ab/1186ab29-5ab6-7c27-24d9-f066fa4cbf64/mza_13036567813906108625.jpg/600x600bb.jpg",
-      "collection_id": 1745390548
+      "collection_id": 1745390548,
+      "language": "de"
     },
     {
       "guid": "aiwithkyle.podbean.com/5a987513-2560-31bd-acb8-7d09210d6abb",
@@ -228,7 +241,8 @@
       "itunes_id": 1000750083750,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/cf/51/5bcf519d-28b5-213d-ff73-77937cd4fd97/mza_16521470908447789342.png/600x600bb.jpg",
-      "collection_id": 1825779580
+      "collection_id": 1825779580,
+      "language": "en"
     },
     {
       "guid": "a2ec0418-a18b-4d0c-bcb5-6467a0ef5f30",
@@ -244,7 +258,8 @@
       "itunes_id": 1000749998054,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1f/2f/77/1f2f777d-fdad-9329-4341-6006f49a0136/mza_5604013237156455218.jpg/600x600bb.jpg",
-      "collection_id": 1735389207
+      "collection_id": 1735389207,
+      "language": "en"
     },
     {
       "guid": "3ecebdd1-87f9-4e86-ae6c-f2b685272304",
@@ -260,7 +275,8 @@
       "itunes_id": 1000749970229,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/38/c8/17/38c81723-afdd-296e-86e8-f004ffc632ef/mza_3227399854291351548.jpg/600x600bb.jpg",
-      "collection_id": 1768250980
+      "collection_id": 1768250980,
+      "language": "it"
     },
     {
       "guid": "3bc7f935-c38d-5409-aa44-f58e229e3787",
@@ -276,7 +292,8 @@
       "itunes_id": 1000749944233,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/47/a9/7047a978-e580-3158-2f08-0b2d8d19dcb9/mza_9770561701278398727.jpg/600x600bb.jpg",
-      "collection_id": 1874790809
+      "collection_id": 1874790809,
+      "language": "pt"
     },
     {
       "guid": "84b8bb54-25e6-4020-8827-00f2de274cb9",
@@ -292,7 +309,8 @@
       "itunes_id": 1000749786650,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/21/b5/5b21b5ed-a4e4-61f5-6763-39cd728bb28b/mza_8940241363465430390.jpg/600x600bb.jpg",
-      "collection_id": 1785204769
+      "collection_id": 1785204769,
+      "language": "en"
     },
     {
       "guid": "50dde8e8-1ff8-4bc3-8cbb-f6c3942a16be",
@@ -308,7 +326,8 @@
       "itunes_id": 1000749612546,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "99f25560-b46f-42cc-8437-692599973ad3",
@@ -324,7 +343,8 @@
       "itunes_id": 1000749612484,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "06fba805-a030-4609-9c4b-b5e8720fad2d",
@@ -340,7 +360,8 @@
       "itunes_id": 1000751184859,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/2c/2f/f6/2c2ff6d4-64cc-d31f-0ca5-c4f147a9fd81/mza_12960178720465515157.jpg/600x600bb.jpg",
-      "collection_id": 117488860
+      "collection_id": 117488860,
+      "language": "en"
     },
     {
       "guid": "7c2d6aa6-d196-4e9e-89a4-d5223d748b94",
@@ -356,7 +377,8 @@
       "itunes_id": 1000749442115,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "a067888d-cade-45bc-9783-1be673bd9a6d",
@@ -372,7 +394,8 @@
       "itunes_id": 1000749442011,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "8b48c7c8-7234-4409-b7d4-a42a807ffde6",
@@ -388,7 +411,8 @@
       "itunes_id": 1000749442012,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "27ed2e5f-fd38-49d5-b64b-a05e2d4670fc",
@@ -404,7 +428,8 @@
       "itunes_id": 1000749442144,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "053bcc8c-8d18-4ab2-a4f2-39f44bdadf95",
@@ -420,7 +445,8 @@
       "itunes_id": 1000749442033,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b3/58/2f/b3582f9b-b26d-9b9a-3c07-715af07ab41b/mza_9789556093446860372.jpg/600x600bb.jpg",
-      "collection_id": 1811607854
+      "collection_id": 1811607854,
+      "language": "de"
     },
     {
       "guid": "https://lexfridman.com/?p=6413",
@@ -436,7 +462,8 @@
       "itunes_id": 1000749366733,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/600x600bb.jpg",
-      "collection_id": 1434243584
+      "collection_id": 1434243584,
+      "language": "en"
     },
     {
       "guid": "e700ac980b3795dcf193ac25512784d7",
@@ -452,13 +479,14 @@
       "itunes_id": 1000747933297,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/ba/ed/6cbaed24-5617-7fcd-dc01-db799380bd79/mza_5170375563973838716.png/600x600bb.jpg",
-      "collection_id": 1823188109
+      "collection_id": 1823188109,
+      "language": "de"
     },
     {
       "guid": "6980babd073030367adb3a6d",
       "title": "EP40｜Clawdbot创始人Peter Steinberger首次公开访谈",
       "podcast_title": "硅谷声研所",
-      "description": "本期博客翻译自：TBPN对Clawdbot创始人Peter Steinberger的独家专访一、核心故事：一个“退休”程序员的AI逆袭\n  背景：Peter Steinberger，13年独立软件开发者，4年前卖掉公司后陷入职业倦怠，曾形容自己“像被抽走发动机”。  转折点：2023年4月，偶然接触AI（GPT-4测试版），被其潜力震撼，开启“玩AI”模式。  爆款诞生：灵感：为解决个人需求，开发“个人AI代理”，支持WhatsApp/Discord等多平台交互。病毒式增长：GitHub星标数“直线暴涨”，从0到数万仅数周，用户涵盖非技术群体（如Instagram用户为它购买Mac Mini）。命名风波：因商标冲突，从“ClawBot”更名为“Molt Bot”，展现开源项目的灵活与韧性。二、技术拆解：如何做出AI神器？Peter的核心方法论：“为AI模型设计，而非人类”\n  架构哲学：Unix哲学：将AI代理视为“命令行工具”，通过CLI整合服务（如Google、Sonos、家庭自动化），实现“无浏览器交互”。插件化设计：核心功能模块化，开发者可独立贡献插件，降低参与门槛。  关键创新：多模态交互：支持文字+图片（截图自动解析上下文）+语音（自动转文字并调用API），提升效率。模型兼容性：支持OpenAI、Claude Opus、本地模型（如MiniMax 2），强调“模型无关性”。自适应能力：通过“心跳机制”自动执行任务（如SSH登录MacBook调大音量当闹钟），展现AI的“资源智能”。三、开发者启示录：从个人项目到社区运动Peter的“非传统成功学”：\n  动机纯粹：“玩”是第一驱动力——用“附魔工程”（Enchanting Engineering）对抗倦怠，强调“乐趣驱动开发”。拒绝商业化：“我已有足够财富，项目只为开源社区和探索乐趣。”  社区优先：拒绝成立公司，倾向非营利基金会模式，强调“项目应大于个人”。呼吁贡献者：“如果你爱开源、懂安全、会拆解软件——请邮件我，别只扔问题！”  技术哲学：“别为人类设计”：工具需符合AI的“思维模式”（如调用-log而非人类界面）。“代码不值钱，想法值钱”：开源许可证选MIT，坚信“品牌与社区价值＞代码本身”。四、行业洞察：AI代理将如何重塑应用生态？Peter的三大预言：\n  “浏览器将消失”：未来交互将“跨平台无感”——用户直接与AI代理对话，无需打开特定App或浏览器。例：拍张麦当劳食物照片，AI自动调整健身计划，取代独立健身App。  “大厂围墙花园将被拆解”：AI代理可绕过Gmail/WhatsApp等平台限制，实现“数据解放”（如用本地模型调用企业API）。  “非技术用户将主导AI工具链”：案例：设计工作室用户无代码经验，却用Molt Bot管理25个Web服务，证明“自然语言交互”可降低技术门槛。五、给开发者的行动指南  立即尝试：从“小工具”开始：用CLI整合你常用的服务（如日历、邮件），体验AI代理的“胶水”能力。选对模型：个人项目推荐Claude Opus（交互自然）或Codex（代码生成强）。  长期思考：开源策略：MIT许可证吸引社区，但需明确风险（如Prompt Injection漏洞）。社区建设：早期用户是“种子”，用“透明沟通”（如文档、Discord）培养归属感。  警惕陷阱：安全边界：开源工具被公开部署时，需预设“信任模型”（如Discord默认信任群成员）。模型依赖：避免绑定单一API，优先支持本地模型以保障长期可用性。关注我的博客：硅谷声研所更多问题可以联系：Nonecoco\n\n\n前往小宇宙评论区与主播互动",
+      "description": "本期博客翻译自：TBPN对Clawdbot创始人Peter Steinberger的独家专访一、核心故事：一个“退休”程序员的AI逆袭* 背景：Peter Steinberger，13年独立软件开发者，4年前卖掉公司后陷入职业倦怠，曾形容自己“像被抽走发动机”。* 转折点：2023年4月，偶然接触AI（GPT-4测试版），被其潜力震撼，开启“玩AI”模式。* 爆款诞生：灵感：为解决个人需求，开发“个人AI代理”，支持WhatsApp/Discord等多平台交互。  病毒式增长：GitHub星标数“直线暴涨”，从0到数万仅数周，用户涵盖非技术群体（如Instagram用户为它购买Mac Mini）。  命名风波：因商标冲突，从“ClawBot”更名为“Molt Bot”，展现开源项目的灵活与韧性。二、技术拆解：如何做出AI神器？Peter的核心方法论：“为AI模型设计，而非人...去小宇宙查看完整单集简介前往小宇宙评论区与主播互动",
       "feed_url": "https://feed.xyzfm.space/gled4wm7j8c4",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/6980babd073030367adb3a6d/media.xyzcdn.net/69074610aca57a5e75a40cf7/ls0dyI2L8iEYEl5BMQK-Wd70HzAb.m4a",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/00/0f/31000f9a-f407-95d9-fafc-c859957bb4e9/mza_7280137495695839080.jpg/600x600bb.jpg",
@@ -468,7 +496,8 @@
       "itunes_id": 1000747713997,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/00/0f/31000f9a-f407-95d9-fafc-c859957bb4e9/mza_7280137495695839080.jpg/600x600bb.jpg",
-      "collection_id": 1856574829
+      "collection_id": 1856574829,
+      "language": "zh"
     },
     {
       "guid": "b4486b4c-ae1d-41fb-af47-54f29d78ffa2",
@@ -484,7 +513,8 @@
       "itunes_id": 1000747567276,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/9d/62/69/9d6269d1-ec6c-4686-16c2-20a117ef266c/mza_4869623135449196254.jpg/600x600bb.jpg",
-      "collection_id": 1736359687
+      "collection_id": 1736359687,
+      "language": "en"
     },
     {
       "guid": "0ebfa18f-84d8-4de7-8cd1-ac24bd42575a",
@@ -500,7 +530,8 @@
       "itunes_id": 1000747442443,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/95/26/bc95267c-8c04-fc15-cff5-1cefe6e08ed1/mza_11888390368139562347.jpg/600x600bb.jpg",
-      "collection_id": 1854108295
+      "collection_id": 1854108295,
+      "language": "ko"
     },
     {
       "guid": "55d24925-198b-4b0a-bc31-3af3fc3d83d4",
@@ -516,7 +547,8 @@
       "itunes_id": 1000746965358,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/91/db/3991db3a-72d2-a790-2676-d9a8ece72f2f/mza_9318876029142238572.jpg/600x600bb.jpg",
-      "collection_id": 1772360235
+      "collection_id": 1772360235,
+      "language": "en"
     },
     {
       "guid": "0d0f40fb-ff88-4fde-95b1-e03b8c5efd45",
@@ -532,7 +564,8 @@
       "itunes_id": 1000746931879,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/91/db/3991db3a-72d2-a790-2676-d9a8ece72f2f/mza_9318876029142238572.jpg/600x600bb.jpg",
-      "collection_id": 1772360235
+      "collection_id": 1772360235,
+      "language": "en"
     },
     {
       "guid": "ea0d7f37-08a8-4ba5-9c66-b8e1063f3e63",
@@ -548,7 +581,8 @@
       "itunes_id": 1000770432654,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/e3/7b/92e37bfd-1809-fa6b-57b2-0f7eaa09f5e0/mza_3783866776857493562.jpg/600x600bb.jpg",
-      "collection_id": 1896571149
+      "collection_id": 1896571149,
+      "language": "en"
     },
     {
       "guid": "19a26bde-fbb4-40ca-9099-1e5f8128ceaf",
@@ -564,7 +598,8 @@
       "itunes_id": 1000740199533,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ba/db/03/badb034c-8f86-e25b-fa3a-005a054909ea/mza_3838394041807074305.jpeg/600x600bb.jpg",
-      "collection_id": 708371900
+      "collection_id": 708371900,
+      "language": "en"
     },
     {
       "guid": "ebdee360-bd79-4d80-b9fc-547f5dcfc08c",
@@ -580,7 +615,8 @@
       "itunes_id": 1000716018122,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/85/01/75/8501756e-de62-9496-4ec6-46dcc21c24cc/mza_15818610995032363121.jpg/600x600bb.jpg",
-      "collection_id": 1564647339
+      "collection_id": 1564647339,
+      "language": "de"
     },
     {
       "guid": "647d4cde-195d-4ad0-bd58-0334c0b204ac",
@@ -596,7 +632,8 @@
       "itunes_id": 1000713032107,
       "added_at": "2026-06-08T22:56:43.778397Z",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/e0/8c/90e08c5f-63bb-38a5-a852-0bbaa1983ea3/mza_14848729376580426752.jpg/600x600bb.jpg",
-      "collection_id": 1533084242
+      "collection_id": 1533084242,
+      "language": "de"
     }
   ]
 }
