@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-06-16",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -36,7 +36,7 @@
       "title": "Olympic 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/cole-hocker.png?v=b835672c",
       "feed_url": "https://podgod.ca/data/v1/personalities/cole-hocker.json",
-      "episode_count": 23,
+      "episode_count": 24,
       "handle_entity_id": null
     },
     {
