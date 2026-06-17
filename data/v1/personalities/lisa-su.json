@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-17",
   "episodes": [
+    {
+      "guid": "b118f42d-f39a-492e-87f8-9d86826a12d0",
+      "title": "Women Crush Wednesday: Lisa Su — The Vision. The Leader. The Game Changer.",
+      "podcast_title": "Pain Pill by Ghost-D",
+      "description": "On this episode of Women Crush Wednesday, hosted by Ghost-D on the Pain Pill Podcast, we spotlight one of the most influential women in technology today: Lisa Su.From humble beginnings as an immigrant child to becoming the CEO of AMD and one of the most powerful business leaders in the world, Lisa Su’s journey is a masterclass in intelligence, perseverance, and leadership.We’ll explore:How Lisa Su fell in love with engineering at a young ageHer journey through MIT and the world of semiconductorsThe challenges she faced as a woman in a male-dominated industryHow she rescued AMD from the brink of collapseHer role in the AI revolution and the future of technologyThe leadership principles that helped her reach the topWhy her story continues to inspire women and innovators around the worldThis episode is about vision, resilience, and proving that greatness isn’t determined by where you start—it’s determined by how far you’re willing to go.Pain Pill PodcastHosted by Ghost-D",
+      "feed_url": "https://anchor.fm/s/3ef9192c/podcast/rss",
+      "audio_url": "https://anchor.fm/s/3ef9192c/podcast/play/121619091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-17%2Fd783f24f-3308-915d-4f31-4203a5a710ea.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dc/b4/95/dcb4951c-2552-5b04-4814-075a04895e67/mza_15624141817974781658.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d4/9b/28/d49b2809-8499-f390-fc85-2fe1a5d99893/mza_9923320376726172699.jpg/600x600bb.jpg",
+      "collection_id": 1539765162,
+      "duration": 1791,
+      "pub_date": "2026-06-17T16:06:29Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/women-crush-wednesday-lisa-su-the-vision-the-leader/id1539765162?i=1000773142523&uo=4",
+      "language": "en",
+      "itunes_id": 1000773142523,
+      "added_at": "2026-06-17T16:52:08.019770Z"
+    },
     {
       "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
       "title": "How AMD's Lisa Su Views the Future of AI",
