@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-06-12",
+  "version": 4,
+  "updatedAt": "2026-06-17",
   "platforms": ["x", "bluesky", "mastodon", "linkedin", "youtube", "tiktok", "instagram"],
   "entities": [
     {
@@ -71,6 +71,104 @@
         "youtube": "Alex.kantrowitz",
         "tiktok": null,
         "instagram": "alexkantrowitz"
+      }
+    },
+    {
+      "id": "letsrun-track-talk",
+      "name": "LetsRun.com's Track Talk",
+      "aliases": ["letsrun track talk", "track talk", "letsrun.com track talk", "letsrun"],
+      "handles": {
+        "x": "letsrundotcom",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "letsrundotcom"
+      }
+    },
+    {
+      "id": "adsp",
+      "name": "ADSP: Algorithms + Data Structures + Programming",
+      "aliases": ["adsp", "adsp the podcast", "algorithms data structures programming"],
+      "handles": {
+        "x": "adspthepodcast",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "the-peterman-pod",
+      "name": "The Peterman Pod",
+      "aliases": ["peterman pod", "the peterman pod", "ryan peterman"],
+      "handles": {
+        "x": "ryanlpeterman",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": "company/the-peterman-pod",
+        "youtube": null,
+        "tiktok": "ryanlpeterman",
+        "instagram": "ryanlpeterman"
+      }
+    },
+    {
+      "id": "python-bytes",
+      "name": "Python Bytes",
+      "aliases": ["python bytes", "pythonbytes"],
+      "handles": {
+        "x": "pythonbytes",
+        "bluesky": "pythonbytes.bsky.social",
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "coffee-club",
+      "name": "COFFEE CLUB: a running podcast about nothing",
+      "aliases": ["coffee club", "coffee club pod", "coffee club running podcast"],
+      "handles": {
+        "x": null,
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": "coffeeclubpod"
+      }
+    },
+    {
+      "id": "arraycast",
+      "name": "ArrayCast",
+      "aliases": ["arraycast", "array cast"],
+      "handles": {
+        "x": "arraycast",
+        "bluesky": "arraycast.com",
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "twos-complement",
+      "name": "Two's Complement",
+      "aliases": ["twos complement", "two's complement", "twoscp"],
+      "handles": {
+        "x": "twoscp",
+        "bluesky": null,
+        "mastodon": null,
+        "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
       }
     }
   ]
