@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-06-24",
+  "updatedAt": "2026-06-25",
   "episodes": [
+    {
+      "guid": "3eec25a3-6d21-4e19-8cb7-af696d3f9cf6",
+      "title": "Fei-Fei Li: In 10 Years There Will Be Only 2 Kinds of Workers",
+      "podcast_title": "Silicon Valley Girl: AI, Tech and Career Growth",
+      "description": "Dr. Fei-Fei Li created ImageNet — the dataset that triggered the deep learning revolution. Now she runs World Labs, where she just raised $1 billion to teach AI something it still can't do: understand physical space. She was named Time Person of the Year in 2025 and won the Queen Elizabeth Prize for Engineering.\nDavid Rogier founded MasterClass in 2015 on the idea that everyone should have access to world-class teachers. He has an MBA from Stanford and now builds all his own work tools with Claude Code instead of buying software — including a to-do list app that auto-deletes anything sitting on the list for more than a day and a half.\nIn this episode, we get into what AI can already do and what it still can't, why the two loudest takes on AI — that it'll save the world, and that it'll take all the jobs — are both wrong, and what your kids' schooling and your own career actually look like in 10 years.\nWe cover:\nWhy Fei-Fei Li says \"the cost of intelligence goes to zero\" is an irresponsible claim — and what human intelligence actually includes beyond languageSpatial intelligence: the four things AI still can't do (understand, reason about, generate, and interact with 3D space) — and why World Labs is betting $1B on itThe barbell effect in the workforce: why being \"decent\" at anything isn't enough anymore, and the two roles that will thrive — top 1% specialists and high-agency generalistsWhy AI tutoring delivers the same learning in 60% less time — and why the real obstacle to changing education isn't the technologyDavid's full CEO stack: custom apps he built himself, \"Davidify\" — his own AI clone he gave his team — and why he stopped buying softwareThe one thing to do when an employee is scared to try AI: sit down with them, not send a YouTube linkWhat the job of product manager looks like today vs. five years ago — and why Fei-Fei only hires PMs who are riding the waveFei-Fei's advice for non-tech professionals: find someone under 25 and let them show you their world for a weekendHow long until AI handles the laundry — Fei-Fei's actual estimateLinks:📌Subscribe to my free newsletter where I go deeper on AI tools, career strategies, and building with AI: https://siliconvalleygirl.beehiiv.com/subscribe?utm_source=spotify&utm_medium=video&utm_campaign=futureproof-sub&utm_content=FeiFeiLi\n🔗 Instagram: ⁠⁠https://www.instagram.com/siliconvalleygirl/⁠⁠ \n𝕏 : ⁠⁠https://x.com/siliconvalleymm⁠⁠ \n💼 LinkedIn: ⁠⁠https://www.linkedin.com/in/marinamogilko⁠⁠ \n📌 My Companies & Products: ⁠⁠https://Marinamogilko.co",
+      "feed_url": "https://anchor.fm/s/105af30ec/podcast/rss",
+      "audio_url": "https://traffic.megaphone.fm/APO8814312101.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/eb/b5/69ebb5ad-2083-a50d-d76a-677504253895/mza_4602711082543402345.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/eb/b5/69ebb5ad-2083-a50d-d76a-677504253895/mza_4602711082543402345.jpg/600x600bb.jpg",
+      "collection_id": 1819090545,
+      "duration": 2797,
+      "pub_date": "2026-06-25T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-in-10-years-there-will-be-only-2-kinds-of-workers/id1819090545?i=1000774171967&uo=4",
+      "language": "en",
+      "itunes_id": 1000774171967,
+      "added_at": "2026-06-25T16:18:23.368429Z"
+    },
     {
       "guid": "20260609",
       "title": "Fei-Fei Li sobre World Models, Gemma4 12b encoder-free, Cerebro humano y next token prediction",
