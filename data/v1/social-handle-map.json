@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-17",
+  "version": 5,
+  "updatedAt": "2026-06-26",
   "platforms": ["x", "bluesky", "mastodon", "linkedin", "youtube", "tiktok", "instagram"],
   "entities": [
     {
@@ -166,6 +166,20 @@
         "bluesky": null,
         "mastodon": null,
         "linkedin": null,
+        "youtube": null,
+        "tiktok": null,
+        "instagram": null
+      }
+    },
+    {
+      "id": "bryce-adelstein-lelbach",
+      "name": "Bryce Adelstein Lelbach",
+      "aliases": ["bryce", "blelbach", "bryce lelbach", "bryce adelstein lelbach"],
+      "handles": {
+        "x": "blelbach",
+        "bluesky": "blelbach.bsky.social",
+        "mastodon": null,
+        "linkedin": "in/brycelelbach",
         "youtube": null,
         "tiktok": null,
         "instagram": null
