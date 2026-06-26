@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-06-25",
+  "updatedAt": "2026-06-26",
   "episodes": [
+    {
+      "guid": "28fe821f-77f0-4706-8110-33cad3c744d1",
+      "title": "Demis Hassabis: How the Google DeepMind CEO Thinks",
+      "podcast_title": "Media and the Machine",
+      "description": "In this episode, I profile Demis Hassabis, the CEO of Google DeepMind. \nDemis's mission is to build AGI—artificial general intelligence—and use it to solve science's biggest mysteries. I do so through what I believe is the most comprehensive biography of him: The Infinity Machine by Sebastian Mallaby.\nMallaby spent 30 hours interviewing Demis and had more than 100 conversations with the people who know him best.\nIn this episode you'll learn:\n How a chess prodigy became one of the architects of modern AI.  The inside stories involving Elon Musk, Sam Altman, Larry Page, Sergey Brin, Peter Thiel, Mustafa Suleyman, and others who shaped the AI race.  Why Hassabis walked away from money multiple times to pursue science instead.  How DeepMind went from mastering Atari games to creating AlphaGo and AlphaFold.  Why Hassabis is motivated differently than Sam Altman, Elon Musk, and Dario Amodei.  How Google produced many of the breakthroughs behind today's AI revolution—yet still lost the consumer AI race to ChatGPT.This episode is part of a series profiling the AI titans.\nEnjoy!Rob Kelly",
+      "feed_url": "https://feeds.transistor.fm/media-and-the-machine",
+      "audio_url": "https://media.transistor.fm/cc708bd7/3e946d13.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/76/a4/ab76a485-938e-0b02-a7e6-bdae8ab5c131/mza_15287275799650151365.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/5c/f5/a35cf5d4-d492-eed1-35f1-0231b94dd384/mza_544567509997300666.jpg/600x600bb.jpg",
+      "collection_id": 1871339836,
+      "duration": 5261,
+      "pub_date": "2026-06-26T14:22:20Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-how-the-google-deepmind-ceo-thinks/id1871339836?i=1000774355601&uo=4",
+      "language": "en",
+      "itunes_id": 1000774355601,
+      "added_at": "2026-06-26T16:09:32.809496Z"
+    },
     {
       "guid": "8105a8f4-5fd4-11f1-98e3-23cb2c744a7f",
       "title": "222: Demis Hassabis, CEO de DeepMind: ¿un nuevo Leonardo da Vinci? y Text to Song: ¿El futuro la música?",
