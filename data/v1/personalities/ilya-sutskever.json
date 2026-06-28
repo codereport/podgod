@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-06-28",
   "episodes": [
+    {
+      "guid": "audioboom-019f0c22-d2ac-7e5a-a0f2-4c3cf88c2cf2",
+      "title": "The Founding of OpenAI. Guest Author: Keach Hagey. In this opening segment, Keach Hagey discusses the January 2016 founding of OpenAI as a nonprofit research lab. Key figures included co-founder Greg Brockman and chief scientist Ilya Sutskever, a renown",
+      "podcast_title": "The John Batchelor Show",
+      "description": "The Founding of OpenAI. Guest Author: Keach Hagey. In this opening segment, Keach Hagey discusses the January 2016 founding of OpenAI as a nonprofit research lab. Key figures included co-founder Greg Brockman and chief scientist Ilya Sutskever, a renowned researcher whose recruitment from Google signaled the lab's potential. Backed by a billion-dollar commitment from Elon Musk, Peter Thiel, and Jessica Livingston, the project was designed as a safe, non-commercial counterweight to Google's DeepMind. Operating initially out of Brockman's apartment, the team aimed to achieve Artificial General Intelligence (AGI) for the benefit of humanity. The technical foundation relied heavily on GPUs—hardware originally designed for video games—which proved essential for training the deep learning neural networks necessary for their research. This era was characterized by an ambitious, \"pirate\" spirit funded through YC Research to explore radical ideas outside the profit motive. 1JANUARY 1931",
+      "feed_url": "https://audioboom.com/channels/4002274.rss",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8921763.mp3?modified=1782615056&sid=4002274&source=rss",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/ee/bc/a6eebc66-8ef3-792a-5371-d1584f2695dd/mza_638775928581868285.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b1/dc/39/b1dc390c-4903-6b35-368e-5f5570739b3e/mza_3188976742884045109.jpg/600x600bb.jpg",
+      "collection_id": 589864479,
+      "duration": 625,
+      "pub_date": "2026-06-28T02:50:36Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/the-founding-of-openai-guest-author-keach-hagey-in/id589864479?i=1000774517792&uo=4",
+      "language": "en",
+      "itunes_id": 1000774517792,
+      "added_at": "2026-06-28T15:13:04.445306Z"
+    },
     {
       "guid": "audioboom-019e5d13-ffdf-7f44-8d1d-9e3d8a1625b1",
       "title": "Keach Hagey recounts the January 2016 founding of OpenAI in San Francisco, initially established as a modest nonprofit research lab in Greg Brockman's apartment. Co-founded by Sam Altman, Brockman, and chief scientist Ilya Sutskever, the organization ai",

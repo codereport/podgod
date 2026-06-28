@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-06-28",
   "languages": [
     "de",
     "en",
@@ -145,7 +145,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
-      "episode_count": 22,
+      "episode_count": 23,
       "handle_entity_id": null
     },
     {
@@ -158,7 +158,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 67,
+      "episode_count": 68,
       "handle_entity_id": null
     },
     {
