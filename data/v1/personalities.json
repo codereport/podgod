@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30",
+  "updatedAt": "2026-07-01",
   "languages": [
     "de",
     "en",
@@ -132,7 +132,7 @@
       "title": "Olympic distance runner",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/grant-fisher.png?v=6f8afe5e",
       "feed_url": "https://podgod.ca/data/v1/personalities/grant-fisher.json",
-      "episode_count": 21,
+      "episode_count": 22,
       "handle_entity_id": null
     },
     {
