@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03",
+  "updatedAt": "2026-07-04",
   "languages": [
     "de",
     "en",
@@ -67,7 +67,7 @@
       "title": "Ultramarathon champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
-      "episode_count": 11,
+      "episode_count": 12,
       "handle_entity_id": null
     },
     {
