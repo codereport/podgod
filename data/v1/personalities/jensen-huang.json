@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-07-07",
+  "updatedAt": "2026-07-08",
   "episodes": [
+    {
+      "guid": "b0337c64-ab87-423e-be09-7efa86b44b10",
+      "title": "205 - Visitó Silicon Valley y casi toma cerveza con Jensen Huang",
+      "podcast_title": "Animales Financieros",
+      "description": "¿Qué pasará cuando haya más robots humanoides que humanos en 2050?\n\nFernando Gómez, CEO de DVA Capital, viene llegando de Silicon Valley y sintió una efervescencia única. Se respira la revolución tecnológica más grande de la historia. \n\nLa integración de la IA con la robótica está a la vuelta de la esquina y en poco tiempo habrán más robots que humanos. \n\nA pesar de esto la convicción es clara: \"La tecnología nos rodeará, pero nuestras experiencias humanas seguirán siendo esenciales\". \n\n#FuturoDigital #InteligenciaArtificial #RobotsHumanoides #SiliconValley #Innovación",
+      "feed_url": "https://anchor.fm/s/7f0ff828/podcast/rss",
+      "audio_url": "https://anchor.fm/s/7f0ff828/podcast/play/122553273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F427581074-44100-2-d0eac621c166.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/00/4e/41004eba-a972-e5ab-d894-3934f8270daf/mza_4728595697665542765.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9b/e5/94/9be5945d-bda4-b1fa-eed7-4a23798a625f/mza_16647178055297492483.jpg/600x600bb.jpg",
+      "collection_id": 1616728665,
+      "duration": 6003,
+      "pub_date": "2026-07-08T12:45:17Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/205-visit%C3%B3-silicon-valley-y-casi-toma-cerveza-con-jensen/id1616728665?i=1000775957736&uo=4",
+      "language": "es",
+      "itunes_id": 1000775957736,
+      "added_at": "2026-07-08T15:58:20.156384Z"
+    },
     {
       "guid": "505fbe82-2349-11f1-b610-3fa7e6c21ed0",
       "title": "How to Take Risks and Still Succeed | Jensen Huang's Guidance in 25 Minutes",
