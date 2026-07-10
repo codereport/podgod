@@ -4,8 +4,24 @@
   "name": "Mira Murati",
   "title": "Thinking Machines CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-07-10",
   "episodes": [
+    {
+      "guid": "28ef42b9-72e2-4fbe-9ca4-9e882dde9fe8",
+      "title": "Mira Murati, the Quiet Superpower in the AI Race",
+      "podcast_title": "In The Blink of AI with Georgie Healy",
+      "description": "<p>Welcome to the first ever episode of AI Icons, a new thing I'm launching on the show. Here's the idea: the people reshaping tech have stories more entertaining than anything Hollywood is putting out, so in under 30 minutes I'm going to tell you the whole story, the good, the bad, and the ugly, but only the facts. No spin. And at the end, I'll give you my two cents on what actually made them an icon, and whether it's something you and I could ever replicate.</p><p>First up is Mira Murati, and I'll admit it, I'm a fan. I take you all the way back to her childhood in isolated post-communist Albania, where maths was the one subject the party couldn't rewrite, through a scholarship in Canada, degrees in maths and mechanical engineering, and a Goldman Sachs floor in Tokyo at 21. Then it's Tesla and those ridiculous Falcon Wing doors, a risky bet on a startup called Leap Motion, and the move that made her famous: OpenAI, where she rose to CTO and helped bring DALL-E and ChatGPT into your life.</p><p>And then there's the part that genuinely reads like a thriller. The 72 hours in November 2023 when Sam Altman was fired, Mira was named CEO, and a 52-page memo and a string of 2:30am texts sat right at the center of it. I walk you through what we know, what we still don't, and what came out under oath. I finish on her next act, Thinking Machines Lab, the record-breaking raise, the talent exodus, and why, out of my four Gs, I think one of them explains her better than the rest. Come find out which one.</p><p><h2>In the Blink of AI is made possible by our wonderful partners</h2><h2>Deel</h2><p>Founders scale faster on Deel. Set up payroll for any country in minutes, hire anyone anywhere, and get visas handled fast, so you stay focused on scaling. Deel takes care of onboarding, HR, IT, EOR, benefits, and compliance, so your team can grow without borders.</p><p>It’s why more than 40,000 fast-growing companies trust Deel to move fast.</p><p>Visit <a href=\"https://www.deel.com/dayone\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.deel.com/dayone</a></p></p><p><h1>✨ Connect with Georgie Healy</h1><p>Weekly Substack: https://georgiehealy.substack.com/</p><p>Linkedin: https://www.linkedin.com/in/georginahealy/</p><p>Instagram: https://www.instagram.com/georginahealytech/</p><h1>The Day One Network</h1><p>In The Blink of AI is part of Day One, the podcast network dedicated to founders, operators & investors.</p><p>Sign up to get your weekly insights into the up-and-coming AI startups: https://dayone.fm/newsletter</p></p>",
+      "feed_url": "https://feeds.captivate.fm/blink-of-ai-dayone/",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/episodes.captivate.fm/episode/28ef42b9-72e2-4fbe-9ca4-9e882dde9fe8.mp3",
+      "artwork_url": "https://artwork.captivate.fm/52386ebb-2c61-4b79-88da-85220be12b23/Mira-Murati-Square-Thumbnail-BAI.jpg",
+      "podcast_artwork_url": "https://artwork.captivate.fm/10e2b33a-c7c8-4fc9-ac4b-176c00c2e39f/powered-by.png",
+      "duration": 1775,
+      "pub_date": "2026-07-09T20:00:00Z",
+      "episode_url": "https://dayone.fm/show/in-the-blink-of-ai",
+      "language": "en",
+      "podcastindex_id": 57328138925,
+      "added_at": "2026-07-10T16:17:22.686558Z"
+    },
     {
       "guid": "624f38e5-8d22-4280-a6ff-a3bab7d8dd00",
       "title": "Ep: 236- Boys Club Live: Mira Murati's Thinking Machine demo, Hantavirus Conspiracy, Jake Shane/Kacey Musgraves Moment, Musk/Altman court case, with co-host Quasimatt and guests Rubén Steckel (AirTM), Prince Boucher (LumaAI),  Sahil Goswami (Dart Bank)",
