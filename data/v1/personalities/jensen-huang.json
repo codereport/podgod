@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-07-10",
+  "updatedAt": "2026-07-11",
   "episodes": [
+    {
+      "guid": "81d8a21f-3bef-4cf5-a51a-a69b24be0079",
+      "title": "#35 | Jensen Huang: del inmigrante lavaplatos a ser el Rey del AI | Aléjate del 97%",
+      "podcast_title": "Aléjate del 97%",
+      "description": "Jensen Huang, fundador de NVIDIA, estuvo a 30 días de la quiebra y voló a Tokio a confesarle a SEGA que su chip no servía. La historia real detrás de la inteligencia artificial.\n\nDe niño limpiaba baños en un internado de Kentucky; de joven lavaba platos en un Denny's. Hoy los chips de su empresa son la columna vertebral de la IA del mundo. En este episodio: el fracaso del NV1, la confesión de los 5 millones de dólares a SEGA, el chip que salió con un mes de nómina en el banco, y la apuesta que Wall Street llamó locura hasta que en 2012 nació la IA moderna.\n\n📚 Recomendación del episodio: The Let Them Theory, de Mel Robbins.\n\nSuscríbete a mi newsletter: https://humbertohrrera.substack.com/\n\nYo soy Humberto Herrera. Los sueños se cumplen.",
+      "feed_url": "https://feeds.simplecast.com/TVy67aCd",
+      "audio_url": "https://cdn.simplecast.com/media/audio/transcoded/736d1181-5597-410d-a580-c523351d155c/267571ef-09d6-4113-ad11-87e8ed8cee82/episodes/audio/group/fc1ee26b-e425-42e7-ad65-21f008cccd36/group-item/75877fd0-41d2-4a9a-a11a-8dbdc2084571/128_default_tc.mp3?aid=rss_feed&feed=TVy67aCd",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/e6/9c/64e69c70-2a5f-b1c4-31ce-50b25b1ca469/mza_8789504453880050615.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/48/b7/af48b713-d5ad-2bdf-8012-1b6fdad3f693/mza_13508284336768094209.jpg/600x600bb.jpg",
+      "collection_id": 1840039557,
+      "duration": 805,
+      "pub_date": "2026-07-10T22:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/35-jensen-huang-del-inmigrante-lavaplatos-a-ser-el/id1840039557?i=1000776317952&uo=4",
+      "language": "es",
+      "itunes_id": 1000776317952,
+      "added_at": "2026-07-11T14:45:21.668131Z"
+    },
     {
       "guid": "b0337c64-ab87-423e-be09-7efa86b44b10",
       "title": "205 - Visitó Silicon Valley y casi toma cerveza con Jensen Huang",
