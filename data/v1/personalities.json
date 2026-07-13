@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-13",
   "languages": [
     "de",
     "en",
@@ -67,7 +67,7 @@
       "title": "Ultramarathon champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
-      "episode_count": 13,
+      "episode_count": 14,
       "handle_entity_id": null
     },
     {
@@ -198,7 +198,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 44,
+      "episode_count": 45,
       "handle_entity_id": null
     },
     {

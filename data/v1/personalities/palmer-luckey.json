@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-07-12",
+  "updatedAt": "2026-07-13",
   "episodes": [
+    {
+      "guid": "substack:post:206795061",
+      "title": "Palmer Luckey.Draft",
+      "podcast_title": "Same As It Ever Was Podcast",
+      "description": "This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit materialistscumbag.substack.com",
+      "feed_url": "https://api.substack.com/feed/podcast/8870829.rss",
+      "audio_url": "https://api.substack.com/feed/podcast/206795061/21b908d4399fe5083161c85e045c447f.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/50/ac/eb50ac45-4018-a5e0-b6f9-dad4bedbca79/mza_5260407625555464858.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/dd/ff/98ddffeb-b921-f714-dfb3-8b09fe09eec6/mza_6339159609419761170.jpg/600x600bb.jpg",
+      "collection_id": 1896040991,
+      "duration": 1148,
+      "pub_date": "2026-07-13T05:01:54Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-draft/id1896040991?i=1000776546168&uo=4",
+      "language": "en",
+      "itunes_id": 1000776546168,
+      "added_at": "2026-07-13T16:23:18.208370Z"
+    },
     {
       "guid": "cf0dbde3-bd82-4f3d-8b6e-002188ecd1eb",
       "title": "Palmer Luckey on Threats, Autonomy, and the Future of American Power",
