@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-17",
   "languages": [
     "de",
     "en",
@@ -158,7 +158,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 71,
+      "episode_count": 72,
       "handle_entity_id": null
     },
     {
@@ -184,7 +184,7 @@
       "title": "Thinking Machines CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
       "feed_url": "https://podgod.ca/data/v1/personalities/mira-murati.json",
-      "episode_count": 13,
+      "episode_count": 16,
       "handle_entity_id": null
     },
     {
