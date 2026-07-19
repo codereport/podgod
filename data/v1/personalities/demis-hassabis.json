@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "episodes": [
+    {
+      "guid": "substack:post:207663337",
+      "title": "Demis Hassabis on the New Coming Age",
+      "podcast_title": "Don't Worry About the Vase Podcast",
+      "description": "The Don’t Worry About the Vase Podcast is a listener-supported podcast. To receive new posts and support the cost of creation, consider becoming a free or paid subscriber.\nThis has been an Askwho Casts audio conversion. If you would like your own private feed of audio conversions of any blog posts you would like to listen to, You can sign up For Askwho Casts Pro at https://app.askwhocasts.com/, Where you can give any post the multi-voiced podcast treatment, into your own podcast feed. Thanks for listening. \n* 00:00 - Introduction\n* 01:04 - The Core Statement and Request\n* 02:39 - Things Left Unsaid\n* 04:11 - The Proposal\n* 06:04 - A Good Start But Insufficient\n* 09:02 - Skeptics Of Future AI Capabilities\n* 11:01 - DeepMind On Bioresilience\n* 12:55 - Part 2: DeepMind Folds To The Department of War\n* 13:49 - DeepMind Leadership Failed Us\n* 19:52 - This Was a Failure We Must Learn From\nhttps://open.substack.com/pub/thezvi/p/demis-hassabis-on-the-new-coming?r=67y1h&utm_campaign=post-expanded-share&utm_medium=web\n \n\nGet full access to DWAtV Podcast at dwatvpodcast.substack.com/subscribe",
+      "feed_url": "https://api.substack.com/feed/podcast/2809465.rss",
+      "audio_url": "https://api.substack.com/feed/podcast/207663337/203af9e80e300b91493471a5be102a03.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9f/38/29/9f3829f4-690d-6f2d-bda6-0f8dc3c84832/mza_14278414725193802176.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/ba/08/1cba087a-b7dc-43e5-7bfa-1c3188ca1335/mza_8270185412424388898.jpeg/600x600bb.jpg",
+      "collection_id": 1758579881,
+      "duration": 1338,
+      "pub_date": "2026-07-19T14:32:03Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-on-the-new-coming-age/id1758579881?i=1000777432131&uo=4",
+      "language": "en",
+      "itunes_id": 1000777432131,
+      "added_at": "2026-07-19T14:48:20.547179Z"
+    },
     {
       "guid": "49898377-3899-4486-ae0a-e9325d8a95a6",
       "title": "[S3] EP4 / Demis Hassabis - 前沿AI框架:新時代的曙光 | AGI最快再3年問世，我們該如何面對這個浪潮衝擊",

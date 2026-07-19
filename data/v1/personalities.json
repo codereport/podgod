@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "languages": [
     "de",
     "en",
@@ -79,7 +79,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 66,
+      "episode_count": 67,
       "handle_entity_id": null
     },
     {
@@ -132,7 +132,7 @@
       "title": "Olympic distance runner",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/grant-fisher.png?v=6f8afe5e",
       "feed_url": "https://podgod.ca/data/v1/personalities/grant-fisher.json",
-      "episode_count": 22,
+      "episode_count": 23,
       "handle_entity_id": null
     },
     {
@@ -184,7 +184,7 @@
       "title": "Thinking Machines CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
       "feed_url": "https://podgod.ca/data/v1/personalities/mira-murati.json",
-      "episode_count": 17,
+      "episode_count": 18,
       "handle_entity_id": null
     },
     {

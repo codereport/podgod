@@ -4,8 +4,25 @@
   "name": "Mira Murati",
   "title": "Thinking Machines CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
-  "updatedAt": "2026-07-18",
+  "updatedAt": "2026-07-19",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19514049",
+      "title": "Inkling Arrives: Mira Murati's 975 Billion Parameter Open Weight Bet Against One Size Fits All AI - July 19, 2026",
+      "podcast_title": "DX Today | No-Hype Podcast & News About AI & DX",
+      "description": "Inkling Arrives: Mira Murati's 975 Billion Parameter Open Weight Bet Against One Size Fits All AI - July 19, 2026\n\n\nThinking Machines Lab, the startup founded by former OpenAI CTO Mira Murati, has released Inkling, a 975 billion parameter mixture of experts model whose weights anyone can download, customize, and own. Rick Spair and Laura dig into the architecture, the Bridgewater fine tuning result that beat top proprietary models, the business model behind giving a frontier model away, and what an American open weight contender means in a race Chinese labs have been winning.\n\n\nHosted by Rick Spair and Laura.\n\n\nThe DX Today Podcast brings you daily deep dives into the most consequential stories in the AI ecosystem.\n\n\n#AI #OpenWeightAI #MiraMurati #ThinkingMachines #TechNews",
+      "feed_url": "https://rss.buzzsprout.com/2207817.rss",
+      "audio_url": "https://www.buzzsprout.com/2207817/episodes/19514049-inkling-arrives-mira-murati-s-975-billion-parameter-open-weight-bet-against-one-size-fits-all-ai-july-19-2026.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/db/72/77db7233-b5cf-4be0-0795-d01e82c54539/mza_8964102975043089495.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/db/72/77db7233-b5cf-4be0-0795-d01e82c54539/mza_8964102975043089495.jpg/600x600bb.jpg",
+      "collection_id": 1693306495,
+      "duration": 835,
+      "pub_date": "2026-07-19T10:09:13Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/inkling-arrives-mira-muratis-975-billion-parameter/id1693306495?i=1000777414162&uo=4",
+      "language": "en",
+      "itunes_id": 1000777414162,
+      "added_at": "2026-07-19T14:48:20.547179Z"
+    },
     {
       "guid": "Buzzsprout-19509220",
       "title": "Thinking Machines: Mira Murati’s Open Weight Blueprint | 17th July 2026",
