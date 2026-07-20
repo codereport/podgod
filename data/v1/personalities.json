@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "languages": [
     "de",
     "en",
@@ -41,7 +41,7 @@
       "title": "Creator of Claude Code",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
       "feed_url": "https://podgod.ca/data/v1/personalities/boris-cherny.json",
-      "episode_count": 50,
+      "episode_count": 51,
       "handle_entity_id": null
     },
     {

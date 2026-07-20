@@ -4,8 +4,25 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "episodes": [
+    {
+      "guid": "6a5e026e19fcc7b0d015da75",
+      "title": "How Boris Cherny Uses Claude Code AI Agents to Ship 10–30 PRs a Day",
+      "podcast_title": "The AI & Tech Society by Danar",
+      "description": "Boris Cherny, creator of Claude Code at Anthropic, reveals how agentic coding is changing software engineering. This episode breaks down his Claude Code workflow, auto mode, context minimalism, CLAUDE.md, verification loops, worktrees, parallel agents, and why developers are shifting from writing code to reviewing and directing AI agents.\nClaude Code, Boris Cherny, Anthropic, agentic coding, AI coding agents, Claude Code workflow, CLAUDE.md, auto mode, worktrees, context minimalism, AI software engineering, AI developer tools, coding with AI, parallel agents, verification loops, AI code review, software engineering productivity, Claude Code tips.\nhttps://digitalstrategy-ai.com/boris-cherny-claude-code-workflow\n Hosted on Acast. See acast.com/privacy for more information.",
+      "feed_url": "https://feeds.acast.com/public/shows/659557afc7c0640016f29135",
+      "audio_url": "https://sphinx.acast.com/p/open/s/659557afc7c0640016f29135/e/6a5e026e19fcc7b0d015da75/media.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/01/f0/dd/01f0dd54-05cd-3359-2372-4801ef51f4ac/mza_8706797530471924286.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/8c/64/e68c6485-fb85-102c-3962-6656d627e806/mza_3824272192698841619.jpeg/600x600bb.jpg",
+      "collection_id": 1779566872,
+      "duration": 940,
+      "pub_date": "2026-07-20T11:11:45Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/how-boris-cherny-uses-claude-code-ai-agents-to-ship/id1779566872?i=1000777548933&uo=4",
+      "language": "en",
+      "itunes_id": 1000777548933,
+      "added_at": "2026-07-20T15:45:53.405099Z"
+    },
     {
       "guid": "6a26a3e4b30e1571aea2b45c",
       "title": "#576.Claude Code：工程师如何放大生产力，AI 重塑团队分工的通才时代",
