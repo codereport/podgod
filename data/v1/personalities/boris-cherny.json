@@ -4,8 +4,25 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-21",
   "episodes": [
+    {
+      "guid": "f18d2e9d-c17d-4d86-92c5-10f6d6b2d27b",
+      "title": "Boris Cherny, Claude Code's Creator, Doesn't Write Code Anymore — He Writes Agent Loops",
+      "podcast_title": "Dan's AI Intel",
+      "description": "Boris Cherny created Claude Code — and he no longer writes code. He writes loops that run hundreds of AI agents while he supervises. I dug into the verified story of the man, his tool, and what both say about the future of engineering: juniors are being displaced fast, but 'senior beats architect' is a false binary — and a randomized trial found experts were 19% slower with AI on code they knew. The winner is the hybrid orchestrator. Here's where AI-leveraged building is actually heading.\n\nI'm Dan. AI moves too fast to keep up with, so I built my own stack of AI tools to research, analyse, verify and illustrate the questions I can't stop thinking about — mostly to learn it myself, and I share what I find. AI-assisted, fact-checked, worth a second look.\n\nFollow Dan's AI Intel in whatever app you're listening in — it's free, and a follow is the single biggest thing that helps a small independent show grow. Read the full report — charts, sources and the interactive exhibits — at https://connectiveshift.com/shows/ai-intel/f18d2e9d-c17d-4d86-92c5-10f6d6b2d27b One quick thing, from Dan — I make this show mostly to keep up with AI myself, and I'd love to make it better. If there's something you'd push back on or want me to go deeper on, tell me: podcast@connectiveshift.com — I read every one.",
+      "feed_url": "https://bpjxmbbtzdmjeggwelgy.supabase.co/functions/v1/relay-rss",
+      "audio_url": "https://op3.dev/e/bpjxmbbtzdmjeggwelgy.supabase.co/storage/v1/object/public/relay-media/_full/f18d2e9d-c17d-4d86-92c5-10f6d6b2d27b-1782359218872.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e4/65/67/e4656711-4372-25a3-c371-8698e3840431/mza_1496522157538528719.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/27/be/8e27bed9-a447-5268-4402-5115d2ec68e0/mza_15162413871560811459.png/600x600bb.jpg",
+      "collection_id": 6784551302,
+      "duration": 2877,
+      "pub_date": "2026-07-21T09:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/boris-cherny-claude-codes-creator-doesnt-write-code/id6784551302?i=1000777692818&uo=4",
+      "language": "en",
+      "itunes_id": 1000777692818,
+      "added_at": "2026-07-21T15:29:26.721818Z"
+    },
     {
       "guid": "6a5e026e19fcc7b0d015da75",
       "title": "How Boris Cherny Uses Claude Code AI Agents to Ship 10–30 PRs a Day",

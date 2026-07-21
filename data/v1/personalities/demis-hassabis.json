@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-21",
   "episodes": [
+    {
+      "guid": "fd52a352-7fea-4b19-803f-9f724edaaa92",
+      "title": "“Demis Hassabis on the New Coming Age” by Zvi",
+      "podcast_title": "LessWrong (30+ Karma)",
+      "description": "Google CEO Demis Hassabis offered us a first rate second rate essay, A Framework for Frontier AI and the Dawning of a New Age. I’ll go over that essay and various responses to it in Part 1.\n\n Part 2 of this post then covers Alex Turner's resignation, and his story about how he tried and failed to prevent Google from signing up to allow the Department of War to use its models for essentially whatever the government wants, including autonomous weapons.\n\n Demis Hassabis sold DeepMind to Google on condition that something like this would not happen. Yet here it is, happening. A cautionary tale.\n\n\n\n\n\n\n\n\n I will cover Kimi K3 tomorrow. I am hoping to know more by then. Please do share any reactions or info about it in the comments here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n The Core Statement and Request\n\n\n\n He saying we are standing in the foothills of the singularity.\n\n His ask is a Frontier AI Standards Body within the US Government, similar to FINRA, that would govern ‘frontier labs,’ defined as any company that produces a frontier model based on various technical benchmarks. Evaluations would be updated regularly, and vulnerabilities would be addressed, both before [...]\n ---\nOutline:\n(01:04) The Core Statement and Request\n(02:38) Things Left Unsaid\n(04:05) The Proposal\n(06:04) A Good Start But Insufficient\n(08:52) Skeptics Of Future AI Capabilities\n(10:43) DeepMind On Bioresilience\n(12:39) Part 2: DeepMind Folds To The Department of War\n(13:28) DeepMind Leadership Failed Us\n(19:45) This Was a Failure We Must Learn From\n ---\n\n          First published:\n\n          July 19th, 2026 \n\n        \n        Source:\n\n        https://www.lesswrong.com/posts/3RfJLcmkztSTq9afc/demis-hassabis-on-the-new-coming-age \n\n        ---\n\n        Narrated by TYPE III AUDIO.\n\n       ---\nImages from the article:\nApple Podcasts and Spotify do not show images in the episode description. Try Pocket Casts, or another podcast app.",
+      "feed_url": "https://feeds.type3.audio/lesswrong--30-karma.rss",
+      "audio_url": "https://dl.type3.audio/episode/fd52a352-7fea-4b19-803f-9f724edaaa92.mp3?request_source=rss&client_id=lesswrong&feed_id=lesswrong_ai_narrations%20lesswrong__30_karma&type=ai_narration&author=Zvi&title=%22Demis%20Hassabis%20on%20the%20New%20Coming%20Age%22%20by%20Zvi&source_url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2F3RfJLcmkztSTq9afc%2Fdemis-hassabis-on-the-new-coming-age&created_at=2026-07-19T14%3A20%3A57.516343%2B00%3A00&duration=1267",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/b7/1a/a6b71a43-fe2a-3637-c30c-64e41955b16d/mza_8291033219098401263.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/b7/1a/a6b71a43-fe2a-3637-c30c-64e41955b16d/mza_8291033219098401263.jpg/600x600bb.jpg",
+      "collection_id": 1698192712,
+      "duration": 1267,
+      "pub_date": "2026-07-21T09:15:34Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-on-the-new-coming-age-by-zvi/id1698192712?i=1000777694414&uo=4",
+      "language": "en",
+      "itunes_id": 1000777694414,
+      "added_at": "2026-07-21T15:29:26.721818Z"
+    },
     {
       "guid": "substack:post:207663337",
       "title": "Demis Hassabis on the New Coming Age",
