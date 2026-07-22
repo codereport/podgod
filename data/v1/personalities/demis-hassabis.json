@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-07-21",
+  "updatedAt": "2026-07-22",
   "episodes": [
+    {
+      "guid": "https://pochocosta.com/?post_type=podcast&p=4284",
+      "title": "Demis Hassabis puso fecha a la AGI: qué hacer con el tiempo que te queda",
+      "podcast_title": "Inteligencia Artificial",
+      "description": "El CEO de Google DeepMind, Demis Hassabis, acaba de publicar un documento donde ubica la llegada de la AGI cerca del año 2030. En este episodio te cuento por qué esa fecha importa, qué significa que este cambio sea diez veces más rápido que la Revolución Industrial, y qué tareas ya te está sacando de las manos la inteligencia artificial de hoy, sin necesidad de esperar…\nOrigen",
+      "feed_url": "https://pochocosta.com/feed/podcast/inteligencia-artificial/",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pochocosta.com/podcast-download/4284/demis-hassabis-puso-fecha-a-la-agi-que-hacer-con-el-tiempo-que-te-queda.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/cf/7b/c4cf7b9b-f1e5-70db-809c-e5014bd454c9/mza_9250690293692799720.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/cf/7b/c4cf7b9b-f1e5-70db-809c-e5014bd454c9/mza_9250690293692799720.png/600x600bb.jpg",
+      "collection_id": 1447402113,
+      "duration": null,
+      "pub_date": "2026-07-21T15:47:14Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-puso-fecha-a-la-agi-qu%C3%A9-hacer-con/id1447402113?i=1000777741995&uo=4",
+      "language": "es",
+      "itunes_id": 1000777741995,
+      "added_at": "2026-07-22T15:26:24.204660Z"
+    },
     {
       "guid": "fd52a352-7fea-4b19-803f-9f724edaaa92",
       "title": "“Demis Hassabis on the New Coming Age” by Zvi",
