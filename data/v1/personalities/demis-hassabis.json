@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-07-22",
+  "updatedAt": "2026-07-23",
   "episodes": [
+    {
+      "guid": "8ba35ac1-7c63-431c-aeca-4bc9499e83c7",
+      "title": "#195 AIはスポーツを変えるのか／Demis Hassabisが提案するフロンティアAI標準機関",
+      "podcast_title": "Level 5 by Palo Alto Insight　AI時代のキャリア戦略",
+      "description": "▽トーク概要\nワールドカップ3位決定戦を振り返りながら、逆転を重ねるチームのメンタリティと勝負どころで腐らない強さを議論サッカーやNBA、アメフトにおけるAI分析の可能性を起点に、試合中の戦略判断と人間が担う余白について考察Demis Hassabisが提案した米国主導のフロンティアAI標準機関を取り上げ、モデル公開前評価、官民連携、国際基準化の難しさを分析AI規制が安全性向上につながる一方で、大手企業による規制の囲い込みや、米中競争、半導体管理との関係も議論\n▽ おすすめコンテンツ\nMark Pincus『Life at the Speed of Play』\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\nLevel 5 by Palo Alto Insight への意見箱\nhttps://docs.google.com/forms/d/1XXj9G8RHOSJIARu4zylTsmecI1rOX0twLI4Ju14XwQA/viewform?edit_requested=true\n放送の感想やご質問は、こちらの意見箱へお寄せください。\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n\n【出演者】\n石角友愛 / 長谷川貴久 / 山崎壯\n\n石角友愛のTwitter：https://twitter.com/tomoechama\nDM解放中。リプライやDMまで気軽にご連絡ください。\nパロアルトインサイトHP：www.paloaltoinsight.com\n\n楽曲提供：Atsu beatmaker and rapper from Zenarchy\nhttps://twitter.com/atsu_izm\n「Transform」Level5テーマソング\nhttps://m.soundcloud.com/atsuizm/transform",
+      "feed_url": "https://anchor.fm/s/7db70cf0/podcast/rss",
+      "audio_url": "https://anchor.fm/s/7db70cf0/podcast/play/123103893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2Fe9216f9f-211e-687d-d685-342d99298962.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ab/09/5f/ab095f2f-d733-fe71-e6be-1d03e6b6bea3/mza_11882532022000638558.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ab/09/5f/ab095f2f-d733-fe71-e6be-1d03e6b6bea3/mza_11882532022000638558.jpg/600x600bb.jpg",
+      "collection_id": 1607165973,
+      "duration": 1897,
+      "pub_date": "2026-07-22T22:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/195-ai%E3%81%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B-demis-hassabis%E3%81%8C%E6%8F%90%E6%A1%88%E3%81%99%E3%82%8B%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2ai%E6%A8%99%E6%BA%96%E6%A9%9F%E9%96%A2/id1607165973?i=1000777941094&uo=4",
+      "language": "ja",
+      "itunes_id": 1000777941094,
+      "added_at": "2026-07-23T15:49:19.217981Z"
+    },
     {
       "guid": "https://pochocosta.com/?post_type=podcast&p=4284",
       "title": "Demis Hassabis puso fecha a la AGI: qué hacer con el tiempo que te queda",
