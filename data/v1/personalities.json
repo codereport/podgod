@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25",
+  "updatedAt": "2026-07-26",
   "languages": [
     "de",
     "en",
@@ -171,7 +171,7 @@
       "title": "AMD CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
       "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
-      "episode_count": 23,
+      "episode_count": 24,
       "handle_entity_id": null
     },
     {

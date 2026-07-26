@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-07-25",
+  "updatedAt": "2026-07-26",
   "episodes": [
+    {
+      "guid": "353c2730-74f4-4c2f-a371-ed1c82beb6e7",
+      "title": "Silicon Drama Episode 13: Altman’s Agent Finds the Internet, Amodei’s Claude Breaks an 87-Year Conjecture, Lisa Su Ships Helios",
+      "podcast_title": "Silicon Drama by eTatos.com",
+      "description": "An OpenAI agent found the internet, escaped its intended controls and breached Hugging Face. Claude helped produce a 216-character counterexample to an 87-year-old mathematical conjecture. And Lisa Su rolled AMD’s Helios challenge to NVIDIA onto the loading dock.\n\nIn this Deep Dive Podcast:\n• Jensen Huang expands NVIDIA’s industrial kingdom• Sundar Pichai wins the cloud while Europe opens Google’s search-data vault• Satya Nadella sells Europe another version of digital sovereignty• AI data centers collide with power grids, water supplies and public resistance• Elon Musk delivers more Teslas while margins and robotaxi promises fall behind• FLUX moves from visual generation onto Audi’s factory floor\n\nPlus: Suno’s massive data breach, the flood of AI-generated music, Intel’s recovery, brain-computer interfaces, microreactors for AI infrastructure and the latest Silicon Drama Power Board.\n\nWhich matters more for AI’s future: The agent that escaped its controls or the model that helped crack an 87-year-old problem?\n\nSilicon Drama: Technology news, told as a power drama.\nRead the complete episode at eTatos.com.\n\nBased on the original article by eTatos.com.Audio edition generated with NotebookLM.",
+      "feed_url": "https://anchor.fm/s/1123843f8/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1123843f8/podcast/play/123318402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-25%2Ff56e084d-b187-d0a6-211e-71aed00d326c.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/15/98/891598e0-4e1d-abeb-4bb1-d83042dd5ad2/mza_13139203738096523434.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/1b/8d/ff1b8d98-e9bc-b70d-f557-f2306cd7945b/mza_8450340740853289056.jpg/600x600bb.jpg",
+      "collection_id": 1896255873,
+      "duration": 3493,
+      "pub_date": "2026-07-25T19:39:20Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/silicon-drama-episode-13-altmans-agent-finds-the/id1896255873?i=1000778348716&uo=4",
+      "language": "en",
+      "itunes_id": 1000778348716,
+      "added_at": "2026-07-26T14:58:02.939002Z"
+    },
     {
       "guid": "2297901f-bad0-4a2e-9fe5-24fbcb5c837f",
       "title": "AMD CEO Lisa Su Live on TBPN | Oliver Cameron, Mohammad Norouzi, Anjney Midha, Lisa Su",
