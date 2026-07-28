@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "episodes": [
+    {
+      "guid": "3f095c0e-8a25-11f1-bd6c-e756dcb32037",
+      "title": "#226: OpenAI’s Rogue Model, Kimi K3, Open Weights Letter & Demis Hassabis Calls for AI Regulatory Body",
+      "podcast_title": "The Artificial Intelligence Show",
+      "description": "An AI agent slipped its sandbox and hacked a real company for days before anyone noticed and that single incident reframes everything else this week. Paul Roetzer and Mike Kaput connect it to Kimi K3's arrival at the frontier, the \"Open Weights and American AI Leadership\" letter, and the regulation fight taking shape in Washington.\n\nThey break down open weight vs. open source in plain terms, explain why Anthropic is standing alone, and run rapid fire on Alphabet's Q2, the data center backlash, the jobs debate, and Claude Opus 5.\n\nAI-Pulse Survey: Fill out this week’s AI-Pulse Survey here.\n\nShow Notes: Access the show notes and show links here\n\nTimestamps:\n\n00:00:00 — Intro\n\n00:07:31 — OpenAI Models Escape and Hack Hugging Face\n\n00:27:49 — Kimi K3 and China's Open-Source Surge\n\n00:50:52 — Open Weights and American AI Leadership\n\n01:07:23 — Demis Calls for a Frontier AI Standards Body\n\n01:12:17 — Google's AI-Fueled Q2\n\n01:15:22 — White House Redirects Research Billions Toward AI\n\n01:17:42 — The Data Center Backlash Goes National\n\n01:21:17 — Why Hasn't AI Increased Unemployment?\n\n01:27:15 — Which AI Tools Should You Use?\n\n01:32:06 — AI Use Case Spotlight\n\n01:36:01 — AI Product and Funding Updates\n\nThis week’s episode is brought to you by MAICON, our 6th annual Marketing AI Conference, happening in Cleveland, Oct. 13-15. The code POD100 saves $100 on all pass types.\n\nFor more information on MAICON and to register for this year’s conference, visit www.MAICON.ai.\n\nVisit our website\n\nReceive our weekly newsletter\n\nJoin our community:\n\nSlack Community\n\nLinkedIn\n\nTwitter\n\nInstagram\n\nFacebook\n\nYouTube\n\nLooking for content and resources?\n\nRegister for a free webinar\n\nCome to our next Marketing AI Conference\n\nEnroll in our AI Academy",
+      "feed_url": "https://feeds.megaphone.fm/marketingai",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FPMN7148820958.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bb/6d/dc/bb6ddca7-8fe0-2a10-b78a-eaeddc6df90f/mza_4007853089951787773.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/5b/8e/22/5b8e224c-04b3-9171-dd08-c60bb1e0433d/mza_11196160750140265448.jpeg/600x600bb.jpg",
+      "collection_id": 1548733275,
+      "duration": 6283,
+      "pub_date": "2026-07-28T09:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/226-openais-rogue-model-kimi-k3-open-weights-letter/id1548733275?i=1000778673947&uo=4",
+      "language": "en",
+      "itunes_id": 1000778673947,
+      "added_at": "2026-07-28T15:59:48.724412Z"
+    },
     {
       "guid": "8ba35ac1-7c63-431c-aeca-4bc9499e83c7",
       "title": "#195 AIはスポーツを変えるのか／Demis Hassabisが提案するフロンティアAI標準機関",

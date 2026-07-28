@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "episodes": [
+    {
+      "guid": "df73b893-d213-4168-a6fb-8c845e831df9",
+      "title": "Fei-Fei Li on Spatial Intelligence and Robotics",
+      "podcast_title": "The a16z Show",
+      "description": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world.\n\nMartin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, and pioneer of spatial intelligence, alongside Yunzhu Li, co-founder of SceniX and assistant professor at Columbia University. They discuss why World Labs acquired SceniX, how simulation can unlock the next generation of robotics, and why training robots may require a fundamentally different approach than training language models.\n\nThe conversation explores real-to-sim-to-real pipelines, world models, robotics foundation models, evaluation, synthetic data, and why the future of AI depends not just on understanding language—but on understanding and interacting with the physical world.\n\n \n\nResources:\n\nFollow Fei-Fei Li on X: https://x.com/drfeifei\n\nFollow Yunzhu Li on X: https://x.com/YunzhuLiYZ\n\nFollow Martin Casado on X: https://x.com/martin_casado\n\nStay Updated:\nFind a16z on YouTube: YouTube\nFind a16z on X\nFind a16z on LinkedIn\nListen to the a16z Show on Spotify\nListen to the a16z Show on Apple Podcasts\nFollow our host: https://twitter.com/eriktorenberg\n \nPlease note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e2a3c643-334f-47f6-a6e0-d9124f6786a3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=e2a3c643-334f-47f6-a6e0-d9124f6786a3&feed=JGE3yC0V",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "collection_id": 842818711,
+      "duration": 2584,
+      "pub_date": "2026-07-28T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-on-spatial-intelligence-and-robotics/id842818711?i=1000778686668&uo=4",
+      "language": "en",
+      "itunes_id": 1000778686668,
+      "added_at": "2026-07-28T15:59:48.724412Z"
+    },
     {
       "guid": "3eec25a3-6d21-4e19-8cb7-af696d3f9cf6",
       "title": "Fei-Fei Li: In 10 Years There Will Be Only 2 Kinds of Workers",

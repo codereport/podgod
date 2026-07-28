@@ -4,8 +4,25 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "episodes": [
+    {
+      "guid": "33764cbe-a73b-42e1-97b6-91d55ddb908f",
+      "title": "Boris Cherny: Building Claude Code",
+      "podcast_title": "Y Combinator Startup Podcast",
+      "description": "Fresh off the launch of Opus 5, Claude Code creator Boris Cherny joins Diana Hu at Startup School 2026 to talk about what the newest models can do, how Claude Code came to be, and what it means to build products when the underlying capabilities keep accelerating.",
+      "feed_url": "https://anchor.fm/s/8c1524bc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/123415216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428743828-44100-2-eb65dd355d011.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6a/d8/32/6ad832bb-2ef8-4f83-dbeb-fe93ec66bdbd/mza_14257908367646099263.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/d1/1e/65d11ed6-914f-e163-bc7a-d1ea5eda5b79/mza_2184580866640883071.jpg/600x600bb.jpg",
+      "collection_id": 1236907421,
+      "duration": 2173,
+      "pub_date": "2026-07-28T05:17:01Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/boris-cherny-building-claude-code/id1236907421?i=1000778651350&uo=4",
+      "language": "en",
+      "itunes_id": 1000778651350,
+      "added_at": "2026-07-28T15:59:48.724412Z"
+    },
     {
       "guid": "f18d2e9d-c17d-4d86-92c5-10f6d6b2d27b",
       "title": "Boris Cherny, Claude Code's Creator, Doesn't Write Code Anymore — He Writes Agent Loops",
