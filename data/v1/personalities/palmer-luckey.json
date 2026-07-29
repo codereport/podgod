@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-07-28",
+  "updatedAt": "2026-07-29",
   "episodes": [
+    {
+      "guid": "62c91910-fade-4a24-8447-3b28238fc036",
+      "title": "Palmer Luckey on What He Collects, Mining Bitcoin and Building Oculus",
+      "podcast_title": "Treasure Hunters",
+      "description": "AJ and Jeremy sit down with Palmer Luckey to discuss his VR journey, mining Bitcoin before it was mainstream, and the collectibles that have captured his attention over the years.\nThey also dive into ModRetro, Palmer’s mission to bring retro video games back to life, and his passion for preserving gaming history.\nhttps://www.treasuretrove.com/\n-\nAn Infinity Studios Production",
+      "feed_url": "https://anchor.fm/s/11326b4fc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/11326b4fc/podcast/play/123437491/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428776234-44100-2-3d11bce77a5e3.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/bf/ab/42bfab73-ba32-c92f-fb46-916f70a9a37f/mza_12051577837115135563.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/bf/ab/42bfab73-ba32-c92f-fb46-916f70a9a37f/mza_12051577837115135563.jpg/600x600bb.jpg",
+      "collection_id": 1896874130,
+      "duration": 5335,
+      "pub_date": "2026-07-28T17:05:46Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-what-he-collects-mining-bitcoin-and/id1896874130?i=1000778736999&uo=4",
+      "language": "en",
+      "itunes_id": 1000778736999,
+      "added_at": "2026-07-29T15:45:54.668915Z"
+    },
     {
       "guid": "substack:post:206795061",
       "title": "Palmer Luckey.Draft",
