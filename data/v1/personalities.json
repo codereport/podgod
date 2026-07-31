@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-07-31",
   "languages": [
     "de",
     "en",
@@ -93,7 +93,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 29,
+      "episode_count": 31,
       "handle_entity_id": null
     },
     {
@@ -199,7 +199,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 46,
+      "episode_count": 47,
       "handle_entity_id": null
     },
     {

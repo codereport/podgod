@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-07-31",
   "episodes": [
+    {
+      "guid": "935002be-d3e0-41e7-87cf-7755256f304f",
+      "title": "“Cheaper, Faster Weapons” – Palmer Luckey’s Cheaper Missiles Push Anduril Toward $100 BILLION",
+      "podcast_title": "Valuetainment",
+      "description": "Patrick Bet-David and the Home Team break down Palmer Luckey's plan to turn auto factories into missile plants as Anduril targets a $100 billion valuation. Can the Oculus founder build weapons faster and cheaper than defense giants, deter China, and solve America's dangerous interceptor shortage now?",
+      "feed_url": "https://anchor.fm/s/2714310c/podcast/rss",
+      "audio_url": "https://traffic.megaphone.fm/APO4347518739.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b0/c6/2c/b0c62c62-9307-63a3-f79a-19faaf27f8a5/mza_2052918187377942412.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b0/c6/2c/b0c62c62-9307-63a3-f79a-19faaf27f8a5/mza_2052918187377942412.jpg/600x600bb.jpg",
+      "collection_id": 1298070041,
+      "duration": 694,
+      "pub_date": "2026-07-30T20:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/cheaper-faster-weapons-palmer-luckeys-cheaper-missiles/id1298070041?i=1000779163953&uo=4",
+      "language": "en",
+      "itunes_id": 1000779163953,
+      "added_at": "2026-07-31T15:57:11.021200Z"
+    },
     {
       "guid": "62c91910-fade-4a24-8447-3b28238fc036",
       "title": "Palmer Luckey on What He Collects, Mining Bitcoin and Building Oculus",
