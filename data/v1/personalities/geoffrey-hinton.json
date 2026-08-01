@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "episodes": [
+    {
+      "guid": "9a580583-7bef-44b4-ac99-5a4bad841f6e",
+      "title": "KI Kontrovers #5 — Geoffrey Hinton: „Eine großartige Idee, die nie besonders gut funktioniert hat\"",
+      "podcast_title": "zehnx Briefing",
+      "description": "Er ist der einzige Mensch mit Turing Award und Physik-Nobelpreis.\nEr hat die Technik mitgebaut, auf der heute jedes große Sprachmodell steht.\nUnd er hält die Wahrscheinlichkeit, dass sie uns auslöscht, für zweistellig.\n\nKI KONTROVERS — ein zehnx Podcast. Standpunkte, die polarisieren.\nEine These, der Kopf dahinter, und was für dich davon bleibt.\n\n—\n\nIn dieser Folge:\n\n• Zur Person: Wimbledon 1947, ein Vater in der Royal Society, George Boole als Ururgroßvater — und Hintons eigene, ungewöhnlich selbstkritische Erklärung, warum er seine Promotion überstanden hat\n• Das Werk: Backpropagation 1986, AlexNet 2012, die Doktoranden, von denen einer später OpenAI mitgründet — und wofür der Nobelpreis 2024 tatsächlich verliehen wurde (nicht wofür fast überall steht)\n• Der Ausstieg: Warum die verbreitete Version seiner Google-Kündigung falsch ist, und was er selbst als Grund nennt\n• Die Zahl: Zehn bis zwanzig Prozent Katastrophenrisiko — und warum das der vorsichtige Wert ist, nicht der, den er wirklich fürchtet\n• Heute: Arbeitsmarkt statt Weltuntergang, „Mutter und Kind\" statt Kontrolle, und die Aussage über Bewusstsein, die selbst sein eigenes Lager irritiert\n• Die Gegenrede: Yann LeCun, sein früherer Postdoktorand, nennt genau diese Sorge Blödsinn — und eine ganze Forschungsrichtung hält beide für abgelenkt vom Schaden, der längst geschieht\n• Was bleibt: Warum die interessanteste Eigenschaft dieses Mannes nicht seine Prognose ist, sondern sein Umgang mit der eigenen Unsicherheit\n\n—\n\nStimmen in diesem Format sind KI-generiert.\nRedaktion und inhaltliche Verantwortung: Thomas Frerich.\n\n—\nwww.zehnx.me/briefing",
+      "feed_url": "https://anchor.fm/s/1111fdd28/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1111fdd28/podcast/play/123619049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-1%2F54f8866a-5be5-655e-eabc-ac176ca77b55.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/af/1c/aaaf1cbd-6d48-6057-3bbd-80685e1c0091/mza_6379253481074742582.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/41/8e/48418e31-3a1e-d09a-bccb-33765bd253e6/mza_15547800568206886006.jpg/600x600bb.jpg",
+      "collection_id": 1895478225,
+      "duration": 1031,
+      "pub_date": "2026-08-01T14:10:48Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ki-kontrovers-5-geoffrey-hinton-eine-gro%C3%9Fartige-idee/id1895478225?i=1000779427453&uo=4",
+      "language": "de",
+      "itunes_id": 1000779427453,
+      "added_at": "2026-08-01T14:53:35.152917Z"
+    },
     {
       "guid": "88b103c8-5f75-11f1-846b-eb42fc65425f",
       "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried",

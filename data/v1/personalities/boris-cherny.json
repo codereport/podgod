@@ -4,8 +4,25 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-01",
   "episodes": [
+    {
+      "guid": "a76241d3-6df4-43e0-acbb-6701a9436eae",
+      "title": "EP378 – Boris Cherny 揭露 Claude Opus 5 刪除 80% 系統提示詞後，AI 開發效率竟出現驚人躍升！ 軟體工程師如何重新定位？",
+      "podcast_title": "AI懶人報",
+      "description": "🚀 特別感謝贊助 \n \n本集節目由 VoAI 絕好聲創 提供技術支援。 \n \n🎤 VoAI 提供最有「台灣味」的 AI 聲音，支援情感語音、台式口音，甚至能一鍵生成虛擬人！ \n \n🎁 AI懶人報聽眾專屬優惠： \n👉 輸入優惠碼 AILRB26 立享 95 折！ \n \n立刻體驗：https://www.voai.ai/ \n \nAI 寫程式的方式徹底變了！今天這集要跟大家聊聊，為什麼你現在該把那些複雜的提示詞通通刪掉，並開始把 AI 當成一個能獨立作業的工程師夥伴。🚀 \n \n💡 提示詞工程時代已終結 \n👉 現在的模型推理能力夠強了，過度細節的提示詞反而會綁手綁腳，直接刪掉反而跑得更順。 \n \n💡 從編碼轉向驗證工程 \n👉 未來工程師的核心工作，不是親手寫程式碼，而是建立一套讓 AI 能自動修正、確保品質的驗證機制。 \n \n💡 挖掘模型的湧現能力 \n👉 不要怕給 AI 太難的任務，給它更具挑戰性的目標，你會驚訝發現它能處理超出你想像的複雜系統。 \n \n💡 動態工作流程的自動化 \n👉 透過調度多個 AI 代理平行運作，我們可以把軟體重構這類大工程，交給 AI 系統自動搞定。 \n \n💡 AI 軟體工廠架構師 \n👉 工程師的角色已經改變，現在我們是系統架構師，只要負責定義清楚目標跟護欄，剩下的就讓 AI 自主執行。 \n \n📎 參考資料： \n \nBoris Cherny: We Cut 80% of Claude Code’s Prompt（2026/7/27・128,529 views） \nhttps://www.youtube.com/watch?v=qyPCVqFUyDo \n \n歡迎請我喝杯咖啡，幫助我繼續把節目做得更好唷～！ \n👉 https://buymeacoffee.com/ailanrenbao \n--\nHosting provided by SoundOn",
+      "feed_url": "https://feeds.soundon.fm/podcasts/ca974d36-6fcc-46fc-a339-ba7ed8902c80.xml",
+      "audio_url": "https://rss.soundon.fm/rssf/ca974d36-6fcc-46fc-a339-ba7ed8902c80/feedurl/a76241d3-6df4-43e0-acbb-6701a9436eae/rssFileVip.mp3?timestamp=1785580622582",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/8f/d2/358fd219-9419-c8e8-d5d1-64f4f20d61b8/mza_13139865052057981907.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2c/31/a1/2c31a110-43fb-892d-ec2b-58f9f3211cc3/mza_16864561500906931493.jpg/600x600bb.jpg",
+      "collection_id": 1817340034,
+      "duration": 1015,
+      "pub_date": "2026-08-01T10:36:15Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ep378-boris-cherny-%E6%8F%AD%E9%9C%B2-claude-opus-5-%E5%88%AA%E9%99%A4-80-%E7%B3%BB%E7%B5%B1%E6%8F%90%E7%A4%BA%E8%A9%9E%E5%BE%8C-ai/id1817340034?i=1000779411177&uo=4",
+      "language": "ko",
+      "itunes_id": 1000779411177,
+      "added_at": "2026-08-01T14:53:35.152917Z"
+    },
     {
       "guid": "33764cbe-a73b-42e1-97b6-91d55ddb908f",
       "title": "Boris Cherny: Building Claude Code",
