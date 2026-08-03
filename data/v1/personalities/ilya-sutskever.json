@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-08-02",
+  "updatedAt": "2026-08-03",
   "episodes": [
+    {
+      "guid": "07bd3c68-7d83-4668-91aa-affbf4eff13d",
+      "title": "Az MI mérgezi a kódot, a Samsung lefoglalta az összes memóriát, Ilya Sutskever pedig 5 milliárdot ér termék nélkül - Team404Podcast",
+      "podcast_title": "Team404Podcast",
+      "description": "Miért ajánlanak a chatbotok olyan programkönyvtárakat, amik nem is léteznek – és hogyan használják ezt ki a hackerek vírusterjesztésre? Miért fizet az Apple a saját versenytársának, a Google-nek, hogy működjön a mesterséges intelligenciája? Hogyan ér egy cég 5 milliárd dollárt úgy, hogy még nincs is terméke? Ebben az epizódban végigmegyünk a hét legfontosabb tech híreim: az Xbox bejelenti a \"legnagyobb ugrást\", a Samsung lefoglalja a memóriapiacot 18 hónapra, Ilya Sutskever új cége brutális tőkét gyűjt, és kiderül, mennyire biztonságos ma egy chatbot válasza.\n– Team404Podcast",
+      "feed_url": "https://anchor.fm/s/10e9465c4/podcast/rss",
+      "audio_url": "https://anchor.fm/s/10e9465c4/podcast/play/123695810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429121876-44100-2-88cf48c40f33c.m4a",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/16/7a/ce167a4d-9c7a-b25d-886c-1eada7713ade/mza_17643766619941202409.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b3/25/f5b325ff-067c-c5ed-e46d-1f39b1c931f7/mza_653706244958743738.jpg/600x600bb.jpg",
+      "collection_id": 1873749809,
+      "duration": 616,
+      "pub_date": "2026-08-03T14:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/az-mi-m%C3%A9rgezi-a-k%C3%B3dot-a-samsung-lefoglalta-az/id1873749809?i=1000779712795&uo=4",
+      "language": "hu",
+      "itunes_id": 1000779712795,
+      "added_at": "2026-08-03T16:15:47.658647Z"
+    },
     {
       "guid": "tharadhol.podbean.com/2772cd2f-283b-386e-9c71-86a7be542358",
       "title": "Ilya Sutskever มันสมองตัวจริงผู้ให้กำเนิด AI ที่ฉลาดที่สุดในโลก | Geek Story EP819",

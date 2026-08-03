@@ -4,8 +4,24 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-08-02",
+  "updatedAt": "2026-08-03",
   "episodes": [
+    {
+      "guid": "23cc7f2c-6be8-57ed-b234-3e081bed1766",
+      "title": "Cibermillonarios | Cibermillonarios 9: Palmer Luckey y la tecnología de guerra, con José María Lasalle",
+      "podcast_title": "Cibermillonarios",
+      "description": "<p>¿Y si el gran problema de nuestra especie fueran los hombres blancos asustados y enfadados? Es la conclusión a la que llega la conversación entre Jaime García Cantero, Eva Cruz y José María Lasalle después de analizar los resultados del \"bromance\" entre Silicon Valley y el Departamento de Guerra de Estados Unidos. Hablamos de armas autónomas alimentadas con IA, drones, sistemas de vigilancia y, en general, las \"armas que aterrorizan al enemigo\" a partir del más joven de todos los cibermillonarios analizados en esta serie: Palmer Luckey. Treinta y tres años, perilla, camisa hawaiana, chanclas... la imagen de un hippy californiano, pero el corazón de halcón que se ha criado fantaseando con las guerras futuristas que aparecían en mangas clásicos como Neon Genesis Evangelion. La guerra del futuro ya está aquí, y Luckey se está haciendo muy rico con ella. </p>",
+      "feed_url": "https://fapi-top.prisasd.com/podcast/playser/cibermillonarios/itunestfp/podcast.xml",
+      "audio_url": "https://prisa-es.mc.tritondigital.com/CIBERMILLONARIOS_SER_PODCAST_4083_P/media/playser/audio/20267/30/5051223.mp3?dest=cibermillonarios",
+      "artwork_url": "https://sdmedia.playser.cadenaser.com/playser/image/20257/07/1751906703_square_image.png",
+      "podcast_artwork_url": "https://sdmedia.playser.cadenaser.com/playser/image/20257/01/1751365002305_132.jpeg",
+      "duration": 1930,
+      "pub_date": "2026-08-02T18:00:00Z",
+      "episode_url": "",
+      "language": "es",
+      "podcastindex_id": 58440193485,
+      "added_at": "2026-08-03T16:15:47.658647Z"
+    },
     {
       "guid": "935002be-d3e0-41e7-87cf-7755256f304f",
       "title": "“Cheaper, Faster Weapons” – Palmer Luckey’s Cheaper Missiles Push Anduril Toward $100 BILLION",
