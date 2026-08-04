@@ -3,238 +3,532 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>POD GOD — Podcast Tools</title>
-  <meta name="description" content="POD GOD — podcast player and editor. Coming soon.">
+  <title>POD GOD — Podcast Personalities</title>
+  <meta name="description" content="The latest podcast appearances from 16 fascinating personalities, curated by POD GOD.">
   <meta property="og:title" content="POD GOD">
-  <meta property="og:description" content="Podcast player and editor. Coming soon.">
+  <meta property="og:description" content="The latest podcast appearances from fascinating personalities.">
   <meta property="og:image" content="https://podgod.ca/social-preview.png">
   <meta property="og:image:width" content="2712">
   <meta property="og:image:height" content="1420">
-  <meta property="og:image:alt" content="POD GOD — podcast player and editor">
+  <meta property="og:image:alt" content="POD GOD — podcast personalities">
   <meta property="og:url" content="https://podgod.ca">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="https://podgod.ca/social-preview.png">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%23ff4d8d'/%3E%3Cstop offset='50%25' stop-color='%23c850f2'/%3E%3Cstop offset='100%25' stop-color='%236c63ff'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ccircle cx='32' cy='32' r='30' fill='url(%23g)'/%3E%3C/svg%3E">
+  <link rel="icon" type="image/png" href="/player-icon-borderless.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0e17;
+      --panel: rgba(20, 26, 40, 0.92);
+      --panel-strong: #141a28;
+      --line: rgba(255, 255, 255, 0.08);
+      --line-hover: rgba(200, 80, 242, 0.34);
+      --text: #f2f4f8;
+      --muted: #94a3b8;
+      --muted-dim: #64748b;
+      --pink: #ff4d8d;
+      --purple: #c850f2;
+      --blue: #6c63ff;
+    }
+
     *, *::before, *::after {
-      margin: 0;
-      padding: 0;
       box-sizing: border-box;
     }
 
+    html {
+      background: var(--bg);
+    }
+
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-      background: #0b0e17;
-      color: #e2e8f0;
+      margin: 0;
+      min-width: 320px;
       min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
       overflow-x: hidden;
-    }
-
-    body::before {
-      content: '';
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
+      color: var(--text);
       background:
-        radial-gradient(ellipse at 20% 50%, rgba(120, 40, 200, 0.08) 0%, transparent 50%),
-        radial-gradient(ellipse at 80% 20%, rgba(255, 50, 100, 0.06) 0%, transparent 50%),
-        radial-gradient(ellipse at 50% 80%, rgba(50, 120, 255, 0.06) 0%, transparent 50%);
-      z-index: 0;
-      animation: bgShift 20s ease-in-out infinite alternate;
+        radial-gradient(circle at 8% -8%, rgba(255, 77, 141, 0.12), transparent 30rem),
+        radial-gradient(circle at 92% 0%, rgba(108, 99, 255, 0.12), transparent 34rem),
+        var(--bg);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     }
 
-    @keyframes bgShift {
-      0% { opacity: 1; }
-      50% { opacity: 0.7; }
-      100% { opacity: 1; }
+    a {
+      color: inherit;
     }
 
-    .container {
-      position: relative;
-      z-index: 1;
-      max-width: 960px;
-      width: 100%;
-      padding: 3rem 1.5rem;
-      text-align: center;
+    .shell {
+      width: min(1560px, 100%);
+      margin: 0 auto;
+      padding: 34px 30px 54px;
     }
 
-    .logo {
+    .site-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      margin-bottom: 42px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 16px;
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .brand-icon {
+      display: block;
+      width: 70px;
+      height: 70px;
+      flex: 0 0 70px;
+      object-fit: contain;
+      filter: drop-shadow(0 12px 28px rgba(200, 80, 242, 0.18));
+    }
+
+    .brand-name {
+      margin: 0;
       font-family: 'Bungee', 'Inter', sans-serif;
-      font-size: 5.5rem;
+      font-size: clamp(2.25rem, 4vw, 4.5rem);
       font-weight: 400;
-      letter-spacing: 0.02em;
+      letter-spacing: 0.025em;
       line-height: 1;
-      margin-bottom: 0.4rem;
-      background: linear-gradient(135deg, #ff4d8d, #c850f2, #6c63ff);
+      background: linear-gradient(135deg, var(--pink), var(--purple), var(--blue));
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
-      animation: fadeInUp 0.8s ease-out both;
     }
 
-    .tagline {
-      font-size: 1.25rem;
-      font-weight: 500;
-      color: #94a3b8;
-      margin-bottom: 2.5rem;
-      animation: fadeInUp 0.8s ease-out 0.15s both;
-    }
-
-    .products {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.5rem;
-      animation: fadeInUp 0.8s ease-out 0.3s both;
-    }
-
-    .product-card {
-      background: rgba(255, 255, 255, 0.03);
-      border: 1px solid rgba(255, 255, 255, 0.06);
-      border-radius: 16px;
-      padding: 2rem 1.5rem;
-      text-align: center;
-      transition: border-color 0.3s ease, box-shadow 0.3s ease;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .product-card:hover {
-      border-color: rgba(200, 80, 242, 0.2);
-      box-shadow: 0 0 40px rgba(120, 40, 200, 0.08);
-    }
-
-    .product-image {
-      width: 100%;
-      height: 240px;
-      margin-bottom: 1.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .product-image img {
-      max-width: 100%;
-      max-height: 100%;
-      height: auto;
-      display: block;
-      object-fit: contain;
-    }
-
-    .player-image img {
-      width: 240px;
-      height: 240px;
-    }
-
-    .editor-image {
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow:
-        0 0 0 1px rgba(255, 255, 255, 0.06),
-        0 12px 40px -8px rgba(0, 0, 0, 0.5);
-    }
-
-    .product-name {
-      font-size: 1.3rem;
-      font-weight: 700;
-      color: #e2e8f0;
-      margin-bottom: 0.3rem;
-    }
-
-    .product-platforms {
-      font-size: 0.85rem;
-      font-weight: 500;
-      color: #64748b;
-      margin-bottom: 1rem;
-    }
-
-    .product-desc {
-      font-size: 0.95rem;
-      color: #94a3b8;
-      line-height: 1.5;
-      margin-bottom: 1.2rem;
-    }
-
-    .coming-soon {
-      display: inline-block;
-      font-size: 0.75rem;
+    .editor-link {
+      color: var(--muted);
+      font-size: 0.9rem;
       font-weight: 600;
-      letter-spacing: 0.15em;
-      text-transform: uppercase;
-      color: #0b0e17;
-      background: linear-gradient(135deg, #ff4d8d, #c850f2);
-      padding: 0.4rem 1.2rem;
+      text-decoration: none;
+      text-underline-offset: 4px;
+      transition: color 160ms ease;
+    }
+
+    .editor-link:hover,
+    .editor-link:focus-visible {
+      color: var(--text);
+      text-decoration: underline;
+    }
+
+    .personality-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 22px;
+    }
+
+    .personality-card {
+      min-width: 0;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: linear-gradient(180deg, rgba(27, 34, 51, 0.96), var(--panel));
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.2);
+      transition: border-color 180ms ease, transform 180ms ease, box-shadow 180ms ease;
+    }
+
+    .personality-card:hover {
+      transform: translateY(-3px);
+      border-color: var(--line-hover);
+      box-shadow: 0 22px 56px rgba(0, 0, 0, 0.28);
+    }
+
+    .personality-art {
+      position: relative;
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      background: #171b28;
+    }
+
+    .personality-art::after {
+      content: '';
+      position: absolute;
+      inset: auto 0 0;
+      height: 38%;
+      pointer-events: none;
+      background: linear-gradient(transparent, rgba(11, 14, 23, 0.5));
+    }
+
+    .personality-art img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 300ms ease;
+    }
+
+    .personality-card:hover .personality-art img {
+      transform: scale(1.018);
+    }
+
+    .personality-heading {
+      padding: 17px 18px 14px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .personality-heading h3 {
+      margin: 0;
+      font-size: 1.15rem;
+      letter-spacing: -0.015em;
+    }
+
+    .personality-heading p {
+      min-height: 1.3em;
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      line-height: 1.4;
+    }
+
+    .episode-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .episode-item + .episode-item {
+      border-top: 1px solid var(--line);
+    }
+
+    .episode-link {
+      display: block;
+      min-height: 104px;
+      padding: 14px 18px 15px;
+      text-decoration: none;
+      transition: background 150ms ease;
+    }
+
+    .episode-link:hover,
+    .episode-link:focus-visible {
+      outline: none;
+      background: rgba(200, 80, 242, 0.07);
+    }
+
+    .episode-title {
+      display: -webkit-box;
+      overflow: hidden;
+      color: var(--text);
+      font-size: 0.85rem;
+      font-weight: 700;
+      line-height: 1.42;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
+    .episode-podcast {
+      margin-top: 7px;
+      overflow: hidden;
+      color: var(--muted);
+      font-size: 0.74rem;
+      line-height: 1.35;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .episode-meta {
+      margin-top: 5px;
+      color: var(--muted-dim);
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+
+    .empty-episodes {
+      padding: 24px 18px;
+      color: var(--muted-dim);
+      font-size: 0.78rem;
+    }
+
+    .loading-card {
+      min-height: 650px;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: var(--panel-strong);
+    }
+
+    .loading-card::before {
+      content: '';
+      display: block;
+      width: 100%;
+      aspect-ratio: 1 / 1;
+      background: linear-gradient(100deg, #151b29 20%, #20283a 42%, #151b29 64%);
+      background-size: 220% 100%;
+      animation: shimmer 1.4s linear infinite;
+    }
+
+    @keyframes shimmer {
+      to { background-position: -220% 0; }
+    }
+
+    .load-error {
+      grid-column: 1 / -1;
+      padding: 50px 24px;
+      border: 1px solid rgba(255, 77, 141, 0.22);
+      border-radius: 18px;
+      background: rgba(255, 77, 141, 0.05);
+      text-align: center;
+    }
+
+    .load-error p {
+      margin: 0 0 14px;
+      color: var(--muted);
+    }
+
+    .retry-button {
+      border: 1px solid var(--line-hover);
       border-radius: 999px;
-      margin-top: auto;
+      padding: 8px 16px;
+      color: var(--text);
+      background: rgba(200, 80, 242, 0.1);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
     }
 
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(24px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
+    .site-footer {
+      padding-top: 34px;
+      color: var(--muted-dim);
+      font-size: 0.72rem;
+      text-align: center;
+    }
+
+    @media (max-width: 1180px) {
+      .personality-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
       }
     }
 
-    @media (max-width: 640px) {
-      .logo {
-        font-size: 2.9rem;
+    @media (max-width: 820px) {
+      .shell {
+        padding: 26px 20px 44px;
       }
-      .tagline {
-        font-size: 1.05rem;
+
+      .site-header {
+        margin-bottom: 32px;
       }
-      .container {
-        padding: 2rem 1rem;
+
+      .brand-icon {
+        width: 58px;
+        height: 58px;
+        flex-basis: 58px;
       }
-      .products {
+
+      .personality-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .shell {
+        padding: 20px 14px 36px;
+      }
+
+      .site-header {
+        gap: 12px;
+        margin-bottom: 28px;
+      }
+
+      .brand {
+        gap: 10px;
+      }
+
+      .brand-icon {
+        width: 46px;
+        height: 46px;
+        flex-basis: 46px;
+      }
+
+      .brand-name {
+        font-size: 2rem;
+      }
+
+      .personality-grid {
         grid-template-columns: 1fr;
       }
-      .player-image img {
-        width: 120px;
-        height: 120px;
+
+      .episode-link {
+        min-height: 0;
+      }
+
+      .loading-card {
+        min-height: 380px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
       }
     }
   </style>
 </head>
 <body>
-  <main class="container">
-    <h1 class="logo">POD GOD</h1>
-    <p class="tagline">The best podcast player and editor out there.</p>
+  <div class="shell">
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="POD GOD home">
+        <img class="brand-icon" src="/player-icon-borderless.png" alt="" width="70" height="70">
+        <h1 class="brand-name">POD GOD</h1>
+      </a>
+      <a class="editor-link" href="/editor/">Editor</a>
+    </header>
 
-    <div class="products">
-      <div class="product-card">
-        <div class="product-image player-image">
-          <img src="player-icon-borderless.png" alt="POD GOD Player" width="240" height="240">
-        </div>
-        <div class="product-name">Player</div>
-        <div class="product-platforms">iOS &amp; Android</div>
-        <p class="product-desc">Simple, fast, ad-free. No account needed.</p>
-        <span class="coming-soon">Coming Soon</span>
+    <main aria-label="Podcast personalities">
+      <div class="personality-grid" id="personality-grid" aria-live="polite" aria-busy="true">
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
+        <div class="loading-card" aria-hidden="true"></div>
       </div>
 
-      <div class="product-card">
-        <div class="product-image editor-image">
-          <img src="img.png" alt="POD GOD Editor — podcast editor interface" width="1024" height="530">
-        </div>
-        <div class="product-name">Editor</div>
-        <div class="product-platforms">Browser based?</div>
-        <p class="product-desc">Professional quality with the click of a button.</p>
-        <span class="coming-soon">Coming Soon</span>
-      </div>
-    </div>
-  </main>
+      <noscript>
+        <p class="load-error">JavaScript is required to load the latest podcast episodes.</p>
+      </noscript>
+    </main>
+
+    <footer class="site-footer">Curated daily by POD GOD.</footer>
+  </div>
+
+  <script>
+    const grid = document.getElementById('personality-grid');
+    const dateFormatter = new Intl.DateTimeFormat('en-CA', {
+      month: 'short',
+      day: 'numeric',
+      year: 'numeric',
+    });
+
+    function element(tag, className, text) {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    }
+
+    function formatDate(value) {
+      const date = new Date(value);
+      return Number.isNaN(date.getTime()) ? '' : dateFormatter.format(date);
+    }
+
+    function formatDuration(value) {
+      const seconds = Number(value);
+      if (!Number.isFinite(seconds) || seconds <= 0) return '';
+      const hours = Math.floor(seconds / 3600);
+      const minutes = Math.floor((seconds % 3600) / 60);
+      if (hours && minutes) return `${hours}h ${minutes}m`;
+      if (hours) return `${hours}h`;
+      return `${minutes}m`;
+    }
+
+    async function fetchJson(url) {
+      const response = await fetch(url, { headers: { accept: 'application/json' } });
+      if (!response.ok) throw new Error(`Request failed: ${response.status}`);
+      return response.json();
+    }
+
+    function episodeItem(episode) {
+      const item = element('li', 'episode-item');
+      const destination = episode.episode_url || episode.audio_url;
+      const link = element(destination ? 'a' : 'div', 'episode-link');
+      if (destination) {
+        link.href = destination;
+        link.target = '_blank';
+        link.rel = 'noreferrer';
+      }
+
+      link.append(element('span', 'episode-title', episode.title || 'Untitled episode'));
+      link.append(element('div', 'episode-podcast', episode.podcast_title || 'Podcast'));
+
+      const metadata = [formatDate(episode.pub_date), formatDuration(episode.duration)].filter(Boolean);
+      if (metadata.length) link.append(element('div', 'episode-meta', metadata.join(' · ')));
+
+      item.append(link);
+      return item;
+    }
+
+    function personalityCard(personality, feed, index) {
+      const card = element('article', 'personality-card');
+
+      const art = element('div', 'personality-art');
+      const image = document.createElement('img');
+      image.src = personality.artwork_url || feed.artwork_url || '/player-icon-borderless.png';
+      image.alt = personality.name;
+      image.width = 600;
+      image.height = 600;
+      image.loading = index < 4 ? 'eager' : 'lazy';
+      image.decoding = 'async';
+      image.addEventListener('error', () => {
+        image.src = '/player-icon-borderless.png';
+      }, { once: true });
+      art.append(image);
+
+      const heading = element('header', 'personality-heading');
+      heading.append(element('h3', '', personality.name));
+      heading.append(element('p', '', personality.title || feed.title || 'Podcast appearances'));
+
+      const list = element('ol', 'episode-list');
+      const episodes = [...(feed.episodes || [])]
+        .sort((left, right) => new Date(right.pub_date || 0) - new Date(left.pub_date || 0))
+        .slice(0, 3);
+
+      if (episodes.length) {
+        episodes.forEach((episode) => list.append(episodeItem(episode)));
+      } else {
+        const empty = element('li', 'empty-episodes', 'No recent episodes yet.');
+        list.append(empty);
+      }
+
+      card.append(art, heading, list);
+      return card;
+    }
+
+    async function loadPersonalities() {
+      grid.setAttribute('aria-busy', 'true');
+      try {
+        const index = await fetchJson('/data/v1/personalities.json');
+        const personalities = index.personalities || [];
+        const feeds = await Promise.all(personalities.map(async (personality) => {
+          try {
+            return await fetchJson(personality.feed_url);
+          } catch (error) {
+            console.error(`Could not load ${personality.name}`, error);
+            return { episodes: [] };
+          }
+        }));
+
+        grid.replaceChildren(...personalities.map((personality, position) =>
+          personalityCard(personality, feeds[position], position)
+        ));
+      } catch (error) {
+        console.error('Could not load POD GOD personalities', error);
+        const message = element('div', 'load-error');
+        message.append(element('p', '', 'The latest personality feeds could not be loaded.'));
+        const retry = element('button', 'retry-button', 'Try again');
+        retry.type = 'button';
+        retry.addEventListener('click', loadPersonalities);
+        message.append(retry);
+        grid.replaceChildren(message);
+      } finally {
+        grid.setAttribute('aria-busy', 'false');
+      }
+    }
+
+    loadPersonalities();
+  </script>
 </body>
 </html>
