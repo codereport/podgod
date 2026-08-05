@@ -212,26 +212,6 @@
       transform: scale(1.018);
     }
 
-    .personality-heading {
-      min-width: 0;
-      padding: 17px 18px 14px;
-      border-bottom: 1px solid var(--line);
-    }
-
-    .personality-heading h3 {
-      margin: 0;
-      font-size: 1.15rem;
-      letter-spacing: -0.015em;
-    }
-
-    .personality-heading p {
-      min-height: 1.3em;
-      margin: 4px 0 0;
-      color: var(--muted);
-      font-size: 0.78rem;
-      line-height: 1.4;
-    }
-
     .episode-list {
       margin: 0;
       padding: 0;
@@ -293,14 +273,6 @@
       line-height: 1.35;
       text-overflow: ellipsis;
       white-space: nowrap;
-    }
-
-    .episode-meta {
-      margin-top: 5px;
-      color: var(--muted-dim);
-      font-size: 0.63rem;
-      font-weight: 600;
-      letter-spacing: 0.02em;
     }
 
     .empty-episodes {
@@ -484,32 +456,11 @@
 
   <script>
     const grid = document.getElementById('personality-grid');
-    const dateFormatter = new Intl.DateTimeFormat('en-CA', {
-      month: 'short',
-      day: 'numeric',
-      year: 'numeric',
-    });
-
     function element(tag, className, text) {
       const node = document.createElement(tag);
       if (className) node.className = className;
       if (text !== undefined) node.textContent = text;
       return node;
-    }
-
-    function formatDate(value) {
-      const date = new Date(value);
-      return Number.isNaN(date.getTime()) ? '' : dateFormatter.format(date);
-    }
-
-    function formatDuration(value) {
-      const seconds = Number(value);
-      if (!Number.isFinite(seconds) || seconds <= 0) return '';
-      const hours = Math.floor(seconds / 3600);
-      const minutes = Math.floor((seconds % 3600) / 60);
-      if (hours && minutes) return `${hours}h ${minutes}m`;
-      if (hours) return `${hours}h`;
-      return `${minutes}m`;
     }
 
     async function fetchJson(url) {
@@ -530,7 +481,7 @@
 
       const artwork = document.createElement('img');
       artwork.className = 'episode-art';
-      artwork.src = episode.artwork_url || episode.podcast_artwork_url || '/player-icon-borderless.png';
+      artwork.src = episode.podcast_artwork_url || '/player-icon-borderless.png';
       artwork.alt = '';
       artwork.width = 66;
       artwork.height = 66;
@@ -544,9 +495,6 @@
       body.append(element('span', 'episode-title', episode.title || 'Untitled episode'));
       body.append(element('div', 'episode-podcast', episode.podcast_title || 'Podcast'));
 
-      const metadata = [formatDate(episode.pub_date), formatDuration(episode.duration)].filter(Boolean);
-      if (metadata.length) body.append(element('div', 'episode-meta', metadata.join(' · ')));
-
       link.append(artwork, body);
       item.append(link);
       return item;
@@ -554,6 +502,7 @@
 
     function personalityCard(personality, feed, index) {
       const card = element('article', 'personality-card');
+      card.setAttribute('aria-label', personality.name);
 
       const art = element('div', 'personality-art');
       const image = document.createElement('img');
@@ -568,10 +517,6 @@
       }, { once: true });
       art.append(image);
 
-      const heading = element('header', 'personality-heading');
-      heading.append(element('h3', '', personality.name));
-      heading.append(element('p', '', personality.title || feed.title || 'Podcast appearances'));
-
       const list = element('ol', 'episode-list');
       const episodes = [...(feed.episodes || [])]
         .filter((episode) => /^en(?:[-_]|$)/i.test(String(episode.language || '').trim()))
@@ -585,7 +530,7 @@
         list.append(empty);
       }
 
-      card.append(art, heading, list);
+      card.append(art, list);
       return card;
     }
 
