@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-05",
   "languages": [
     "de",
     "en",
@@ -94,7 +94,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 39,
+      "episode_count": 48,
       "handle_entity_id": null
     },
     {
