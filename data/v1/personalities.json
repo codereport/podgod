@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "languages": [
     "de",
     "en",
@@ -161,6 +161,18 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
       "episode_count": 82,
+      "handle_entity_id": null
+    },
+    {
+      "id": "josh-kerr",
+      "name": "Josh Kerr",
+      "aliases": [
+        "josh kerr"
+      ],
+      "title": "World 1500m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
+      "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
+      "episode_count": 66,
       "handle_entity_id": null
     },
     {

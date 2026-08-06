@@ -220,6 +220,22 @@
       "feed_blocklist": []
     },
     {
+      "id": "josh-kerr",
+      "name": "Josh Kerr",
+      "aliases": [
+        "josh kerr"
+      ],
+      "title": "World 1500m champion",
+      "queries": [
+        "Josh Kerr"
+      ],
+      "wikimedia": "Josh Kerr (runner)",
+      "feed_blocklist": [
+        "audio biography",
+        "biography flash"
+      ]
+    },
+    {
       "id": "lisa-su",
       "name": "Lisa Su",
       "aliases": [

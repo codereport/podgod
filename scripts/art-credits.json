@@ -62,5 +62,9 @@
   "palmer-luckey": {
     "local_photo": "scripts/photos/palmer-luckey.png",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "josh-kerr": {
+    "local_photo": "scripts/photos/josh-kerr.jpg",
+    "note": "Hand-picked source photo. Verify license/attribution before publishing."
   }
 }
