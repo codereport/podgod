@@ -66,5 +66,9 @@
   "josh-kerr": {
     "local_photo": "scripts/photos/josh-kerr.jpg",
     "note": "Hand-picked source photo. Verify license/attribution before publishing."
+  },
+  "jakob-ingebrigtsen": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }

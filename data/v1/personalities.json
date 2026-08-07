@@ -5,6 +5,7 @@
     "de",
     "en",
     "es",
+    "fi",
     "fr",
     "hi",
     "hu",
@@ -148,6 +149,16 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
       "episode_count": 26,
+      "handle_entity_id": null
+    },
+    {
+      "id": "jakob-ingebrigtsen",
+      "name": "Jakob Ingebrigtsen",
+      "aliases": [],
+      "title": "Olympic 1500m & 5000m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=5e65397c",
+      "feed_url": "https://podgod.ca/data/v1/personalities/jakob-ingebrigtsen.json",
+      "episode_count": 20,
       "handle_entity_id": null
     },
     {
