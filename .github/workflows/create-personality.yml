@@ -1,0 +1,102 @@
+name: Create Personality
+
+run-name: Create personality · ${{ inputs.job_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: "Private creation-job identifier"
+        required: true
+        type: string
+
+concurrency:
+  # Share the daily refresh lock because both workflows write the v1 feeds.
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: |
+            scripts/requirements-refresh.txt
+            scripts/requirements-art.txt
+
+      - name: Fetch private creation input
+        env:
+          JOB_ID: ${{ inputs.job_id }}
+          CREATION_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$CREATION_TOKEN"
+          curl --fail --silent --show-error --retry 3 \
+            -H "Authorization: Bearer $CREATION_TOKEN" \
+            "https://api.podgod.ca/internal/personality-creations/$JOB_ID" \
+            --output "$RUNNER_TEMP/personality.json"
+          curl --fail --silent --show-error --retry 3 \
+            -H "Authorization: Bearer $CREATION_TOKEN" \
+            "https://api.podgod.ca/internal/personality-creations/$JOB_ID/photo" \
+            --output "$RUNNER_TEMP/personality-photo"
+          personality_id="$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["id"])' "$RUNNER_TEMP/personality.json")"
+          echo "PERSONALITY_ID=$personality_id" >> "$GITHUB_ENV"
+
+      - name: Add catalog entry
+        run: python scripts/create_personality.py --metadata "$RUNNER_TEMP/personality.json"
+
+      - name: Install artwork dependencies
+        run: pip install -r scripts/requirements-art.txt
+
+      - name: Generate branded artwork
+        run: >-
+          python scripts/make_personality_art.py
+          --only "$PERSONALITY_ID"
+          --photo "$RUNNER_TEMP/personality-photo"
+          --model u2net_human_seg
+          --jobs 1
+
+      - name: Install discovery dependencies
+        run: pip install -r scripts/requirements-refresh.txt
+
+      - name: Backfill one year of appearances
+        env:
+          PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+          PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+        run: python scripts/refresh_personalities.py --since 365d --only "$PERSONALITY_ID"
+
+      - name: Require at least one qualifying episode
+        run: >-
+          python -c 'import json,os,pathlib,sys;
+          p=pathlib.Path("data/v1/personalities")/(os.environ["PERSONALITY_ID"]+".json");
+          n=len(json.loads(p.read_text())["episodes"]);
+          print(f"Validated {n} qualifying episode(s)");
+          sys.exit(0 if n else "No qualifying podcast episodes were found")'
+
+      - name: Commit the completed personality
+        run: |
+          set -euo pipefail
+          git config user.name podgod-bot
+          git config user.email bot@podgod.ca
+          git add -- \
+            scripts/personalities.config.json \
+            scripts/art-credits.json \
+            data/v1/personalities.json \
+            "data/v1/personalities/$PERSONALITY_ID.json" \
+            "data/v1/personalities/art/$PERSONALITY_ID.png"
+          git diff --cached --quiet && {
+            echo "Creation produced no committable changes" >&2
+            exit 1
+          }
+          git commit -m "feat(personalities): add $PERSONALITY_ID meta-podcast"
+          git push

@@ -394,7 +394,14 @@ def find_local_photo(pid: str):
     return None
 
 
-def process_person(person: dict[str, Any], remove_bg: bool, model: str, edge_erode: int, grayscale: bool) -> dict[str, Any]:
+def process_person(
+    person: dict[str, Any],
+    remove_bg: bool,
+    model: str,
+    edge_erode: int,
+    grayscale: bool,
+    uploaded_photo: Path | None = None,
+) -> dict[str, Any]:
     pid = person["id"]
     name = person["name"]
     title = person.get("wikimedia") or name
@@ -405,8 +412,14 @@ def process_person(person: dict[str, Any], remove_bg: bool, model: str, edge_ero
 
     raw: bytes | None = None
     credit: dict[str, Any] | None = None
-    local_photo = find_local_photo(pid)
-    if local_photo is not None:
+    local_photo = uploaded_photo or find_local_photo(pid)
+    if uploaded_photo is not None:
+        raw = uploaded_photo.read_bytes()
+        credit = {
+            "source": "admin_upload",
+            "note": "Photo supplied by a Pod God administrator with publication rights confirmed.",
+        }
+    elif local_photo is not None:
         raw = local_photo.read_bytes()
         credit = {"local_photo": str(local_photo.relative_to(REPO_ROOT)),
                   "note": "Hand-picked source photo. Verify license/attribution before publishing."}
@@ -458,6 +471,11 @@ def auto_jobs(remove_bg: bool) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--only", action="append", metavar="ID", help="Limit to one or more ids (repeatable).")
+    parser.add_argument(
+        "--photo",
+        type=Path,
+        help="Use this source photo for a single personality. The source file is not copied into the repository.",
+    )
     parser.add_argument("--no-bg", action="store_true", help="Skip background removal.")
     parser.add_argument("--color", action="store_true", help="Keep the portrait in color (default: black & white).")
     parser.add_argument(
@@ -489,6 +507,12 @@ def main() -> int:
     if not people:
         print("No personalities to process.", file=sys.stderr)
         return 2
+    if args.photo and len(people) != 1:
+        print("ERROR: --photo requires exactly one personality selected with --only.", file=sys.stderr)
+        return 2
+    if args.photo and not args.photo.is_file():
+        print(f"ERROR: source photo not found: {args.photo}", file=sys.stderr)
+        return 2
 
     remove_bg = not args.no_bg
     requested_jobs = args.jobs if args.jobs > 0 else auto_jobs(remove_bg)
@@ -505,7 +529,17 @@ def main() -> int:
     grayscale = not args.color
     results: list[dict[str, Any]] = []
     if jobs == 1:
-        results = [process_person(p, remove_bg, args.model, args.edge_erode, grayscale) for p in people]
+        results = [
+            process_person(
+                p,
+                remove_bg,
+                args.model,
+                args.edge_erode,
+                grayscale,
+                args.photo,
+            )
+            for p in people
+        ]
     else:
         with ProcessPoolExecutor(max_workers=jobs) as pool:
             futures = {

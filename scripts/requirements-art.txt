@@ -1,6 +1,5 @@
-# Dependencies for make_personality_art.py (run LOCALLY, not in CI).
-# rembg pulls in onnxruntime + a model download on first run; it is intentionally
-# kept out of the GitHub Action so the daily job stays light.
+# Dependencies for make_personality_art.py. The daily refresh does not install
+# these; the on-demand personality-creation workflow does.
 requests>=2.31,<3
 Pillow>=10.0
 rembg>=2.0
