@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06",
+  "updatedAt": "2026-08-07",
   "languages": [
     "de",
     "en",
@@ -81,7 +81,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 76,
+      "episode_count": 77,
       "handle_entity_id": null
     },
     {
@@ -122,7 +122,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 31,
+      "episode_count": 32,
       "handle_entity_id": "geoffrey-hinton"
     },
     {

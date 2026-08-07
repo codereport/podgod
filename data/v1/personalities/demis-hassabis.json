@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
   "episodes": [
+    {
+      "guid": "https://www.metisstrategy.com/?post_type=interview&p=48601",
+      "title": "The Infinity Machine: The Untold Story of Demis Hassabis and DeepMind",
+      "podcast_title": "Technovation with Peter High (CIO, CTO, CDO, CXO Interviews)",
+      "description": "What drives someone to spend decades pursuing artificial general intelligence, not for wealth, but for scientific discovery?\n\nIn this episode of Technovation, Peter High speaks with bestselling author and financial historian Sebastian Mallaby about his new book, The Infinity Machine, which chronicles the remarkable journey of DeepMind co-founder Demis Hassabis and the global race to build artificial general intelligence (AGI).\n\nDrawing on more than 30 hours of interviews with Hassabis and conversations with over 100 colleagues, competitors, and friends, Mallaby explores the leadership philosophy, scientific ambition, and organizational decisions that shaped one of the world’s most influential AI companies.\n\nListeners will also hear an in-depth discussion of Google’s acquisition of DeepMind, the evolution of AI from AlphaGo to Gemini, the competitive dynamics among OpenAI, Anthropic, Microsoft, and Google, and what the pursuit of superintelligence means for business leaders navigating the next era of technological transformation.\n\nKey topics include:\n\n\nWhy Demis Hassabis devoted his career to AGI\nThe founding story behind DeepMind\nGoogle’s AI strategy and the Innovator’s Dilemma\nLeadership lessons from building world-class research organizations\nThe opportunities of increasingly capable AI systems\n\nListen to discover why the future of AI may depend as much on leadership and organizational design as on technological breakthroughs.\n\nThis episode is presented by ElevenLabs — Bringing technology to life. Learn more at elevenlabs.io",
+      "feed_url": "https://www.metisstrategy.com/interview/feed/podcast/",
+      "audio_url": "https://media.blubrry.com/metis_strategy/media.blubrry.com/metis_strategy/content.blubrry.com/metis_strategy/1104_Sebastian_Mallaby_vF.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/fa/ab/8dfaab59-cf3c-9f67-557b-1357febabeac/mza_10559743669028168745.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/fa/ab/8dfaab59-cf3c-9f67-557b-1357febabeac/mza_10559743669028168745.png/600x600bb.jpg",
+      "collection_id": 296392049,
+      "duration": 4127,
+      "pub_date": "2026-08-06T07:00:11Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/the-infinity-machine-the-untold-story-of/id296392049?i=1000780205080&uo=4",
+      "language": "en",
+      "itunes_id": 1000780205080,
+      "added_at": "2026-08-07T01:15:31.279908Z"
+    },
     {
       "guid": "7b011195-4624-473f-8706-1c4599cbc41e",
       "title": "Episode 9158 – Aug 3 - Phần 4 của 4 - Cỗ máy vô hạn - Demis Hassabis - Vina Tech at AI Time",

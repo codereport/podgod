@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-07",
   "episodes": [
+    {
+      "guid": "36c37a37-9d8d-4009-8cac-1c9135f0f330",
+      "title": "AI4 2026 Conference Recap: Geoffrey Hinton, AI Governance & Live Takeaways from Las Vegas",
+      "podcast_title": "The IT Director's Podcast",
+      "description": "Clear Winds went live from the floor of AI4 2026 in Las Vegas — the world's largest AI conference, with over 12,000 attendees from 100+ countries — to break down what's really happening in enterprise AI right now.\nIn this episode, host Jay Bradford is joined by Clear Winds CEO Stan Sargent, VP of Engineering Michael Gray, and Director of Development James Hammack live from the show floor, fresh out of sessions with Geoffrey Hinton (the Nobel Prize-winning \"Godfather of AI\") and enterprise AI leaders from Global 500 companies.\nThis is a real-time, no-BS debrief for IT directors, business owners, and anyone trying to cut through the AI hype and figure out what actually matters for their organization.\n\n\n🚀 In this episode:\nLive reactions from the AI4 2026 show floor in Las VegasKey takeaways from Geoffrey Hinton's keynote on AI governance and steering vs. \"hard-stopping\" AIWhy this technology shift is fundamentally different (and more unpredictable) than past ones like virtualizationHow to treat AI agents like employees — identity, access, permissions, and loggingThe most common mistakes companies make when rushing AI implementationWhy messy or undefined data kills AI projects before they startWhat an AI readiness assessment actually looks forThe case for keeping a human in the loop, even as agents get more autonomousData sovereignty, security, and governance challenges every organization needs to plan for\n\nIf you're trying to figure out how to safely and effectively bring AI into your business — or just want the real story from inside AI4 2026 — this episode is for you.\n🎯 Timestamps:00:00 Live From Ai4 2026 In Vegas00:42 Ai4 2026 Show Floor Buzz01:08 Inside The Ai4 Vendor Hall01:46 AI Security Session Insights02:38 Steering AI Instead Of Stopping It04:12 What CEOs Tell Clients About AI06:02 Why This AI Shift Feels Different07:57 Hinton's Ai4 Keynote Breakdown10:40 AI Agents And Automation Tools11:43 Treat AI Agents Like Employees14:48 Why Humans Still Run The Show17:12 The Biggest AI Rollout Mistake20:56 Vegas Food And Conference Fun22:35 Final Thoughts Plus Where To Follow\n🔔 Subscribe to The IT Director's Podcast: Weekly insights on AI, cybersecurity, business IT strategy, business technology, automation, and more.\n\n\n📲 Follow The IT Directors Podcast:LinkedIn: https://www.linkedin.com/company/clear-winds-technologies/Instagram: https://www.instagram.com/theitdirectorspodcast/Facebook: https://www.facebook.com/theitdirectorspodcast/X: https://x.com/itdirectorspodYouTube: https://www.youtube.com/@TheITDirectorsPodcastApple Podcasts: https://podcasts.apple.com/us/podcast/the-it-directors-podcast/id1868490062\n#AI4 #AI42026 #AIConference #ArtificialIntelligence #GeoffreyHinton #AIGovernance #AIAgents #ITLeadership #EnterpriseAI #ClearWinds",
+      "feed_url": "https://anchor.fm/s/10155641c/podcast/rss",
+      "audio_url": "https://anchor.fm/s/10155641c/podcast/play/123876818/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-6%2F429367138-44100-2-983bef187c208.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/59/d8/2d59d854-3dbb-7a91-99a6-6a1841da85b8/mza_3490385503729534510.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/59/d8/2d59d854-3dbb-7a91-99a6-6a1841da85b8/mza_3490385503729534510.jpg/600x600bb.jpg",
+      "collection_id": 1868490062,
+      "duration": 1431,
+      "pub_date": "2026-08-06T20:19:54Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ai4-2026-conference-recap-geoffrey-hinton-ai-governance/id1868490062?i=1000780312034&uo=4",
+      "language": "en",
+      "itunes_id": 1000780312034,
+      "added_at": "2026-08-07T01:15:31.279908Z"
+    },
     {
       "guid": "9a580583-7bef-44b4-ac99-5a4bad841f6e",
       "title": "KI Kontrovers #5 — Geoffrey Hinton: „Eine großartige Idee, die nie besonders gut funktioniert hat\"",
