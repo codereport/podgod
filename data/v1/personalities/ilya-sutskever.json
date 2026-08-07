@@ -7,6 +7,23 @@
   "updatedAt": "2026-08-07",
   "episodes": [
     {
+      "guid": "fcc55efc-c27d-4f26-a3e9-d1f8830bcaaa",
+      "title": "What Ilya Sutskever Really Saw",
+      "podcast_title": "Ancient Mysteries",
+      "description": "In November 2023, one of OpenAI's co-founders helped remove the company's CEO—triggering one of the most dramatic crises in Silicon Valley history. The internet immediately asked one question: what did Ilya Sutskever see? \nThis documentary follows Ilya Sutskever's journey from a young researcher fascinated by intelligence to one of the architects of the AI revolution. From the revival of neural networks and the ImageNet breakthrough to the creation of OpenAI, ChatGPT, and the internal conflict that shook the company, we examine the documented events that led to one of the most controversial moments in artificial intelligence. \nUsing public records, interviews, and historical evidence, we separate facts from speculation and explore why the real story may be far more unsettling than the conspiracy theories. \nSometimes the greatest danger isn't the technology.\nIt's the people trusted to control it.\n💬 Do you think AI's greatest risk comes from the technology itself—or from the people making the decisions?\n🔔 Subscribe for more documentaries about artificial intelligence, technology, hidden history, and the people shaping the future.",
+      "feed_url": "https://anchor.fm/s/1081df188/podcast/rss",
+      "audio_url": "https://traffic.megaphone.fm/APO7625005578.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/0f/cc/ae0fccc7-4196-9e23-258a-8cd30cb20f76/mza_3163717297168479490.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c2/a2/41/c2a241f1-5b3b-c28c-0eb7-4413bbdf1409/mza_3441672212228296541.jpg/600x600bb.jpg",
+      "collection_id": 1877004210,
+      "duration": 3626,
+      "pub_date": "2026-08-07T01:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/what-ilya-sutskever-really-saw/id1877004210?i=1000780345897&uo=4",
+      "language": "en",
+      "itunes_id": 1000780345897,
+      "added_at": "2026-08-07T14:46:35.281675Z"
+    },
+    {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
       "title": "Ilya Sutskever and Jan Leike RESIGN from OpenAI - My in-depth analysis - end of an era! | Artificial Intelligence Masterclass",
       "podcast_title": "Artificial Intelligence Masterclass",
