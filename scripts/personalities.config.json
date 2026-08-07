@@ -337,6 +337,15 @@
         "Sean Parent"
       ],
       "wikimedia": "Sean Parent"
+    },
+    {
+      "id": "ta-nehisi-coates",
+      "name": "Ta-Nehisi Coates",
+      "aliases": [],
+      "title": "Author and journalist",
+      "queries": [
+        "Ta-Nehisi Coates"
+      ]
     }
   ]
 }
