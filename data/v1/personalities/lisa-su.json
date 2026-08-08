@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
   "episodes": [
+    {
+      "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
+      "title": "How AMD's Lisa Su Views the Future of AI",
+      "podcast_title": "Harvard Business Review",
+      "description": "How AMD's Lisa Su Is Thinking About AI\n\n13 Dec 2024\n\n---\n\nIn a conversation with HBR editor-in-chief Adi Ignatius, Lisa Su, CEO of leading semiconductor company AMD, discusses its evolution toward high-performance and adaptive computing, the future of AI use in sectors from healthcare to tech to personal productivity, and the importance of responsible risk-taking. She advocates for fast experimentation and implementation while ensuring safety through initiatives like AMD’s Responsible AI Council, active learning within the organization and among industry peers and partners, and the hiring of diverse talent to drive innovation. \n\nTime Magazine recently named Su their \"CEO of the Year.\" \n\nBooks, tools, and more: store.hbr.org\n\nFollow us:\nhttps://hbr.org/\nhttps://www.linkedin.com/company/harvard-business-review/\nhttps://www.facebook.com/HBR/\nhttps://twitter.com/HarvardBiz\nhttps://www.instagram.com/harvard_business_review\n\nSign up for Newsletters: https://hbr.org/email-newsletters\n\n#HarvardBusinessReview #YourCareer #Career #Job #Work #Business #Harvard #HarvardBusinessSchool  \n\nCopyright © 2024 Harvard Business School Publishing. All rights reserved.\n\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/VG7900701114",
+      "audio_url": "https://traffic.megaphone.fm/VG2323803785.mp3?updated=1778673018",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/32/43/be324389-9a0c-8dcb-0a39-5b2596dbd302/mza_7839859540615160755.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/f5/c1/23f5c1d7-3e1d-c47d-60bb-b34ecd50b89b/mza_3697340917064978563.jpg/600x600bb.jpg",
+      "collection_id": 1886705492,
+      "duration": 2186,
+      "pub_date": "2026-08-08T02:30:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/how-amds-lisa-su-views-the-future-of-ai/id1886705492?i=1000756327576&uo=4",
+      "itunes_id": 1000756327576,
+      "added_at": "2026-06-09T19:25:53.673692Z",
+      "language": "en"
+    },
     {
       "guid": "353c2730-74f4-4c2f-a371-ed1c82beb6e7",
       "title": "Silicon Drama Episode 13: Altman’s Agent Finds the Internet, Amodei’s Claude Breaks an 87-Year Conjecture, Lisa Su Ships Helios",
@@ -39,23 +56,6 @@
       "language": "en",
       "itunes_id": 1000778095004,
       "added_at": "2026-07-24T15:21:32.086700Z"
-    },
-    {
-      "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
-      "title": "How AMD's Lisa Su Views the Future of AI",
-      "podcast_title": "Harvard Business Review",
-      "description": "How AMD's Lisa Su Is Thinking About AI\n\n13 Dec 2024\n\n---\n\nIn a conversation with HBR editor-in-chief Adi Ignatius, Lisa Su, CEO of leading semiconductor company AMD, discusses its evolution toward high-performance and adaptive computing, the future of AI use in sectors from healthcare to tech to personal productivity, and the importance of responsible risk-taking. She advocates for fast experimentation and implementation while ensuring safety through initiatives like AMD’s Responsible AI Council, active learning within the organization and among industry peers and partners, and the hiring of diverse talent to drive innovation. \n\nTime Magazine recently named Su their \"CEO of the Year.\" \n\nBooks, tools, and more: store.hbr.org\n\nFollow us:\nhttps://hbr.org/\nhttps://www.linkedin.com/company/harvard-business-review/\nhttps://www.facebook.com/HBR/\nhttps://twitter.com/HarvardBiz\nhttps://www.instagram.com/harvard_business_review\n\nSign up for Newsletters: https://hbr.org/email-newsletters\n\n#HarvardBusinessReview #YourCareer #Career #Job #Work #Business #Harvard #HarvardBusinessSchool  \n\nCopyright © 2024 Harvard Business School Publishing. All rights reserved.\n\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\n \n​\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/VG7900701114",
-      "audio_url": "https://traffic.megaphone.fm/VG2323803785.mp3?updated=1778673018",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/32/43/be324389-9a0c-8dcb-0a39-5b2596dbd302/mza_7839859540615160755.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/f5/c1/23f5c1d7-3e1d-c47d-60bb-b34ecd50b89b/mza_3697340917064978563.jpg/600x600bb.jpg",
-      "collection_id": 1886705492,
-      "duration": 2186,
-      "pub_date": "2026-07-08T06:30:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/how-amds-lisa-su-views-the-future-of-ai/id1886705492?i=1000756327576&uo=4",
-      "itunes_id": 1000756327576,
-      "added_at": "2026-06-09T19:25:53.673692Z",
-      "language": "en"
     },
     {
       "guid": "b118f42d-f39a-492e-87f8-9d86826a12d0",
