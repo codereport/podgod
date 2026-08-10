@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09",
+  "updatedAt": "2026-08-10",
   "languages": [
     "de",
     "en",
@@ -110,7 +110,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 18,
+      "episode_count": 20,
       "handle_entity_id": null
     },
     {
@@ -183,7 +183,7 @@
       "title": "World 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
-      "episode_count": 66,
+      "episode_count": 67,
       "handle_entity_id": null
     },
     {
