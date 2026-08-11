@@ -25,6 +25,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import io
 import json
 import os
@@ -50,6 +51,9 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 CONFIG_PATH = SCRIPT_DIR / "personalities.config.json"
 ART_DIR = REPO_ROOT / "data" / "v1" / "personalities" / "art"
+PERSONALITY_DIR = REPO_ROOT / "data" / "v1" / "personalities"
+PERSONALITY_INDEX_PATH = REPO_ROOT / "data" / "v1" / "personalities.json"
+PERSONALITY_ART_BASE = "https://podgod.ca/data/v1/personalities/art"
 ASSETS_DIR = SCRIPT_DIR / "assets"
 LOGO_PATH = ASSETS_DIR / "logo-circle.png"
 # Bundled blocky display font for the name (OFL-licensed, committed to the repo).
@@ -72,6 +76,39 @@ GRAD_TOP = (255, 77, 141)     # #ff4d8d
 GRAD_MID = (200, 80, 242)     # #c850f2
 GRAD_BOTTOM = (108, 99, 255)  # #6c63ff
 DARK = (11, 14, 23)           # #0b0e17
+
+
+def update_artwork_references(pid: str, art_path: Path) -> list[Path]:
+    """Cache-bust existing public JSON after replacing an artwork file."""
+    digest = hashlib.md5(art_path.read_bytes()).hexdigest()[:8]
+    artwork_url = f"{PERSONALITY_ART_BASE}/{pid}.png?v={digest}"
+    changed: list[Path] = []
+
+    feed_path = PERSONALITY_DIR / f"{pid}.json"
+    if feed_path.exists():
+        feed = json.loads(feed_path.read_text(encoding="utf-8"))
+        if feed.get("artwork_url") != artwork_url:
+            feed["artwork_url"] = artwork_url
+            feed_path.write_text(
+                json.dumps(feed, indent=2, ensure_ascii=False) + "\n",
+                encoding="utf-8",
+            )
+            changed.append(feed_path)
+
+    if PERSONALITY_INDEX_PATH.exists():
+        index = json.loads(PERSONALITY_INDEX_PATH.read_text(encoding="utf-8"))
+        for personality in index.get("personalities", []):
+            if personality.get("id") != pid:
+                continue
+            if personality.get("artwork_url") != artwork_url:
+                personality["artwork_url"] = artwork_url
+                PERSONALITY_INDEX_PATH.write_text(
+                    json.dumps(index, indent=2, ensure_ascii=False) + "\n",
+                    encoding="utf-8",
+                )
+                changed.append(PERSONALITY_INDEX_PATH)
+            break
+    return changed
 
 
 # --------------------------------------------------------------------------- #
@@ -555,6 +592,15 @@ def main() -> int:
         if status == "ok":
             ok += 1
             print(f"  {r['id']}: OK -> {r['path']}")
+            changed_references = update_artwork_references(
+                r["id"],
+                REPO_ROOT / r["path"],
+            )
+            if changed_references:
+                print(
+                    "    cache-busted "
+                    + ", ".join(str(path.relative_to(REPO_ROOT)) for path in changed_references)
+                )
             if r.get("credit"):
                 credits[r["id"]] = r["credit"]
         else:
