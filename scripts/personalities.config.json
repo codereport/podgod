@@ -265,6 +265,15 @@
       ]
     },
     {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "aliases": [],
+      "title": "CEO of Meta",
+      "queries": [
+        "Mark Zuckerberg"
+      ]
+    },
+    {
       "id": "mira-murati",
       "name": "Mira Murati",
       "aliases": [

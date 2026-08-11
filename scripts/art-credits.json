@@ -74,5 +74,9 @@
   "ta-nehisi-coates": {
     "source": "admin_upload",
     "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
+  },
+  "mark-zuckerberg": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }
