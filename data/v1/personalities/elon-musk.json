@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-08-10",
+  "updatedAt": "2026-08-11",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/73389971",
+      "title": "Why Bill Gates AND Elon Musk Are \"Above Top Secret\"",
+      "podcast_title": "Making Sense of the Madness with Jason Bermas",
+      "description": "Send Some Love and Buy Me A Cup Of Joe:\nhttps://www.buymeacoffee.com/jasonbermasWatch My Documentaries:\nhttps://www.youtube.com/watch?v=V4VFYRaltcc&list=PL5vtMLUWgYehCTEfSmgEzAEC9Dvt9FZmcSubscribe on Rokfin\nhttps://rokfin.com/JasonBermasSubscribe on Rumble\nhttps://rumble.com/c/TheInfoWarriorSubscribe on YouTube\nhttps://www.youtube.com/InfoWarriorFollow me on X\nhttps://x.com/JasonBermasPayPal: JasonIsvoid@yahoo.comETH - 0x90b9288AF0E40F8C90604460973743dBC91dA680#BermasBrigade #TruthOverTreason #BreakingNews #InfoWarrior\n\nDiscover other shows on the Talk Red Podcast Network, and get your daily fix of news, sports, and entertainment at https://TalkRed.com.",
+      "feed_url": "https://www.spreaker.com/show/7148987/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73389971/bermas_bill_gates.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/2f/eb/6f2feb6c-c884-635d-b443-7d282ff304ce/mza_11609980778536154069.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/2f/eb/6f2feb6c-c884-635d-b443-7d282ff304ce/mza_11609980778536154069.jpg/600x600bb.jpg",
+      "collection_id": 1829783931,
+      "duration": 2061,
+      "pub_date": "2026-08-10T19:00:03Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/why-bill-gates-and-elon-musk-are-above-top-secret/id1829783931?i=1000782037845&uo=4",
+      "language": "en",
+      "itunes_id": 1000782037845,
+      "added_at": "2026-08-11T14:51:15.203608Z"
+    },
     {
       "guid": "15831190-88eb-4387-b535-161cbb044252",
       "title": "SpaceX $1 Trillion Revenue in 2030 - Elon Musk Trying to Save Failed IPO",
