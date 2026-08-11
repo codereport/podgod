@@ -1,0 +1,63 @@
+name: Update Personality Title
+
+run-name: Update title · ${{ inputs.job_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: "Private title-job identifier"
+        required: true
+        type: string
+
+concurrency:
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch private title input
+        env:
+          JOB_ID: ${{ inputs.job_id }}
+          CREATION_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$CREATION_TOKEN"
+          curl --fail --silent --show-error --retry 3 \
+            -H "Authorization: Bearer $CREATION_TOKEN" \
+            "https://api.podgod.ca/internal/personality-title-jobs/$JOB_ID" \
+            --output "$RUNNER_TEMP/personality.json"
+          personality_id="$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["id"])' "$RUNNER_TEMP/personality.json")"
+          echo "PERSONALITY_ID=$personality_id" >> "$GITHUB_ENV"
+
+      - name: Update title
+        run: python scripts/update_personality_title.py --metadata "$RUNNER_TEMP/personality.json"
+
+      - name: Commit the updated title
+        run: |
+          set -euo pipefail
+          git config user.name podgod-bot
+          git config user.email bot@podgod.ca
+          git add -- \
+            scripts/personalities.config.json \
+            data/v1/personalities.json \
+            "data/v1/personalities/$PERSONALITY_ID.json"
+          git diff --cached --quiet && {
+            echo "Title update produced no committable changes" >&2
+            exit 1
+          }
+          git commit -m "feat(personalities): update $PERSONALITY_ID title"
+          git push
