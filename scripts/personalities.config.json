@@ -215,6 +215,20 @@
       ]
     },
     {
+      "id": "jeff-dean",
+      "name": "Jeff Dean",
+      "aliases": [],
+      "title": "Google senior fellow and researcher",
+      "queries": [
+        "Jeff Dean"
+      ],
+      "review_pending": true,
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "Google"
+      ]
+    },
+    {
       "id": "jensen-huang",
       "name": "Jensen Huang",
       "aliases": [
