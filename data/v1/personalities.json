@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "languages": [
     "de",
     "en",
@@ -95,7 +95,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 53,
+      "episode_count": 54,
       "handle_entity_id": null
     },
     {
@@ -110,7 +110,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 20,
+      "episode_count": 21,
       "handle_entity_id": null
     },
     {
@@ -158,7 +158,7 @@
       "title": "Olympic 1500m & 5000m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=a5020ba0",
       "feed_url": "https://podgod.ca/data/v1/personalities/jakob-ingebrigtsen.json",
-      "episode_count": 22,
+      "episode_count": 23,
       "handle_entity_id": null
     },
     {
@@ -246,7 +246,7 @@
       "title": "Creator of OpenClaw",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
       "feed_url": "https://podgod.ca/data/v1/personalities/peter-steinberger.json",
-      "episode_count": 37,
+      "episode_count": 38,
       "handle_entity_id": null
     },
     {

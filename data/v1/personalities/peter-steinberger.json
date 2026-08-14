@@ -4,8 +4,25 @@
   "name": "Peter Steinberger",
   "title": "Creator of OpenClaw",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/73893702",
+      "title": "OpenClaw_ The Viral AI Agent that Broke the Internet - Peter Steinberger _ Lex Fridman Podcast _491",
+      "podcast_title": "Dark Bible Stories",
+      "description": "Become a supporter of this podcast: https://www.spreaker.com/podcast/dark-bible-stories--7131247/support.",
+      "feed_url": "https://www.spreaker.com/show/7131247/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/73893702/openclaw_the_viral_ai_agent_that_broke_the_internet_peter_steinberger_lex_fridman_podcast_491_mp3_160k_1.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/e4/9f/a4e49ff1-fce5-ccb4-518a-f8de222078b3/mza_5449356374419788562.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a8/13/c3/a813c3d8-02c4-9728-9849-34f6db5d6ee3/mza_12001484602878147608.jpg/600x600bb.jpg",
+      "collection_id": 6798724041,
+      "duration": 11752,
+      "pub_date": "2026-08-14T07:36:14Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/openclaw-the-viral-ai-agent-that-broke-the-internet/id6798724041?i=1000783266606&uo=4",
+      "language": "en",
+      "itunes_id": 1000783266606,
+      "added_at": "2026-08-14T14:44:50.920846Z"
+    },
     {
       "guid": "73b3a2f273038e5ff9182f9615c426d4",
       "title": "Wie hast du OpenClaw gebaut und an OpenAI verkauft, Peter Steinberger? (#67)",

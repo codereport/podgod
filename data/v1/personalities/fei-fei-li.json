@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "episodes": [
+    {
+      "guid": "dd278ae1-e6ea-4a82-8bed-fe3bc370c3fe",
+      "title": "Godmother of AI: The Missing Piece of Intelligence LLMs Can't See | Fei-Fei Li",
+      "podcast_title": "Silicon Valley Girl: AI, Tech and Career Growth",
+      "description": "What if the most powerful language models on Earthare missing the one piece that makes intelligence real?Fei-Fei Li is the \"Godmother of AI\" who built thedataset that made modern artificial intelligencepossible, spent years leading Stanford's AI Lab,and now runs World Labs, a $1 billion startupbuilding the next frontier of AI.Fei-Fei Li reveals the missing piece of intelligencethat language models can't see, the four abilitiesthat make it up, and what her billion-dollar startupis racing to build to solve it.\nListen to the full episode here!\nSpotify:https://open.spotify.com/episode/1FvQHmEJoGUARR2EY6AEWk?si=5Cg_cgN4RaiaC4UkIDaH-A\nApple: https://podcasts.apple.com/il/podcast/silicon-valley-girl-ai-tech-and-career-growth/id1819090545?i=1000774171967\nWatch the full episode on YouTube: https://youtu.be/subu-xHrp1w?si=2nyuRfaTPdHTs8s-",
+      "feed_url": "https://anchor.fm/s/105af30ec/podcast/rss",
+      "audio_url": "https://traffic.megaphone.fm/APO5612967029.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/eb/b5/69ebb5ad-2083-a50d-d76a-677504253895/mza_4602711082543402345.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/eb/b5/69ebb5ad-2083-a50d-d76a-677504253895/mza_4602711082543402345.jpg/600x600bb.jpg",
+      "collection_id": 1819090545,
+      "duration": 1072,
+      "pub_date": "2026-08-14T11:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/godmother-of-ai-the-missing-piece-of-intelligence/id1819090545?i=1000783298775&uo=4",
+      "language": "en",
+      "itunes_id": 1000783298775,
+      "added_at": "2026-08-14T14:44:50.920846Z"
+    },
     {
       "guid": "08c064d2-9478-11f1-8fb1-5fc70077aa23",
       "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
