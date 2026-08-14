@@ -162,6 +162,16 @@
       "handle_entity_id": null
     },
     {
+      "id": "jeff-dean",
+      "name": "Jeff Dean",
+      "aliases": [],
+      "title": "Former Google senior fellow and researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=f858ebd6",
+      "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
+      "episode_count": 30,
+      "handle_entity_id": null
+    },
+    {
       "id": "jensen-huang",
       "name": "Jensen Huang",
       "aliases": [
