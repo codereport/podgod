@@ -29,8 +29,23 @@ class CreatePersonalityTests(unittest.TestCase):
                 "aliases": [],
                 "title": "Computing pioneer",
                 "queries": ["Ada Lovelace"],
+                "review_pending": True,
             },
         )
+
+    def test_common_name_metadata_adds_required_context(self):
+        config = {"personalities": []}
+        metadata = validate_metadata({
+            "id": "jeff-dean",
+            "name": "Jeff Dean",
+            "title": "AI researcher",
+            "potentiallyCommonName": True,
+            "requiredKeywords": ["Google", "AI", "google"],
+        })
+        person = add_personality(config, metadata)["personalities"][0]
+        self.assertTrue(person["potentially_common_name"])
+        self.assertEqual(person["required_context_keywords"], ["Google", "AI"])
+        self.assertTrue(person["review_pending"])
 
     def test_rejects_duplicate_name_or_slug(self):
         base = {"personalities": [{"id": "ada", "name": "Ada Lovelace"}]}

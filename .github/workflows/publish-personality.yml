@@ -1,0 +1,74 @@
+name: Publish Personality
+
+run-name: Publish personality · ${{ inputs.job_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: "Reviewed creation-job identifier"
+        required: true
+        type: string
+
+concurrency:
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements-refresh.txt
+
+      - name: Fetch reviewed personality
+        env:
+          JOB_ID: ${{ inputs.job_id }}
+          CREATION_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$CREATION_TOKEN"
+          curl --fail --silent --show-error --retry 3 \
+            -H "Authorization: Bearer $CREATION_TOKEN" \
+            "https://api.podgod.ca/internal/personality-creations/$JOB_ID" \
+            --output "$RUNNER_TEMP/personality.json"
+          personality_id="$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["id"])' "$RUNNER_TEMP/personality.json")"
+          echo "PERSONALITY_ID=$personality_id" >> "$GITHUB_ENV"
+
+      - name: Mark the draft approved
+        run: python scripts/publish_personality.py --metadata "$RUNNER_TEMP/personality.json"
+
+      - name: Install discovery dependencies
+        run: pip install -r scripts/requirements-refresh.txt
+
+      - name: Rebuild the reviewed feed and public index
+        env:
+          PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
+          PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
+        run: python scripts/refresh_personalities.py --since 365d --only "$PERSONALITY_ID"
+
+      - name: Commit publication
+        run: |
+          set -euo pipefail
+          git config user.name podgod-bot
+          git config user.email bot@podgod.ca
+          git add -- \
+            scripts/personalities.config.json \
+            data/v1/personalities.json \
+            "data/v1/personalities/$PERSONALITY_ID.json"
+          git diff --cached --quiet && {
+            echo "Personality is already published; nothing to commit"
+            exit 0
+          }
+          git commit -m "feat(personalities): publish $PERSONALITY_ID after review"
+          git push

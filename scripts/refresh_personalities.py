@@ -331,6 +331,18 @@ def feed_allowed(ep: dict[str, Any], person: dict[str, Any], defaults: dict[str,
     return True
 
 
+def context_allowed(ep: dict[str, Any], person: dict[str, Any]) -> bool:
+    """Require identifying context for an explicitly marked common name."""
+    if not person.get("potentially_common_name"):
+        return True
+    keywords = [norm(value) for value in person.get("required_context_keywords", [])]
+    keywords = [value for value in keywords if value]
+    if not keywords:
+        return False
+    context = " ".join((norm(ep.get("title")), norm(ep.get("description"))))
+    return any(keyword in context for keyword in keywords)
+
+
 def within_window(ep: dict[str, Any], cutoff_ts: int) -> bool:
     if cutoff_ts <= 0:
         return True
@@ -370,6 +382,8 @@ def discover(
                 if not name_matches(texts, person, match_scope):
                     continue
                 if not feed_allowed(ep, person, defaults):
+                    continue
+                if not context_allowed(ep, person):
                     continue
                 duration = ep.get("duration")
                 if isinstance(duration, int) and duration < min_duration:
@@ -531,7 +545,10 @@ def main() -> int:
         # Re-apply current blocklists to already-stored episodes so tightened
         # rules retroactively purge news/digest noise (merge otherwise preserves
         # existing episodes verbatim, and capping would keep junk over interviews).
-        existing_eps = [e for e in existing_eps if feed_allowed(e, person, defaults)]
+        existing_eps = [
+            e for e in existing_eps
+            if feed_allowed(e, person, defaults) and context_allowed(e, person)
+        ]
 
         fresh = discover(backends, person, defaults, cutoff_ts, now_iso)
         max_episodes = person.get("max_episodes", defaults.get("max_episodes", 50))
@@ -577,16 +594,19 @@ def main() -> int:
         print(f"  {pid}: {len(fresh)} fresh, {len(merged)} total (+{added}){' [written]' if wrote else ''}")
         changed = changed or wrote
 
-        index_by_id[pid] = {
-            "id": pid,
-            "name": person["name"],
-            "aliases": person.get("aliases", []),
-            "title": person.get("title", ""),
-            "artwork_url": artwork_url,
-            "feed_url": f"{SITE_BASE}/{pid}.json",
-            "episode_count": len(merged),
-            "handle_entity_id": person.get("handle_entity_id"),
-        }
+        if person.get("review_pending"):
+            index_by_id.pop(pid, None)
+        else:
+            index_by_id[pid] = {
+                "id": pid,
+                "name": person["name"],
+                "aliases": person.get("aliases", []),
+                "title": person.get("title", ""),
+                "artwork_url": artwork_url,
+                "feed_url": f"{SITE_BASE}/{pid}.json",
+                "episode_count": len(merged),
+                "handle_entity_id": person.get("handle_entity_id"),
+            }
 
     # Rebuild the index in config order so it stays stable/diff-friendly.
     config_order = [p["id"] for p in config.get("personalities", [])]
@@ -597,7 +617,10 @@ def main() -> int:
     # the union complete). Drives the player's language picker; a language only
     # appears once at least one episode uses it.
     languages: set[str] = set()
+    published_ids = set(index_by_id)
     for feed_file in PERSON_DIR.glob("*.json"):
+        if feed_file.stem not in published_ids:
+            continue
         feed_doc = load_json(feed_file)
         for e in feed_doc.get("episodes", []) if isinstance(feed_doc, dict) else []:
             lang = normalize_lang(e.get("language"))
