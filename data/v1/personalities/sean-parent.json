@@ -228,6 +228,23 @@
       "added_at": "2026-08-17T18:46:37.780639Z"
     },
     {
+      "guid": "1255f465-4ed1-44ea-83c5-0ec37e2bc353",
+      "title": "STLab",
+      "podcast_title": "CppCast",
+      "description": "Rob and Jason are joined by Sean Parent and Dave Abrahams. They first talk to Dave about his history with C++, Boost and the Swift programming language. Then they talk with Sean and Dave about Adobe's Software Technology Lab and their plans to focus on Concurrency in C++.\n        News\n\nA Neat trick with consteval\nConstexpr memory allocation\nComprehensive Catalog of C++ Books\n\nLinks\n\nstlab\nstlab on GitHub\n\nSponsors\n\nC++ Builder",
+      "feed_url": "https://cppcast.com/feed.rss",
+      "audio_url": "https://media.transistor.fm/38ad913e/7c5680f9.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/da/04/a3/da04a307-7f9f-3d54-bbe5-1400b05d08e0/mza_8853287469466113927.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/da/04/a3/da04a307-7f9f-3d54-bbe5-1400b05d08e0/mza_8853287469466113927.png/600x600bb.jpg",
+      "collection_id": 968703120,
+      "duration": 3593,
+      "pub_date": "2021-07-29T00:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/stlab/id968703120?i=1000530465898&uo=4",
+      "language": "en",
+      "itunes_id": 1000530465898,
+      "added_at": "2026-08-17T20:33:47.096957Z"
+    },
+    {
       "guid": "Buzzsprout-8641973",
       "title": "Episode 28: Steve Jobs & Sean Parent",
       "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
@@ -294,6 +311,40 @@
       "language": "en",
       "itunes_id": 1000513647756,
       "added_at": "2026-08-17T18:46:37.780639Z"
+    },
+    {
+      "guid": "e10c5f3f-a8c5-4b77-8da0-dfb873a3b6e4",
+      "title": "I’m Surprised You Brought up Rotate",
+      "podcast_title": "cpp.chat",
+      "description": "In our second live CppCon 2019 episode we chat with Sean Parent about relationships, working with Alexander Stepanov, over-object-orientizing things and, yes, even rotate.\nSean tells us stories from his years at Adobe, including how he first came to work with Stepanov (the father of the STL) - a well as some spectacularly bad responses to interview problems.",
+      "feed_url": "https://cpp.chat/rss/",
+      "audio_url": "https://media.transistor.fm/98c5e506/d7a8317f.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/bd/c8/88/bdc888b0-c1c3-458a-8a8a-b2023891dc3e/mza_4230201374763518694.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/bd/c8/88/bdc888b0-c1c3-458a-8a8a-b2023891dc3e/mza_4230201374763518694.jpg/600x600bb.jpg",
+      "collection_id": 1378325120,
+      "duration": 2743,
+      "pub_date": "2019-10-17T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/im-surprised-you-brought-up-rotate/id1378325120?i=1000453862340&uo=4",
+      "language": "en",
+      "itunes_id": 1000453862340,
+      "added_at": "2026-08-17T20:33:47.096957Z"
+    },
+    {
+      "guid": "https://www.signalleaf.com/podcasts/CppCast/556e5a2b5c90ff0300e65fa6",
+      "title": "Better Code Concurrency",
+      "podcast_title": "CppCast",
+      "description": "Rob and Jason are joined by Sean Parent to talk about his recent C++Now! talk where he presented a new futures library.\n        Sean Parent is a principal scientist and software architect for Adobe’s mobile digital imaging group. Sean has been at Adobe since 1993 when he joined as a senior engineer working on Photoshop and later managed Adobe’s Software Technology Lab. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.\n\nNews\n\nAndroid Studio introduces C++ support in v1.3 preview\nC++11 Port of Docopt, a command-line argument parser\nGoing Native 38 Updates from Lenexa, future of C++17\nAnnouncing C++Now 2016 and Best Session winners\n\nSean Parent\n\n@seanparent\nSean Parent's Github\n\nLinks\n\nSTLab Github\nC++ Seasoning\nInheritance Is The Base Class of Evil\n\nSponsors",
+      "feed_url": "https://cppcast.com/feed.rss",
+      "audio_url": "https://media.transistor.fm/138234f7/1f991f7e.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/da/04/a3/da04a307-7f9f-3d54-bbe5-1400b05d08e0/mza_8853287469466113927.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/da/04/a3/da04a307-7f9f-3d54-bbe5-1400b05d08e0/mza_8853287469466113927.png/600x600bb.jpg",
+      "collection_id": 968703120,
+      "duration": 2931,
+      "pub_date": "2015-06-01T00:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/better-code-concurrency/id968703120?i=1000359111172&uo=4",
+      "language": "en",
+      "itunes_id": 1000359111172,
+      "added_at": "2026-08-17T20:33:47.096957Z"
     }
   ]
 }
