@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-08-16",
+  "updatedAt": "2026-08-17",
   "episodes": [
+    {
+      "guid": "05f965d9-8c63-458b-b08a-4f96c5e92fdb",
+      "title": "Elon Musk | 6 LIÇÕES DE ELON MUSK PARA CONSTRUIR RIQUEZA",
+      "podcast_title": "MUNDO RICO",
+      "description": "Elon Musk é conhecido por construir empresas em setores altamente competitivos, como tecnologia, exploração espacial e veículos elétricos. Neste episódio, você vai conhecer seis princípios frequentemente associados à sua trajetória empresarial e entender como eles podem ser aplicados ao desenvolvimento profissional e à construção de riqueza. Entre os temas estão a busca por conhecimento, a resolução de problemas, a disposição para assumir riscos calculados, a capacidade de pensar no longo prazo e o foco em criar produtos e serviços capazes de gerar valor. É importante lembrar que a trajetória de Musk envolve circunstâncias, oportunidades, capital e fatores específicos que não podem ser simplesmente reproduzidos por qualquer pessoa. Ainda assim, estudar suas estratégias e decisões pode oferecer insights interessantes sobre empreendedorismo, inovação e construção de negócios.\nHashtags:#ElonMusk #MundoMental #Empreendedorismo #MentalidadeRica #DesenvolvimentoPessoal #ConstruçãoDeRiqueza #Inovação #Sucesso #Investimentos #LiberdadeFinanceira",
+      "feed_url": "https://anchor.fm/s/7c9d0108/podcast/rss",
+      "audio_url": "https://traffic.megaphone.fm/APO9112095218.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/4e/1c/834e1ce5-6c61-6d63-b04b-034f1d147df1/mza_161438786174436427.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/cd/56/38/cd5638b7-c1d3-40ec-b70f-91cc21070f4c/mza_795866346442437653.jpg/600x600bb.jpg",
+      "collection_id": 1607700004,
+      "duration": 876,
+      "pub_date": "2026-08-17T08:30:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-6-li%C3%A7%C3%B5es-de-elon-musk-para-construir-riqueza/id1607700004?i=1000783768164&uo=4",
+      "language": "pt",
+      "itunes_id": 1000783768164,
+      "added_at": "2026-08-17T14:19:27.997355Z"
+    },
     {
       "guid": "937c72d1-17b5-4675-aa98-5e60f353a6ee",
       "title": "OpenAI's AI ROI Problem, Wall Street's Jobless Boom, & Elon Musk Calls Workers Grok's Parents",
