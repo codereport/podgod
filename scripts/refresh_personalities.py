@@ -15,6 +15,8 @@ Discovery backend (auto-selected):
   - iTunes Search API (episode search) otherwise - no key/signup required. The
     same backend the player app uses. Guest names are almost always in the
     episode title, and the name/duration/feed filters below keep it clean.
+    Per-person `itunes_guest_queries` can also search descriptions for opaque
+    titles; those candidates must have an exact RSS podcast:person guest tag.
     Override with --source itunes.
 
 Two run modes, differing only in the time window:
@@ -38,6 +40,7 @@ import os
 import re
 import sys
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -356,30 +359,144 @@ def within_window(ep: dict[str, Any], cutoff_ts: int) -> bool:
     return dt.timestamp() >= cutoff_ts
 
 
+def _xml_local_name(tag: str) -> str:
+    return tag.rsplit("}", 1)[-1]
+
+
+def _xml_namespace(tag: str) -> str:
+    return tag[1:].split("}", 1)[0] if tag.startswith("{") else ""
+
+
+def _is_podcast_namespace(namespace: str) -> bool:
+    """Accept both Podcast Namespace URIs found in live feeds.
+
+    Older Transistor feeds use the original GitHub documentation URL while
+    newer feeds generally use podcastindex.org/namespace/1.0.
+    """
+    namespace = norm(namespace)
+    return (
+        "podcastindex.org/namespace" in namespace
+        or "podcastindex-org/podcast-namespace" in namespace
+    )
+
+
+def _rss_item_matches_episode(item: ET.Element, ep: dict[str, Any]) -> bool:
+    """Match an Apple result back to its RSS item using stable identifiers."""
+    rss_guid = ""
+    rss_title = ""
+    rss_audio = ""
+    for child in item:
+        local_name = _xml_local_name(child.tag)
+        if local_name == "guid":
+            rss_guid = norm(child.text)
+        elif local_name == "title":
+            rss_title = norm(child.text)
+        elif local_name == "enclosure":
+            rss_audio = norm(child.get("url"))
+
+    return any(
+        (
+            norm(ep.get("guid")) and rss_guid and norm(ep.get("guid")) == rss_guid,
+            norm(ep.get("audio_url")) and rss_audio and norm(ep.get("audio_url")) == rss_audio,
+            norm(ep.get("title")) and rss_title and norm(ep.get("title")) == rss_title,
+        )
+    )
+
+
+def rss_confirms_guest(root: ET.Element, ep: dict[str, Any], person: dict[str, Any]) -> bool:
+    """Confirm that an episode's RSS item names the person as an exact guest.
+
+    Apple description search is useful for finding opaque episode titles, but it
+    also returns episodes that merely mention a person. The Podcast Namespace
+    ``podcast:person`` tag gives us a precise way to distinguish appearances.
+    """
+    names = {norm(person["name"]), *(norm(alias) for alias in person.get("aliases", []))}
+    names.discard("")
+    for item in root.iter():
+        if _xml_local_name(item.tag) != "item" or not _rss_item_matches_episode(item, ep):
+            continue
+        for child in item.iter():
+            namespace = _xml_namespace(child.tag)
+            if (
+                _xml_local_name(child.tag) == "person"
+                and _is_podcast_namespace(namespace)
+                and norm(child.get("role")) == "guest"
+                and norm(child.text) in names
+            ):
+                return True
+    return False
+
+
+def feed_confirms_guest(
+    session: requests.Session,
+    ep: dict[str, Any],
+    person: dict[str, Any],
+    cache: dict[str, ET.Element | None],
+) -> bool:
+    """Fetch an episode's RSS feed once and verify its exact guest tag."""
+    feed_url = str(ep.get("feed_url") or "").strip()
+    if not feed_url:
+        return False
+    if feed_url not in cache:
+        try:
+            response = session.get(feed_url, headers={"User-Agent": USER_AGENT}, timeout=30)
+            response.raise_for_status()
+            cache[feed_url] = ET.fromstring(response.content)
+        except (requests.RequestException, ET.ParseError) as exc:
+            print(f"  ! RSS guest verification failed for {feed_url}: {exc}", file=sys.stderr)
+            cache[feed_url] = None
+    root = cache[feed_url]
+    return bool(root is not None and rss_confirms_guest(root, ep, person))
+
+
+def discovery_queries(
+    label: str, person: dict[str, Any], match_scope: str
+) -> list[tuple[str, str, bool]]:
+    """Return (query, match scope, require exact RSS guest tag) tuples."""
+    queries = [
+        (query, match_scope, False)
+        for query in person.get("queries", [person["name"]])
+    ]
+    if label == "itunes":
+        queries.extend(
+            (query, "all", True)
+            for query in person.get("itunes_guest_queries", [])
+        )
+    return queries
+
+
 def discover(
     backends: list[tuple[str, Any, str]],
     person: dict[str, Any],
     defaults: dict[str, Any],
     cutoff_ts: int,
     now_iso: str,
+    session: requests.Session | None = None,
 ) -> list[dict[str, Any]]:
     """Fetch + filter fresh episodes for one person across one or more backends.
 
     `backends` is a list of (label, fetcher, match_scope). Each `fetcher(query)`
     returns list[(normalized_ep, texts)]. Backends are tried in order and unioned
     by episode key; the first backend to produce a given episode wins, so list the
-    higher-quality source (PodcastIndex) first to prefer its richer metadata."""
+    higher-quality source (PodcastIndex) first to prefer its richer metadata.
+    iTunes also runs any configured guest queries across descriptions, accepting
+    those broader matches only after exact RSS guest-tag verification."""
     min_duration = person.get("min_duration_sec", defaults.get("min_duration_sec", 600))
     seen: dict[str, dict[str, Any]] = {}
+    guest_feed_cache: dict[str, ET.Element | None] = {}
     for label, fetcher, match_scope in backends:
-        for query in person.get("queries", [person["name"]]):
+        for query, query_scope, require_rss_guest in discovery_queries(label, person, match_scope):
             try:
                 candidates = fetcher(query)
             except requests.RequestException as exc:
                 print(f"  ! [{label}] query '{query}' failed: {exc}", file=sys.stderr)
                 continue
             for ep, texts in candidates:
-                if not name_matches(texts, person, match_scope):
+                if not name_matches(texts, person, query_scope):
+                    continue
+                if require_rss_guest and (
+                    session is None or not feed_confirms_guest(session, ep, person, guest_feed_cache)
+                ):
                     continue
                 if not feed_allowed(ep, person, defaults):
                     continue
@@ -494,7 +611,7 @@ def main() -> int:
         "--source",
         choices=["auto", "itunes", "podcastindex"],
         default="auto",
-        help="Discovery backend. 'auto' uses PodcastIndex when its secrets are set, else iTunes.",
+        help="Discovery backend. 'auto' uses both when PodcastIndex secrets are set, else iTunes.",
     )
     args = parser.parse_args()
 
@@ -507,7 +624,8 @@ def main() -> int:
     # Build the ordered backend list. PodcastIndex first so its richer metadata
     # wins on dedup; iTunes second for coverage. Scopes: byperson is already
     # person-accurate (match leniently across all text); iTunes term search is
-    # broad, so require the name in the episode title.
+    # broad, so normally require the name in the episode title. Explicit iTunes
+    # guest queries can search descriptions but require an exact RSS guest tag.
     backends: list[tuple[str, Any, str]] = []
     if source in ("podcastindex", "both"):
         pi_key = os.environ["PODCASTINDEX_KEY"]
@@ -550,7 +668,7 @@ def main() -> int:
             if feed_allowed(e, person, defaults) and context_allowed(e, person)
         ]
 
-        fresh = discover(backends, person, defaults, cutoff_ts, now_iso)
+        fresh = discover(backends, person, defaults, cutoff_ts, now_iso, session=session)
         max_episodes = person.get("max_episodes", defaults.get("max_episodes", 50))
         merged = merge_episodes(existing_eps, fresh, max_episodes)
 

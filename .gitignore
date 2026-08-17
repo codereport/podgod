@@ -3,6 +3,9 @@
 __pycache__/
 *.pyc
 
+# Local credentials and environment overrides
+.env.local
+
 # Local source-photo cache for art generation
 scripts/.cache/
 
