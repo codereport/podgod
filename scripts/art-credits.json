@@ -90,5 +90,9 @@
   "stavros-halkias": {
     "source": "admin_upload",
     "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
+  },
+  "hasan-piker": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }

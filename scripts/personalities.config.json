@@ -242,6 +242,26 @@
       ]
     },
     {
+      "id": "hasan-piker",
+      "name": "Hasan Piker",
+      "aliases": [],
+      "title": "Political commentator and streamer",
+      "queries": [
+        "Hasan Piker"
+      ],
+      "review_pending": true,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-5601816",
+          "title": "Fear&",
+          "feed_urls": [
+            "https://feeds.megaphone.fm/QCD3550222091"
+          ],
+          "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        }
+      ]
+    },
+    {
       "id": "ilya-sutskever",
       "name": "Ilya Sutskever",
       "aliases": [
