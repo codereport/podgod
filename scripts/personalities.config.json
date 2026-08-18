@@ -89,21 +89,6 @@
       ]
     },
     {
-      "id": "conor-shakory",
-      "name": "Conor Shakory",
-      "aliases": [
-        "Conor Hoekstra",
-        "Hoekstra"
-      ],
-      "title": "NVIDIA researcher & podcast host",
-      "queries": [
-        "Conor Shakory",
-        "Conor Hoekstra"
-      ],
-      "review_pending": true,
-      "former_last_name": "Hoekstra"
-    },
-    {
       "id": "courtney-dauwalter",
       "name": "Courtney Dauwalter",
       "aliases": [
@@ -377,16 +362,6 @@
         "Sean Parent Adobe"
       ],
       "wikimedia": "Sean Parent"
-    },
-    {
-      "id": "stavros-halkias",
-      "name": "Stavros Halkias",
-      "aliases": [],
-      "title": "Stand-up comedian & podcaster",
-      "queries": [
-        "Stavros Halkias"
-      ],
-      "review_pending": true
     },
     {
       "id": "ta-nehisi-coates",
