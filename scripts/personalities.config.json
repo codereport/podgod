@@ -89,6 +89,55 @@
       ]
     },
     {
+      "id": "conor-shakory",
+      "name": "Conor Shakory",
+      "aliases": [
+        "Conor Hoekstra",
+        "Hoekstra"
+      ],
+      "title": "NVIDIA researcher & podcaster",
+      "queries": [
+        "Conor Shakory",
+        "Conor Hoekstra"
+      ],
+      "review_pending": true,
+      "former_last_name": "Hoekstra",
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-3897552",
+          "title": "ArrayCast",
+          "feed_urls": [
+            "https://rss.buzzsprout.com/2592851.rss"
+          ],
+          "artwork_url": "https://storage.buzzsprout.com/oxi39xtropugmhoi3vqtroqizro6?.jpg"
+        },
+        {
+          "id": "podcastindex-6907627",
+          "title": "Tacit Talk",
+          "feed_urls": [
+            "https://rss.buzzsprout.com/2363521.rss"
+          ],
+          "artwork_url": "https://storage.buzzsprout.com/xh76m6zq7e6ap0ri1ds8vammh0ap?.jpg"
+        },
+        {
+          "id": "podcastindex-6049352",
+          "title": "The R4 Running Podcast",
+          "feed_urls": [
+            "https://rss.buzzsprout.com/2138032.rss"
+          ],
+          "artwork_url": "https://storage.buzzsprout.com/ui8hpthlcvvwzugsveq2ezdjivs2?.jpg"
+        },
+        {
+          "id": "podcastindex-1331453",
+          "title": "ADSP: Algorithms + Data Structures = Programs",
+          "feed_urls": [
+            "https://rss.buzzsprout.com/1501960.rss"
+          ],
+          "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg"
+        }
+      ]
+    },
+    {
       "id": "courtney-dauwalter",
       "name": "Courtney Dauwalter",
       "aliases": [
