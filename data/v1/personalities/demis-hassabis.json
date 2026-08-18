@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "episodes": [
+    {
+      "guid": "d158a034-d718-44a3-b43f-37e6b282997f",
+      "title": "Demis Hassabis wanted to solve intelligence. Then came ChatGPT.",
+      "podcast_title": "Machines Like Us",
+      "description": "When Demis Hassabis co-founded DeepMind in 2010, his mission was simple: solve intelligence, then use it to solve everything else. What began as a scientific quest would eventually become a fierce global AI race. \n\nToday, DeepMind is owned by Google and is one of the world’s leading AI labs. Journalist and author Sebastian Mallaby spent years interviewing Hassabis, his collaborators, rivals and critics for his new book, The Infinity Machine. It tells the story of the remarkably small group of people who shaped modern AI.\n\nWhen we recorded this conversation, Hassabis was still CEO of DeepMind, caught between the science he wanted to pursue and the commercial race Google needed him to run. Hours later, he announced he was stepping down as CEO to become Alphabet’s (Google’s parent company) chief scientist.\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/FJSi7gLl",
+      "audio_url": "https://pscrb.fm/rss/p/afp-119681-injected.calisto.simplecastaudio.com/7862a9c5-dc9a-4d42-9fcd-d04ed44df073/episodes/7390960d-f89d-4e35-bd43-ef4d2f71443c/audio/128/default.mp3?aid=rss_feed&awCollectionId=7862a9c5-dc9a-4d42-9fcd-d04ed44df073&awEpisodeId=7390960d-f89d-4e35-bd43-ef4d2f71443c&feed=FJSi7gLl",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/75/84/e3/7584e3fd-807e-d4b8-29da-701249f095ce/mza_726821736010358047.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/93/03/8f/93038f2f-9230-8751-5365-24b4ef13323d/mza_18356990948832024366.jpg/600x600bb.jpg",
+      "collection_id": 1484910273,
+      "duration": 3083,
+      "pub_date": "2026-08-18T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-wanted-to-solve-intelligence-then-came/id1484910273?i=1000784058747&uo=4",
+      "language": "en",
+      "itunes_id": 1000784058747,
+      "added_at": "2026-08-18T14:24:33.491919Z"
+    },
     {
       "guid": "8dfb5237-d8e9-473c-961f-e76de288b37c",
       "title": "What Demis Hassabis Says Is Coming Next for AI and Your Career",
@@ -705,7 +722,7 @@
       "itunes_id": 1000764822395,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "Demis Hassabis, co-founder and CEO of Google DeepMind and 2024 Nobel laureate in chemistry for AlphaFold, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 for a wide-ranging conversation about the path to AGI and what comes after. He explains why he believes AGI is achievable by 2030, why drug discovery could collapse from ten years to days, and why we should think of information, not matter or energy, as the most fundamental substance in the universe. Also: what Einstein would tell us about the limits of today's models, and why the next year or two will be critical for humanity.",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/25/92/fa/2592fa6c-707c-af74-9b56-1c79c44f7ff5/mza_14036821823134754209.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/4c/bc/5f4cbc29-1187-d16e-78ec-38d4648b35a1/mza_7833138730987211192.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "language": "en"
     },

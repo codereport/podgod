@@ -4,8 +4,25 @@
   "name": "Jeff Dean",
   "title": "Google senior fellow and researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "episodes": [
+    {
+      "guid": "9a3d40ed-9a1f-4694-a52a-6da99dc2f4c8",
+      "title": "EP59 | 一人出走、市值蒸發 1600 億美金！Jeff Dean 的傳奇 Google Career",
+      "podcast_title": "矽谷咖啡館 Silicon Cafe",
+      "description": "有一個人，你可能沒聽過他的名字，但你今天用過的每一次 Google 搜尋、每一句翻譯、每一張相簿裡被自動辨識的臉，背後多多少少都有他的手筆。他是 Jeff Dean，Google 的第 30 號員工，一待就是 27 年，被 Bloomberg 稱為「最 Google 的人」。2026 年 8 月 5 日，他宣布離開。消息一出，Google 股價盤中應聲重挫近 4%，市值蒸發近 1,900 億美元。他的分量，這一跌全寫在上面了。\n在矽谷，他的傳奇甚至長成了一種都市傳說式的玩笑，叫「Jeff Dean facts」：「編譯器不會警告 Jeff Dean，是 Jeff Dean 警告編譯器。」聽起來像在講神，但玩笑能流傳，往往是因為他是真材實料。那麼，這個撐起 Google 半壁江山的人，到底做了什麼、又留下了哪些傳說？\n所以這一集，我們不聊某個模型的 benchmark、也不比誰家 AI 比較強，而是做一集人物誌：帶你認識 Jeff Dean 到底做了哪些「你天天在用、卻不知道是他做的」東西，以及他這一步離開，對 Google 和整個 AI 產業，究竟意味著什麼。",
+      "feed_url": "https://anchor.fm/s/10434e9dc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/10434e9dc/podcast/play/124371690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F430048515-44100-2-13081ea723e96.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/54/44/5354449d-88a7-55bf-be51-0c3fe1b69d37/mza_17556641313148689515.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a0/9a/e8/a09ae8a0-d4d4-5b09-0909-38269b3f7e8c/mza_8127403510566964406.jpg/600x600bb.jpg",
+      "collection_id": 1868619550,
+      "duration": 2459,
+      "pub_date": "2026-08-18T05:41:59Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ep59-%E4%B8%80%E4%BA%BA%E5%87%BA%E8%B5%B0-%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC-1600-%E5%84%84%E7%BE%8E%E9%87%91-jeff-dean-%E7%9A%84%E5%82%B3%E5%A5%87-google-career/id1868619550?i=1000783992528&uo=4",
+      "language": "zh",
+      "itunes_id": 1000783992528,
+      "added_at": "2026-08-18T14:24:33.491919Z"
+    },
     {
       "guid": "0774c978-19a8-4101-8db8-8e2098750813",
       "title": "EP16 | 如何邁向 9 位數身價，一些過來人的忠告？Jeff Dean 那個一離開就讓 Google 跌 5% 的男人！",

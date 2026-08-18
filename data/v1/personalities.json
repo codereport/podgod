@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "languages": [
     "de",
     "en",
@@ -82,7 +82,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 83,
+      "episode_count": 84,
       "handle_entity_id": null
     },
     {
@@ -168,7 +168,7 @@
       "title": "Google senior fellow and researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
       "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
-      "episode_count": 20,
+      "episode_count": 21,
       "handle_entity_id": null
     },
     {
@@ -181,7 +181,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 83,
+      "episode_count": 84,
       "handle_entity_id": null
     },
     {
@@ -193,7 +193,7 @@
       "title": "World 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
-      "episode_count": 68,
+      "episode_count": 70,
       "handle_entity_id": null
     },
     {
