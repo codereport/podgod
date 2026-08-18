@@ -272,6 +272,22 @@
       "handle_entity_id": null
     },
     {
+      "id": "stavros-halkias",
+      "name": "Stavros Halkias",
+      "aliases": [],
+      "title": "Stand-up comedian and podcaster",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
+      "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
+      "episode_count": 100,
+      "handle_entity_id": null,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-5874430",
+          "title": "Stavvy's World"
+        }
+      ]
+    },
+    {
       "id": "ta-nehisi-coates",
       "name": "Ta-Nehisi Coates",
       "aliases": [],
