@@ -74,6 +74,33 @@ class CreatePersonalityTests(unittest.TestCase):
         self.assertNotIn("former_last_name", metadata)
         self.assertNotIn("former_name", metadata)
 
+    def test_adds_confirmed_hosted_podcast_metadata(self):
+        config = {"personalities": []}
+        metadata = validate_metadata({
+            "id": "conor-shakory",
+            "name": "Conor Shakory",
+            "title": "NVIDIA researcher & podcast host",
+            "hostedPodcasts": [
+                {
+                    "id": "itunes-1541407369",
+                    "title": "ADSP: Algorithms + Data Structures = Programs",
+                    "feedUrl": "https://rss.buzzsprout.com/1501960.rss",
+                    "artworkUrl": "https://example.com/adsp.jpg",
+                }
+            ],
+        })
+
+        person = add_personality(config, metadata)["personalities"][0]
+
+        self.assertEqual(person["hosted_podcasts"], [
+            {
+                "id": "itunes-1541407369",
+                "title": "ADSP: Algorithms + Data Structures = Programs",
+                "feed_urls": ["https://rss.buzzsprout.com/1501960.rss"],
+                "artwork_url": "https://example.com/adsp.jpg",
+            }
+        ])
+
     def test_rejects_duplicate_name_or_slug(self):
         base = {"personalities": [{"id": "ada", "name": "Ada Lovelace"}]}
         with self.assertRaisesRegex(ValueError, "already exists"):

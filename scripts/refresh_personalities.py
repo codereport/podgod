@@ -42,6 +42,7 @@ import sys
 import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 
@@ -236,6 +237,166 @@ def hosted_podcast_id(ep: dict[str, Any], person: dict[str, Any]) -> str | None:
         ):
             return show_id
     return None
+
+
+def _rss_child_text(parent: ET.Element, *local_names: str) -> str:
+    wanted = set(local_names)
+    for child in parent:
+        if _xml_local_name(child.tag) in wanted and child.text:
+            return child.text.strip()
+    return ""
+
+
+def _rss_image(parent: ET.Element) -> str | None:
+    for child in parent:
+        local_name = _xml_local_name(child.tag)
+        if local_name == "image":
+            href = child.get("href")
+            if href:
+                return href.strip()
+            nested = _rss_child_text(child, "url")
+            if nested:
+                return nested
+    return None
+
+
+def _rss_duration(value: str) -> int | None:
+    value = value.strip()
+    if not value:
+        return None
+    try:
+        parts = [int(part) for part in value.split(":")]
+    except ValueError:
+        return None
+    if len(parts) > 3 or any(part < 0 for part in parts):
+        return None
+    total = 0
+    for part in parts:
+        total = total * 60 + part
+    return total
+
+
+def _rss_pub_date(value: str) -> str | None:
+    if not value:
+        return None
+    try:
+        parsed = parsedate_to_datetime(value)
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+    except (TypeError, ValueError, OverflowError):
+        return None
+
+
+def parse_hosted_podcast_feed(
+    root: ET.Element,
+    show: dict[str, Any],
+    feed_url: str,
+    cutoff_ts: int,
+    now_iso: str,
+    min_duration: int,
+) -> list[dict[str, Any]]:
+    """Normalize a confirmed hosted RSS feed into creation candidates.
+
+    Confirmation establishes that the person regularly hosts the series, but
+    does not assert that they appear in every episode. The backend classifier
+    still evaluates each item independently, which supports rotating co-hosts.
+    """
+    channel = next(
+        (node for node in root.iter() if _xml_local_name(node.tag) == "channel"),
+        None,
+    )
+    if channel is None:
+        return []
+    show_id = str(show.get("id") or "").strip()
+    configured_title = str(show.get("title") or "").strip()
+    podcast_title = configured_title or _rss_child_text(channel, "title")
+    podcast_artwork = (
+        str(show.get("artwork_url") or "").strip()
+        or _rss_image(channel)
+    )
+    language = normalize_lang(_rss_child_text(channel, "language"))
+    episodes: list[dict[str, Any]] = []
+    for item in channel:
+        if _xml_local_name(item.tag) != "item":
+            continue
+        enclosure_url = ""
+        enclosure_type = ""
+        for child in item:
+            if _xml_local_name(child.tag) == "enclosure" and child.get("url"):
+                candidate_type = norm(child.get("type"))
+                if not enclosure_url or candidate_type.startswith("audio/"):
+                    enclosure_url = str(child.get("url") or "").strip()
+                    enclosure_type = candidate_type
+                if enclosure_type.startswith("audio/"):
+                    break
+        if not enclosure_url:
+            continue
+        duration = _rss_duration(_rss_child_text(item, "duration"))
+        if duration is not None and duration < min_duration:
+            continue
+        pub_date = _rss_pub_date(_rss_child_text(item, "pubDate", "published"))
+        episode = {
+            "guid": _rss_child_text(item, "guid") or enclosure_url,
+            "title": _rss_child_text(item, "title") or "Untitled episode",
+            "podcast_title": podcast_title,
+            "description": _rss_child_text(item, "encoded", "description") or None,
+            "feed_url": feed_url,
+            "audio_url": enclosure_url,
+            "artwork_url": _rss_image(item) or podcast_artwork,
+            "podcast_artwork_url": podcast_artwork,
+            "duration": duration,
+            "pub_date": pub_date,
+            "episode_url": _rss_child_text(item, "link") or None,
+            "language": language,
+            "hosted_podcast_id": show_id,
+            "added_at": now_iso,
+        }
+        if within_window(episode, cutoff_ts):
+            episodes.append(episode)
+    return episodes
+
+
+def discover_hosted_podcast_feeds(
+    session: requests.Session,
+    person: dict[str, Any],
+    defaults: dict[str, Any],
+    cutoff_ts: int,
+    now_iso: str,
+) -> list[dict[str, Any]]:
+    min_duration = person.get("min_duration_sec", defaults.get("min_duration_sec", 600))
+    discovered: dict[str, dict[str, Any]] = {}
+    configured = person.get("hosted_podcasts", [])
+    for show in configured if isinstance(configured, list) else []:
+        if not isinstance(show, dict):
+            continue
+        raw_feeds = show.get("feed_urls", [])
+        feed_urls = raw_feeds if isinstance(raw_feeds, list) else []
+        for raw_feed_url in feed_urls:
+            feed_url = str(raw_feed_url or "").strip()
+            if not feed_url:
+                continue
+            try:
+                response = session.get(
+                    feed_url,
+                    headers={"User-Agent": USER_AGENT},
+                    timeout=30,
+                )
+                response.raise_for_status()
+                root = ET.fromstring(response.content)
+                episodes = parse_hosted_podcast_feed(
+                    root,
+                    show,
+                    feed_url,
+                    cutoff_ts,
+                    now_iso,
+                    min_duration,
+                )
+                for episode in episodes:
+                    discovered.setdefault(episode_key(episode), episode)
+            except (requests.RequestException, ET.ParseError) as exc:
+                print(f"  ! hosted RSS fetch failed for {feed_url}: {exc}", file=sys.stderr)
+    return list(discovered.values())
 
 
 # --------------------------------------------------------------------------- #
@@ -727,7 +888,18 @@ def main() -> int:
             if feed_allowed(e, person, defaults) and context_allowed(e, person)
         ]
 
-        fresh = discover(backends, person, defaults, cutoff_ts, now_iso, session=session)
+        hosted_fresh = discover_hosted_podcast_feeds(
+            session, person, defaults, cutoff_ts, now_iso
+        )
+        searched_fresh = discover(
+            backends, person, defaults, cutoff_ts, now_iso, session=session
+        )
+        fresh_by_key: dict[str, dict[str, Any]] = {}
+        # Prefer the confirmed RSS copy: it carries the hosted-show id and is
+        # independent of person-search indexing quality.
+        for episode in [*hosted_fresh, *searched_fresh]:
+            fresh_by_key.setdefault(episode_key(episode), episode)
+        fresh = list(fresh_by_key.values())
         max_episodes = person.get("max_episodes", defaults.get("max_episodes", 50))
         merged = merge_episodes(existing_eps, fresh, max_episodes)
 

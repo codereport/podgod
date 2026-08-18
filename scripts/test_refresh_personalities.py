@@ -6,6 +6,7 @@ from scripts.refresh_personalities import (
     discovery_queries,
     hosted_podcast_id,
     name_matches,
+    parse_hosted_podcast_feed,
     public_hosted_podcasts,
     rss_confirms_guest,
 )
@@ -159,6 +160,52 @@ class HostedPodcastTests(unittest.TestCase):
     def test_does_not_match_a_partial_title(self):
         episode = {"podcast_title": "Stavvy's World Highlights", "feed_url": None}
         self.assertIsNone(hosted_podcast_id(episode, self.person))
+
+    def test_confirmed_host_feed_imports_every_episode_for_later_classification(self):
+        root = ET.fromstring(
+            """\
+            <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+              <channel>
+                <title>ADSP</title>
+                <language>en-US</language>
+                <itunes:image href="https://example.com/show.jpg" />
+                <item>
+                  <guid>conor-ben</guid>
+                  <title>Conor and Ben</title>
+                  <description>Conor and Ben chat about C++.</description>
+                  <pubDate>Fri, 15 Aug 2026 12:00:00 +0000</pubDate>
+                  <itunes:duration>42:30</itunes:duration>
+                  <enclosure url="https://example.com/conor.mp3" type="audio/mpeg" />
+                </item>
+                <item>
+                  <guid>bryce-ben</guid>
+                  <title>Bryce and Ben</title>
+                  <description>Bryce and Ben chat about C++.</description>
+                  <pubDate>Fri, 08 Aug 2026 12:00:00 +0000</pubDate>
+                  <itunes:duration>39:00</itunes:duration>
+                  <enclosure url="https://example.com/bryce.mp3" type="audio/mpeg" />
+                </item>
+              </channel>
+            </rss>
+            """
+        )
+
+        episodes = parse_hosted_podcast_feed(
+            root,
+            {"id": "itunes-123", "title": "ADSP"},
+            "https://example.com/feed.xml",
+            0,
+            "2026-08-17T00:00:00Z",
+            600,
+        )
+
+        self.assertEqual(len(episodes), 2)
+        self.assertEqual(
+            {episode["hosted_podcast_id"] for episode in episodes},
+            {"itunes-123"},
+        )
+        self.assertIn("Conor and Ben", episodes[0]["description"])
+        self.assertIn("Bryce and Ben", episodes[1]["description"])
 
 
 if __name__ == "__main__":

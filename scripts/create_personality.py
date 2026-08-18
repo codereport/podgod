@@ -17,6 +17,7 @@ from typing import Any
 SCRIPT_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = SCRIPT_DIR / "personalities.config.json"
 ID_RE = re.compile(r"^[a-z0-9][a-z0-9-]{0,79}$")
+PUBLIC_URL_RE = re.compile(r"^https?://", re.IGNORECASE)
 
 
 def clean_single_line(value: object, maximum: int) -> str:
@@ -35,6 +36,43 @@ def former_full_name(name: str, former_last_name: str) -> str:
     return f"{given_names} {former_last_name}"
 
 
+def validate_hosted_podcasts(value: object) -> list[dict[str, Any]]:
+    if value is None:
+        return []
+    if not isinstance(value, list) or len(value) > 20:
+        raise ValueError("Hosted podcasts must be an array of at most 20 entries")
+    hosted: list[dict[str, Any]] = []
+    seen_ids: set[str] = set()
+    seen_feeds: set[str] = set()
+    for raw in value:
+        if not isinstance(raw, dict):
+            raise ValueError("Each hosted podcast must be an object")
+        show_id = clean_single_line(raw.get("id"), 80)
+        title = clean_single_line(raw.get("title"), 160)
+        feed_url = clean_single_line(raw.get("feedUrl"), 1000)
+        artwork_url = clean_single_line(raw.get("artworkUrl"), 1000)
+        if not ID_RE.fullmatch(show_id):
+            raise ValueError("Hosted podcast ids must be lowercase URL slugs")
+        if len(title) < 2:
+            raise ValueError("Hosted podcasts must have a title")
+        if not PUBLIC_URL_RE.match(feed_url):
+            raise ValueError("Hosted podcasts must have a public RSS URL")
+        normalized_feed = feed_url.casefold().rstrip("/")
+        if show_id in seen_ids or normalized_feed in seen_feeds:
+            raise ValueError("Hosted podcast ids and RSS feeds must be unique")
+        show: dict[str, Any] = {
+            "id": show_id,
+            "title": title,
+            "feed_urls": [feed_url],
+        }
+        if artwork_url and PUBLIC_URL_RE.match(artwork_url):
+            show["artwork_url"] = artwork_url
+        hosted.append(show)
+        seen_ids.add(show_id)
+        seen_feeds.add(normalized_feed)
+    return hosted
+
+
 def validate_metadata(value: object) -> dict[str, Any]:
     if not isinstance(value, dict):
         raise ValueError("Creation metadata must be a JSON object")
@@ -42,6 +80,7 @@ def validate_metadata(value: object) -> dict[str, Any]:
     name = clean_single_line(value.get("name"), 100)
     title = clean_single_line(value.get("title"), 100)
     former_last_name = clean_single_line(value.get("formerLastName"), 80)
+    hosted_podcasts = validate_hosted_podcasts(value.get("hostedPodcasts", []))
     if not ID_RE.fullmatch(personality_id):
         raise ValueError("Personality id must be a lowercase URL slug")
     if len(name) < 2:
@@ -69,6 +108,7 @@ def validate_metadata(value: object) -> dict[str, Any]:
         "title": title,
         "potentially_common_name": potentially_common_name,
         "required_context_keywords": required_keywords,
+        "hosted_podcasts": hosted_podcasts,
     }
     former_name = former_full_name(name, former_last_name)
     if former_name:
@@ -110,6 +150,8 @@ def add_personality(
     }
     if former_last_name:
         person["former_last_name"] = former_last_name
+    if metadata.get("hosted_podcasts"):
+        person["hosted_podcasts"] = metadata["hosted_podcasts"]
     if metadata.get("potentially_common_name"):
         person["potentially_common_name"] = True
         person["required_context_keywords"] = metadata.get(
