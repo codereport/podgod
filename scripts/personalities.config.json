@@ -193,6 +193,26 @@
       ]
     },
     {
+      "id": "ezra-klein",
+      "name": "Ezra klein",
+      "aliases": [],
+      "title": "Journalist and podcast host",
+      "queries": [
+        "Ezra klein"
+      ],
+      "review_pending": true,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-1371595",
+          "title": "The Ezra Klein Show",
+          "feed_urls": [
+            "https://feeds.simplecast.com/82FI35Px"
+          ],
+          "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        }
+      ]
+    },
+    {
       "id": "fei-fei-li",
       "name": "Fei-Fei Li",
       "aliases": [

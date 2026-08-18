@@ -94,5 +94,9 @@
   "hasan-piker": {
     "source": "admin_upload",
     "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
+  },
+  "ezra-klein": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }
