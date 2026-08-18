@@ -413,6 +413,26 @@
       "wikimedia": "Sean Parent"
     },
     {
+      "id": "stavros-halkias",
+      "name": "Stavros Halkias",
+      "aliases": [],
+      "title": "Stand-up comedian and podcaster",
+      "queries": [
+        "Stavros Halkias"
+      ],
+      "review_pending": true,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-5874430",
+          "title": "Stavvy's World",
+          "feed_urls": [
+            "https://feeds.simplecast.com/Fa0PP4fl"
+          ],
+          "artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        }
+      ]
+    },
+    {
       "id": "ta-nehisi-coates",
       "name": "Ta-Nehisi Coates",
       "aliases": [],
