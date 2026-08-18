@@ -23,12 +23,25 @@ def clean_single_line(value: object, maximum: int) -> str:
     return re.sub(r"\s+", " ", str(value or "")).strip()[:maximum]
 
 
+def former_full_name(name: str, former_last_name: str) -> str:
+    """Replace the current surname while preserving the displayed given names."""
+    if not former_last_name:
+        return ""
+    parts = name.rsplit(" ", 1)
+    current_last_name = parts[-1]
+    if current_last_name.casefold() == former_last_name.casefold():
+        return ""
+    given_names = parts[0] if len(parts) > 1 else name
+    return f"{given_names} {former_last_name}"
+
+
 def validate_metadata(value: object) -> dict[str, Any]:
     if not isinstance(value, dict):
         raise ValueError("Creation metadata must be a JSON object")
     personality_id = clean_single_line(value.get("id"), 80)
     name = clean_single_line(value.get("name"), 100)
     title = clean_single_line(value.get("title"), 100)
+    former_last_name = clean_single_line(value.get("formerLastName"), 80)
     if not ID_RE.fullmatch(personality_id):
         raise ValueError("Personality id must be a lowercase URL slug")
     if len(name) < 2:
@@ -50,13 +63,18 @@ def validate_metadata(value: object) -> dict[str, Any]:
         raise ValueError("No more than 12 required keywords are allowed")
     if potentially_common_name and not required_keywords:
         raise ValueError("A potentially common name requires at least one keyword")
-    return {
+    metadata = {
         "id": personality_id,
         "name": name,
         "title": title,
         "potentially_common_name": potentially_common_name,
         "required_context_keywords": required_keywords,
     }
+    former_name = former_full_name(name, former_last_name)
+    if former_name:
+        metadata["former_last_name"] = former_last_name
+        metadata["former_name"] = former_name
+    return metadata
 
 
 def add_personality(
@@ -76,16 +94,22 @@ def add_personality(
         if clean_single_line(person.get("name"), 100).casefold() == folded_name:
             raise ValueError(f"Personality name '{metadata['name']}' already exists")
 
+    former_name = metadata.get("former_name", "")
+    former_last_name = metadata.get("former_last_name", "")
+    aliases = [value for value in (former_name, former_last_name) if value]
+    queries = [metadata["name"], *([former_name] if former_name else [])]
     person = {
         "id": personality_id,
         "name": metadata["name"],
-        "aliases": [],
+        "aliases": aliases,
         "title": metadata["title"],
-        "queries": [metadata["name"]],
+        "queries": queries,
         # New personalities stay out of the public index until an
         # administrator reviews and explicitly approves their candidates.
         "review_pending": True,
     }
+    if former_last_name:
+        person["former_last_name"] = former_last_name
     if metadata.get("potentially_common_name"):
         person["potentially_common_name"] = True
         person["required_context_keywords"] = metadata.get(

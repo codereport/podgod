@@ -179,6 +179,65 @@ def episode_key(ep: dict[str, Any]) -> str:
     )
 
 
+def public_hosted_podcasts(person: dict[str, Any]) -> list[dict[str, str]]:
+    """Return the public, UI-safe hosted-show metadata for one personality.
+
+    Feed URLs and title aliases remain publisher-side matching details. The
+    stable id is what clients persist when a listener includes or excludes an
+    individual hosted show.
+    """
+    hosted: list[dict[str, str]] = []
+    seen: set[str] = set()
+    configured = person.get("hosted_podcasts", [])
+    for show in configured if isinstance(configured, list) else []:
+        if not isinstance(show, dict):
+            continue
+        show_id = str(show.get("id") or "").strip()
+        title = str(show.get("title") or "").strip()
+        if not show_id or not title or show_id in seen:
+            continue
+        hosted.append({"id": show_id, "title": title})
+        seen.add(show_id)
+    return hosted
+
+
+def hosted_podcast_id(ep: dict[str, Any], person: dict[str, Any]) -> str | None:
+    """Identify whether an episode belongs to a show the personality hosts.
+
+    Prefer exact feed-URL matches, with exact source-title matching as a
+    fallback for discovery records whose backend omitted or rewrote the URL.
+    """
+    episode_feed_url = norm(ep.get("feed_url")).rstrip("/")
+    episode_title = norm(ep.get("podcast_title"))
+    configured = person.get("hosted_podcasts", [])
+    for show in configured if isinstance(configured, list) else []:
+        if not isinstance(show, dict):
+            continue
+        show_id = str(show.get("id") or "").strip()
+        if not show_id:
+            continue
+        configured_feed_urls = show.get("feed_urls", [])
+        feed_urls = {
+            norm(value).rstrip("/")
+            for value in (
+                configured_feed_urls if isinstance(configured_feed_urls, list) else []
+            )
+            if isinstance(value, str) and norm(value)
+        }
+        configured_aliases = show.get("title_aliases", [])
+        aliases = configured_aliases if isinstance(configured_aliases, list) else []
+        titles = {
+            norm(value)
+            for value in [show.get("title"), *aliases]
+            if isinstance(value, str) and norm(value)
+        }
+        if (episode_feed_url and episode_feed_url in feed_urls) or (
+            episode_title and episode_title in titles
+        ):
+            return show_id
+    return None
+
+
 # --------------------------------------------------------------------------- #
 # Discovery backends -> each returns list[(normalized_ep, texts)] where `texts`
 # is {"title": <ep title>, "all": <title + description + feed title>}, both
@@ -696,8 +755,17 @@ def main() -> int:
             # that were stored before language tagging existed.
             if not e.get("language"):
                 e["language"] = detect_language(e)
+            # Hosted shows are curated per personality. Tag each matching
+            # episode with a stable id so clients can filter individual shows
+            # without confusing them with guest appearances elsewhere.
+            hosted_id = hosted_podcast_id(e, person)
+            if hosted_id:
+                e["hosted_podcast_id"] = hosted_id
+            else:
+                e.pop("hosted_podcast_id", None)
 
         artwork_url = artwork_url_for(pid)
+        hosted_podcasts = public_hosted_podcasts(person)
         feed_payload = {
             "version": FEED_VERSION,
             "id": pid,
@@ -707,6 +775,8 @@ def main() -> int:
             "updatedAt": today,
             "episodes": merged,
         }
+        if hosted_podcasts:
+            feed_payload["hosted_podcasts"] = hosted_podcasts
         wrote = write_json(feed_path, feed_payload)
         added = len(merged) - len(existing_eps)
         print(f"  {pid}: {len(fresh)} fresh, {len(merged)} total (+{added}){' [written]' if wrote else ''}")
@@ -715,7 +785,7 @@ def main() -> int:
         if person.get("review_pending"):
             index_by_id.pop(pid, None)
         else:
-            index_by_id[pid] = {
+            index_entry = {
                 "id": pid,
                 "name": person["name"],
                 "aliases": person.get("aliases", []),
@@ -725,6 +795,9 @@ def main() -> int:
                 "episode_count": len(merged),
                 "handle_entity_id": person.get("handle_entity_id"),
             }
+            if hosted_podcasts:
+                index_entry["hosted_podcasts"] = hosted_podcasts
+            index_by_id[pid] = index_entry
 
     # Rebuild the index in config order so it stays stable/diff-friendly.
     config_order = [p["id"] for p in config.get("personalities", [])]

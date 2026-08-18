@@ -1,7 +1,38 @@
 import unittest
 import xml.etree.ElementTree as ET
 
-from scripts.refresh_personalities import context_allowed, discovery_queries, rss_confirms_guest
+from scripts.refresh_personalities import (
+    context_allowed,
+    discovery_queries,
+    hosted_podcast_id,
+    name_matches,
+    public_hosted_podcasts,
+    rss_confirms_guest,
+)
+
+
+class PersonalityAliasTests(unittest.TestCase):
+    def test_former_name_and_surname_match_without_changing_display_name(self):
+        person = {
+            "name": "Conor Shakory",
+            "aliases": ["Conor Hoekstra", "Hoekstra"],
+            "queries": ["Conor Shakory", "Conor Hoekstra"],
+        }
+
+        self.assertEqual(person["name"], "Conor Shakory")
+        self.assertTrue(name_matches(
+            {"title": "a conversation with conor hoekstra"}, person, "title"
+        ))
+        self.assertTrue(name_matches(
+            {"title": "hoekstra on functional programming"}, person, "title"
+        ))
+        self.assertEqual(
+            discovery_queries("podcastindex", person, "all"),
+            [
+                ("Conor Shakory", "all", False),
+                ("Conor Hoekstra", "all", False),
+            ],
+        )
 
 
 class CommonNameContextTests(unittest.TestCase):
@@ -85,6 +116,49 @@ class ItunesGuestFallbackTests(unittest.TestCase):
         )
         ep = {"guid": "mention-only", "title": "Podcasting and Advocating"}
         self.assertFalse(rss_confirms_guest(root, ep, {"name": "Sean Parent", "aliases": []}))
+
+
+class HostedPodcastTests(unittest.TestCase):
+    def setUp(self):
+        self.person = {
+            "hosted_podcasts": [
+                {
+                    "id": "stavvys-world",
+                    "title": "Stavvy's World",
+                    "title_aliases": ["Stavvy’s World"],
+                    "feed_urls": ["https://example.com/stavvy/feed.xml"],
+                },
+                {
+                    "id": "second-show",
+                    "title": "A Second Show",
+                    "feed_urls": ["https://example.com/second/"],
+                },
+            ]
+        }
+
+    def test_public_metadata_omits_matching_details(self):
+        self.assertEqual(
+            public_hosted_podcasts(self.person),
+            [
+                {"id": "stavvys-world", "title": "Stavvy's World"},
+                {"id": "second-show", "title": "A Second Show"},
+            ],
+        )
+
+    def test_matches_exact_feed_url_ignoring_trailing_slash(self):
+        episode = {
+            "podcast_title": "A renamed show",
+            "feed_url": "https://example.com/second",
+        }
+        self.assertEqual(hosted_podcast_id(episode, self.person), "second-show")
+
+    def test_falls_back_to_exact_title_or_alias(self):
+        episode = {"podcast_title": "Stavvy’s World", "feed_url": None}
+        self.assertEqual(hosted_podcast_id(episode, self.person), "stavvys-world")
+
+    def test_does_not_match_a_partial_title(self):
+        episode = {"podcast_title": "Stavvy's World Highlights", "feed_url": None}
+        self.assertIsNone(hosted_podcast_id(episode, self.person))
 
 
 if __name__ == "__main__":

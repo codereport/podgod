@@ -1,5 +1,5 @@
 {
-  "_comment": "Seed config for the personalities meta-podcast feature. Each entry drives both episode discovery (refresh_personalities.py via PodcastIndex byperson) and cover-art generation (make_personality_art.py via Wikimedia). Add a new person here, then run the one-time backfill (refresh_personalities.py --since 365d --only <id>) and the art script.",
+  "_comment": "Seed config for the personalities meta-podcast feature. Each entry drives both episode discovery (refresh_personalities.py via PodcastIndex byperson) and cover-art generation (make_personality_art.py via Wikimedia). Add a new person here, then run the one-time backfill (refresh_personalities.py --since 365d --only <id>) and the art script. For a host, optionally add hosted_podcasts entries shaped as {id, title, feed_urls, title_aliases}; clients use those stable ids for per-show include/exclude filters.",
   "defaults": {
     "min_duration_sec": 600,
     "max_episodes": 100,

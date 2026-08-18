@@ -47,6 +47,33 @@ class CreatePersonalityTests(unittest.TestCase):
         self.assertEqual(person["required_context_keywords"], ["Google", "AI"])
         self.assertTrue(person["review_pending"])
 
+    def test_former_last_name_adds_search_aliases_and_discovery_query(self):
+        config = {"personalities": []}
+        metadata = validate_metadata({
+            "id": "conor-shakory",
+            "name": "Conor Shakory",
+            "formerLastName": "Hoekstra",
+            "title": "Programming-language enthusiast",
+        })
+
+        person = add_personality(config, metadata)["personalities"][0]
+
+        self.assertEqual(person["name"], "Conor Shakory")
+        self.assertEqual(person["former_last_name"], "Hoekstra")
+        self.assertEqual(person["aliases"], ["Conor Hoekstra", "Hoekstra"])
+        self.assertEqual(person["queries"], ["Conor Shakory", "Conor Hoekstra"])
+
+    def test_ignores_a_former_last_name_that_matches_the_current_name(self):
+        metadata = validate_metadata({
+            "id": "ada-lovelace",
+            "name": "Ada Lovelace",
+            "formerLastName": "lovelace",
+            "title": "Computing pioneer",
+        })
+
+        self.assertNotIn("former_last_name", metadata)
+        self.assertNotIn("former_name", metadata)
+
     def test_rejects_duplicate_name_or_slug(self):
         base = {"personalities": [{"id": "ada", "name": "Ada Lovelace"}]}
         with self.assertRaisesRegex(ValueError, "already exists"):
