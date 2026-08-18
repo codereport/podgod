@@ -139,6 +139,22 @@
       "handle_entity_id": null
     },
     {
+      "id": "hasan-piker",
+      "name": "Hasan Piker",
+      "aliases": [],
+      "title": "Political commentator and streamer",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=2dbb9c85",
+      "feed_url": "https://podgod.ca/data/v1/personalities/hasan-piker.json",
+      "episode_count": 84,
+      "handle_entity_id": null,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-5601816",
+          "title": "Fear&"
+        }
+      ]
+    },
+    {
       "id": "ilya-sutskever",
       "name": "Ilya Sutskever",
       "aliases": [
