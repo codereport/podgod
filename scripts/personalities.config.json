@@ -89,6 +89,21 @@
       ]
     },
     {
+      "id": "conor-shakory",
+      "name": "Conor Shakory",
+      "aliases": [
+        "Conor Hoekstra",
+        "Hoekstra"
+      ],
+      "title": "NVIDIA researcher & podcast host",
+      "queries": [
+        "Conor Shakory",
+        "Conor Hoekstra"
+      ],
+      "review_pending": true,
+      "former_last_name": "Hoekstra"
+    },
+    {
       "id": "courtney-dauwalter",
       "name": "Courtney Dauwalter",
       "aliases": [
