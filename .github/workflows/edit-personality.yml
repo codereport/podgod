@@ -1,0 +1,89 @@
+name: Edit Personality
+
+run-name: Edit personality · ${{ inputs.job_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: "Private personality-edit job identifier"
+        required: true
+        type: string
+
+concurrency:
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements-art.txt
+
+      - name: Fetch private edit input
+        env:
+          JOB_ID: ${{ inputs.job_id }}
+          CREATION_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$CREATION_TOKEN"
+          curl --fail --silent --show-error --retry 3 \
+            -H "Authorization: Bearer $CREATION_TOKEN" \
+            "https://api.podgod.ca/internal/personality-edit-jobs/$JOB_ID" \
+            --output "$RUNNER_TEMP/personality.json"
+          personality_id="$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["id"])' "$RUNNER_TEMP/personality.json")"
+          has_photo="$(python -c 'import json,sys; print(str(bool(json.load(open(sys.argv[1]))["hasPhoto"])).lower())' "$RUNNER_TEMP/personality.json")"
+          echo "PERSONALITY_ID=$personality_id" >> "$GITHUB_ENV"
+          echo "HAS_PHOTO=$has_photo" >> "$GITHUB_ENV"
+          if [ "$has_photo" = "true" ]; then
+            curl --fail --silent --show-error --retry 3 \
+              -H "Authorization: Bearer $CREATION_TOKEN" \
+              "https://api.podgod.ca/internal/personality-edit-jobs/$JOB_ID/photo" \
+              --output "$RUNNER_TEMP/personality-photo"
+          fi
+
+      - name: Update personality metadata
+        run: python scripts/edit_personality.py --metadata "$RUNNER_TEMP/personality.json"
+
+      - name: Install artwork dependencies
+        if: env.HAS_PHOTO == 'true'
+        run: pip install -r scripts/requirements-art.txt
+
+      - name: Generate replacement artwork
+        if: env.HAS_PHOTO == 'true'
+        run: >-
+          python scripts/make_personality_art.py
+          --only "$PERSONALITY_ID"
+          --photo "$RUNNER_TEMP/personality-photo"
+          --model u2net_human_seg
+          --jobs 1
+
+      - name: Commit the edited personality
+        run: |
+          set -euo pipefail
+          git config user.name podgod-bot
+          git config user.email bot@podgod.ca
+          git add -- \
+            scripts/personalities.config.json \
+            data/v1/personalities.json \
+            "data/v1/personalities/$PERSONALITY_ID.json"
+          if [ -f "data/v1/personalities/art/$PERSONALITY_ID.png" ]; then
+            git add -- scripts/art-credits.json "data/v1/personalities/art/$PERSONALITY_ID.png"
+          fi
+          if git diff --cached --quiet; then
+            echo "Personality profile already matches the requested values"
+            exit 0
+          fi
+          git commit -m "feat(personalities): edit $PERSONALITY_ID profile"
+          git push
