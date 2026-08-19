@@ -3,7 +3,7 @@
   "id": "hasan-piker",
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
-  "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=2dbb9c85",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
   "updatedAt": "2026-08-19",
   "episodes": [
     {
@@ -1387,5 +1387,6 @@
       "id": "podcastindex-5601816",
       "title": "Fear&"
     }
-  ]
+  ],
+  "aliases": []
 }
