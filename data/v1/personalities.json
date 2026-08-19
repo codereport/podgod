@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "languages": [
     "de",
     "en",
@@ -97,6 +97,22 @@
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
       "episode_count": 56,
       "handle_entity_id": null
+    },
+    {
+      "id": "ezra-klein",
+      "name": "Ezra Klein",
+      "aliases": [],
+      "title": "Journalist and podcast host",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
+      "feed_url": "https://podgod.ca/data/v1/personalities/ezra-klein.json",
+      "episode_count": 100,
+      "handle_entity_id": null,
+      "hosted_podcasts": [
+        {
+          "id": "podcastindex-1371595",
+          "title": "The Ezra Klein Show"
+        }
+      ]
     },
     {
       "id": "fei-fei-li",

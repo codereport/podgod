@@ -4,7 +4,7 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "episodes": [
     {
       "guid": "8de22812-6df3-4566-94ba-e8bb5e53c042",
@@ -1619,6 +1619,5 @@
       "id": "podcastindex-1371595",
       "title": "The Ezra Klein Show"
     }
-  ],
-  "aliases": []
+  ]
 }
