@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "episodes": [
+    {
+      "guid": "cfca0b1f-180b-41cf-942f-f6b1d817c1cc",
+      "title": "#16 Jensen Huang | デニーズの皿洗いから時価総額世界一へ",
+      "podcast_title": "ねこねこAIラジオ",
+      "description": "▼エピソードの内容\nサウナ4発からの雑談回のはずが、革ジャンの男 Jensen Huang の解剖が始まる。9歳で更生施設まがいの寄宿学校送り、デニーズの皿洗いから NVIDIA CEO へ——伝記をほぼ読破したゲスト Etaro が「男の色気」の正体を掘るうち、話は DeepSeek 梁文鋒のリークされた4時間スピーチへ。「モデルで金を稼ごうと考えた時点で敗北」「コーディングはゴマ粒、AGIはスイカ」。OpenAI が80%値下げしてもさらに10分の1の価格で全員振り落とす中国式に、アメリカの教科書では勝てない。では日本は何で戦うのか。ROI無視の職人——ヒートテックと宮崎駿に学ぶ「ジャパンレバレッジ」に着地する92分。\n\n▼Chapters\n00:00 オープニング — 「来ました」の安売り警報\n00:56 乾杯 — 中野・松本湯サウナ4発からの雑談回\n04:19 革ジャンの男 — 色気は複雑性に宿る\n08:13 セガが救った倒産危機 — NVIDIAの恩義\n10:20 9歳で更生施設 — ゲームを教えてウェイトを習う\n12:55 60人の前で3時間ブチギレ — ファウンダーの覚醒\n18:29 銃弾のデニーズ — 皿洗いから始まるLinkedIn 2行\n21:23 急にXを始めた — オープンモデル署名の思惑\n22:33 p(doom)はマイナス — 危険論者Anthropicへの煽り\n23:50 SFを読まないゲーマー — 独学MBAのリアリスト\n26:58 NVIDIA一強は続くのか — Cerebras・AMD・中国チップ\n28:57 梁文鋒リーク4時間スピーチ — 稼ごうと考えた時点で敗北\n31:23 80%値下げのさらに1/10 — 下げるほど社内で喝采\n33:05 シリコンバレー流を捨てる — 地震でも絵を描く宮崎駿\n35:35 高齢者をアクティベート — 老人ホームがガレージになる\n38:26 実務のDeepSeek — オープンモデル無しに成り立たない\n40:46 High-Flyerの正体 — 1.2兆円調達、5000億は個人\n43:03 コーディングはゴマ粒、AGIはスイカ\n45:48 農村出身と病みツイート — 25歳の梁文鋒\n48:06 CZも極貧だった — 起業家は裕福と貧乏の二極\n51:10 Codexキラー「DeepSeek Harness」と20ドル使い放題\n54:11 金融レイヤーを一枚下に持つ — まずヘッジファンドなのか\n58:52 レオポルドですらはめ込まれる — 67%減の教訓\n1:00:58 リーマン水準のプット買い — AIバブルの体感\n1:02:35 孫さんの金のガチョウ — 卵1個1兆円\n1:05:17 BytePlus潜入 — ららぽーと丸ごとオフィスが北京に30個\n1:08:02 価格を上げるアメリカ、下げまくる中国\n1:08:51 オープンな国のクローズドAI、クローズドな国のオープンAI\n1:10:29 総合家電と雑居ビル — 日本は中国側の遺伝子\n1:12:21 ROI無視のクオリティ — トヨタ・ソニー・ホンダの型\n1:14:52 柳井正は見えすぎている — トレンドの神、品質の神\n1:16:33 抹茶で韓国に負ける — 食は深さが掘れない\n1:19:35 AIハードの天井 — Codex Microとベロで操作するマウス\n1:25:37 Neuralinkのロングゲーム — 競合が存在しない事業\n1:29:47 クロージング — 次回、ジャパンレバレッジ本格回へ\n\n▼Guest\nEtaro（@etaroid）：NanoHuman代表。YouTubeチャンネル「起業の履歴書」運営。\n\n▼MC\ntouyan（@0xtouyan）：FlowStudio代表。AI Native事業を企画中。\nconsome（@ZkEther）：oto代表。Speech-to-Speechモデル向け雑談データセット構築中。\n\n番組へのコメント・MCへのメッセージは #nekoai まで。",
+      "feed_url": "https://api.riverside.fm/hosting/JE8NKMSa.rss",
+      "audio_url": "https://api.riverside.com/hosting-analytics/media/6c9ffe9370346edf335d4145fe6d77ea168d6d24b91de1a2c8e7b435f8ac2525/eyJlcGlzb2RlSWQiOiJjZmNhMGIxZi0xODBiLTQxY2YtOTQyZi1mNmIxZDgxN2MxY2MiLCJwb2RjYXN0SWQiOiI4YjYzZGYzOC1hNGYzLTQzNTQtYjBmYy03Nzk2YzU1NDg5YzYiLCJhY2NvdW50SWQiOiI2NWExZWE5MWYzNzQ1YTUxZDgwNzMyMTIiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4NTFkMTNkNDJhYzllMTUwYWZmNmY2L3Rha3V5YS10b3lhbWFzLXN0dWRpby1jb21wb3Nlci0yMDI2LTgtMTlfXzUtMy00Ny5tcDMifQ==.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/da/de/acdade7d-8087-f575-17c1-daa401b88cd8/mza_7940038635795617391.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/da/de/acdade7d-8087-f575-17c1-daa401b88cd8/mza_7940038635795617391.jpeg/600x600bb.jpg",
+      "collection_id": 1875785716,
+      "duration": 5226,
+      "pub_date": "2026-08-19T03:53:08Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/16-jensen-huang-%E3%83%87%E3%83%8B%E3%83%BC%E3%82%BA%E3%81%AE%E7%9A%BF%E6%B4%97%E3%81%84%E3%81%8B%E3%82%89%E6%99%82%E4%BE%A1%E7%B7%8F%E9%A1%8D%E4%B8%96%E7%95%8C%E4%B8%80%E3%81%B8/id1875785716?i=1000784223242&uo=4",
+      "language": "ja",
+      "itunes_id": 1000784223242,
+      "added_at": "2026-08-19T14:24:34.013743Z"
+    },
     {
       "guid": "570b031e-14ef-448b-a007-dd612aa5a838",
       "title": "Nvidia's Jensen Huang: You Won't Lose Your Job to AI— You'll Lose It to Someone Who Uses AI Better",
