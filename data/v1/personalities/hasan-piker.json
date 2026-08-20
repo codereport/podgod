@@ -4,8 +4,42 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-20",
   "episodes": [
+    {
+      "guid": "7bbfd5e3-d47d-49d5-96ae-db2e75dc8429",
+      "title": "8-19-26 Afternoon Rush - Florida Primary SHOCKER! A Massive Upset—and the Hasan Piker Derangement Syndrome",
+      "podcast_title": "The Rush Hour With Dave Neal",
+      "description": "Last night's primaries delivered a political earthquake in Florida, where a stunning upset sent a clear warning to the establishment. We break down the results, what fueled the surprise victory, and what it could mean for the midterms.\n Then, we turn to Hasan Piker—and the bizarre obsession his critics have with taking him down. Why does one progressive streamer trigger politicians, pundits, and the online right so intensely? We unpack the growing case of \"Hasan Derangement Syndrome\" and what the attacks reveal about today's political media.",
+      "feed_url": "https://rss.libsyn.com/shows/582670/destinations/5052735.xml",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/arttrk.com/p/SMPL7/mgln.ai/e/35/traffic.libsyn.com/secure/6b22d708-6960-4fac-bc8e-abbb01132eb3/8-19-26_pm.mp3?dest-id=5052735",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/a8/22/8ca82299-f1f8-5e21-2d3c-f38a253218fd/mza_6794072020661285112.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/a8/22/8ca82299-f1f8-5e21-2d3c-f38a253218fd/mza_6794072020661285112.jpg/600x600bb.jpg",
+      "collection_id": 1651903715,
+      "duration": 1869,
+      "pub_date": "2026-08-19T19:48:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/8-19-26-afternoon-rush-florida-primary-shocker-a/id1651903715?i=1000784417164&uo=4",
+      "language": "en",
+      "itunes_id": 1000784417164,
+      "added_at": "2026-08-20T14:27:23.589337Z"
+    },
+    {
+      "guid": "01a01a18-9afb-7573-93a6-bbef3a3156dc",
+      "title": "Rogan Rips WNBA, Hasan Piker Melts Down, & Whitmer's Trump Confession Goes Viral",
+      "podcast_title": "Keeping It Real: Conversations with Jillian Michaels",
+      "description": "Hasan Piker (hasanabi) is threatening legal action against anyone sharing his clips. The man who said America deserved 9/11, called for capitalists to drown in blood, and screamed at a South Vietnamese refugee on stream is now playing the victim. We play the full context and let you decide. Abdul El-Sayed is tied to all of it, and Michigan Senate primary voters need to hear this before November.Also today: Gretchen Whitmer quietly admitted Trump delivered for her state where Biden couldn't. Gavin Newsom is still Gavin Newsom. Joe Rogan went off on the WNBA and the transgender sports debate, and Congress still hasn't codified a single Title IX protection for biological women. Van Jones is shifting again. And thousands more migrants stormed Spain's border this weekend while women there say they can't leave their homes.Subscribe for new episodes every Wednesday and Friday.",
+      "feed_url": "https://feeds.speakeasystudio.ai/feeds/YUYoUqHhqy4vqXTG/feed.xml?1785784371",
+      "audio_url": "https://mgln.ai/e/101/clrtpod.com/m/pscrb.fm/rss/p/pdst.fm/e/speakeasystudio.ai/m/3FtYAsDESuKZcUrv.mp3?u=1787144215",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/81/55/528155b3-4782-d8ce-33e3-a3971d355382/mza_17856788986251340839.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/ea/ae/08eaaeca-dd03-b65b-2f7c-3cc75d6b50bd/mza_10008658910425193487.jpg/600x600bb.jpg",
+      "collection_id": 418368811,
+      "duration": 2698,
+      "pub_date": "2026-08-19T15:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/rogan-rips-wnba-hasan-piker-melts-down-whitmers-trump/id418368811?i=1000784366049&uo=4",
+      "language": "en",
+      "itunes_id": 1000784366049,
+      "added_at": "2026-08-20T14:27:23.589337Z"
+    },
     {
       "guid": "3455ed60-9a54-11f1-a83e-a7bade0cf095",
       "title": "Confronting Hasan on his CONTROVERSAL statements! | Fear&",
@@ -1387,6 +1421,5 @@
       "id": "podcastindex-5601816",
       "title": "Fear&"
     }
-  ],
-  "aliases": []
+  ]
 }

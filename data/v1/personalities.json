@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-20",
   "languages": [
     "de",
     "en",
@@ -57,7 +57,7 @@
       "title": "Olympic 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/cole-hocker.png?v=b835672c",
       "feed_url": "https://podgod.ca/data/v1/personalities/cole-hocker.json",
-      "episode_count": 24,
+      "episode_count": 25,
       "handle_entity_id": null
     },
     {
@@ -161,7 +161,7 @@
       "title": "Political commentator and streamer",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
       "feed_url": "https://podgod.ca/data/v1/personalities/hasan-piker.json",
-      "episode_count": 84,
+      "episode_count": 86,
       "handle_entity_id": null,
       "hosted_podcasts": [
         {
@@ -225,7 +225,7 @@
       "title": "World 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
-      "episode_count": 71,
+      "episode_count": 72,
       "handle_entity_id": null
     },
     {
