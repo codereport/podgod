@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19678861",
+      "title": "Episode 300: Sean Parent \"I'm not writing code anymore.\"",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "<p>In this episode, Conor and Bryce celebrate the 300th episode fo ADSP by catching up with Sean Parent!</p><ul><li><a href='https://adspthepodcast.com/2026/08/21/Episode-300.html'>Link to Episode 300 on Website</a></li><li><a href='https://github.com/codereport/adsp2/discussions/202'>Discuss this episode, leave a comment, or ask a question (on GitHub)</a></li></ul><p><b>Socials</b></p><ul><li>ADSP: The Podcast: <a href='https://twitter.com/adspthepodcast'>Twitter</a></li><li>Conor Hoekstra: <a href='https://conorshakory.com/'>LinkTree / Bio</a></li><li>Bryce Adelstein Lelbach: <a href='https://x.com/blelbach'>Twitter</a> | <a href='https://bsky.app/profile/blelbach.com'>BlueSky</a></li></ul><p><b>About the Guest:</b></p><p><a href='https://twitter.com/seanparent'>Sean Parent</a> is a principal scientist and software architect for Adobe Photoshop. Sean has been at Adobe since 1993 when he joined as a senior engineer working on Photoshop and later managed Adobe’s Software Technology Lab. In 2009 Sean spent a year at Google working on Chrome OS before returning to Adobe. From 1988 through 1993 Sean worked at Apple, where he was part of the system software team that developed the technologies allowing Apple’s successful transition to PowerPC.</p><p><b>Show Notes</b></p><p><b>Date Recorded:</b> 2026-08-19<br/><b>Date Released:</b> 2026-08-21</p><ul><li><a href='https://podgod.ca/'>POD GOD</a></li><li><a href='https://cppcast.com/'>CppCast</a></li><li><a href='https://cpp.chat/'>cpp.chat</a></li><li><a href='https://sean-parent.stlab.cc/papers-and-presentations'>Sean Parent - Papers and Presentations</a></li><li><a href='https://adspthepodcast.com/2026/08/14/Episode-299.html'>ADSP Episode 299: Do We Need Humans in the Loop?</a></li><li><a href='https://github.com/nvidia/cccl'>NVIDIA CCCL</a></li><li><a href='https://github.com/stlab/cel-rs'>cel-rs</a></li><li><a href='https://www.stepanovpapers.com/'>Stepanov Papers</a></li><li><a href='https://en.wikipedia.org/wiki/Robert_Tarjan'>Bob Tarjan</a></li><li><a href='https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm'>Tarjan&apos;s strongly connected components algorithm</a></li><li><a href='https://en.wikipedia.org/wiki/Soylent_Green'>Soylent Green is people!</a></li><li><a href='https://claude.com/product/claude-code'>Claude Code</a></li><li><a href='https://www.youtube.com/watch?v=T_hUwyyTJy8'>The Last Emperor - A Gentleman</a></li><li><a href='https://www.youtube.com/watch?v=FeAMiBKi_EM'>Jonathon Blow on the Quality of Software (Software is in Decline)</a></li><li><a href='https://lean-lang.org/'>Lean Programming Language</a></li><li><a href='https://dafny.org/'>Dafny Programming Language</a></li><li><a href='https://www.youtube.com/watch?v=cywK3XYYJ2o'>Creator of TypeScript: 10x Faster Typescript, Why AI Won&apos;t Replace SWEs | Anders Hejlsberg</a></li><li><a href='https://github.com/karpathy/autoresearch'>autoresearch</a></li></ul><p><b>Intro Song Info</b></p><p>Miss You by Sarah Jansen <a href='https://soundcloud.com/sarahjansenmusic'>https://soundcloud.com/sarahjansenmusic</a><br/>Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br/>Free Download / Stream: <a href='http://bit.ly/l-miss-you'>http://bit.ly/l-miss-you</a><br/>Music promoted by Audio Library <a href='https://youtu.be/iYYxnasvfx8'>https://youtu.be/iYYxnasvfx8</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/19678861-episode-300-sean-parent-i-m-not-writing-code-anymore.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "duration": 5663,
+      "pub_date": "2026-08-21T12:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1331453",
+      "added_at": "2026-08-21T14:25:59.339503Z"
+    },
     {
       "guid": "Buzzsprout-19645434",
       "title": "Episode 299: Do We Need Humans in the Loop?",

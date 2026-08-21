@@ -4,8 +4,24 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "episodes": [
+    {
+      "guid": "09c0f4dd-eb86-4322-ae64-cf4a621c09c3",
+      "title": "The China Shock 2.0",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "<p>Brad Setser follows Chinese trade closer than just about anyone else on earth, and he thinks we’re in the early days of a China Shock 2.0.</p>\n<p>The first China Shock was when China came to dominate low-end manufacturing in the 2000s, filling American shelves with cheap clothes, toys and electronics, while devastating American factory towns. This new China Shock could be even more destabilizing. China now dominates advanced manufacturing: electric vehicles, batteries, solar panels. It’s outcompeting nearly all high-end manufacturing around the world, and other countries are just starting to feel the pain. And China isn’t slowing down. It’s moving into software, too. Its frontier A.I. models are neck and neck with American ones.</p>\n<p>China’s success poses a serious threat to the economies and domestic politics of countries around the world. So what should those countries do about it? </p>\n<p>Setser is a senior fellow at the Council on Foreign Relations.He served in top trade and economic roles in the Biden and Obama administrations. And he is widely cited across the field as one of the top analysts of China’s economy and trade practices.</p>\n<p><strong>Book Recommendations:</strong></p>\n<p><a href=\"https://www.harpercollins.com/products/the-party-richard-mcgregor?variant=32207545958434\" target=\"_blank\" rel=\"noopener noreferrer\">The Party</a> by Richard McGregor</p>\n<p><a href=\"https://global.oup.com/academic/product/the-volatility-machine-9780195143300?cc=us&lang=en&\" target=\"_blank\" rel=\"noopener noreferrer\">The Volatility Machine</a> by Michael Pettis</p>\n<p><a href=\"https://www.panmacmillan.com/authors/soumaya-keynes/how-to-win-a-trade-war/9781035090181\" target=\"_blank\" rel=\"noopener noreferrer\">How to Win a Trade War</a> by Soumaya Keynes and Chad Bown</p>\n<p>Thoughts? Guest suggestions? Email us at <a href=\"mailto:ezrakleinshow@nytimes.com\" rel=\"noopener noreferrer\">ezrakleinshow@nytimes.com</a>.</p>\n<p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html</p>\n<p>This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Michelle Harris, with Kate Sinclair, Mary Marge Locker and Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Johnny Simon. Our recording engineer is Aman Sahota. Cinematography by Marina King and Kyle Kelley. Video editing by Dani Dillon and Brandon Belk-Yee. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Kristin Lin, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "feed_url": "https://feeds.simplecast.com/82FI35Px",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=7fd71a4d-0c28-424a-8eb3-0b4675fdeb9e&feed=82FI35Px",
+      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "duration": 3930,
+      "pub_date": "2026-08-21T09:00:00Z",
+      "episode_url": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1371595",
+      "added_at": "2026-08-21T14:25:59.339503Z"
+    },
     {
       "guid": "fad93ad8-9760-11f1-8eec-2f03233d9aa8",
       "title": "Ezra Klein: Jesus Was Weaponized for World War",
@@ -1596,22 +1612,6 @@
       "episode_url": "https://www.nytimes.com/2025/10/03/opinion/ezra-klein-podcast-brian-eno.html",
       "language": "en",
       "hosted_podcast_id": "podcastindex-1371595",
-      "added_at": "2026-08-18T23:11:09.024216Z"
-    },
-    {
-      "guid": "therocanewsshow.podbean.com/24d38b88-6984-3b38-8dca-e00fb9c1de56",
-      "title": "Paul Finebaum to the US Senate? (Plus Ta-Nehisi Coates vs. Ezra Klein) (Ep. 13)",
-      "podcast_title": "The RocaNews Show",
-      "description": "<p>In this episode of the RocaNews Show, we discuss Trump’s two massive meetings in the Oval Office — one with Israeli PM Bibi Netanyahu and the other with Democratic leaders Chuck Schumer and Hakeem Jeffries — along with Paul Finebaum’s interest in a Senate run and the debate between Ta-Nehisi Coates and Ezra Klein about Charlie Kirk & platforming conservatives. </p>\n<p>Gift link to Ta-Nehisi vs. Ezra debate on the NYT:</p>\n<p> </p>\n<p>https://www.nytimes.com/2025/09/28/opinion/ezra-klein-podcast-ta-nehisi-coates.html?unlocked_article_code=1.pk8.4tDQ.YkYmXskoLtX1&smid=url-share</p>",
-      "feed_url": "https://feed.podbean.com/therocanewsshow/feed.xml",
-      "audio_url": "https://mcdn.podbean.com/mf/web/pavwp5ihzfir8zyk/RNS_92925bhrho.mp3",
-      "artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/21307896/podcast_art_copya363z.jpeg",
-      "podcast_artwork_url": "https://pbcdn1.podbean.com/imglogo/image-logo/21307896/podcast_art_copya363z.jpeg",
-      "duration": 2105,
-      "pub_date": "2025-09-29T21:30:43Z",
-      "episode_url": "https://therocanewsshow.podbean.com/e/paul-finebaum-to-the-us-senate-plus-ta-nehisi-coates-vs-ezra-klein-ep-13/",
-      "language": "en",
-      "podcastindex_id": 43885547784,
       "added_at": "2026-08-18T23:11:09.024216Z"
     }
   ],

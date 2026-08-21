@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "episodes": [
+    {
+      "guid": "gid://art19-episode-locator/V0/8BZjj_ufsQHSsLaJO0Pu-ygLseFoUL03ELkL1lV2nK4",
+      "title": "Mark Zuckerberg's Addiction Problem*",
+      "podcast_title": "Slow News Day",
+      "description": "Mark Zuckerberg and Meta are currently in the legal battle of their lives, as a jury trial which started this week sees them facing-off against a coalition of 29 US states. Those states are seeking $200 billion in damages from the company as well as to enforce changes in the way their social media products, specifically Facebook and Instagram, work to keep children engaged. This case could turn out to be incredibly consequential for how Meta's apps are and aren't allowed to work.\nThe Slow News Day Team\nCreator and Host: Tom Nicholas\nProducer: Jack Carter\nEditor: Georgia Burrows\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "feed_url": "https://rss.art19.com/induction",
+      "audio_url": "https://rss.art19.com/episodes/045175bb-f606-4411-b4a8-ec67e6b1c908.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/eb/65/94eb651b-57ec-6b5b-3042-d2a7e211fe5e/mza_11345232067380425957.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3c/7e/66/3c7e6691-2053-b964-1f81-d1d784d083ce/mza_9333729898309288347.jpeg/600x600bb.jpg",
+      "collection_id": 1680783054,
+      "duration": 1590,
+      "pub_date": "2026-08-20T15:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/mark-zuckerbergs-addiction-problem/id1680783054?i=1000784615716&uo=4",
+      "language": "en",
+      "itunes_id": 1000784615716,
+      "added_at": "2026-08-21T14:25:59.339503Z"
+    },
     {
       "guid": "1be0ce0a-239c-11f1-b9e6-675539696f83",
       "title": "How to Set Big Goals and Actually Achieve Them | Mark Zuckerberg's Wisdom in 21 Minutes",

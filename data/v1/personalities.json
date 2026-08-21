@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "languages": [
     "de",
     "en",
@@ -95,7 +95,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 60,
+      "episode_count": 61,
       "handle_entity_id": null
     },
     {
@@ -248,7 +248,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 20,
+      "episode_count": 21,
       "handle_entity_id": null
     },
     {
