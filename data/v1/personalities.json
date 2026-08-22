@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "languages": [
     "de",
     "en",
@@ -161,7 +161,7 @@
       "title": "Political commentator and streamer",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
       "feed_url": "https://podgod.ca/data/v1/personalities/hasan-piker.json",
-      "episode_count": 86,
+      "episode_count": 89,
       "handle_entity_id": null,
       "hosted_podcasts": [
         {
