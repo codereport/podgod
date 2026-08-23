@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "episodes": [
+    {
+      "guid": "5ca97755-da36-47a4-8565-0d1585c5479b",
+      "title": "NVIDIA's AI Moat is Capital - Jensen Huang Sells Money Not GPU's",
+      "podcast_title": "Eli the Computer Guy",
+      "description": "NVIDIA's AI Moat is Capital - Jensen Huang Sells Money Not GPU's",
+      "feed_url": "https://anchor.fm/s/111fbe8cc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/111fbe8cc/podcast/play/124538378/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430276945-44100-2-a7dbf8fe2ae2.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "collection_id": 1895967811,
+      "duration": 1227,
+      "pub_date": "2026-08-22T16:01:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/nvidias-ai-moat-is-capital-jensen-huang-sells-money-not-gpus/id1895967811?i=1000785136275&uo=4",
+      "language": "en",
+      "itunes_id": 1000785136275,
+      "added_at": "2026-08-23T14:15:17.932751Z"
+    },
     {
       "guid": "cfca0b1f-180b-41cf-942f-f6b1d817c1cc",
       "title": "#16 Jensen Huang | デニーズの皿洗いから時価総額世界一へ",

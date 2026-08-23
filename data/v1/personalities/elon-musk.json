@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "episodes": [
+    {
+      "guid": "e7ca2d74-cc2e-4236-b756-0c9b1b9486cc",
+      "title": "SpaceXAI Launches AI Agents Product \"Grok Bot\" - Elon Musk Branding Issues Are Ugly",
+      "podcast_title": "Eli the Computer Guy",
+      "description": "SpaceXAI Launches AI Agents Product \"Grok Bot\" - Elon Musk Branding Issues Are Ugly",
+      "feed_url": "https://anchor.fm/s/111fbe8cc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/111fbe8cc/podcast/play/124141109/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F429733518-44100-2-ace6bd1bcf96c.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "collection_id": 1895967811,
+      "duration": 1054,
+      "pub_date": "2026-08-23T00:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/spacexai-launches-ai-agents-product-grok-bot-elon-musk/id1895967811?i=1000785170047&uo=4",
+      "language": "en",
+      "itunes_id": 1000785170047,
+      "added_at": "2026-08-23T14:15:17.932751Z"
+    },
     {
       "guid": "93d044dc-9cae-11f1-ad72-1334184ad63a",
       "title": "Elon Musk’s Derek Chauvin Post Reignites the George Floyd Fight",
