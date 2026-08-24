@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "languages": [
     "de",
     "en",
@@ -126,7 +126,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 21,
+      "episode_count": 22,
       "handle_entity_id": null
     },
     {
@@ -161,7 +161,7 @@
       "title": "Political commentator and streamer",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
       "feed_url": "https://podgod.ca/data/v1/personalities/hasan-piker.json",
-      "episode_count": 89,
+      "episode_count": 92,
       "handle_entity_id": null,
       "hosted_podcasts": [
         {
