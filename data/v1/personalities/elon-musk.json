@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-25",
   "episodes": [
+    {
+      "guid": "88264618-9d94-11f1-8642-138e8248df13",
+      "title": "Elon Musk Exposed - Influencer Goes Public on Secret Baby!",
+      "podcast_title": "True Geordie Podcast",
+      "description": "True Geordie Podcast examines the controversy surrounding Elon Musk and an influencer who has publicly discussed claims about a child they allegedly share. This episode explores the statements, timeline, and wider questions surrounding the story, separating reported facts from speculation. With detailed research and a measured, analytical approach, True Geordie Podcast breaks down the claims making headlines and the personal issues at the center of the controversy.\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/STUDIO1016452870",
+      "audio_url": "https://traffic.megaphone.fm/DLERL8531441485.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/e2/0f/ffe20f68-bd51-e37a-d1fd-af25e0dcc1bc/mza_17338516772316613210.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/e2/0f/ffe20f68-bd51-e37a-d1fd-af25e0dcc1bc/mza_17338516772316613210.jpg/600x600bb.jpg",
+      "collection_id": 1157693037,
+      "duration": 1171,
+      "pub_date": "2026-08-24T21:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-exposed-influencer-goes-public-on-secret-baby/id1157693037?i=1000785616552&uo=4",
+      "language": "en",
+      "itunes_id": 1000785616552,
+      "added_at": "2026-08-25T14:36:30.597371Z"
+    },
     {
       "guid": "e7ca2d74-cc2e-4236-b756-0c9b1b9486cc",
       "title": "SpaceXAI Launches AI Agents Product \"Grok Bot\" - Elon Musk Branding Issues Are Ugly",
