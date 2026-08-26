@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
   "episodes": [
+    {
+      "guid": "https://www.abc.net.au/listen/programs/abc-news-daily/is-this-mark-zuckerberg-s-big-tobacco-moment/107076548",
+      "title": "Is this Mark Zuckerberg's 'big tobacco' moment?",
+      "podcast_title": "ABC News Daily",
+      "description": "In a landmark US court case, attorneys general representing 29 states are suing Meta, the company behind Facebook and Instagram, accusing it of knowingly harming children and designing its platforms to keep young users hooked on scrolling.\nIt's being likened to the wave of lawsuits filed against big tobacco companies in the 1990s.\nIf the states are successful, the ruling could have far-reaching consequences for Meta's business model, and for the way all of us use social media.\nToday, Dara Kerr, tech reporter with The Guardian US on what could be Meta's big tobacco moment\nFeatured:\nDara Kerr, tech reporter for The Guardian US",
+      "feed_url": "https://www.abc.net.au/feeds/9443166/podcast.xml",
+      "audio_url": "https://mediacore-live-production.akamaized.net/audio/02/nr/Z/8p.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/a1/08/7ea10812-5c85-8909-4124-e639b86b2187/mza_14344347016381395767.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/20/08/db200897-1632-d525-b87e-2bb2b09aeea5/mza_11603454822632026969.jpg/600x600bb.jpg",
+      "collection_id": 1349523628,
+      "duration": 930,
+      "pub_date": "2026-08-25T16:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/is-this-mark-zuckerbergs-big-tobacco-moment/id1349523628?i=1000785799218&uo=4",
+      "language": "en",
+      "itunes_id": 1000785799218,
+      "added_at": "2026-08-26T14:36:44.516132Z"
+    },
     {
       "guid": "1be0ce0a-239c-11f1-b9e6-675539696f83",
       "title": "How to Set Big Goals and Actually Achieve Them | Mark Zuckerberg's Wisdom in 21 Minutes",

@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
   "episodes": [
+    {
+      "guid": "318ff2da-a733-4541-8222-af783ec16751",
+      "title": "Jensen Huang：打造企業專屬的開放式 AI 代理生態系",
+      "podcast_title": "聽書-科技X成長",
+      "description": "EP. 417｜ 別把核心競爭力外包！黃仁勳 x LangChain 重磅對話：Nemotron-3 加開放式生態，如何打造企業專屬「AI 代理作業系統」？ 🚀🟢\n在 2026 年的今天，當每家企業都在高喊 AI 轉型，你是在把公司的核心數據雙手奉給封閉式第三方平台，還是正在打造屬於自己的「數位智慧產權」護城河？\n今天這集，我們要帶你第一時間深度拆解 NVIDIA 執行長黃仁勳與 LangChain 團隊的震撼對話——《黃仁勳：打造企業專屬的開放式 AI 代理生態系》！黃仁勳一針見血地指出：過去半年是 AI 從「單純模型」跨入「實用自動化超級代理」的歷史轉折點。企業不該再依賴套殼工具，而是要結合 Nemotron-3 與 LangChain，將私有數據轉化為運作於安全沙盒中的專屬代理大腦！\n🎯 本集精彩亮點\nAI 歷史性轉折點：從對話模型到「超級代理（Super Agents）」\n黃仁勳眼中的 AI 新範式！看 AI 代理如何結合企業內部專屬工具與私有數據，從單純的「聊天機器人」演變成精準解決複雜問題的自動化引擎。\n拒絕把競爭力外包：牢牢掌握「數位智慧產權（Digital IP）」\n企業的核心命脈在哪裡？黃仁勳強烈呼籲：不要將你的核心數據與流程控制權鎖進別人的黑盒子，唯有建立專屬代理生態系，才能擁有永久的商業護城河！\n技術全棧大解密：Nemotron-3 + LangChain 開放式架構\n深度拆解軟硬體整合新標竿！看高效推理模型如何配合 LangChain 編排框架，在降低運算成本與推論延遲的同時，實現極致任務吞吐量。\n企業未來的終極形態：運作於專業代理之上的「企業作業系統」\n預見未來的組織架構！未來的企業將不再是傳統的科層組織，而是由財務、研發、風控等無數專業代理協同組成的自適應運作系統。\n💡 聽完這集想告訴你：從一線精細調校 ESP32/LiteRT 邊緣算力、評估 OpenCode 架構純粹性，走到需要統籌全局企業 AI 戰略的 PM 與 Leader 視角，黃仁勳的這場對話給了我們最震撼的「系統級破局」啟示：「AI 不是取代人類的對手，而是放大組織能量的最高槓桿；未來的偉大企業，必然是能將自身專業轉化為專屬 AI 代理生態的系統架構師。」\n這完美呼應了彼得·杜拉克在《Day 91：從分析到認知》與《Day 99：領導是種責任》中的核心精神：高階的管理者不能當被動的旁觀者，必須親自引領組織掌握核心能力與組態（Configuration），在開放與安全之間建立起堅不可摧的生態防線！\n準備好跟著這集節目，站在黃仁勳的肩膀上，啟動你專屬的企業 AI 代理作業系統了嗎？\n節目收聽: Spotify / Apple Podcast / YouTube Podcast\n#聽書科技X成長 #黃仁勳 #NVIDIA #LangChain #Nemotron3 #AIAgent #超級代理 #數位智財權 #企業作業系統 #產品經理 #杜拉克思維 #生產力革命",
+      "feed_url": "https://anchor.fm/s/1046d4ef8/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1046d4ef8/podcast/play/124746997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F9de9e067-31ea-1a81-c9ea-3b89d14238c2.m4a",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/dd/47/28dd4781-23e0-1646-0697-b7647ee3071d/mza_8886706612540419018.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/29/9c/40299c1e-e658-cc83-f53a-8498903ae902/mza_5771929664322766712.jpg/600x600bb.jpg",
+      "collection_id": 1812170664,
+      "duration": 878,
+      "pub_date": "2026-08-26T12:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-%E6%89%93%E9%80%A0%E4%BC%81%E6%A5%AD%E5%B0%88%E5%B1%AC%E7%9A%84%E9%96%8B%E6%94%BE%E5%BC%8F-ai-%E4%BB%A3%E7%90%86%E7%94%9F%E6%85%8B%E7%B3%BB/id1812170664?i=1000786047535&uo=4",
+      "language": "ko",
+      "itunes_id": 1000786047535,
+      "added_at": "2026-08-26T14:36:44.516132Z"
+    },
     {
       "guid": "5ca97755-da36-47a4-8565-0d1585c5479b",
       "title": "NVIDIA's AI Moat is Capital - Jensen Huang Sells Money Not GPU's",

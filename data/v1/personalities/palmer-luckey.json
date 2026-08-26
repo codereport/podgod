@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-08-25",
+  "updatedAt": "2026-08-26",
   "episodes": [
+    {
+      "guid": "WesternKabuki.podbean.com/3286a12a-8f99-38e7-9295-898082a7b2d3",
+      "title": "Unlocked: All This For Ten Dollars - Guys We Don't Like: Palmer Luckey",
+      "podcast_title": "Kill The Computer",
+      "description": "MLYP takes us through the history of Palmer Luckey: gamer, founder of Oculus, and (alleged) war criminal.\n\nSlide Show: \n\nhttps://docs.google.com/presentation/d/1kTHSKZQ0hMwY_sNHK5k3peFh5Q2anKdO80qf7Dj7AlM/edit",
+      "feed_url": "https://feed.podbean.com/WesternKabuki/feed.xml",
+      "audio_url": "https://mcdn.podbean.com/mf/web/j65fk7g8mswv384w/PLmain.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5d/2a/0a/5d2a0a3f-f806-3b37-733d-0b3e9ce01803/mza_18018368309121019618.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5d/2a/0a/5d2a0a3f-f806-3b37-733d-0b3e9ce01803/mza_18018368309121019618.jpg/600x600bb.jpg",
+      "collection_id": 1647062210,
+      "duration": 3236,
+      "pub_date": "2026-08-26T04:30:05Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/unlocked-all-this-for-ten-dollars-guys-we-dont-like/id1647062210?i=1000785943468&uo=4",
+      "language": "en",
+      "itunes_id": 1000785943468,
+      "added_at": "2026-08-26T14:36:44.516132Z"
+    },
     {
       "guid": "23cc7f2c-6be8-57ed-b234-3e081bed1766",
       "title": "Cibermillonarios | Cibermillonarios 9: Palmer Luckey y la tecnología de guerra, con José María Lasalle",
