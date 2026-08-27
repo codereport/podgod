@@ -4,7 +4,7 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-08-27",
   "episodes": [
     {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
@@ -82,7 +82,7 @@
       "feed_url": "https://audioboom.com/channels/4002274.rss",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8921763.mp3?modified=1782615056&sid=4002274&source=rss",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/ee/bc/a6eebc66-8ef3-792a-5371-d1584f2695dd/mza_638775928581868285.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b1/dc/39/b1dc390c-4903-6b35-368e-5f5570739b3e/mza_3188976742884045109.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/8e/67/a68e672a-1429-13c7-453f-86c409217020/mza_330181670399580182.jpg/600x600bb.jpg",
       "collection_id": 589864479,
       "duration": 625,
       "pub_date": "2026-06-28T02:50:36Z",
@@ -104,7 +104,7 @@
       "itunes_id": 1000769419965,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "Keach Hagey recounts the January 2016 founding of OpenAI in San Francisco, initially established as a modest nonprofit research lab in Greg Brockman's apartment. Co-founded by Sam Altman, Brockman, and chief scientist Ilya Sutskever, the organization aimed to develop artificial general intelligence (AGI) safely outside of profit motives. Major initial backers included Elon Musk and Peter Thiel, who sought to create a counterweight to Google's DeepMind. The discussion explains how neural networks utilize Nvidia's GPUs—originally designed for video games—to mimic human thought, forming the technical foundation for the current AI race. (1/4)MARCH 1959",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/b1/dc/39/b1dc390c-4903-6b35-368e-5f5570739b3e/mza_3188976742884045109.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/8e/67/a68e672a-1429-13c7-453f-86c409217020/mza_330181670399580182.jpg/600x600bb.jpg",
       "collection_id": 589864479,
       "language": "en"
     },

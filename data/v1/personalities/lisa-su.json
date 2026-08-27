@@ -4,7 +4,7 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-08-27",
   "episodes": [
     {
       "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
@@ -14,7 +14,7 @@
       "feed_url": "https://feeds.megaphone.fm/VG7900701114",
       "audio_url": "https://traffic.megaphone.fm/VG2323803785.mp3?updated=1778673018",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/32/43/be324389-9a0c-8dcb-0a39-5b2596dbd302/mza_7839859540615160755.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/f5/c1/23f5c1d7-3e1d-c47d-60bb-b34ecd50b89b/mza_3697340917064978563.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/bb/48/22bb48a9-0092-a6fa-3cc3-f5899e1a70eb/mza_3224171458135340930.jpg/600x600bb.jpg",
       "collection_id": 1886705492,
       "duration": 2186,
       "pub_date": "2026-08-08T02:30:00Z",
@@ -286,7 +286,7 @@
       "feed_url": "https://feeds.acast.com/public/shows/8cf4cec7-5a0f-49c5-8ec9-36941b5c6b6e",
       "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68b0968746792aead13e9471/media.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/db/72/f5db724a-23e4-662e-2af0-ebc3d98a1629/mza_8060140353533470419.jpeg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/32/f8/ca32f88f-6ead-cb7d-386a-6503a464ca3f/mza_9428206985269357573.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/ec/b5/79ecb5cd-08c1-df4d-a821-c0592d93949d/mza_13693377286152817716.jpeg/600x600bb.jpg",
       "collection_id": 1233991021,
       "duration": 2778,
       "pub_date": "2025-08-28T23:01:00Z",
