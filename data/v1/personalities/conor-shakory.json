@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19709216",
+      "title": "Episode 301: My Existential Crisis, AI Fluency & the Death of Conferences?",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "<p>In this episode, Conor and Bryce chat about the future of technical communities, AI fluency, Conor&apos;s existential crisis, Auto Research Academy and more!</p><ul><li><a href='https://adspthepodcast.com/2026/08/28/Episode-301.html'>Link to Episode 301 on Website</a></li><li><a href='https://github.com/codereport/adsp2/discussions/203'>Discuss this episode, leave a comment, or ask a question (on GitHub)</a></li></ul><p><b>Socials</b></p><ul><li>ADSP: The Podcast: <a href='https://twitter.com/adspthepodcast'>Twitter</a></li><li>Conor Hoekstra: <a href='https://conorshakory.com/'>LinkTree / Bio</a></li><li>Bryce Adelstein Lelbach: <a href='https://x.com/blelbach'>Twitter</a> | <a href='https://bsky.app/profile/blelbach.com'>BlueSky</a></li></ul><p><b>Show Notes</b></p><p><b>Date Recorded:</b> 2026-08-12<br/><b>Date Released:</b> 2026-08-28</p><ul><li><a href='https://gosim.org/'>GOSIM Conferences</a></li><li><a href='https://modal.com/'>Modal</a></li><li><a href='https://ep2026.europython.eu/'>EURO PYTHON</a></li><li><a href='https://www.gpumode.com/'>GPU MODE</a></li></ul><p><b>Intro Song Info</b></p><p>Miss You by Sarah Jansen <a href='https://soundcloud.com/sarahjansenmusic'>https://soundcloud.com/sarahjansenmusic</a><br/>Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br/>Free Download / Stream: <a href='http://bit.ly/l-miss-you'>http://bit.ly/l-miss-you</a><br/>Music promoted by Audio Library <a href='https://youtu.be/iYYxnasvfx8'>https://youtu.be/iYYxnasvfx8</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/19709216-episode-301-my-existential-crisis-ai-fluency-the-death-of-conferences.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "duration": 2658,
+      "pub_date": "2026-08-28T12:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1331453",
+      "added_at": "2026-08-28T23:20:08.678093Z"
+    },
     {
       "guid": "Buzzsprout-19678861",
       "title": "Episode 300: Sean Parent \"I'm not writing code anymore.\"",

@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "episodes": [
+    {
+      "guid": "https://dutch.9natree.com/read/1250898102/",
+      "title": "[Boekrecensie] The Worlds I See (Dr. Fei-Fei Li) Boeksamenvatting.",
+      "podcast_title": "9Natree Dutch",
+      "description": "The Worlds I See (Dr. Fei-Fei Li)\n\n\n\n- Amazon Netherlands Store: https://www.amazon.nl/dp/1250898102?tag=9natreedutch-21 \n\n- Amazon Belgium Store: https://www.amazon.com.be/dp/1250898102?tag=9natreebelgium-21 \n\n- Amazon Worldwide Store: https://global.buys.trade/The-Worlds-I-See-Dr-Fei-Fei-Li.html \n\n\n\n- Apple Books: https://books.apple.com/us/audiobook/the-worlds-i-see/id1660594465?itsct=books_box_link&itscg=30200&ls=1&at=1001l3bAw&ct=9natree \n\n\n- eBay: https://www.ebay.com/sch/i.html?_nkw=The+Worlds+I+See+Dr+Fei+Fei+Li+&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339060787&customid=9natree&toolid=10001&mkevt=1 \n\n\n\n- Lees meer: https://dutch.9natree.com/read/1250898102/ \n\n\n#ImageNet #computervision #ImageNetChallenge #mensgerichteAI #AI4ALL #TheWorldsISee\n\n\nThe Worlds I See van dr. Fei-Fei Li is tegelijk een wetenschapsmemoir, een geschiedenis van een beslissend tijdperk in kunstmatige intelligentie, en een pleidooi voor mensgerichte technologie. Li, bekend als de bedenker van ImageNet, beschrijft hoe haar weg van China naar de Verenigde Staten, via natuurkunde en neurowetenschap, samenkwam met de snelle ontwikkeling van computer vision. Het boek draait niet om AI als magie of onafwendbare economische kracht, maar om de mensen, keuzes en middelen achter wetenschappelijke doorbraken. Centraal staat ImageNet, de grootschalige gelabelde beelddataset die onderzoekers een gedeelde meetlat gaf voor visuele herkenning. Li laat zien waarom machines beelden niet vanzelf begrijpen, en waarom vooruitgang voortkomt uit langdurig, vaak onzichtbaar werk aan data, classificatie en evaluatie. Tegelijk verbindt zij de technische geschiedenis aan vragen over vooroordelen, toegang tot onderwijs, diversiteit en verantwoordelijkheid. Daardoor is dit geen neutrale technische terugblik, maar een persoonlijke en inhoudelijke beschouwing over wie AI ontwikkelt, voor welke doelen, en onder welke menselijke voorwaarden.",
+      "feed_url": "https://dutch.9natree.com/feed.xml",
+      "audio_url": "https://episodes.castos.com/660078c6833215-59505987/2589308/c1e-3ond0cw1ww4cmvg3q-25op1kg6c9m2-rcrtos.mp3?awCollectionId=70816&awEpisodeId=https%3A%2F%2Fpermalink.castos.com%2Fpodcast%2F70816%2Fepisode%2F2589308&aw_0_1st.ri=castos&aw_0_cnt.rss=https%3A%2F%2Ffeeds.castos.com%2Fknwxv&aw_0_azn.pgenre=%5BEducation%2CBusiness%2CTechnology%5D&aw_0_cnt.url=https%3A%2F%2F9natreedutch.castos.com%2Fepisodes%2Fboekrecensie-the-worlds-i-see-dr-fei-fei-li-boeksamenvatting&aw_0_azn.planguage=nl&aw_0_azn.pcountry=NL&q_co=27a85beeeff3a51fd2c7553b6e1162398b74cd5eb8eb8534769fbb5740b1293e",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8e/35/11/8e35114e-bcf0-526e-66cf-028bc26d5e12/mza_15080461603697530119.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/d3/22/f3d322ef-5eec-8fcb-071d-1cbc94da5ea8/mza_9306854088279472398.png/600x600bb.jpg",
+      "collection_id": 6784860768,
+      "duration": 653,
+      "pub_date": "2026-08-28T10:52:44Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/boekrecensie-the-worlds-i-see-dr-fei-fei-li/id6784860768?i=1000786491333&uo=4",
+      "language": "nl",
+      "itunes_id": 1000786491333,
+      "added_at": "2026-08-28T23:20:08.678093Z"
+    },
     {
       "guid": "https://tagalog.9natree.com/read/1250898102/",
       "title": "[Pagsusuri] The Worlds I See (Dr. Fei-Fei Li) Nabuod.",

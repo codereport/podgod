@@ -4,8 +4,25 @@
   "name": "Jeff Dean",
   "title": "Google senior fellow and researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "episodes": [
+    {
+      "guid": "a7f8afa7-e4a5-41bb-bf8f-860b908fb37f",
+      "title": "Jeff Dean’s Career Strategy for Surviving the AI Revolution",
+      "podcast_title": "TechDaily.ai",
+      "description": "What if the best way to survive the AI revolution is to stop trying to become the deepest expert in the room?\nIn this episode of TechDaily.ai, David and Sophia explore a provocative career philosophy attributed in the discussion to longtime Google AI leader Jeff Dean: instead of mastering every technical detail, build a wider view of what is possible, connect ideas across disciplines, and use AI to amplify your ability to solve meaningful problems.\nThe conversation challenges the traditional career playbook of narrow specialization. Rather than spending all your time mastering a single research paper or technical niche, the episode explores the value of skimming broadly, building a “cloud” of possibilities, and developing the ability to spot connections other people miss.\nYou’ll hear why:\n Broad knowledge and cross-disciplinary synthesis may become increasingly valuable as AI handles more technical and repetitive work.  Skimming 10 papers—or even 100 abstracts—can create a wider mental map for discovering unexpected connections.  The strongest career opportunities may come from solving “Goldilocks” problems with roughly a five-year horizon.  Chasing every new AI model, API, or trend can leave professionals reacting to technology instead of building lasting value.  AI can be viewed as either a replacement mechanism or a tool for dramatically expanding human capability.  The future of work may reward people who can direct powerful systems, ask better questions, and decide which problems are actually worth solving.  Autonomous research tools could make access to complex knowledge dramatically easier while increasing the value of uniquely human judgment, creativity, empathy, and perspective. The episode also examines the tension between two competing visions of AI’s future: one centered on job displacement and concentrated economic power, and another centered on expanding what individuals can accomplish.\nUsing the contrast between an autonomous bulldozer and an Iron Man suit, David and Sophia ask a practical question: Will you compete against AI, or learn how to pilot it?\nAs AI makes information and technical capability more accessible, simply possessing knowledge may no longer create an advantage. The differentiator could become what you do with that knowledge—the connections you make, the questions you ask, and the long-term problems you choose to pursue.\nListen to the full episode and start thinking about the five-year problem you want AI to help you solve.\nSubscribe, share the episode with someone thinking about their next career move, and visit techdaily.ai for more conversations about artificial intelligence, technology, careers, and the future of work.",
+      "feed_url": "https://feeds.transistor.fm/techdaily-ai",
+      "audio_url": "https://media.transistor.fm/97a33fb4/16d595b5.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/73/49/8b7349a3-df24-f8c2-5557-9fd2000db81c/mza_1864667292739829425.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/32/8f/f3328fd9-a6a8-f993-78c8-687df363d341/mza_15514990171846523288.jpg/600x600bb.jpg",
+      "collection_id": 1794862407,
+      "duration": 1158,
+      "pub_date": "2026-08-28T05:24:13Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/jeff-deans-career-strategy-for-surviving-the-ai-revolution/id1794862407?i=1000786436216&uo=4",
+      "language": "en",
+      "itunes_id": 1000786436216,
+      "added_at": "2026-08-28T23:20:08.678093Z"
+    },
     {
       "guid": "9a3d40ed-9a1f-4694-a52a-6da99dc2f4c8",
       "title": "EP59 | 一人出走、市值蒸發 1600 億美金！Jeff Dean 的傳奇 Google Career",
