@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-08-29",
   "episodes": [
+    {
+      "guid": "3ec1930e-5695-4bed-aaac-0557f34902fb",
+      "title": "NVIDIA's AI Empire: Chips, Startups, and Jensen Huang's Endgame",
+      "podcast_title": "trading places",
+      "description": "This week on Trading Places, Dave McClure and Aman Verjee break down Nvidia's expanding AI ecosystem, a billion-dollar stake plus exclusive licensing with Poolside, an investment in data supplier Mercor at $20B, and a bet on Perplexity as it raises at $30B. Plus: OpenAI's CFO signals a 2027 IPO, Chinese open-weight models overtake closed models in usage, the Cursor and OpenRouter deals officially close, investors cash out big while Sam Bankman Fried sits out his winnings in jail, fresh mega-rounds for Lovable, Higgsfield, and Lambda, PitchBook's Emily Zheng on the secondary market, and Aman's valuation corner on sports-franchise economics after the Lakers sold for a record $12.5B.\n\nTimestamps:\n\n00:00 - cold open\n\n01:06 - [ tech and vc news ] \nAman plays the US Open and book launch 🎾\n03:15 - Nvidia moves $19B on their open AI ecosystem 💰\n09:08 - leaked timeline for OpenAI IPO ⏲️\n10:45 - the Anthropic vs. OpenAI horserace 🐎\n18:50 - open weight AI models usage is growing 📈\n22:43 - investors cash out big on SpaceX-Cursor acquisition 🤑\n25:00 - SBF sat out his big win in jail 🔐\n26:45 - OpenRouter acquired by Stripe 🧾\n30:11 - Lovable at $13B 💪\n30:30 - Higgsfield raises at $5B 🚀\n33:53 - Lebron bonds 🏀\n\n37:01 - [ intvw: Emily Zheng, PitchBook ]\nthe state of the VC secondary market 🤔\n39:45 - the next top-10 VC secondary startups 🏪\n43:40 - the top sectors in Q2 2026 🎩\n45:02 - potential trouble in the SPV market 😟\n52:10 - the future of tender offers👂\n57:45 - 2027 predictions 🗓\n59:51 - the changing nature of the IPO 🔃\n\n1:03:02 - [ valuation corner: Lakers sell for $12.5B ]\nLakers sale price breaks NBA record 🏅\n1:04:30 - tax benefit to owning a sports franchise 📑\n1:06:30 - breaking down the most valuable sports teams 🏟\n1:09:11 - how different leagues manage revenue ⚾️\n1:12:17 - why the Cowboys are the most valuable team in sports 🏈\n\n[ links ]\n\n [ invest = https://practicalvc.com ]\n [ trading places socials = www.linktr.ee/tradingplacespod ]\n [ emily zheng = https://www.linkedin.com/in/emzheng/ | https://x.com/EMZheng47 ]\n [ aman verjee = https://www.linkedin.com/in/aman-verjee | https://x.com/amanverjee ]\n [ dave mcclure = https://www.linkedin.com/in/davemcclure | https://x.com/davemcclure ]\n\nDisclaimer: This is not investment advice. We may hold positions in companies discussed. Do your own research.\n\n#Nvidia #AI #VentureCapital #Perplexity #PrivateMarkets",
+      "feed_url": "https://anchor.fm/s/1089ba538/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1089ba538/podcast/play/124881221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F430744177-44100-2-3a0db6d66122d.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/70/0e/42700e12-864c-6b85-0a22-adbacc2c7b78/mza_12163271820700687216.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/a3/d0/09a3d069-ca7b-a8d8-d276-2aacc8f48dc5/mza_17810288336832793546.jpg/600x600bb.jpg",
+      "collection_id": 1837075778,
+      "duration": 4563,
+      "pub_date": "2026-08-28T23:22:03Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/nvidias-ai-empire-chips-startups-and-jensen-huangs-endgame/id1837075778?i=1000786585148&uo=4",
+      "language": "en",
+      "itunes_id": 1000786585148,
+      "added_at": "2026-08-29T17:27:33.846814Z"
+    },
     {
       "guid": "0e33f164-f370-4b2f-971b-45ce3b61f983",
       "title": "How to Redesign Work With AI, Jensen Huang vs Bill Gates on Robot Taxes, & the Jobs AI Won't Replace",
