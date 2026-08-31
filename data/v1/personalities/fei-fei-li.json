@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "episodes": [
+    {
+      "guid": "b29e1ef0-74be-431d-9588-21c888278909",
+      "title": "Fei-Fei Li, LeCun, Hassabis: What Do They Mean by “World Model”?",
+      "podcast_title": "Turing Post",
+      "description": "Demis Hassabis, Yann LeCun, Fei-Fei Li – they all talk about “building a world model.” Some of them are dedicating their professional lives to it!\n\nBut do they mean the same?\n\n\nSo before joining the World Models workshop at Chicago Booth, I wanted to answer a basic question: what do researchers mean by a world model, and how many different ideas are sitting under this name?\n\n\nWorld models are absolutely fascinating area of research with its GPT moment still in the nearest future. \nThis episode is based on the current research and provides a comprehensive overview of three broad approaches: generating future observations, predicting inside learned representations such as JEPA, and learning only what a planner needs to make decisions.\n\n\n*Watch it.*\n👉 Subscribe for high-signal AI analysis\n👉 Instagram https://www.instagram.com/turingpost_tv\n👉 TikTok https://www.tiktok.com/@turingpost_tv\n👉 More analysis: https://www.turingpost.com/\n👉 Interviews: @realturingpost\n\n\nAttention Span is here to show you AI isn’t magic. Sometimes the best way to understand a model is to change the background to purple and see what breaks.\n\n\n*Links:* \nDemis Hassabis on world models\nhttps://www.youtube.com/watch?v=sZaM6MadDZU\nYann LeCun on world models\nhttps://www.youtube.com/watch?v=8sS9UJzb_t4\nFei-Fei Li on large world models\nhttps://www.youtube.com/watch?v=pNYVckbCFuk\nBeyond LLMs: JEPA and the Road to AGI – the main milestones so far https://www.youtube.com/watch?v=z0fh0SY3VWc\nstable-worldmodel https://github.com/galilai-group/stable-worldmodel/issues/153\nVideoPhy-2, a benchmark  https://arxiv.org/pdf/2503.06800 \nPhysion-Eval  https://arxiv.org/html/2603.19607v1 \nWhat Is JEPA? LeCun Architecture & World Models https://www.turingpost.com/p/jepa \n\n\n#WorldModels #AI #MachineLearning #YannLeCun #FeiFeiLi #DemisHassabis #JEPA #PhysicalAI #TuringPost #AttentionSpan",
+      "feed_url": "https://cloud.mave.digital/63078",
+      "audio_url": "https://api.mave.digital/storage/podcasts/dec2fdb6-0cce-4eea-8388-c83acd219cc2/episodes/2796fd5c-5b07-4c29-b5c6-0e232129b06b.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/1c/0e/701c0e42-0206-6577-749f-ce00f88dae95/mza_3295933147094664145.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/70/1c/0e/701c0e42-0206-6577-749f-ce00f88dae95/mza_3295933147094664145.png/600x600bb.jpg",
+      "collection_id": 1811089330,
+      "duration": 1018,
+      "pub_date": "2026-08-31T17:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-lecun-hassabis-what-do-they-mean-by-world-model/id1811089330?i=1000787016229&uo=4",
+      "language": "en",
+      "itunes_id": 1000787016229,
+      "added_at": "2026-08-31T19:46:00.143946Z"
+    },
     {
       "guid": "https://dutch.9natree.com/read/1250898102/",
       "title": "[Boekrecensie] The Worlds I See (Dr. Fei-Fei Li) Boeksamenvatting.",

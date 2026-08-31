@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "languages": [
     "de",
     "en",
@@ -128,7 +128,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 24,
+      "episode_count": 25,
       "handle_entity_id": null
     },
     {
@@ -215,7 +215,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 91,
+      "episode_count": 93,
       "handle_entity_id": null
     },
     {
@@ -250,7 +250,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 22,
+      "episode_count": 23,
       "handle_entity_id": null
     },
     {
