@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "languages": [
     "de",
     "en",
@@ -263,7 +263,7 @@
       "title": "Thinking Machines CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
       "feed_url": "https://podgod.ca/data/v1/personalities/mira-murati.json",
-      "episode_count": 18,
+      "episode_count": 19,
       "handle_entity_id": null
     },
     {

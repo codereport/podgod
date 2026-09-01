@@ -4,8 +4,25 @@
   "name": "Mira Murati",
   "title": "Thinking Machines CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "episodes": [
+    {
+      "guid": "0b3d9664-2ccb-40c1-b888-cef01f8d9e21",
+      "title": "China Broke the Servers & Mira Murati's First Model",
+      "podcast_title": "Digilize Lab",
+      "description": "The open-weight wave is moving faster than the labs can handle. Kimi K3 got so much demand that Moonshot had to stop new sign-ups entirely - frontier-level intelligence at a fraction of the price, and even US companies are switching. Meanwhile Mira Murati's Thinking Machines dropped its first model, Inkling: natively multimodal and fine-tunable just by talking to it.In Episode 15 we chop up:• 10+ new models in two weeks - and why open source is eating the market• Kimi K3 vs Fable 5: same intelligence, a fraction of the cost• Mira Murati's \"Inkling\" & the Tinker API• Moonshot's valuation going from $2B to $22B• The White House testing framework for frontier labs• Google's own silicon (Frozen V2) & the custom-chip race• The new GPT-5.6 family: Sol, Luna, Terra• Anthropic quietly heading toward profitability• xAI burning $1B a month & Apple hoarding 40% of the world's memory• Why OpenAI's German data center talks fell through - and the nuclear questionDigilize Lab - our weekly podcast where we chop up AI, tech, and what we see moving. New episode out now.",
+      "feed_url": "https://anchor.fm/s/1108529a4/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1108529a4/podcast/play/125044024/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-1%2F430969236-44100-2-d45e4fa44c53a.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/22/4e/7e224ec3-8aaf-f460-3c33-34684825ae57/mza_17562162544367896544.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7e/22/4e/7e224ec3-8aaf-f460-3c33-34684825ae57/mza_17562162544367896544.jpg/600x600bb.jpg",
+      "collection_id": 1888509389,
+      "duration": 2544,
+      "pub_date": "2026-09-01T15:32:26Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/china-broke-the-servers-mira-muratis-first-model/id1888509389?i=1000787210289&uo=4",
+      "language": "en",
+      "itunes_id": 1000787210289,
+      "added_at": "2026-09-01T17:30:57.458250Z"
+    },
     {
       "guid": "Buzzsprout-19514049",
       "title": "Inkling Arrives: Mira Murati's 975 Billion Parameter Open Weight Bet Against One Size Fits All AI - July 19, 2026",
