@@ -4,8 +4,25 @@
   "name": "Jeff Dean",
   "title": "Google senior fellow and researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "episodes": [
+    {
+      "guid": "cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
+      "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28",
+      "podcast_title": "What's Next｜科技早知道",
+      "description": "8 月初，谷歌发生了一场人事地震：Google DeepMind 创始人 Demis Hassabis 卸任 CEO，转任 DeepMind 董事长和 Alphabet 首席科学家；在谷歌效力 27 年的传奇工程师 Jeff Dean 与另外三位核心成员一同离开，创办面向科学发现的 AI 公司 Discovery Loop。消息公布当天，Alphabet 股价下跌 4%。而在半年前，Gemini 3 才刚刚登顶各大榜单、压过 OpenAI 与 Anthropic；如今 Gemini 3.5 Pro 从 6 月拖到 7 月再拖到现在，连续错过三个发布期限，曾经风光无限的 Gemini 似乎正在被遗忘。手握全球最顶级天才的 DeepMind，为什么一再落后？\n\n\n这期节目我们请到的嘉宾事周健工，他是「未尽研究」创始人，曾任《第一财经》 CEO、《福布斯》中文版总编辑，也是《哈萨比斯：谷歌 AI 之脑》的中文译者。我们聊了聊 Google 为什么会接二连三的人才出走，Google 在上一次的模型竞争中是如何落后和追赶的，以及到了今天 Google 还剩哪些底牌，中国的前沿开源模型又凭什么能与 Anthropic、OpenAI 正面对抗。\n\n\n本期人物\n\n\n周健工，《哈萨比斯：谷歌 AI 之脑》的中文译者，「未尽研究」创始人\n\n\nYaxian，「科技早知道」主播\n\n\n时间轴\n\n\n[00:19] 谷歌人事大地震：\n\n\n\n哈萨比斯卸任、Jeff Dean 出走创办 Discovery Loop\n\nAlphaGo 之父 David Silver 年初离开，继续押注强化学习\n\nNoam Shazeer 被 OpenAI 挖角； John Jumper 转投 Anthropic\n\n\n\n[06:35] Gemini 为什么掉队？\n\n\n\n编程成为 AI 第一个跑通商业化的行业\n\n智谱、Kimi、DeepSeek 等中国开源模型挤入 agentic AI 与 coding\n\n\n\n[13:47] Jeff Dean 为什么离开？\n\n\n\nJeff Dean 是谷歌基础设施缔造者\n\nDiscovery Loop：不超过 10 人的小团队，把全部资源倾注在科学发现一件事上\n\n\n\n[20:43] 谷歌在模型竞争中是如何落后的？\n\n\n\nTransformer 发布，DeepMind 瞧不上\n\n哈萨比斯认为语言模型不够「接地」，押注强化学习，错过一个时代\n\n\n\n[30:54] 马里奥计划：Deepmind 曾经试图脱离谷歌\n\n\n\n借 Alphabet 重组之机，哈萨比斯与苏莱曼策划把 DeepMind 拆出去\n\n皮查伊上台翻脸、苏莱曼被匿名举报，计划最终以创始人出走告终\n\n\n\n[37:43] 谷歌的底牌：基础设施、搜索与生态\n\n\n\n英伟达之外，唯一算力和基础设施能与之抗衡的玩家\n\n10 个以上 10 亿级用户应用的数据飞轮；当务之急是 Gemini 4\n\n\n\n[41:15] 中美打成平手？中国开源从\"学霸\"到\"必选项\"\n\n\n\n智谱、DeepSeek、Kimi 估值数千亿人民币，跨入前沿领域\n\n中国开源从\"学霸型不中用\"到\"好用\"再到\"必选项\"，美国也开始重视\n\n\n\n\n\n\n幕后制作\n\n\n监制：Yaxian\n\n\n后期：迪卡\n\n\n运营：George\n\n\n设计：饭团\n\n\n商业合作\n\n\n声动活泼商业化小队，点击链接直达声动商务会客厅，也可发送邮件至 business@shengfm.cn 联系我们。\n\n\n加入声动活泼\n\n\n声动活泼正在招聘全职商务运营经理、早咖啡内容实习生和社群实习生，如果你也对播客行业的内容制作感兴趣，欢迎点击招聘入口\n\n\n关于声动活泼\n\n\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n\n\n我们还有这些播客：声动早咖啡、声东击西、吃喝玩乐了不起、反潮流俱乐部、泡腾 VC、商业WHY酱、跳进兔子洞、不止金钱\n\n\n欢迎在即刻、微博等社交媒体上与我们互动，搜索 声动活泼 即可找到我们。\n\n\n期待你给我们写邮件，邮箱地址是：ting@sheng.fm\n\n\n\n\n\n欢迎扫码添加声小音，在节目之外和我们保持联系。\nSpecial Guest: 周健工.",
+      "feed_url": "https://feeds.fireside.fm/guiguzaozhidao/rss",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f8/99/2a/f8992af8-b391-a6e9-72a2-dda4c223ace8/mza_3325716517235553759.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/f8/99/2a/f8992af8-b391-a6e9-72a2-dda4c223ace8/mza_3325716517235553759.jpg/600x600bb.jpg",
+      "collection_id": 1494812579,
+      "duration": 2832,
+      "pub_date": "2026-09-02T08:45:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/hassabis-%E5%8D%B8%E4%BB%BB-jeff-dean-%E7%A6%BB%E5%BC%80-google-deepmind-%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%A4%A7%E6%B4%97%E7%89%8C-s10e28/id1494812579?i=1000787374008&uo=4",
+      "language": "zh",
+      "itunes_id": 1000787374008,
+      "added_at": "2026-09-02T17:31:35.349374Z"
+    },
     {
       "guid": "a7f8afa7-e4a5-41bb-bf8f-860b908fb37f",
       "title": "Jeff Dean’s Career Strategy for Surviving the AI Revolution",

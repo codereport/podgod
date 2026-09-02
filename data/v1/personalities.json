@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "languages": [
     "de",
     "en",
@@ -202,7 +202,7 @@
       "title": "Google senior fellow and researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
       "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
-      "episode_count": 22,
+      "episode_count": 23,
       "handle_entity_id": null
     },
     {
