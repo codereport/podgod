@@ -4,7 +4,7 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "episodes": [
     {
       "guid": "a76241d3-6df4-43e0-acbb-6701a9436eae",
@@ -241,7 +241,7 @@
       "itunes_id": 1000766203785,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "<p>Boris Cherny, creator of Claude Code at Anthropic, joins Sequoia partner Lauren Reeder at AI Ascent 2026 to talk about where coding goes from here. He explains why he hasn't written a line of code in 2026, why he now ships dozens of PRs a day from his phone, and why he believes coding is effectively solved — at least for the code he writes. Also: why loops are the future, why he thinks Claude Code itself may be 100 lines of code a year from now, and why the invention of the printing press is the right analogy for what's about to happen to software.</p>",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/4c/bc/5f4cbc29-1187-d16e-78ec-38d4648b35a1/mza_7833138730987211192.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/9a/b5/629ab560-b203-d293-a23a-d4080ad8390e/mza_16724704058821201049.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "podcastindex_id": 54236329374,
       "language": "en"

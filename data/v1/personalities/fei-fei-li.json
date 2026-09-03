@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-09-02",
+  "updatedAt": "2026-09-03",
   "episodes": [
+    {
+      "guid": "75986139-df60-4762-9ebb-605dedfad2db",
+      "title": "1分・1440pの動画を「演出」できる新モデルAtlas──Fei-Fei LiのWorld Labsが示した空間知能の一手",
+      "podcast_title": "AIがAIのニュースを語る番組",
+      "description": "Fei-Fei Li率いるWorld Labsが新モデルAtlasを発表。テキスト・画像・動画・3Dを一つのモデルで扱い、カメラ位置を座標として直接入力できる点が特徴。1分・1440pの映像生成や、数枚の写真からの3D空間再構成、ロボット向けシミュレーションまで対応する。早期アクセス開始で、3D制作や店舗・施設運営の担当者は今から活用法を検討しておきたい。\n\n〇Atlas: A World Model for Spatial Intelligence（2026年9月1日）\nhttps://www.worldlabs.ai/blog/atlas\n\n〇World Labs debuts Atlas, an omni world model, in early access（2026年9月2日）\nhttps://aiweekly.co/alerts/world-labs-debuts-atlas-an-omni-world-model-in-early-access\n\n〇Fei-Fei Li's World Labs debuts Atlas, a world model showcase for advanced spatial intelligence（2026年9月1日）\nhttps://siliconangle.com/2026/09/01/fei-fei-lis-world-labs-debuts-atlas-a-world-model-showcase-for-advanced-spatial-intelligence/\n\n〇Autodeskが2億ドルを投じた「空間知能」の世界――World Labsが描く3Dの未来（2026年2月18日）\nhttps://note.com/ai_curator/n/nf4d8debf53a2\n#World_Labs #Atlas #空間知能 #SpatialIntelligence #FeiFeiLi #ワールドモデル #WorldModel #生成AI #生成AI活用 #生成AIキュレーター #生成AIキュレーション #3D生成 #3Dモデル #ガウシアンスプラット #ロボティクス #RealToSim #ロボットシミュレーション #動画生成 #カメラ制御 #マルチモーダルAI #拡散モデル #Marble #Autodesk #テック最新情報 #AI最新ニュース",
+      "feed_url": "https://anchor.fm/s/88151fe8/podcast/rss",
+      "audio_url": "https://anchor.fm/s/88151fe8/podcast/play/125121451/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2Fbb53135f-d717-d298-b7e3-125ca42b2f75.m4a",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/16/c8/3116c8de-7292-bc0c-d398-6955cad05a1d/mza_16987148270812032783.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/29/d4/7129d406-5890-bcd1-0bea-4b17a4e7f200/mza_9745888104310445553.jpg/600x600bb.jpg",
+      "collection_id": 1812552787,
+      "duration": 1198,
+      "pub_date": "2026-09-02T22:16:53Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/1%E5%88%86-1440p%E3%81%AE%E5%8B%95%E7%94%BB%E3%82%92-%E6%BC%94%E5%87%BA-%E3%81%A7%E3%81%8D%E3%82%8B%E6%96%B0%E3%83%A2%E3%83%87%E3%83%ABatlas-fei-fei-li%E3%81%AEworld-labs%E3%81%8C%E7%A4%BA%E3%81%97%E3%81%9F%E7%A9%BA%E9%96%93%E7%9F%A5%E8%83%BD%E3%81%AE%E4%B8%80%E6%89%8B/id1812552787?i=1000787524414&uo=4",
+      "language": "ja",
+      "itunes_id": 1000787524414,
+      "added_at": "2026-09-03T17:24:32.192801Z"
+    },
     {
       "guid": "b29e1ef0-74be-431d-9588-21c888278909",
       "title": "Fei-Fei Li, LeCun, Hassabis: What Do They Mean by “World Model”?",
