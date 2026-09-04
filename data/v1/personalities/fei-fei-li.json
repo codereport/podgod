@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-04",
   "episodes": [
+    {
+      "guid": "66ed7536-8ad1-44b3-8a94-06c3160329e2",
+      "title": "Fei Fei Li: The Race to Build World Models For AI",
+      "podcast_title": "The a16z Show",
+      "description": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of spatial intelligence.\nAt the center of Atlas is what the team calls “new view prediction”: given images or views of a scene, the model predicts what that environment should look like from a different position in space and time. This brings generation and 3D reconstruction into the same model, and raises a broader question about whether predicting views could become a useful primitive for understanding the physical world.\nThey discuss the technical bets behind the model, what it can and can’t yet capture, and the importance of dynamics, editability, and simulation as world models develop. The conversation also explores applications in creative work, architecture, and robotics, where Fei-Fei argues that one of today’s biggest constraints is access to real-world training data.\n \nResources:\nFollow Fei-Fei Li on X: https://x.com/drfeifei\nFollow Justin Johnson on X: https://x.com/jcjohnss\nFollow Ben Mildenhall on X: https://x.com/BenMildenhall\nFollow Martin Casado on X: https://x.com/martin_casado\nLearn more about Atlas: https://www.worldlabs.ai/blog/atlas\n \n\nStay Updated:\nFind a16z on YouTube: YouTube\nFind a16z on X\nFind a16z on LinkedIn\nListen to the a16z Show on Spotify\nListen to the a16z Show on Apple Podcasts\nFollow our host: https://twitter.com/eriktorenberg\n \nPlease note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7a8beefc-2d73-42f7-8b7a-d2f15ad0358d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7a8beefc-2d73-42f7-8b7a-d2f15ad0358d&feed=JGE3yC0V",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "collection_id": 842818711,
+      "duration": 2676,
+      "pub_date": "2026-09-04T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-the-race-to-build-world-models-for-ai/id842818711?i=1000787830626&uo=4",
+      "language": "en",
+      "itunes_id": 1000787830626,
+      "added_at": "2026-09-04T17:17:52.665916Z"
+    },
     {
       "guid": "75986139-df60-4762-9ebb-605dedfad2db",
       "title": "1分・1440pの動画を「演出」できる新モデルAtlas──Fei-Fei LiのWorld Labsが示した空間知能の一手",
