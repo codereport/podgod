@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/74889874",
+      "title": "Ilya Sutskever’s SSI: The $5B Quest for Biological Brain AI & Safe Superintelligence",
+      "podcast_title": "Thrilling Threads - Conspiracy Theories, Strange Phenomena, True Crime, Unsolved Mysteries, etc!",
+      "description": "🚀 Is Ilya Sutskever Building a Digital God? The $5 Billion Race for Safe Super Intelligence (SSI)\n\nWill a $5 billion investment from Nvidia finally solve the AI alignment problem, or are we just building a digital entity we can't control? 🤖 In this episode, we deep-dive into Safe Super Intelligence (SSI)—the secretive startup co-founded by Ilya Sutskever that is ditching 'brute-force data' to replicate the elegant efficiency of the biological brain. Forget massive server farms; SSI is architecting a 'super intelligent teenager' that learns through experience, updates its own neural network, and—most importantly—never forgets its core values. 🧠✨\n\nIs it truly possible to create an autonomous agent with a stable internal value system? We explore why continual learning is the missing link in modern AI and how SSI plans to ensure that as an AI’s intelligence expands exponentially, its moral compass remains rock-solid. From the massive Nvidia backing to the surprising role of virtual environments like Entropia Universe in testing long-term AI memory, this is the future of Artificial Intelligence laid bare. 🚀\n\nInside the Episode: What You Need to KnowThe Death of Brute Force: Why SSI is pivoting away from traditional data processing toward sample efficiency and biological models. 📉The 'Super Intelligent Teenager': How AI can now update its own code and learn from experience without 'catastrophic forgetting.'Solving the Alignment Problem: Can we build a stable internal value system for an entity that is smarter than its creators? ⚖️The $5 Billion Bet: What Nvidia’s massive investment tells us about the next phase of the global AI arms race. 💰Neural Evolution: Understanding how continual learning allows models to evolve after deployment while maintaining safety.Are we ready for an AI that thinks, learns, and evolves exactly like a human—but at warp speed? Whether you're a tech enthusiast, a developer, or a curious skeptic, this episode is a must-listen for anyone who wants to understand where the technological singularity is actually headed. 🌐\n\n🔥 Don't just watch the future happen—be part of the conversation. If you want to stay ahead of the curve on Generative AI and Superintelligence, hit that Subscribe button now and share this episode with your tech-obsessed circle! Drop a comment below: Do you trust a self-evolving AI? Let’s get into it! 👇  \n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/thrilling-threads-conspiracy-theories-strange-phenomena-true-crime-unsolved-mysteries-etc--5995429/support.\n\nThrillingThreadsPod.com - Unravel the Unknown.Dive deep into the world's greatest conspiracy theories, strange phenomena, true crimes, and unsolved mysteries. Follow the threads.",
+      "feed_url": "https://www.spreaker.com/show/5995429/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/74889874/utf_8_q_ilya_sutskever_e2_80_99s_ssi_the_5b_quest_for_biolo_utf_8_q_gical_brain_ai_safe_superintelligence1_mp4.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/1e/5b/5a1e5ba9-7968-4658-db6f-caa9434d24ff/mza_773715494413253454.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/6e/58/ae6e5880-e58f-a17c-08cc-9a2e4d7a8ba3/mza_8633159373117437744.jpg/600x600bb.jpg",
+      "collection_id": 1714228902,
+      "duration": 1418,
+      "pub_date": "2026-09-06T00:00:02Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskevers-ssi-the-%245b-quest-for-biological/id1714228902?i=1000788067181&uo=4",
+      "language": "en",
+      "itunes_id": 1000788067181,
+      "added_at": "2026-09-06T16:36:50.700185Z"
+    },
     {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
       "title": "Ilya Sutskever and Jan Leike RESIGN from OpenAI - My in-depth analysis - end of an era! | Artificial Intelligence Masterclass",

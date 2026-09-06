@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05",
+  "updatedAt": "2026-09-06",
   "languages": [
     "de",
     "en",
@@ -182,7 +182,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
-      "episode_count": 26,
+      "episode_count": 27,
       "handle_entity_id": null
     },
     {
