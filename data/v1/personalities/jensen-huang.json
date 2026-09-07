@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "episodes": [
+    {
+      "guid": "04faeb34-19b6-4d1f-915a-c5001f4a00b6",
+      "title": "NVIDIA Custom NVHBM Has 30% Higher Bandwidth Than HBM - Jensen Huang Owns AI Stack",
+      "podcast_title": "Eli the Computer Guy",
+      "description": "NVIDIA Custom NVHBM Has 30% Higher Bandwidth Than HBM - Jensen Huang Owns AI Stack",
+      "feed_url": "https://anchor.fm/s/111fbe8cc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/111fbe8cc/podcast/play/124877713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F430741674-44100-2-4b79c5584322f.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d9/fb/75/d9fb75ef-2083-3694-633e-d3d53135ac19/mza_12675971772178578255.jpg/600x600bb.jpg",
+      "collection_id": 1895967811,
+      "duration": 959,
+      "pub_date": "2026-09-07T12:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/nvidia-custom-nvhbm-has-30-higher-bandwidth-than-hbm/id1895967811?i=1000788296255&uo=4",
+      "language": "en",
+      "itunes_id": 1000788296255,
+      "added_at": "2026-09-07T18:30:57.001267Z"
+    },
     {
       "guid": "505fbe82-2349-11f1-b610-3fa7e6c21ed0",
       "title": "How to Take Risks and Still Succeed | Jensen Huang's Guidance in 25 Minutes",

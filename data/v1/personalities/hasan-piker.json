@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "episodes": [
+    {
+      "guid": "9789ac3c-aad5-11f1-8f2e-8b813356f756",
+      "title": "Is this the END for Fear&?! | Fear&",
+      "podcast_title": "Fear&",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD8583279876.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 4417,
+      "pub_date": "2026-09-07T16:02:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-09-07T18:30:57.001267Z"
+    },
     {
       "guid": "https://api.spreaker.com/episode/74928032",
       "title": "Answering Capitalism’s Critics #3: Hasan Piker — “Technofeudalism” | Yaron Brook Show",
@@ -1666,22 +1682,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/hasan-piker-has-thoughts-on-the-hasan-piker-discourse/id1192761536?i=1000760742204&uo=4",
       "language": "en",
       "itunes_id": 1000760742204,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "8f9544ee-d7ab-11f0-915a-43655125bdca",
-      "title": "We Tried \"Spiritual\" Healing | Fear&",
-      "podcast_title": "Fear&",
-      "description": "is he actually a chud :/\n\n✨WATCH THE SECOND HALF ON PATREON✨ \n  Patreon - https://www.patreon.com/FearAnd\n\n\n\n🎧 AUDIO PLATFORMS 🎧\n🔊https://linktr.ee/fearand\n\n\n\n❤️ follow Fear&! ❤️\n\nHasan: https://twitter.com/Hasanthehun\nWill: https://twitter.com/TheWillNeff\nQT: https://twitter.com/QTCinderella\nAustin: https://twitter.com/Austinontwitter\nMarche: https://twitter.com/Marche\nFear&: https://twitter.com/FearAndPod\n\n\n\n\n\n\n\nChapters - \n00:00:00 - the native language of a hispanic dog\n00:01:50 - what a start to the episode, what a platform to stand on\n00:05:09 - not the wrong coffee oh no\n00:06:01 - estates sales but they live\n00:08:52 - healing your spirit \n00:12:12 - someone save that damn cat\n00:15:40 - the perfect jean\n00:17:25 - can you crush a cat if you need to\n00:20:20 - odd how the two with Miranda and Ruiz as last names are the two workers...\n00:22:12 - hoover your fears away\n00:25:25 - the apple is a pivotal part of this task\n00:27:15 - the bold research that is missing from trumps america\n00:31:38 - Zocdoc\n00:33:03 - he knows a little too much about Mormonism\n00:36:48 - speaking of gay\n00:40:00 - your religion cant be used to justify hate\n00:42:06 - the challenge of the damn century\n00:43:16 - barbie \"dream\" fest\n00:47:22 - its ALWAYS the ones who spew the most crap\n00:52:11 - being a republican to add to your shame\n00:54:14 - minipop nation\n00:58:30 - everyone invite hasan to your wedding for free gifts\n\n\n#hasanabi #qtcinderella       #podcast\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7262534477.mp3",
-      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "duration": 3811,
-      "pub_date": "2026-04-06T16:00:00Z",
-      "episode_url": null,
-      "language": "en",
-      "hosted_podcast_id": "podcastindex-5601816",
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],

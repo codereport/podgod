@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "episodes": [
+    {
+      "guid": "03b06b8e-a4a6-11f1-8eb6-435fc18ed9d9",
+      "title": "Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT,  Geoffrey Hinton",
+      "podcast_title": "Wes Roth",
+      "description": "#gpt4 #deepmind #openai 🔥 Get my A.I. + Business Newsletter (free):https://natural20.com/ https://twitter.com/AndrewYNg/status/1689693276234989569https://www.deeplearning.ai/the-batch/issue-209/https://arxiv.org/abs/2210.13382[RELATED VIDEOS]Minecraft AI - SELF-IMPROVING 🤯 autonomous agent:https://www.youtube.com/watch?v=7yI4yfYftfM25 ChatGPTs play a videogame...https://youtu.be/GwsRu9yLXnwGPT-4 leaked! 🔥 All details exposed 🔥 It is over...https://youtu.be/GwsRu9yLXnwLLMs as Tool Makers [LATM] - GPT-4 *UPGRADES* lower AI Models.https://www.youtube.com/watch?v=qWI1AJ2nSDYSam Altman on UBI and Massive Job Losses from AI Automationhttps://www.youtube.com/watch?v=5Nsqv3FWXio[TIMELINE][00:00] Geoffrey Hinton[00:33] Andrew Ng[03:06] Emergent World Representations: Othello-GPT[07:46] TLDR summary[14:28] Geoffrey Hinton and Andrew Ng Discuss",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN5430224397.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/2e/f8/462ef875-cd14-81ad-ff4a-284ca57cc06d/mza_1909441642471736383.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
+      "collection_id": 6806726491,
+      "duration": 1345,
+      "pub_date": "2026-09-07T17:27:16Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/proof-that-ai-understands-andrew-ng-on-llms-building/id6806726491?i=1000786855183&uo=4",
+      "language": "en",
+      "itunes_id": 1000786855183,
+      "added_at": "2026-09-07T18:30:57.001267Z"
+    },
     {
       "guid": "36c37a37-9d8d-4009-8cac-1c9135f0f330",
       "title": "AI4 2026 Conference Recap: Geoffrey Hinton, AI Governance & Live Takeaways from Las Vegas",

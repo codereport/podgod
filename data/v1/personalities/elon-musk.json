@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-09-06",
+  "updatedAt": "2026-09-07",
   "episodes": [
+    {
+      "guid": "6f826fd7-0d19-4dfd-b7db-e6d6e4999cf1",
+      "title": "Elon Musk: A era da abundância e o fim do controlo humano (?)",
+      "podcast_title": "SuperToast",
+      "description": "Análise ao artigo \"⁠⁠Elon Musk: A era da abundância e o fim do controlo humano (?)\" pela Maria Inteligente e pelo Manuel Génio.\n\nAcompanhe o dia-a-dia da Maria Inteligente e o Manuel Génio no Instagram:\nMaria Inteligente 👉 ⁠ https://www.instagram.com/maria_inteligente/\nManuel Génio 👉 ⁠https://www.instagram.com/manuel_genio/\n\nSaiba mais em ⁠Supertoast.pt",
+      "feed_url": "https://anchor.fm/s/f957f8c4/podcast/rss",
+      "audio_url": "https://anchor.fm/s/f957f8c4/podcast/play/125321534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-7%2Fdac86e2a-7904-e839-b45e-7f36f01a5e32.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/aa/2b/4caa2be0-ff67-0cad-cc7d-a63489ad2747/mza_16255306910352996215.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/06/86/b2068692-c8b6-b343-01d4-9e2a00483306/mza_2945050758666942568.png/600x600bb.jpg",
+      "collection_id": 1451873622,
+      "duration": 1151,
+      "pub_date": "2026-09-07T08:53:45Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-a-era-da-abund%C3%A2ncia-e-o-fim-do-controlo-humano/id1451873622?i=1000788263381&uo=4",
+      "language": "pt",
+      "itunes_id": 1000788263381,
+      "added_at": "2026-09-07T18:30:57.001267Z"
+    },
     {
       "guid": "0e0b5862-9d7d-11f1-93d2-f7a1ad40d7e8",
       "title": "OpenAI Pauses Frontier Training, Elon's 100X Prediction Lands, Robot Beats Usain Bolt with Emad Mostaque | EP#282",
