@@ -4,8 +4,24 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-08",
   "episodes": [
+    {
+      "guid": "e5a345de-feda-4a8e-83ae-fa6bf83325cc",
+      "title": "Fable 5.1 怎麼 prompt？5 件今天就該改的事",
+      "podcast_title": "AI懶人報",
+      "description": "<p><br />🚀 特別感謝贊助 \n<br /> <br />\n本集節目由 VoAI 絕好聲創 提供技術支援。 \n<br /> <br />\n🎤 VoAI 提供最有「台灣味」的 AI 聲音，支援情感語音、台式口音，甚至能一鍵生成虛擬人！ \n<br /> <br />\n🎁 AI懶人報聽眾專屬優惠： \n<br />👉 輸入優惠碼 AILRB26 立享 95 折！ \n<br />👉 API 方案用戶：透過專員聯繫並告知從「AI懶人報」來的，額外加贈 10% 使用額度！ \n<br /> <br />\n立刻體驗：<a href=\"https://www.voai.ai/\">https://www.voai.ai/</a> \n<br /> <br />\n━━━━━━━━━━━━━━━ \n<br /> <br />\n⏱ 章節 \n<br /> <br />\n00:00 為什麼你的 claude.md 正在讓它變笨 \n<br />01:19 先刪，不要先加 \n<br />03:26 我拿懶人報自己跑了一次 \n<br />05:38 effort：預設值不是最好的值 \n<br />08:25 沒有人看的時候，它會停下來 \n<br />10:30 兩個講一句話就會改善的預設 \n<br />11:38 新模型出來該做的事 \n<br />13:14 一個任務到底該怎麼寫 \n<br />16:37 完整回顧 \n<br /> <br />\n━━━━━━━━━━━━━━━ \n<br /> <br />\n📌 本集在講什麼 \n<br /> <br />\nFable 5.1 出來之後，你把模型換過去，其他東西一個字都沒動，它照跑，也沒有報錯。問題就在這裡：一條為了舊模型寫的規則，不會跳出任何訊息告訴你它已經沒有用了。 \n<br /> <br />\n這一集講五件事：官方 prompting 文件裡真正會影響你的那幾段、推理強度該怎麼選（有第三方實測，結論跟直覺相反）、怎麼讓它在你睡覺的時候把事情做完、兩個一句話就能關掉的預設行為，以及最後一段，下一個模型出來的那一天你該跑哪一套流程。 \n<br /> <br />\n中間我拿 AI 懶人報這個專案自己跑了一次，把 CLAUDE.md 從 571 行刪到 149 行，包含我刪過頭、又把那一條加回來的過程。 \n<br /> <br />\n本集也引用了 Claude Code 作者 Boris Cherny 在 Y Combinator Startup School 的訪談片段。 \n<br /> <br />\n━━━━━━━━━━━━━━━ \n<br /> <br />\n🎬 影片版 \n<br /> <br />\n這一集有完整的影片版，18 分鐘，畫面上有官方文件、實測數據跟訪談片段： \n<br /><a href=\"https://www.youtube.com/watch?v=bIm2o7oGJxQ\">https://www.youtube.com/watch?v=bIm2o7oGJxQ</a> \n<br /> <br />\n━━━━━━━━━━━━━━━ \n<br /> <br />\n🔗 資料來源 \n<br /> <br />\nAnthropic 官方 Prompting Claude Fable 5.1 \n<br /><a href=\"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1\">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1</a> \n<br /> <br />\nCodeRabbit 的 Fable 5.1 實測 \n<br /><a href=\"https://www.coderabbit.ai/blog/fable-5-1-model-review\">https://www.coderabbit.ai/blog/fable-5-1-model-review</a> \n<br /> <br />\nY Combinator × Boris Cherny：We Cut 80% of Claude Code's Prompt \n<br /><a href=\"https://www.youtube.com/watch?v=qyPCVqFUyDo\">https://www.youtube.com/watch?v=qyPCVqFUyDo</a> \n<br /> <br />\n━━━━━━━━━━━━━━━ \n<br /> <br />\n📮 追蹤 AI 懶人報 \n<br /> <br />\nYouTube：<a href=\"https://www.youtube.com/@ai.lanrenbao\">https://www.youtube.com/@ai.lanrenbao</a> \n<br />Instagram：<a href=\"https://www.instagram.com/ai.lanrenbao/\">https://www.instagram.com/ai.lanrenbao/</a> \n<br />Threads：<a href=\"https://www.threads.com/@ai.lanrenbao\">https://www.threads.com/@ai.lanrenbao</a> \n<br />Facebook：<a href=\"https://www.facebook.com/674861349041960\">https://www.facebook.com/674861349041960</a> \n<br />所有連結：<a href=\"https://portaly.cc/ailrb\">https://portaly.cc/ailrb</a> \n<br /> <br />\n☕ 請我喝杯咖啡：<a href=\"https://buymeacoffee.com/ailanrenbao\">https://buymeacoffee.com/ailanrenbao</a> \n<br /> <br />\n#AI懶人報 #Fable51 #Claude #ClaudeCode #Anthropic #AI工具 \n<br />--<br />\nHosting provided by <a href=\"https://www.soundon.fm/\">SoundOn</a> </p>",
+      "feed_url": "https://feeds.soundon.fm/podcasts/ca974d36-6fcc-46fc-a339-ba7ed8902c80.xml",
+      "audio_url": "https://rss.soundon.fm/rssf/ca974d36-6fcc-46fc-a339-ba7ed8902c80/feedurl/e5a345de-feda-4a8e-83ae-fa6bf83325cc/rssFileVip.mp3?timestamp=1788808990496",
+      "artwork_url": "https://files.soundon.fm/1788808964549-562ff424-ff30-4f71-8d4a-ac16e6c2f2cc.jpeg",
+      "podcast_artwork_url": "https://files.soundon.fm/1749486556047-0f418025-eb0d-4168-8a00-398627b66aa3.jpg",
+      "duration": 1093,
+      "pub_date": "2026-09-07T19:18:31Z",
+      "episode_url": "https://player.soundon.fm/p/ca974d36-6fcc-46fc-a339-ba7ed8902c80/episodes/e5a345de-feda-4a8e-83ae-fa6bf83325cc",
+      "language": "zh",
+      "podcastindex_id": 60084733725,
+      "added_at": "2026-09-08T17:41:00.289255Z"
+    },
     {
       "guid": "a76241d3-6df4-43e0-acbb-6701a9436eae",
       "title": "EP378 – Boris Cherny 揭露 Claude Opus 5 刪除 80% 系統提示詞後，AI 開發效率竟出現驚人躍升！ 軟體工程師如何重新定位？",
