@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "episodes": [
+    {
+      "guid": "2126e682-a47b-11f1-b721-c756700ab2a0",
+      "title": "Ilya Sutskever new \"Superintelligence\" model will change EVERYTHING",
+      "podcast_title": "Wes Roth",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.______________________________________________My Links 🔗➡️ Twitter: https://x.com/WesRoth➡️ AI Newsletter: https://natural20.beehiiv.com/subscribeWant to work with me?Brand, sponsorship & business inquiries: wesroth@smoothmedia.coCheck out my AI Podcast where me and Dylan interview AI experts:https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk______________________________________________#ai #openai #llm",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN7739518384.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/45/83/0845838c-03bd-27bf-9979-57c9202ac705/mza_16364063334028273037.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
+      "collection_id": 6806726491,
+      "duration": 1414,
+      "pub_date": "2026-09-09T13:16:21Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-new-superintelligence-model-will-change/id6806726491?i=1000786825169&uo=4",
+      "language": "en",
+      "itunes_id": 1000786825169,
+      "added_at": "2026-09-09T17:27:04.878434Z"
+    },
     {
       "guid": "https://api.spreaker.com/episode/74889874",
       "title": "Ilya Sutskever’s SSI: The $5B Quest for Biological Brain AI & Safe Superintelligence",
@@ -138,7 +155,7 @@
       "itunes_id": 1000768272910,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "# TEMA \nLA VENGANZA DE ILYA SUTSKEVER \"Elon Musk es el CEO más competente\"\n\n# PRESENTA Y DIRIGE \n🧠Plácido Doménech Espí\n⭐Creador de xHUB.AI\n🏢CEO MXND.AI : Software + AI\n✉️placido.domenech@mxnd.ai\n\n# xHUB.AI\nxHUB.AI es una comunidad de Inteligencia Artificial y Ciencias transversales de habla hispana.\n\n# REDES SOCIALES\n🌐 youtube : xhubai\n🌐 X  :   xhub_ai | placidodomenech\n🌐 twitch :   xhub_ai | placidodomenech\n🌐 instagram :   / xhub_ai | placidodomenech\n🌐 discord : Pídenos acceso mediante DM en redes sociales.\n\n# PODCAST\n🎧 buzzsprout : https://xhubai.buzzsprout.com/\n🎧 spotify : https://open.spotify.com/show/2SPqvrGGvZkALTy6jSokxI?si=1927a4d04b5145c4\n🎧 apple : https://podcasts.apple.com/es/podcast/xhub-ai/id1576725819\n🎧 amazon music : https://music.amazon.com/podcasts/e4ff4e8c-4efb-4aed-907e-09b2b1d7aa86\n🎧 ivoox : https://go.ivoox.com/sq/1337641\n\n# APÓYANOS\nSi te ha gustado nuestro contenido, apoya a la comunidad y el canal de xHUB.AI:\n❤️BuyMeACoffe : https://www.buymeacoffee.com/xhubai\n❤️Paypal : pladoes@gmail.com\n❤️ivoox Podcast : https://www.ivoox.com/support/1337641\n\n# CONTACTAR\n¿Quieres anunciarte, alguna propuesta interesante o consulta? Envíanos un correo.\n✉️ Correo : xhubai.spain@gmail.com💬\nSend us Fan Mail\nSupport the show",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/44/60/0c446078-b00d-0c20-cb92-e9ecdd40fbae/mza_399216115355399766.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3f/7a/ff/3f7aff76-f559-acdf-1cd6-1dd3a482c3dd/mza_10289045800183682601.jpg/600x600bb.jpg",
       "collection_id": 1576725819,
       "language": "es"
     },

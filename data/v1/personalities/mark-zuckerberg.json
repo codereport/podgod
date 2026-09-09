@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "episodes": [
+    {
+      "guid": "substack:post:214752912",
+      "title": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
+      "podcast_title": "Sources with Alex Heath",
+      "description": "As Meta releases Muse, Mark Zuckerberg tells me why he thinks a personal AI agent that works for you around the clock will make you money.\nHe explains how Meta plans to make that business work and why he thinks keeping the most powerful AI models in the hands of a few companies is dangerous.\nWe also discuss the growing backlash against data centers, Meta’s recent youth safety settlement, and the privacy scare over its smart glasses. And he shares what went wrong with Llama 4, how he rebuilt Meta’s AI lab, and what’s coming next.\nThanks to the show's premier sponsors: Granola, Atlassian, and Mercury.\n \n\nThis is a public episode. If you'd like to discuss this with other subscribers or get access to bonus episodes, visit sources.news/subscribe",
+      "feed_url": "https://api.substack.com/feed/podcast/3525780.rss",
+      "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/api.substack.com/feed/podcast/214752912/fad7d63c4351e72ce1e5f08e5a5b5bab.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/c1/81/7ac181e7-e9d3-af6e-e211-a76e4781c83a/mza_9865000911128021499.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/7d/a3/807da375-ca6a-0aa0-85cc-1adcfeb1ee57/mza_8453028832480131344.jpg/600x600bb.jpg",
+      "collection_id": 1840154537,
+      "duration": 4210,
+      "pub_date": "2026-09-08T22:02:32Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg-on-muse-metas-biggest-ai-bet-yet/id1840154537?i=1000788542811&uo=4",
+      "language": "en",
+      "itunes_id": 1000788542811,
+      "added_at": "2026-09-09T17:27:04.878434Z"
+    },
     {
       "guid": "1be0ce0a-239c-11f1-b9e6-675539696f83",
       "title": "How to Set Big Goals and Actually Achieve Them | Mark Zuckerberg's Wisdom in 21 Minutes",
