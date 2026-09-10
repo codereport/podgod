@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "languages": [
     "de",
     "en",
@@ -215,7 +215,7 @@
       "title": "NVIDIA CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
-      "episode_count": 97,
+      "episode_count": 100,
       "handle_entity_id": null
     },
     {
