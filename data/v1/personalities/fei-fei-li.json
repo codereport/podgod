@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-11",
   "episodes": [
+    {
+      "guid": "40633602-b305-4f6b-89b8-b7782524e74e",
+      "title": "Fei-Fei Li: The Godmother of AI and the Race to Build World Models",
+      "podcast_title": "Moconomy Originals",
+      "description": "Fei-Fei Li: The Godmother of AI and the Race to Build World Models\nFei-Fei Li helped teach machines how to see. Now, the scientist behind ImageNet is betting that the next revolution in artificial intelligence will be about teaching machines how to understand the physical world.\nThis Moconomy documentary follows Li from her early work in computer vision to the creation of World Labs, where she is developing world models capable of generating, simulating and navigating realistic 3D environments. The goal goes far beyond chatbots: AI that can understand space, predict what happens next and eventually help robots interact with the real world.\nAs billions flow into this new frontier, the film explores the race toward spatial intelligence, the future of robotics and Li’s belief that AI should expand human capability rather than replace it.\nIf language models taught machines to talk, could world models finally teach them how to act?\nWant to explore more of the people and technologies driving the AI revolution? Continue with these Moconomy documentaries:\nInside Anthropic: The $965 Billion AI Titan | Claude, AI Safety and Superintelligence | 4K - https://youtu.be/1ShpMSuVmywNVIDIA: The $10B Gamble | How Jensen Huang Built the AI Empire - https://youtu.be/AXOM9HHJL5AAmerican Dream | More Productivity, Less Security | 4K - https://youtu.be/3TtAU_yNmXY",
+      "feed_url": "https://anchor.fm/s/10deba628/podcast/rss",
+      "audio_url": "https://anchor.fm/s/10deba628/podcast/play/124758286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-26%2F430573407-44100-2-e06d7bdfbc1bc.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/53/a2/c1/53a2c1d7-01e2-511f-1b54-9ce003119fd8/mza_16322239530355902930.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/9b/31/ea9b31a5-c613-36d1-1a4e-a0fc4a7045dd/mza_543692824478178273.jpg/600x600bb.jpg",
+      "collection_id": 1896939678,
+      "duration": 1453,
+      "pub_date": "2026-09-11T05:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-the-godmother-of-ai-and-the-race/id1896939678?i=1000788996099&uo=4",
+      "language": "en",
+      "itunes_id": 1000788996099,
+      "added_at": "2026-09-11T17:26:29.716549Z"
+    },
     {
       "guid": "66ed7536-8ad1-44b3-8a94-06c3160329e2",
       "title": "Fei Fei Li: The Race to Build World Models For AI",
