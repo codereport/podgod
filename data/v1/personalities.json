@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "languages": [
     "de",
     "en",
@@ -34,7 +34,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
-      "episode_count": 52,
+      "episode_count": 53,
       "handle_entity_id": null
     },
     {
@@ -59,7 +59,7 @@
       "title": "Olympic 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/cole-hocker.png?v=b835672c",
       "feed_url": "https://podgod.ca/data/v1/personalities/cole-hocker.json",
-      "episode_count": 25,
+      "episode_count": 26,
       "handle_entity_id": null
     },
     {
@@ -192,7 +192,7 @@
       "title": "Olympic 1500m & 5000m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=a5020ba0",
       "feed_url": "https://podgod.ca/data/v1/personalities/jakob-ingebrigtsen.json",
-      "episode_count": 25,
+      "episode_count": 27,
       "handle_entity_id": null
     },
     {

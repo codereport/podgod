@@ -4,8 +4,24 @@
   "name": "Andrej Karpathy",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-12",
   "episodes": [
+    {
+      "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
+      "title": "The REAL Reason Andrej Karpathy Joined Anthropic",
+      "podcast_title": "Wes Roth",
+      "description": "<p>Links, details, etc: <a href=\"https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic\">https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic</a><br><br>The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.<br><br>______________________________________________<br>My Links 🔗<br>➡️ Twitter: <a href=\"https://x.com/WesRoth\">https://x.com/WesRoth</a><br>➡️ AI Newsletter: <a href=\"https://natural20.beehiiv.com/subscribe\">https://natural20.beehiiv.com/subscribe</a><br><br>Want to work with me?<br>Brand, sponsorship & business inquiries: wesroth@smoothmedia.co<br><br>Check out my AI Podcast where me and Dylan interview AI experts:<br><a href=\"https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\">https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk</a><br>______________________________________________<br><br><br><br>#ai #openai #llm</p>",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN3272513351.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/5d341524-a498-11f1-8c46-e744a5422d49/image/3644b18eecede64a11aa9cdd0f538093.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/8068b5f2-a2f6-11f1-a759-9fff6ab98f04/image/21ad3bf4cc7838be234119188e512b11.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 1985,
+      "pub_date": "2026-09-11T21:35:27Z",
+      "episode_url": "",
+      "language": "en",
+      "podcastindex_id": 59799096615,
+      "added_at": "2026-09-12T16:39:46.523409Z"
+    },
     {
       "guid": "notoriousb2bshow.podbean.com/25083705-5f0f-3bf7-9171-7c94a91f00e4",
       "title": "OpenAI Co-Founder Andrej Karpathy Just Joined Anthropic (Ep.62)",
@@ -219,7 +235,7 @@
       "itunes_id": 1000764662696,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "<p>\n</p>\n<p>Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner Stephanie Zhan at AI Ascent 2026 about what's changed in the year since he coined \"vibe coding.\" He explains why he's never felt more behind as a programmer, why agentic engineering is the more serious discipline taking shape on top of vibe coding, and why we should think of LLMs not as animals but as ghosts: jagged, statistical, summoned entities that require a new kind of taste and judgment to direct. He also touches on Software 3.0, the limits of verifiability, and why you can outsource your thinking but never your understanding.</p>\n<p><br>\n</p>",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/9a/b5/629ab560-b203-d293-a23a-d4080ad8390e/mza_16724704058821201049.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ef/37/84/ef378402-bccd-1974-8c0b-6303c81a3b23/mza_10984895465943149918.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "podcastindex_id": 54008554101,
       "language": "en"
