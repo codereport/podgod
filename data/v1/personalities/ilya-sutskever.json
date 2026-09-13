@@ -4,7 +4,7 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "episodes": [
     {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
@@ -363,7 +363,7 @@
       "itunes_id": 1000738363711,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "Ilya & I discuss SSI’s strategy, the problems with pre-training, how to improve the generalization of AI models, and how to ensure AGI goes well.\nWatch on YouTube; read the transcript.\nSponsors\n* Gemini 3 is the first model I’ve used that can find connections I haven’t anticipated. I recently wrote a blog post on RL’s information efficiency, and Gemini 3 helped me think it all through. It also generated the relevant charts and ran toy ML experiments for me with zero bugs. Try Gemini 3 today at gemini.google\n* Labelbox helped me create a tool to transcribe our episodes! I’ve struggled with transcription in the past because I don’t just want verbatim transcripts, I want transcripts reworded to read like essays. Labelbox helped me generate the exact data I needed for this. If you want to learn how Labelbox can help you (or if you want to try out the transcriber tool yourself), go to labelbox.com/dwarkesh\n* Sardine is an AI risk management platform that brings together thousands of device, behavior, and identity signals to help you assess a user’s risk of fraud & abuse. Sardine also offers a suite of agents to automate investigations so that as fraudsters use AI to scale their attacks, you can use AI to scale your defenses. Learn more at sardine.ai/dwarkesh\nTo sponsor a future episode, visit dwarkesh.com/advertise.\nTimestamps\n(00:00:00) – Explaining model jaggedness\n(00:09:39) - Emotions and value functions\n(00:18:49) – What are we scaling?\n(00:25:13) – Why humans generalize better than models\n(00:35:45) – SSI’s plan to straight-shot superintelligence\n(00:46:47) – SSI’s model will learn from deployment\n(00:55:07) – How to think about powerful AGIs\n(01:18:13) – “We are squarely an age of research company”\n(01:20:23) – Self-play and multi-agent\n(01:32:42) – Research taste\n \n\nGet full access to Dwarkesh Podcast at www.dwarkesh.com/subscribe",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg",
       "collection_id": 1516093381,
       "language": "en"
     },

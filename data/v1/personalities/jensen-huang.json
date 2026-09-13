@@ -4,7 +4,7 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "episodes": [
     {
       "guid": "d9192eeb-6897-486e-8b5f-7e68b9a1f120",
@@ -1068,7 +1068,7 @@
       "itunes_id": 1000761582962,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "I asked Jensen about TPU competition, Nvidia’s lock on the ever more bottlenecked supply chain needed to make advanced chips, whether we should be selling AI chips to China, why Nvidia doesn’t just become a hyperscaler, how it makes its investments, and much more. Enjoy!\nWatch on YouTube; read the transcript.\nSponsors\n* Crusoe’s cloud runs on state-of-the-art Blackwell GPUs, with Vera Rubin deployment scheduled for later this year. But hardware is only part of the story—for inference, Crusoe’s MemoryAlloy tech implements a cluster-wide KV cache, delivering up to 10x faster TTFT and 5x better throughput than vLLM. Learn more at crusoe.ai/dwarkesh\n* Cursor helped me build an AI co-researcher over the course of a weekend. Now I have an AI agent that I can collaborate with in Google Docs via inline comment threads! And while other agentic coding tools feel like a total black-box, Cursor let me stay on top of the full implementation. You can try my co-researcher out at github.com/dwarkeshsp/ai_coworker, or get started on your own Cursor project today at cursor.com/dwarkesh\n* Jane Street spent ~20,000 GPU hours training backdoors into 3 different language models, then challenged my audience to find the triggers. They received some clever solutions—like comparing the base and fine-tuned versions and extrapolating any differences to reveal the hidden backdoor—but no one was able to solve all 3. So if open problems like this excite you, Jane Street is hiring. Learn more at janestreet.com/dwarkesh\nTimestamps\n(00:00:00) – Is Nvidia’s biggest moat its grip on scarce supply chains?\n(00:16:25) – Will TPUs break Nvidia’s hold on AI compute?\n(00:41:06) – Why doesn’t Nvidia become a hyperscaler?\n(00:57:36) – Should we be selling AI chips to China?\n(01:35:06) – Why doesn’t Nvidia make multiple different chip architectures?\n \n\nGet full access to Dwarkesh Podcast at www.dwarkesh.com/subscribe",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg",
       "collection_id": 1516093381,
       "language": "en"
     },

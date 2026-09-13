@@ -4,7 +4,7 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "episodes": [
     {
       "guid": "58400114-abe5-11f1-b370-87adaadb83fa",
@@ -1255,7 +1255,7 @@
       "feed_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
       "audio_url": "https://api.substack.com/feed/podcast/186967347/7e1421b0bbe8243af32f70dda75bef63.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/71/34/f171348c-1c45-cc82-ca40-f3ab7001c678/mza_8067509417026613172.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg",
       "collection_id": 1516093381,
       "duration": 10185,
       "pub_date": "2026-02-05T16:45:08Z",

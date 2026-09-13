@@ -4,7 +4,7 @@
   "name": "Andrej Karpathy",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "episodes": [
     {
       "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
@@ -686,7 +686,7 @@
       "itunes_id": 1000732326311,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "<p>The <a target=\"_blank\" href=\"https://x.com/karpathy\">Andrej Karpathy</a> episode.</p><p>During this interview, Andrej explains why reinforcement learning is terrible (but everything else is much worse), why AGI will just blend into the previous ~2.5 centuries of 2% GDP growth, why self driving took so long to crack, and what he sees as the future of education.</p><p>It was a pleasure chatting with him.</p><p>Watch on <a target=\"_blank\" href=\"https://youtu.be/lXUZvyajciY\">YouTube</a>; read the <a target=\"_blank\" href=\"https://dwarkesh.substack.com/p/andrej-karpathy\">transcript</a>.</p><p>Sponsors</p><p>* <a target=\"_blank\" href=\"https://labelbox.com/dwarkesh\">Labelbox</a> helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or training paradigm. Reach out today at <a target=\"_blank\" href=\"https://labelbox.com/dwarkesh\">labelbox.com/dwarkesh</a></p><p>* <a target=\"_blank\" href=\"https://mercury.com\">Mercury</a> helps you run your business better. It’s the banking platform we use for the podcast — we love that we can see our accounts, cash flows, AR, and AP all in one place. Apply online in minutes at <a target=\"_blank\" href=\"https://mercury.com\">mercury.com</a></p><p>* <a target=\"_blank\" href=\"https://blog.google/technology/ai/veo-updates-flow/\">Google’s Veo 3.1</a> update is a notable improvement to an already great model. Veo 3.1’s generations are more coherent and the audio is even higher-quality. If you have a Google AI Pro or Ultra plan, you can try it in Gemini today by visiting <a target=\"_blank\" href=\"https://gemini.google\">https://gemini.google</a></p><p>Timestamps</p><p>(00:00:00) – AGI is still a decade away</p><p>(00:29:45) – LLM cognitive deficits</p><p>(00:40:05) – RL is terrible</p><p>(00:49:38) – How do humans learn?</p><p>(01:06:25) – AGI will blend into 2% GDP growth</p><p>(01:17:36) – ASI</p><p>(01:32:50) – Evolution of intelligence & culture</p><p>(01:42:55) - Why self driving took so long</p><p>(01:56:20) - Future of education</p> <br/><br/>Get full access to Dwarkesh Podcast at <a href=\"https://www.dwarkesh.com/subscribe?utm_medium=podcast&utm_campaign=CTA_4\">www.dwarkesh.com/subscribe</a>",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg",
       "collection_id": 1516093381,
       "podcastindex_id": 43921620932,
       "language": "en"
