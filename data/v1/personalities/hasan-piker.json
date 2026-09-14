@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "episodes": [
+    {
+      "guid": "a7bbad3c-b055-11f1-a4c4-a7c4aaa1982c",
+      "title": "The World Is Ending... (Not Clickbait) | Fear&",
+      "podcast_title": "Fear&",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9857824652.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 4490,
+      "pub_date": "2026-09-14T15:59:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-09-14T18:58:13.079759Z"
+    },
     {
       "guid": "meredithcollabs.podbean.com/7ee33a72-beb7-3e48-91b8-e46cdd6bddae",
       "title": "9/11 After 25 Years & One Year Since Charlie Kirk's Death, Hasan Piker on the RNC Jumbotron & The AI Apocalypse Warning",
@@ -1668,22 +1684,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/1031-holding-out-for-a-hero-feat-hasan-piker-4-27-26/id1097417804?i=1000763935577&uo=4",
       "language": "en",
       "itunes_id": 1000763935577,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "900e2936-d7ab-11f0-915a-9378dc7d9047",
-      "title": "Big Day For Millennials ft. Courtney Miller | Fear&",
-      "podcast_title": "Fear&",
-      "description": "Use code FEAR10 for 10% off your next SeatGeek order at https://seatgeek.onelink.me/RrnK/FEAR10 (max $25 discount, restrictions apply). Sponsored by SeatGeek.\n\nOur listeners get the Harry’s Plus Trial Set for only $10 at https://www.Harrys.com/fear\n\nTake Cheers Restore after your last drink or before going to bed and wake up feeling at least 50% better — or your money back. For a limited time our listeners are getting 20% off their entire order at https://cheershealth.com/fear\n\nTheyre calling it the generational millennial link up\n\n\n✨WATCH THE SECOND HALF ON PATREON✨ \n  Patreon - https://www.patreon.com/FearAnd\n\n\n\n🎧 AUDIO PLATFORMS 🎧\n🔊https://linktr.ee/fearand\n\n\n❤️ follow our guest! ❤️\n\nCourtney: https://www.instagram.com/co_mill/\n\n\n\n❤️ follow Fear&! ❤️\n\nHasan: https://twitter.com/Hasanthehun\nWill: https://twitter.com/TheWillNeff\nQT: https://twitter.com/QTCinderella\nAustin: https://twitter.com/Austinontwitter\nMarche: https://twitter.com/Marche\nFear&: https://twitter.com/FearAndPod\n\n\n\n\n\n\n\n\n\n\n\n\n#hasanabi #courtneymiller   #podcast\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD4709619284.mp3",
-      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "duration": 4178,
-      "pub_date": "2026-04-27T16:00:00Z",
-      "episode_url": null,
-      "language": "en",
-      "hosted_podcast_id": "podcastindex-5601816",
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],

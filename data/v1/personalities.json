@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "languages": [
     "de",
     "en",
@@ -227,7 +227,7 @@
       "title": "World 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
-      "episode_count": 73,
+      "episode_count": 75,
       "handle_entity_id": null
     },
     {
@@ -250,7 +250,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 25,
+      "episode_count": 26,
       "handle_entity_id": null
     },
     {

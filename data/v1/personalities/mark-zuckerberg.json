@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "episodes": [
+    {
+      "guid": "27c08d3a-afee-11f1-b491-e30b5f91ab3a",
+      "title": "Mark Zuckerberg",
+      "podcast_title": "Colossus Magazine",
+      "description": "Written by Jeremy Stern\n\nRead by Scott Brick\n\nRead ‘Mark’ here.\n\nBecome a Colossus member to receive our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe here⁠.\n\nPresented by Rogo\n\nAnd by:\n\nRamp\n\nVanta\n\nWorkOS\n\nCognition\n\nEditing and post-production work for this episode was provided by The Podcast Consultant.⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠",
+      "feed_url": "https://feeds.megaphone.fm/colossus-magazine",
+      "audio_url": "https://traffic.megaphone.fm/CLS4541566413.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/d9/d9/0dd9d9ce-bdd7-4275-dffe-09487a0d2073/mza_12321296465801464326.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/68/fa/cb68fa1c-369b-f327-4e35-11ce0608447a/mza_18004462637879254770.jpeg/600x600bb.jpg",
+      "collection_id": 1896935216,
+      "duration": 6981,
+      "pub_date": "2026-09-14T08:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg/id1896935216?i=1000789515400&uo=4",
+      "language": "en",
+      "itunes_id": 1000789515400,
+      "added_at": "2026-09-14T18:58:13.079759Z"
+    },
     {
       "guid": "d69412cd-0623-4d9f-ad18-ea6771cc8d8c",
       "title": "Meta Offers 95% Discount for Muse Spark AI - Mark Zuckerberg Pees on Sam Altman",
