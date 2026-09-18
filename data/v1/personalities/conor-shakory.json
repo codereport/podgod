@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19824429",
+      "title": "Episode 304: The Agentic Era & Books with Mark Saroufim",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "<p>In this episode, Conor and Bryce continue their chat with Mark Saroufim about autoresearch, productionizing AI-generated GPU kernels, GPU MODE, books, video games and more!</p><ul><li><a href='https://adspthepodcast.com/2026/09/18/Episode-304.html'>Link to Episode 304 on Website</a></li><li><a href='https://github.com/codereport/adsp2/discussions/206'>Discuss this episode, leave a comment, or ask a question (on GitHub)</a></li></ul><p><b>Socials</b></p><ul><li>ADSP: The Podcast: <a href='https://twitter.com/adspthepodcast'>Twitter</a></li><li>Conor Hoekstra: <a href='https://conorshakory.com/'>LinkTree / Bio</a></li><li>Bryce Adelstein Lelbach: <a href='https://x.com/blelbach'>Twitter</a> | <a href='https://bsky.app/profile/blelbach.bsky.social'>BlueSky</a></li></ul><p><b>About the Guest:</b></p><p><a href='https://x.com/marksaroufim'>Mark Saroufim</a> is a cofounder at <a href='https://www.coreauto.com/'>Core Automation</a>, <a href='https://pytorch.org/'>PyTorch</a> maintainer and cofounder of <a href='https://www.gpumode.com/home'>GPU MODE</a>.</p><p><b>Show Notes</b></p><p><b>Date Recorded:</b> 2026-07-20<br/><b>Date Released:</b> 2026-09-18</p><ul><li><a href='https://www.coreauto.com/'>Core Automation</a></li><li><a href='https://www.gpumode.com/'>GPU MODE</a></li><li><a href='https://pytorch.org/'>PyTorch</a></li><li><a href='https://adspthepodcast.com/2026/07/10/Episode-294.html'>ADSP Episode 294: Histocache</a></li><li><a href='https://nvidia.github.io/cccl/cub/'>CUB Library</a></li><li><a href='https://www.gpumode.com/leaderboard/774?tab=rankings'>QR GPU MODE Problem</a></li><li><a href='https://modal.com/'>Modal</a></li><li><a href='https://www.youtube.com/watch?v=ustDJbxOu50'>GPU MODE Lecture 108: One Layer Deeper competition</a></li><li><a href='https://onelayerdeeper.ai/'>onelayerdeeper.ai</a></li><li><a href='https://www.youtube.com/playlist?list=PLmvMm6hsJgCc9VPDgq8SQEFMln_azyKSG'>The Peterman Pod</a></li><li><a href='https://www.youtube.com/watch?v=AmdLVWMdjOk'>Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic (Peterman Pod)</a></li><li><a href='https://en.wikipedia.org/wiki/Permutation_City'>Permutation City by Greg Egan</a></li><li><a href='https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep'>A Fire Upon the Deep by Vernor Vinge</a></li><li><a href='https://www.marksaroufim.com/bookshelf'>Mark&apos;s Bookshelf</a></li><li><a href='https://x.com/marksaroufim/status/1857663299112059349?s=20'>Mark&apos;s Top 10 Books</a></li><li><a href='https://www.hup.harvard.edu/books/9780674485266'>Journey to the Ants</a></li><li><a href='https://bookstore.ams.org/view?ProductCode=CLRM/32'>Visual Group Theory</a></li><li><a href='https://www.oreilly.com/library/view/theory-of-fun/9781449363208/'>The Theory of Fun</a></li><li><a href='https://www.informit.com/store/working-effectively-with-legacy-code-9780131177055'>Working with Legacy Code</a></li><li><a href='https://mitpress.mit.edu/9780262028967/structure-and-interpretation-of-classical-mechanics/'>The Structure and Interpretation of Classical Mechanics</a></li><li><a href='https://www.wiley.com/en-us/Game-Theoretic+Foundations+for+Probability+and+Finance+-p-9781118548035'>Game Theoretic Foundations for Probability and Finance</a></li><li><a href='https://www.gpumode.com/leaderboard/597?tab=rankings'>NVFP4 GPU MODE Problem</a></li><li><a href='https://aleximmer.com/Laplace/'>laplace-torch</a></li></ul><p><b>Intro Song Info</b></p><p>Miss You by Sarah Jansen <a href='https://soundcloud.com/sarahjansenmusic'>https://soundcloud.com/sarahjansenmusic</a><br/>Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br/>Free Download / Stream: <a href='http://bit.ly/l-miss-you'>http://bit.ly/l-miss-you</a><br/>Music promoted by Audio Library <a href='https://youtu.be/iYYxnasvfx8'>https://youtu.be/iYYxnasvfx8</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/19824429-episode-304-the-agentic-era-books-with-mark-saroufim.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "duration": 2300,
+      "pub_date": "2026-09-18T11:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1331453",
+      "added_at": "2026-09-18T17:23:37.223026Z"
+    },
     {
       "guid": "Buzzsprout-19769701",
       "title": "Episode 303: Open Models, GPU Kernels & autoresearch with Mark Saroufim",
