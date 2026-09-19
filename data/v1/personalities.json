@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "languages": [
     "de",
     "en",
@@ -141,7 +141,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 33,
+      "episode_count": 34,
       "handle_entity_id": "geoffrey-hinton"
     },
     {

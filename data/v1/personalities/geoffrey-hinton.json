@@ -4,8 +4,24 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19828197",
+      "title": "#Verantwortungslücke 6: Was jetzt, Geoffrey Hinton?",
+      "podcast_title": "Matthias Zehnders Wochenkommentar",
+      "description": "<p>Dario Amodei möchte auf die Bremse treten. Oder zumindest vom Gas gehen: Der CEO der amerikanischen KI-Firma Anthropic hat diese Woche eine koordinierte Verlangsamung und ein temporäres Moratorium für das Training von KI-Modellen der nächsten Generation gefordert. Er erhielt dabei öffentlich Unterstützung von führenden Köpfen anderer Spitzenlabore, darunter OpenAI-Chef Sam Altman und Elon Musk. Das ist erstaunlich, weil sich die drei nicht wirklich mögen. Anlass für den Griff zum Bremspedal ist eine ganze Reihe von Sicherheitsproblemen, die in den letzten Tagen ans Licht gekommen sind. Dario Amodei warnte deshalb vor Systemen, die in der Lage sind, eigenständig Nachfolgemodelle zu entwerfen und zu optimieren. Das könne dazu führen, dass der Mensch die Kontrolle verliere. Verschiedene KI-Systeme haben in den letzten Wochen derart ausgefeilte Angriffe ausgeführt, dass die KI-Experten fürchten, die Systeme könnten innerhalb eines Jahres schon selbstständig komplexe Angriffe auf wichtige Infrastrukturen ausführen. Also tastet Dario Amodei nach dem Stopp-Knopf. Doch die Stopp-Taste zu drücken ist gar nicht so einfach. Der erste, der sich lautstark dagegen wehrte, in Sachen KI den Fuss vom Gas zu nehmen, war Präsident Donald Trump. Aber auch die KI könnte den Bremsern einen Strich durch die Rechnung machen. Nobelpreisträger Geoffrey Hinton sagt, die KI sei längst so intelligent, dass sie die Menschen überreden werde, nicht auf die Bremse zu treten. Was jetzt, Geoffrey Hinton?</p><p>Matthias Zehnder ist Autor und Medienwissenschaftler in Basel. Er ist bekannt für inspirierende Texte, Vorträge und Seminare über Medien, die Digitalisierung und KI.<br/>Website: <a href='https://www.matthiaszehnder.ch/'>https://www.matthiaszehnder.ch/</a><br/>Newsletter abonnieren: <a href='https://www.matthiaszehnder.ch/abo/'>https://www.matthiaszehnder.ch/abo/</a><br/>Unterstützen: <a href='https://www.matthiaszehnder.ch/unterstuetzen/'>https://www.matthiaszehnder.ch/unterstuetzen/</a><br/>Biografie und Publikationen: <a href='https://www.matthiaszehnder.ch/about/'>https://www.matthiaszehnder.ch/about/</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1788913.rss",
+      "audio_url": "https://www.buzzsprout.com/1788913/episodes/19828197-verantwortungslucke-6-was-jetzt-geoffrey-hinton.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/l6cb834pbe1y70xfnqzcnno9blqg?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/l6cb834pbe1y70xfnqzcnno9blqg?.jpg",
+      "duration": 1303,
+      "pub_date": "2026-09-18T17:00:00Z",
+      "episode_url": "",
+      "language": "de",
+      "podcastindex_id": 60561223680,
+      "added_at": "2026-09-19T16:56:59.635335Z"
+    },
     {
       "guid": "03b06b8e-a4a6-11f1-8eb6-435fc18ed9d9",
       "title": "Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT,  Geoffrey Hinton",
