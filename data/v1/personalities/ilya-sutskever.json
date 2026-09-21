@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-21",
   "episodes": [
+    {
+      "guid": "6e482c18-a8e6-11f1-814f-ab32b9b784dc",
+      "title": "Sam Altman fired | Ilya Sutskever staged a hostile takeover? Here are the details...",
+      "podcast_title": "Wes Roth",
+      "description": "Get on my daily AI newsletter 🔥https://natural20.beehiiv.com/subscribe[News, Research and Tutorials on AI]See more at:https://natural20.com/My AI Playlist:https://www.youtube.com/playlist?list=PLb1th0f6y4XROkUAwkYhcHb7OY9yoGGZH\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN5463479187.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/11/e8/85/11e8856e-c260-7dfa-117a-9774d190c5d8/mza_11265245446150491228.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
+      "collection_id": 6806726491,
+      "duration": 660,
+      "pub_date": "2026-09-21T05:27:16Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/sam-altman-fired-ilya-sutskever-staged-a-hostile/id6806726491?i=1000790882436&uo=4",
+      "language": "en",
+      "itunes_id": 1000790882436,
+      "added_at": "2026-09-21T18:59:34.576823Z"
+    },
     {
       "guid": "c3792ffa-60be-11f0-baf1-43a7592d1eb7",
       "title": "Ilya Sutskever and Jan Leike RESIGN from OpenAI - My in-depth analysis - end of an era! | Artificial Intelligence Masterclass",

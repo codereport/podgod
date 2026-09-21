@@ -4,7 +4,7 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-21",
   "episodes": [
     {
       "guid": "ee60450b-dcf3-4115-9e75-e1c19552e8af",
@@ -547,7 +547,7 @@
       "itunes_id": 1000770576072,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "<p>Sebastian Mallaby spent three years and 30+ hours interviewing Demis Hassabis in the back of a British pub to write <i>The Infinity Machine</i>, and the conversation uses that reporting to surface the most underexplored figure in AI. Demis founded the original AI lab in 2010, won a Nobel Prize, runs models that consistently top the leaderboards, and yet remains so unrecognized that Sebastian's own publisher worried no one would buy a book with his face on the cover. </p>\n<p>The throughline is a paradox: Demis tried to prevent the AI race we're now all living through, and now finds himself one of its central protagonists. He used to believe a single lab could carry the safety burden to AGI; he now sees safety as a collective action problem only governments can solve. He hedged DeepMind's research bets across every promising direction, and as a result missed the two most consumer-defining moments in modern AI — ChatGPT and Claude Code. He nearly spun DeepMind out of Google with a secret $1B Reid Hoffman pledge backing him, but never used the leverage and stayed — and won a Nobel Prize the next year.</p>\n<p>The episode also zooms out to the structural forces shaping the race — why hyperscalers can't out-recruit concentrated-bet labs, why Sebastian gives OpenAI roughly 50/50 odds of being absorbed by next summer, why he thinks Anthropic should IPO right now, and what the personal histories between Demis, Elon, and Sam reveal about who actually trusts whom.</p>\n<p> </p>\n<p>(0:00) Intro</p>\n<p>(2:04) Was the AI Race Inevitable?</p>\n<p>(4:03) The 2015 Safety Summit Backfire</p>\n<p>(7:15) Can Governments Actually Fix This?</p>\n<p>(9:26) How the World Misread DeepMind</p>\n<p>(11:27) Why Google Never Makes the Concentrated Bet</p>\n<p>(15:51) Project Mario: The Secret Spinout Plan</p>\n<p>(19:43) What Demis Actually Regrets</p>\n<p>(23:46) Venture Startups vs. Tech Behemoths</p>\n<p>(27:50) Controlling the Narrative</p>\n<p>(30:40) The Talent War and Hiring Brand</p>\n<p>(34:08) David Silver and the RL True Believers</p>\n<p>(38:21) Demis, Elon, and the Evil Genius Feud</p>\n<p>(42:39) Great Man Theory vs. Inevitability</p>\n<p>(45:00) What Demis Didn't Want Published</p>\n<p><p> </p><p>With your host:  </p><p>@jacobeffron  </p><p>- Managing Director at Redpoint</p></p>",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/a2/0f/44/a20f4439-99e5-222a-d1df-da8527fe4826/mza_2913235468175420.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/89/9c/aa/899caaef-e537-c9e8-2e34-788b847b1a15/mza_3258716992355382594.jpg/600x600bb.jpg",
       "collection_id": 1672188924,
       "podcastindex_id": 55556928419,
       "language": "en"
