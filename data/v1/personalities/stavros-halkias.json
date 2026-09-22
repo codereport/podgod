@@ -4,8 +4,25 @@
   "name": "Stavros Halkias",
   "title": "Stand-up comedian and podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "episodes": [
+    {
+      "guid": "6aaedf9d7aa361c61205d5d6",
+      "title": "Stavros Halkias Grabs the Chemo Ball | Portcast (Full Episode)",
+      "podcast_title": "Portcast with Ron Bennington",
+      "description": "Stavros Halkias | Ep 002 | Portcast (Full Episode)\nComedian, actor, and podcaster Stavros Halkias pulls up a chair to sit with Ron Bennington during a chemotherapy sesh. Ron and Stavy talk “Tony” and Matt Johnson, “Tires,\" almost quitting comedy, and stories from the Red Carpet in Cannes.\nPortcast is recorded during Ron Bennington's chemotherapy treatment, filmed in an active chemotherapy suite. Some abrupt cuts and unusual visual changes are sometimes necessary to protect the privacy of patients, and staff, and to facilitate Ron’s medical care. \nSiriusXM host Ron Bennington was diagnosed with stage four colon cancer in March 2026.\n Hosted on Acast. See acast.com/privacy for more information.",
+      "feed_url": "https://feeds.acast.com/public/shows/6a47b4615ef16cb804fdfe3f",
+      "audio_url": "https://sphinx.acast.com/p/open/s/6a47b4615ef16cb804fdfe3f/e/6aaedf9d7aa361c61205d5d6/media.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/51/30/c4513063-10f0-c437-ce0d-6dde8d8d580e/mza_1864213241361048969.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c4/51/30/c4513063-10f0-c437-ce0d-6dde8d8d580e/mza_1864213241361048969.jpeg/600x600bb.jpg",
+      "collection_id": 6811426449,
+      "duration": 1993,
+      "pub_date": "2026-09-22T13:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-grabs-the-chemo-ball-portcast-full-episode/id6811426449?i=1000791109717&uo=4",
+      "language": "en",
+      "itunes_id": 1000791109717,
+      "added_at": "2026-09-22T17:50:49.411374Z"
+    },
     {
       "guid": "17c705c5-8b9f-4970-af83-85c4702daae4",
       "title": "#199 - Are You Garbage?",
@@ -1615,23 +1632,6 @@
       "episode_url": "https://siriusxm.com",
       "language": "en",
       "hosted_podcast_id": "podcastindex-5874430",
-      "added_at": "2026-08-18T17:08:34.083777Z"
-    },
-    {
-      "guid": "08dafe0e-d570-11f0-a2ad-7b478d59dfcf",
-      "title": "Soda for Breakfast!? w/ Stavros Halkias",
-      "podcast_title": "Are You Garbage? Comedy Podcast",
-      "description": "Are You Garbage presents comedian and podcast host Stavros Halkias! You know Stavvy from stand up comedy, Stavvy's World, This Past Weekend w/ Theo Von, Hot Ones, So True with Caleb Hearon, Bad Friends, The Tim Dillon Show, Soder Podcast, Your Mom's House, Mythical Kitchen and so much more! Thanks for watching AYG Comedy Podcast. Love youse guys. Come to a live show! \n\nAYG 2025 Live Shows: https://punchup.live/areyougarbage/tickets\n\nWatch Route 66: https://www.youtube.com/watch?v=OSkJS1gCDR4\n\nLive Shows: https://punchup.live/areyougarbage/tickets\nPATREON: https://www.patreon.com/AreYouGarbage\nMERCH: https://areyougarbage.com/\n\nSponsored By:\nLucy Goods: http://lucy.co/garbage Promo Code: Garbage\nShopify: Sign up for your $1 per month trial period at https://shopify.com/garbage \nAura Frames: Exclusive $35 off Carver Mat at https://on.auraframes.com/GARBAGE. Promo Code GARBAGE\n\nComedians H. Foley and Kevin Ryan are self proclaimed GARBAGE. Each week a new stand up comedian gets put to the test.\nSteal shampoo from hotels?\nOwn a George Foreman Grill?\nEver worn JNCO Jeans?\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/TPC7413106767",
-      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/u8u9X/clrtpod.com/m/mgln.ai/e/1118/arttrk.com/p/YMH00/traffic.megaphone.fm/YMH3811122611.mp3?updated=1765404526",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/c9/0c/93c90ccf-9dfb-f19a-caa1-ef4369a482de/mza_9056668377903699815.jpeg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/c9/0c/93c90ccf-9dfb-f19a-caa1-ef4369a482de/mza_9056668377903699815.jpeg/600x600bb.jpg",
-      "collection_id": 1499140700,
-      "duration": 4015,
-      "pub_date": "2025-12-11T05:10:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/soda-for-breakfast-w-stavros-halkias/id1499140700?i=1000740793208&uo=4",
-      "language": "en",
-      "itunes_id": 1000740793208,
       "added_at": "2026-08-18T17:08:34.083777Z"
     }
   ],
