@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "episodes": [
+    {
+      "guid": "7af1c8ca-2f07-4516-9563-46c510f0e790",
+      "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "Jensen Huang might just be the single most influential person in artificial intelligence today.\nHuang is the chief executive of Nvidia, the company that designs nearly all the chips and infrastructure that the rest of the industry relies on. This has made Nvidia the most valuable company in the world and has made Huang incredibly influential in the Trump administration.\nAnd unlike many of the leaders of the frontier labs, Huang doesn’t think A.I. could wipe out humanity. He thinks that the doomers are just scaring people, and that the industry doesn’t need new regulation at all. I wanted to hear how he saw it, so I flew out to Nvidia’s headquarters in Santa Clara, Calif., to talk to him. \nMentioned:\n“Pacing the Frontier”\n“When A.I. Builds Itself”\nBook Recommendations:\n“Computer Architecture” by John L. Hennessy and David A. Patterson\n“The Innovator's Dilemma” by Clayton M. Christensen\n“Positioning” by Al Ries and Jack Trout\nThoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.\nYou can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html\nThis episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Michelle Harris, with Kate Sinclair, Mary Marge Locker and Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Isaac Jones, Aman Sahota and Gautam Srikishan. Our recording engineer is Aman Sahota. Cinematography by Marina King, Kyle Kelley and Raymond Yuen. Video editing by Arpita Aneja and Dani Dillon. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Kristin Lin, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.\n\nSubscribe today at nytimes.com/podcasts or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/kEKXbjuJ",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/fc18cf31-cf20-4fe1-9a8a-4e288a5004f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=fc18cf31-cf20-4fe1-9a8a-4e288a5004f2&feed=kEKXbjuJ",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/600x600bb.jpg",
+      "collection_id": 1548604447,
+      "duration": 6476,
+      "pub_date": "2026-09-23T09:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-thinks-a-i-alarmism-has-gone-too-far/id1548604447?i=1000791251478&uo=4",
+      "language": "en",
+      "itunes_id": 1000791251478,
+      "added_at": "2026-09-23T18:06:39.627093Z"
+    },
     {
       "guid": "81889aa2-b678-11f1-8790-2f29153b3ea3",
       "title": "Jensen Huang: Die langfristige Wette, die NVIDIA zu einem Unternehmen mit einem Marktwert von 5 Billionen Dollar machte.",
@@ -1666,22 +1683,6 @@
       "pub_date": "2025-09-24T00:00:00Z",
       "episode_url": "",
       "podcastindex_id": 42913772521,
-      "added_at": "2026-06-16T21:08:46.008620Z",
-      "language": "en"
-    },
-    {
-      "guid": "1e098c54-4336-442d-88d8-8b51cc770296",
-      "title": "#1. Jensen Huang: The King of AI",
-      "podcast_title": "Inflection Moments",
-      "description": "<p>Jensen Huang is the co-founder and CEO of NVIDIA, the company that created the modern GPU and became the infrastructure backbone of the global AI boom with a multi-trillion-dollar market cap. His episode on Inflection Moments traces how a Taiwanese-born immigrant who once cleaned toilets at a Kentucky boarding school ends up sketching a chip company on a Denny’s napkin, and then spends three decades dragging it through near-bankruptcy, brutal product failures, and finally into the center of the AI economy.Pivotal moments in Jensen's story include how the company nearly collapsed in 1996, just three years after founding Yahoo! when their chip design for Sega's Dreamcast proved incompatible with industry standards. Rather than deliver a failed product, Huang chose radical honesty, admitted the mistake to Sega, and received a $5 million investment that saved the company. He then laid off more than half his staff and pivoted completely, developing the RIVA 128 chip in just nine months while having only enough money left for one month's payroll For founders and investors, Huang's journey demonstrates that intellectual honesty, willingness to make brutal pivots, long-term vision over short-term gains (like his decade-long bet on CUDA that initially lost money but enabled AI dominance), and building for markets that don't yet exist can transform near-bankruptcy into industry leadership.Chapters(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0\">00:00</a>) Introduction(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=393s\">06:33</a>) Inflection Point #1: The Oneida Experience(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=662s\">11:02</a>) Inflection Point #2: The $600 Founding of NVIDIA(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=1012s\">16:52</a>) Inflection Point #3: The NV1 Disaster(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=1399s\">23:19</a>) Inflection Point #4: Walking Away From Billions(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=1753s\">29:13</a>) Inflection Point #5: The AI Awakening(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=2142s\">35:42</a>) Common Threads(<a href=\"https://www.youtube.com/watch?v=LKehPT1CLd0&t=2458s\">40:58</a>) Closing ThoughtsConnectFollow our channels below if you're interested in insights, ideas, and lessons from the greatest entrepreneurs in history:Newsletter: www.inflectionmoments.comLinkedIn: linkedin.com/in/david-franklin8456/Spotify: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVNPM2hMbGZmNlNwWUR0ZkJHYWFLek10blFRd3xBQ3Jtc0ttVE1LQTg1RnZMTy1sTUF2RU9oWXZsVzhpRVQ4M2dXYmtUMlZfeWFxOTZwTDNyRnlNektkSm00QkdRUGExMmk5ZlV0eU5GVGtaZ2V2TXlpV1dKWlg2eWJjQVdYeXg3NmxxcXRxT1dXNHVoY2x1bzc4VQ&q=https%3A%2F%2Fopen.spotify.com%2Fshow%2F0aqoOm53QLcOgyOkXFXNkO&v=LKehPT1CLd0\" target=\"_blank\" rel=\"nofollow\">https://open.spotify.com/show/0aqoOm5...</a>Apple Podcasts: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW1CMHN0bEg4blhqb1c3aFd4cVZVNVdpeVhHZ3xBQ3Jtc0trX0hEejE2dW8zdkdlWnZURmJXZGJwT2cxN0VmS3JfSTRRTTlBZzU0MHlBUTBST29NT2piWFZVM25KWmpCREljM21nZFF5STRBMGdJbHA3ZVBpOE03NEFvQ2JkWVFGUXBSM2lla3poVVFZZ2t0R0JFcw&q=https%3A%2F%2Fpodcasts.apple.com%2Fus%2Fpodcast%2Finflection-moments%2Fid1841530808&v=LKehPT1CLd0\" target=\"_blank\" rel=\"nofollow\">https://podcasts.apple.com/us/podcast...</a>YouTube: @InflectionMomentsIf you're enjoying the episodes, make sure to like the video and subscribe to the channel so you never miss an episode.</p>",
-      "feed_url": "https://anchor.fm/s/1093e22e0/podcast/rss",
-      "audio_url": "https://traffic.megaphone.fm/APO6247419010.mp3",
-      "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/44400344/44400344-1764393215505-92356bd70b862.jpg",
-      "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/44400344/44400344-1764445721071-237d6da761e2d.jpg",
-      "duration": 2608,
-      "pub_date": "2025-09-23T01:05:41Z",
-      "episode_url": "https://podcasters.spotify.com/pod/show/inflectionmoments/episodes/1--Jensen-Huang-The-King-of-AI-e38j4k6",
-      "podcastindex_id": 42925350583,
       "added_at": "2026-06-16T21:08:46.008620Z",
       "language": "en"
     }

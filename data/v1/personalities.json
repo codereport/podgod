@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "languages": [
     "de",
     "en",
@@ -84,7 +84,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 87,
+      "episode_count": 88,
       "handle_entity_id": null
     },
     {
@@ -192,7 +192,7 @@
       "title": "Olympic 1500m & 5000m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=a5020ba0",
       "feed_url": "https://podgod.ca/data/v1/personalities/jakob-ingebrigtsen.json",
-      "episode_count": 28,
+      "episode_count": 29,
       "handle_entity_id": null
     },
     {

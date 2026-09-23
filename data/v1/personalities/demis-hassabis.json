@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "episodes": [
+    {
+      "guid": "gid://art19-episode-locator/V0/7N7eBSY6edX-G2M8vMc2rPIJWmMzcN2__5p0sm4qhX8",
+      "title": "An AI@GSB Special: Demis Hassabis Thinks We’re in the ‘Foothills of the Singularity’",
+      "podcast_title": "If/Then",
+      "description": "When Demis Hassabis pitched DeepMind to a few venture capitalists back in 2010, the business plan was almost comically audacious. “Step one: Solve intelligence. Step two: Use it to solve everything else,” he recalls in a conversation at Stanford Graduate School of Business with Stanford University President Jonathan Levin. “And people were quite confused. But we really meant it.”\nSixteen years later, the “broad arcs” of that plan have gone “unbelievably well,” says Hassabis, a chess prodigy turned video game developer turned neuroscientist turned Nobel Prize-winning AI pioneer. Today he’s on a mission to create “the ultimate tool for science,” building on his decision to give away AlphaFold, the groundbreaking AI system that predicts the structures of proteins. The future, Hassabis says, is just around the corner: “Ten years from now, I think we’ll realize that we were standing in the foothills of the singularity now.”\n\nChapters:\n00:00:00 Introduction\n 00:03:31 A career built around one big question\n 00:06:19 Building DeepMind and pursuing AGI\n 00:10:09 The breakthroughs that made AI feel possible\n 00:14:48 From AlphaGo to scientific discovery\n 00:17:15 Why AlphaFold was given away for free\n 00:24:00 The “foothills of the singularity”\n 00:26:41 Public concern, disruption, & AI’s promise\n 00:29:59 How AI could reshape work and entrepreneurship\n 00:34:12 Competition, safety, & regulating frontier AI\n 00:41:19 Expanding AI’s benefits globally\n 00:45:28 Preparing society for AGI\n 00:48:21 What should AI leave untouched?\n 00:51:01 Advice for the first AI-native generation\n 00:54:19 Conclusion\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "feed_url": "https://rss.art19.com/if-then",
+      "audio_url": "https://op3.dev/e/tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/mgln.ai/e/p853501/rss.art19.com/episodes/78dcdb24-b808-4185-b0a1-2bd3bf05d446.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/ac/7c/b1ac7c18-2f13-83c7-7bd8-9ba59e68c217/mza_5304657610424132201.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/e6/fe/10e6fe45-708c-a8e7-90f2-46da14db2c25/mza_371232288568074203.jpeg/600x600bb.jpg",
+      "collection_id": 1725380194,
+      "duration": 3289,
+      "pub_date": "2026-09-23T07:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/an-ai-gsb-special-demis-hassabis-thinks-were-in/id1725380194?i=1000791237150&uo=4",
+      "language": "en",
+      "itunes_id": 1000791237150,
+      "added_at": "2026-09-23T18:06:39.627093Z"
+    },
     {
       "guid": "ee60450b-dcf3-4115-9e75-e1c19552e8af",
       "title": "84. What do DeepMind & Demis Hassabis teach us about the new era of Category leadership?",
