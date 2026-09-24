@@ -2,6 +2,7 @@
   "version": 1,
   "updatedAt": "2026-09-24",
   "languages": [
+    "da",
     "de",
     "en",
     "es",
@@ -74,6 +75,19 @@
       "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
       "episode_count": 14,
       "handle_entity_id": null
+    },
+    {
+      "id": "david-heinemeier-hansson",
+      "name": "David Heinemeier Hansson",
+      "aliases": [
+        "DHH"
+      ],
+      "title": "Software developer and entrepreneur",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
+      "feed_url": "https://podgod.ca/data/v1/personalities/david-heinemeier-hansson.json",
+      "episode_count": 24,
+      "handle_entity_id": null,
+      "nickname": "DHH"
     },
     {
       "id": "demis-hassabis",
