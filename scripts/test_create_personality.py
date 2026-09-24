@@ -74,6 +74,16 @@ class CreatePersonalityTests(unittest.TestCase):
         self.assertNotIn("former_last_name", metadata)
         self.assertNotIn("former_name", metadata)
 
+    def test_nickname_is_an_episode_discovery_query_and_alias(self):
+        metadata = validate_metadata({
+            "id": "stavros-halkias", "name": "Stavros Halkias",
+            "nickname": " Stavvy ", "title": "Comedian",
+        })
+        person = add_personality({"personalities": []}, metadata)["personalities"][0]
+        self.assertEqual(person["nickname"], "Stavvy")
+        self.assertEqual(person["aliases"], ["Stavvy"])
+        self.assertEqual(person["queries"], ["Stavros Halkias", "Stavvy"])
+
     def test_adds_confirmed_hosted_podcast_metadata(self):
         config = {"personalities": []}
         metadata = validate_metadata({

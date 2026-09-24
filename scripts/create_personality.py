@@ -80,6 +80,7 @@ def validate_metadata(value: object) -> dict[str, Any]:
     name = clean_single_line(value.get("name"), 100)
     title = clean_single_line(value.get("title"), 100)
     former_last_name = clean_single_line(value.get("formerLastName"), 80)
+    nickname = clean_single_line(value.get("nickname"), 80)
     hosted_podcasts = validate_hosted_podcasts(value.get("hostedPodcasts", []))
     if not ID_RE.fullmatch(personality_id):
         raise ValueError("Personality id must be a lowercase URL slug")
@@ -114,6 +115,8 @@ def validate_metadata(value: object) -> dict[str, Any]:
     if former_name:
         metadata["former_last_name"] = former_last_name
         metadata["former_name"] = former_name
+    if nickname and nickname.casefold() != name.casefold():
+        metadata["nickname"] = nickname
     return metadata
 
 
@@ -136,8 +139,9 @@ def add_personality(
 
     former_name = metadata.get("former_name", "")
     former_last_name = metadata.get("former_last_name", "")
-    aliases = [value for value in (former_name, former_last_name) if value]
-    queries = [metadata["name"], *([former_name] if former_name else [])]
+    nickname = metadata.get("nickname", "")
+    aliases = list(dict.fromkeys(value for value in (former_name, former_last_name, nickname) if value))
+    queries = list(dict.fromkeys(value for value in (metadata["name"], former_name, nickname) if value))
     person = {
         "id": personality_id,
         "name": metadata["name"],
@@ -150,6 +154,8 @@ def add_personality(
     }
     if former_last_name:
         person["former_last_name"] = former_last_name
+    if nickname:
+        person["nickname"] = nickname
     if metadata.get("hosted_podcasts"):
         person["hosted_podcasts"] = metadata["hosted_podcasts"]
     if metadata.get("potentially_common_name"):

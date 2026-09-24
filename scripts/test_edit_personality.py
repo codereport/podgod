@@ -70,6 +70,17 @@ class EditPersonalityTests(unittest.TestCase):
         self.assertEqual(feed["name"], "New Name")
         self.assertEqual(index["personalities"], [])
 
+    def test_nickname_updates_discovery_queries_and_public_metadata(self):
+        config = {"personalities": [{"id": "stavros-halkias", "name": "Stavros Halkias", "aliases": [], "queries": ["Stavros Halkias"], "title": "Comedian"}]}
+        index = {"personalities": [{"id": "stavros-halkias", "name": "Stavros Halkias", "aliases": [], "title": "Comedian"}]}
+        feed = {"id": "stavros-halkias", "name": "Stavros Halkias", "episodes": []}
+        metadata = validate_metadata({"id": "stavros-halkias", "name": "Stavros Halkias", "title": "Comedian", "nickname": "Stavvy"})
+        edit_personality(config, index, feed, metadata)
+        self.assertEqual(config["personalities"][0]["queries"], ["Stavros Halkias", "Stavvy"])
+        self.assertEqual(index["personalities"][0]["nickname"], "Stavvy")
+        self.assertEqual(index["personalities"][0]["aliases"], ["Stavvy"])
+        self.assertEqual(feed["nickname"], "Stavvy")
+
     def test_missing_personality_does_not_partially_update(self):
         config = {"personalities": [{"id": "someone-else", "name": "Else"}]}
         index = {"personalities": []}

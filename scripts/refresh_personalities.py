@@ -528,7 +528,7 @@ def name_matches(texts: dict[str, str], person: dict[str, Any], scope: str) -> b
     whose title names the person - a strong proxy for an actual appearance and a
     guard against surname collisions / aggregator feeds named after someone.
     `scope='all'` trusts a person-accurate backend (PodcastIndex byperson)."""
-    hay = texts.get(scope) or texts.get("all", "")
+    hay = norm(texts.get(scope) or texts.get("all", ""))
     needles = [norm(person["name"]), *(norm(a) for a in person.get("aliases", []))]
     return any(n and n in hay for n in needles)
 
@@ -947,6 +947,8 @@ def main() -> int:
             "updatedAt": today,
             "episodes": merged,
         }
+        if person.get("nickname"):
+            feed_payload["nickname"] = person["nickname"]
         if hosted_podcasts:
             feed_payload["hosted_podcasts"] = hosted_podcasts
         wrote = write_json(feed_path, feed_payload)
@@ -967,6 +969,8 @@ def main() -> int:
                 "episode_count": len(merged),
                 "handle_entity_id": person.get("handle_entity_id"),
             }
+            if person.get("nickname"):
+                index_entry["nickname"] = person["nickname"]
             if hosted_podcasts:
                 index_entry["hosted_podcasts"] = hosted_podcasts
             index_by_id[pid] = index_entry

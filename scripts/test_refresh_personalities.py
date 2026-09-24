@@ -13,6 +13,11 @@ from scripts.refresh_personalities import (
 
 
 class PersonalityAliasTests(unittest.TestCase):
+    def test_nickname_matches_episode_title(self):
+        person = {"name": "Stavros Halkias", "aliases": ["Stavvy"], "queries": ["Stavros Halkias", "Stavvy"]}
+        self.assertTrue(name_matches({"title": "Vulture talks with Stavvy"}, person, "title"))
+        self.assertEqual(discovery_queries("itunes", person, "title")[-1], ("Stavvy", "title", False))
+
     def test_former_name_and_surname_match_without_changing_display_name(self):
         person = {
             "name": "Conor Shakory",

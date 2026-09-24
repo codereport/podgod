@@ -75,6 +75,7 @@ def validate_metadata(value: object) -> dict[str, Any]:
     name = clean_single_line(value.get("name"), 100)
     title = clean_single_line(value.get("title"), 100)
     former_last_name = clean_single_line(value.get("formerLastName"), 80)
+    nickname = clean_single_line(value.get("nickname"), 80)
     if not ID_RE.fullmatch(personality_id):
         raise ValueError("Personality id must be a lowercase URL slug")
     if len(name) < 2:
@@ -82,6 +83,9 @@ def validate_metadata(value: object) -> dict[str, Any]:
     if len(title) < 2:
         raise ValueError("Personality subtitle must contain at least two characters")
     aliases = clean_unique_strings(value.get("aliases", []), 100, 20)
+    if nickname.casefold() == name.casefold():
+        nickname = ""
+    aliases = clean_unique_strings([*aliases, nickname], 100, 20)
     required_keywords = clean_unique_strings(
         value.get("requiredKeywords", []), 60, 12
     )
@@ -94,6 +98,7 @@ def validate_metadata(value: object) -> dict[str, Any]:
         "title": title,
         "aliases": aliases,
         "former_last_name": former_last_name,
+        "nickname": nickname,
         "potentially_common_name": potentially_common_name,
         "required_context_keywords": required_keywords,
         "hosted_podcasts": validate_hosted_podcasts(
@@ -176,6 +181,9 @@ def edit_personality(
     for alias in metadata["aliases"]:
         if " " in alias and alias.casefold() not in {q.casefold() for q in queries}:
             queries.append(alias)
+    nickname = metadata["nickname"]
+    if nickname and nickname.casefold() not in {q.casefold() for q in queries}:
+        queries.append(nickname)
 
     person["name"] = metadata["name"]
     person["aliases"] = metadata["aliases"]
@@ -185,6 +193,10 @@ def edit_personality(
         person["former_last_name"] = metadata["former_last_name"]
     else:
         person.pop("former_last_name", None)
+    if nickname:
+        person["nickname"] = nickname
+    else:
+        person.pop("nickname", None)
     if hosted:
         person["hosted_podcasts"] = hosted
     else:
@@ -203,6 +215,10 @@ def edit_personality(
         feed["former_last_name"] = metadata["former_last_name"]
     else:
         feed.pop("former_last_name", None)
+    if nickname:
+        feed["nickname"] = nickname
+    else:
+        feed.pop("nickname", None)
     if public_hosted:
         feed["hosted_podcasts"] = public_hosted
     else:
@@ -217,6 +233,10 @@ def edit_personality(
         index_person["name"] = metadata["name"]
         index_person["aliases"] = metadata["aliases"]
         index_person["title"] = metadata["title"]
+        if nickname:
+            index_person["nickname"] = nickname
+        else:
+            index_person.pop("nickname", None)
         if public_hosted:
             index_person["hosted_podcasts"] = public_hosted
         else:
