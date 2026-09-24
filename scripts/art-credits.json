@@ -98,5 +98,9 @@
   "ezra-klein": {
     "source": "admin_upload",
     "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
+  },
+  "david-heinemeier-hansson": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }

@@ -155,6 +155,27 @@
       ]
     },
     {
+      "id": "david-heinemeier-hansson",
+      "name": "David Heinemeier Hansson",
+      "aliases": [
+        "DHH"
+      ],
+      "title": "Software developer and entrepreneur",
+      "queries": [
+        "David Heinemeier Hansson",
+        "DHH"
+      ],
+      "review_pending": true,
+      "nickname": "DHH",
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "Ruby",
+        "Omarchy",
+        "37Signals",
+        "Basecamp"
+      ]
+    },
+    {
       "id": "demis-hassabis",
       "name": "Demis Hassabis",
       "aliases": [
