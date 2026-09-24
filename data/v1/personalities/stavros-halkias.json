@@ -19,7 +19,7 @@
       "duration": 1993,
       "pub_date": "2026-09-22T13:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-grabs-the-chemo-ball-portcast-full-episode/id6811426449?i=1000791109717&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000791109717,
       "added_at": "2026-09-22T17:50:49.411374Z"
     },
@@ -52,7 +52,7 @@
       "duration": 3456,
       "pub_date": "2026-09-21T04:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/224-stavros-halkias-stavros-ex-machina/id1515419751?i=1000790858042&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000790858042,
       "added_at": "2026-09-21T18:59:34.576823Z"
     },
@@ -69,7 +69,7 @@
       "duration": 11083,
       "pub_date": "2026-09-20T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-king-of-comedy-with-stavros-halkias/id981330533?i=1000790741120&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000790741120,
       "added_at": "2026-09-20T17:11:40.504490Z"
     },
@@ -103,7 +103,7 @@
       "duration": 2584,
       "pub_date": "2026-09-16T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-revolution-of-stavros-halkias-will-be-vindicated/id1685093486?i=1000789997266&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000789997266,
       "added_at": "2026-09-16T17:54:02.279692Z"
     },
@@ -136,7 +136,7 @@
       "duration": 4303,
       "pub_date": "2026-09-14T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/bobbys-moana-birthday-w-stavros-halkias/id1496265971?i=1000789515760&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000789515760,
       "added_at": "2026-09-14T18:58:13.079759Z"
     },
@@ -187,7 +187,7 @@
       "duration": 4618,
       "pub_date": "2026-09-10T04:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/fat-guy-confidence-w-stavros-halkias/id1499140700?i=1000788795292&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788795292,
       "added_at": "2026-09-10T17:25:02.403380Z"
     },
@@ -204,7 +204,7 @@
       "duration": 4145,
       "pub_date": "2026-09-09T14:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-on-tires-shane-gillis-his-netflix-special/id1519639412?i=1000788697360&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788697360,
       "added_at": "2026-09-09T17:27:04.878434Z"
     },
@@ -221,7 +221,7 @@
       "duration": 3411,
       "pub_date": "2026-09-09T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id1516844211?i=1000788643194&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788643194,
       "added_at": "2026-09-09T17:27:04.878434Z"
     },
@@ -238,7 +238,7 @@
       "duration": 3411,
       "pub_date": "2026-09-09T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id1273840231?i=1000788645021&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788645021,
       "added_at": "2026-09-09T17:27:04.878434Z"
     },
@@ -272,7 +272,7 @@
       "duration": 3411,
       "pub_date": "2026-09-09T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id1462693827?i=1000788652111&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788652111,
       "added_at": "2026-09-09T17:27:04.878434Z"
     },
@@ -306,7 +306,7 @@
       "duration": 1812,
       "pub_date": "2026-09-08T13:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/uncut-stavros-halkias-defends-his-5-most-controversial/id1796755509?i=1000788468623&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788468623,
       "added_at": "2026-09-08T17:41:00.289255Z"
     },
@@ -323,7 +323,7 @@
       "duration": 3411,
       "pub_date": "2026-09-08T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id6805539515?i=1000788428998&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788428998,
       "added_at": "2026-09-08T17:41:00.289255Z"
     },
@@ -340,7 +340,7 @@
       "duration": 3896,
       "pub_date": "2026-09-08T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-thinks-ice-cream-is-remarkable/id1766189578?i=1000788422527&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788422527,
       "added_at": "2026-09-08T17:41:00.289255Z"
     },
@@ -357,7 +357,7 @@
       "duration": 2681,
       "pub_date": "2026-09-08T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-our-movie-star-friend/id720832183?i=1000788396087&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000788396087,
       "added_at": "2026-09-08T17:41:00.289255Z"
     },
@@ -390,7 +390,7 @@
       "duration": 9569,
       "pub_date": "2026-09-04T01:59:10Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-the-clippers-go-to-jail-mt-rushmore/id1089022756?i=1000787760760&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000787760760,
       "added_at": "2026-09-04T17:17:52.665916Z"
     },
@@ -407,7 +407,7 @@
       "duration": 5410,
       "pub_date": "2026-09-02T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/when-pantsing-goes-wrong-with-stavros-halkias/id1834487732?i=1000787353198&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000787353198,
       "added_at": "2026-09-02T17:31:35.349374Z"
     },
@@ -457,7 +457,7 @@
       "duration": 4856,
       "pub_date": "2026-08-26T19:34:47Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/teenage-sex-and-death-at-camp-miasma-tony-interview/id1254073246?i=1000786104549&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000786104549,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -490,7 +490,7 @@
       "duration": 846,
       "pub_date": "2026-08-18T07:08:28Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/joe-rogan-and-shane-gillis-and-nate-bargatze-plus/id1474309028?i=1000784003450&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000784003450,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -507,7 +507,7 @@
       "duration": 2440,
       "pub_date": "2026-08-18T07:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id73331298?i=1000783927483&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000783927483,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -572,7 +572,7 @@
       "duration": 3276,
       "pub_date": "2026-08-12T06:00:05Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/first-to-laugh-with-matt-johnson-stavros-halkias/id1351044991?i=1000782893389&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000782893389,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -620,7 +620,7 @@
       "duration": 3688,
       "pub_date": "2026-08-05T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-wants-chinese-peptides-bad-chris-distefano/id1551760175?i=1000780030877&uo=4",
-      "language": null,
+      "language": "en",
       "podcastindex_id": 58579774025,
       "added_at": "2026-08-18T17:08:34.083777Z",
       "collection_id": 1551760175,
@@ -655,7 +655,7 @@
       "duration": 1453,
       "pub_date": "2026-08-02T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-stories/id1639821773?i=1000779629901&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000779629901,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -1200,7 +1200,7 @@
       "duration": 3401,
       "pub_date": "2026-03-16T10:26:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep-207-the-pizza-scandal-feat-stavros-halkias-we/id1716602387?i=1000755554518&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000755554518,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -1457,7 +1457,7 @@
       "duration": 4938,
       "pub_date": "2026-01-22T11:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/you-gotta-zag-w-stavros-halkias/id1160606309?i=1000746194946&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000746194946,
       "added_at": "2026-08-18T17:08:34.083777Z"
     },
@@ -1537,7 +1537,7 @@
       "duration": 3871,
       "pub_date": "2026-01-01T15:12:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-returns/id1731076727?i=1000743424994&uo=4",
-      "language": null,
+      "language": "en",
       "podcastindex_id": 47713363855,
       "added_at": "2026-08-18T17:08:34.083777Z",
       "collection_id": 1731076727,
@@ -1668,7 +1668,7 @@
       "duration": 4015,
       "pub_date": "2025-12-11T05:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/soda-for-breakfast-w-stavros-halkias/id1499140700?i=1000740793208&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000740793208,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -1845,7 +1845,7 @@
       "duration": 3876,
       "pub_date": "2025-10-29T07:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/gobin-the-blood-lurker-with-stavros-halkias/id1769416002?i=1000734008126&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000734008126,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -1862,7 +1862,7 @@
       "duration": 5632,
       "pub_date": "2025-10-28T09:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/324-ambidextrous-jerk-off-with-stavros-halkias/id1558483834?i=1000733825700&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000733825700,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -1944,7 +1944,7 @@
       "duration": 10677,
       "pub_date": "2025-10-19T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/true-grit-with-stavros-halkias/id981330533?i=1000732486670&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000732486670,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -2201,7 +2201,7 @@
       "duration": 4764,
       "pub_date": "2025-08-12T04:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/windowless-room-boyz-with-stavros-halkias-soder/id1716617572?i=1000721596463&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000721596463,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -2314,7 +2314,7 @@
       "duration": 4447,
       "pub_date": "2025-07-21T12:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/the-summer-bears-takeover-w-stavros-halkias-chris/id1468013270?i=1000718302899&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000718302899,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -2683,7 +2683,7 @@
       "duration": 8534,
       "pub_date": "2025-04-10T08:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/carls-jr-hardees-4-with-stavros-halkias/id996151267?i=1000702980398&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000702980398,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -2780,7 +2780,7 @@
       "duration": 2897,
       "pub_date": "2025-03-18T05:56:36Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-our-close-friend/id720832183?i=1000699601499&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000699601499,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -2973,7 +2973,7 @@
       "duration": 3643,
       "pub_date": "2025-01-21T19:54:18Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/snow-games-sad-baltimore-and-greek-yogurt-takes/id1788997372?i=1000684898198&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000684898198,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -3006,7 +3006,7 @@
       "duration": 4041,
       "pub_date": "2025-01-20T05:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/business-lunch-w-stavros-halkias/id1499140700?i=1000684646779&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000684646779,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -3215,7 +3215,7 @@
       "duration": 8211,
       "pub_date": "2024-11-18T15:10:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id1190981360?i=1000677337852&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000677337852,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -3280,7 +3280,7 @@
       "duration": 5586,
       "pub_date": "2024-11-08T23:38:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/ep-527-the-pillow-feat-stavros-halkias-steve-gerben/id1177068388?i=1000676274119&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000676274119,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -3409,7 +3409,7 @@
       "duration": 3649,
       "pub_date": "2024-10-10T10:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias/id1658660161?i=1000672491495&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000672491495,
       "added_at": "2026-09-24T12:42:20.328392Z"
     },
@@ -3474,7 +3474,7 @@
       "duration": 3798,
       "pub_date": "2024-09-26T07:00:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-loves-meat/id1731076727?i=1000670753522&uo=4",
-      "language": null,
+      "language": "en",
       "itunes_id": 1000670753522,
       "added_at": "2026-09-24T12:42:20.328392Z"
     }
