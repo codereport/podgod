@@ -456,11 +456,16 @@
     {
       "id": "stavros-halkias",
       "name": "Stavros Halkias",
-      "aliases": [],
+      "nickname": "Stavvy",
+      "aliases": [
+        "Stavvy"
+      ],
       "title": "Stand-up comedian and podcaster",
       "queries": [
-        "Stavros Halkias"
+        "Stavros Halkias",
+        "Stavvy"
       ],
+      "max_episodes": 250,
       "hosted_podcasts": [
         {
           "id": "podcastindex-5874430",
