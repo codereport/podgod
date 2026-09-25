@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "episodes": [
+    {
+      "guid": "fab580e0-b17f-4eb8-ae5b-5d73acd3d66b",
+      "title": "TODAY September 24, 3rd Hour: Mark Zuckerberg on AI | Mind Your Macros | Catching Up With… CC Sabathia",
+      "podcast_title": "TODAY",
+      "description": "As tech leaders sound the alarm about the threat AI could pose, NBC’s Joanna Stern sits down with Mark Zuckerberg for an exclusive interview. Also, how to track macronutrients and whether or not it’s the right tool for you. Plus, Hall of Famer CC Sabathia is live in Studio 1A to talk about a cause that’s close to his heart. And, nine-time Grammy Winner Ziggy Marley talks his brand-new children’s book, “True to Myself.”\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://podcastfeeds.nbcnews.com/pur1aAR9",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/94e25754-e86b-45c4-823a-db69b4df29dc/episodes/22d72b16-62ff-44b1-9ebf-f8e1b3bbb8ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=94e25754-e86b-45c4-823a-db69b4df29dc&awEpisodeId=22d72b16-62ff-44b1-9ebf-f8e1b3bbb8ba&feed=pur1aAR9",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f2/2e/52/f22e523f-ef1d-a733-7ea2-93cbb433f634/mza_16661666152544249054.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/1b/55/cb1b55bc-52ac-b336-bf56-2614e1b77698/mza_15275800531392240202.jpg/600x600bb.jpg",
+      "collection_id": 1573272310,
+      "duration": 2159,
+      "pub_date": "2026-09-24T22:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/today-september-24-3rd-hour-mark-zuckerberg-on-ai-mind/id1573272310?i=1000791531694&uo=4",
+      "language": "en",
+      "itunes_id": 1000791531694,
+      "added_at": "2026-09-25T18:09:34.258597Z"
+    },
     {
       "guid": "1be0ce0a-239c-11f1-b9e6-675539696f83",
       "title": "How to Set Big Goals and Actually Achieve Them | Mark Zuckerberg's Wisdom in 21 Minutes",

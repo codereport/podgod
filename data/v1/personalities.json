@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "languages": [
     "da",
     "de",
@@ -111,7 +111,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 81,
+      "episode_count": 83,
       "handle_entity_id": null
     },
     {
@@ -264,7 +264,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 27,
+      "episode_count": 28,
       "handle_entity_id": null
     },
     {
@@ -304,7 +304,7 @@
       "title": "Creator of OpenClaw",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
       "feed_url": "https://podgod.ca/data/v1/personalities/peter-steinberger.json",
-      "episode_count": 38,
+      "episode_count": 39,
       "handle_entity_id": null
     },
     {

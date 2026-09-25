@@ -4,8 +4,25 @@
   "name": "Peter Steinberger",
   "title": "Creator of OpenClaw",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "episodes": [
+    {
+      "guid": "flightcast:01M3CEKP9V5WPWKZZER7DP0BKR",
+      "title": "Peter Steinberger: Stop Sending Me Code. Send Me Your Prompt",
+      "podcast_title": "AI Worth Using",
+      "description": "Most builders already have more intelligence at their fingertips than they know what to do with. That's the tension Sam Odio and Tom Preston-Werner press on with Peter Steinberger, Creator of OpenClaw, who argues agent security is a trade-off, not a guarantee, no matter who built the model. The creator of OpenClaw would rather have your prompt than your pull request. What he reads in it: whether you understood the problem, or whether you are just a slot machine.\nPeter also gets into the security trade-offs of ageal difference is marketinentic AI, why open source can match closed labs on protection, and how he keeps dozens of parallel coding agents productive without losing control of the codebase.\nKEY TAKEAWAYS\n00:00 A code reviewer called 600 commits in a day from an AI agent \"actually not slop\"\n01:39 One founder handed a fully-capable agent to strangers on Discord overnight, and it survived\n04:32 Once you're a builder, the instinct never fully goes away, no matter how burned out\n05:46 The insight behind OpenClaw wasn't new information; it was a feeling many builders shared\n10:15 A risk calculation, not bravado, led to putting an unrestricted agent on a public server\n13:50 The gap between what AI can do and what we actually use it for keeps widening\n20:32 No coding agent, open or closed source, is protected against a determined enough attacker\n27:27 Open source security can match closed labs; the rg, not protection\n34:14 A fresh-context review agent can catch a coding agent's mistakes before a human sees them\n41:11 The best advice for new engineers: stay curious and get involved before mastering the codebase\n47:34 Plow Latch gives any agent access to a Mac, gated by one adversarial reviewer\n51:40 Tom's first live command to his new agent: say hello world out loud on his Mac\n1:00:20 Sam's daily use: paying bills from a photo, untangling scheduling emails, catching a missed mortgage payment\n1:06:48 Limited release lands in about a week, with a community launch roughly a month out\nSee how people are actually working with AI at https://aiworthusing.com  \nRESOURCES MENTIONED\nOpenClaw, the open-source personal AI agent project Peter founded and now stewards through the OpenClaw Foundation:\nhttps://openclaw.ai/ \nOpenAI homepage: \nhttps://openai.com/ \nNutrient (formerly PSPDFKit), the PDF framework Peter bootstrapped and ran for 13 years before stepping away:\nhttps://www.nutrient.io/sdk/ \n\"Where Good Ideas Come From\" by Steven Johnson, the book Tom references on the adjacent possible:\nhttps://www.betterworldbooks.com/product/detail/where-good-ideas-come-from-the-natural-history-of-innovation-9781594487712?shipto=US&curcode=USD&utm_source=google&utm_medium=cpc&utm_campaign=pMax-Used-USA&utm_content=&utm_term=&creative=&device=c&placement=&gad_source=1&gad_campaignid=16440140764&gbraid=0AAAAADMQnG_QXQP7OowB-WRdNT19pR48_&gclid=Cj0KCQjw5P7UBhDaARIsAOSlS1MaPAsp5uZhTBbt0DFtGwF2xkYRk7ptR0wTLQC1IURuiRDZnWyP8Y4aAtzrEALw_wcB \nPlow Latch, the Mac-based MCP server demoed live in this episode's bonus segment \nDownload and get started here:\nhttp://plow.co/latch\nJoin the AI WorthUsing x OpenClaw 2.0 \nhttps://luma.com/zhkhsnpa\n​The Hackathon winner, up to 2 members of the winning team, will be flown to SF on October 6th to workshop their agent with AgentCribs, a community of Silicon Valley agentic software builders and present it live to the developer community. Also attended by Peter Steinberger & Tom Preston-Werner.\nJoin the show Discord for more great resources and hackathon with great prizes.\nhttps://discord.com/invite/fDY2bBThRs?utm_source=luma \n#OpenSource #AIAgents #AgenticEngineering",
+      "feed_url": "https://rss2.flightcast.com/wicxrhmdzmz8fve1y5nndvdz.xml",
+      "audio_url": "https://episode.flightcast.com/01M3CEKP9V5WPWKZZER7DP0BKR.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/e6/c2/e5e6c262-e38c-2d78-841c-7114db110047/mza_10883752190040989767.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/69/cd/ec69cd14-5e5d-d17d-cce7-021d40cd0f3d/mza_18436016168235021875.jpg/600x600bb.jpg",
+      "collection_id": 6805129805,
+      "duration": 4491,
+      "pub_date": "2026-09-25T15:06:41Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger-stop-sending-me-code-send-me-your-prompt/id6805129805?i=1000791645540&uo=4",
+      "language": "en",
+      "itunes_id": 1000791645540,
+      "added_at": "2026-09-25T18:09:34.258597Z"
+    },
     {
       "guid": "https://api.spreaker.com/episode/73893702",
       "title": "OpenClaw_ The Viral AI Agent that Broke the Internet - Peter Steinberger _ Lex Fridman Podcast _491",
