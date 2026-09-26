@@ -4,7 +4,7 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "episodes": [
     {
       "guid": "798a7f38-7ac4-43c7-87ef-a24b50da5e91",
@@ -369,7 +369,7 @@
       "feed_url": "https://feeds.simplecast.com/SBwa8H9v",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/be786ab1-dfc7-4f14-a0ef-6b061bd64871/audio/128/default.mp3?aid=rss_feed&awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&awEpisodeId=be786ab1-dfc7-4f14-a0ef-6b061bd64871&feed=SBwa8H9v",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/ea/21/bbea2139-0c9b-7e15-a84f-0755ba2f565c/mza_16270158718916585337.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/0b/e5/1b0be519-7b72-82a8-5151-1f75b655f68d/mza_9944987144506151532.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/24/dc/3724dc96-f6c6-29d4-cda0-828236fe80c1/mza_17497978246900183626.jpg/600x600bb.jpg",
       "collection_id": 1821493726,
       "duration": 5469,
       "pub_date": "2026-09-08T11:00:00Z",
@@ -1317,7 +1317,7 @@
       "feed_url": "https://feeds.simplecast.com/SBwa8H9v",
       "audio_url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/cbb5ce9a-6101-4b87-97f8-915828ec9b69/audio/128/default.mp3?aid=rss_feed&awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&awEpisodeId=cbb5ce9a-6101-4b87-97f8-915828ec9b69&feed=SBwa8H9v",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/66/c4/7c66c4b7-777a-e425-00a0-79bbc1194eec/mza_4768928359584269421.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/0b/e5/1b0be519-7b72-82a8-5151-1f75b655f68d/mza_9944987144506151532.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/24/dc/3724dc96-f6c6-29d4-cda0-828236fe80c1/mza_17497978246900183626.jpg/600x600bb.jpg",
       "collection_id": 1821493726,
       "duration": 4501,
       "pub_date": "2026-08-13T11:00:00Z",
