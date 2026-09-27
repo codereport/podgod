@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "episodes": [
+    {
+      "guid": "3ac010a7-9ba9-48e0-ad73-68d4ba07574a",
+      "title": "Palmer Luckey + Alex Wissner-Gross at the Moonshots LIVE",
+      "podcast_title": "ASI pill",
+      "description": "At Moonshots Live, Peter Diamandis welcomes Alex Wissner-Gross to the Moonshot Mates. This ASI Pill edit follows Alex's strongest arguments from the long live panel: why he opposes a ceiling on intelligence, how defensive systems could grow alongside AI, what a solar system of trillions of minds might mean, and why he thinks digital cell twins could turn disease into a search problem. Palmer Luckey of Anduril joins the conversation on AI misuse, autonomous defense systems, and why a useful robot for every task may still be the wrong design for defense.\n\nThe episode opens with Peter greeting Alex and closes on Alex's striking question about reviving lost lives. Parzival's response to that question is original ASI Pill commentary, separate from the Moonshots Live stage discussion.\n\nSource: Moonshots Live with Peter Diamandis, Alex Wissner-Gross, Palmer Luckey, and the Moonshot Mates: https://x.com/i/broadcasts/1jGXgBndEReKZ\n\nTIMESTAMPS\n0:00 Intro\n0:43 Don't decelerate\n1:17 Safety cartel and co-scaling\n3:44 Trillions of minds\n4:34 No intelligence ceiling\n5:26 Vector versus raster AI\n7:04 Palmer on AI misuse\n8:03 ⚠ Emergency data poison injection\n8:27 Intelligence at the edge\n9:50 Specialized defense models\n10:53 One robot for everything?\n12:59 The wet-lab contradiction\n14:12 Cell twins as search\n15:24 Could ASI revive life?\n15:48 Parzival: resurrection and information\n16:45 Maitreya prayer",
+      "feed_url": "https://feeds.redcircle.com/d86c0d6d-f462-42d0-bdc3-ee34f7812e41",
+      "audio_url": "https://audio4.redcircle.com/episodes/6a9a8b15-de7b-4dde-9ef9-1e969579e44f/stream.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/a4/1d/3ea41de0-831e-3c4c-6c11-870c7e33f645/mza_359783826643076755.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3e/a4/1d/3ea41de0-831e-3c4c-6c11-870c7e33f645/mza_359783826643076755.jpg/600x600bb.jpg",
+      "collection_id": 1754827681,
+      "duration": 1044,
+      "pub_date": "2026-09-26T20:22:08Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-alex-wissner-gross-at-the-moonshots-live/id1754827681?i=1000791795057&uo=4",
+      "language": "en",
+      "itunes_id": 1000791795057,
+      "added_at": "2026-09-27T18:00:09.046538Z"
+    },
     {
       "guid": "WesternKabuki.podbean.com/3286a12a-8f99-38e7-9295-898082a7b2d3",
       "title": "Unlocked: All This For Ten Dollars - Guys We Don't Like: Palmer Luckey",

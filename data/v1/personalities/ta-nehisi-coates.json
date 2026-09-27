@@ -4,8 +4,25 @@
   "name": "Ta-Nehisi Coates",
   "title": "Author and journalist",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ta-nehisi-coates.png?v=742d7d8d",
-  "updatedAt": "2026-09-26",
+  "updatedAt": "2026-09-27",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/75391816",
+      "title": "Tom Hanks, Ta-Nehisi Coates and More Join Barack Obama’s ‘A Great Book’ Podcast at Audib",
+      "podcast_title": "The Bookshelf Chronicles",
+      "description": "Former President Barack Obama is launching a new six-part podcast series titled \"A Great Book,\" which is set to premiere on Audible in September 2026. The program features deep conversations with notable figures like Tom Hanks and Ta-Nehisi Coates regarding literary works that shaped their perspectives and impacted global society. This project is a collaboration between the Audible platform and the Obamas' production company, Higher Ground. Each episode focuses on a specific title, ranging from classic novels like \"Song of Solomon\" to modern thrillers such as \"Tinker, Tailor, Soldier, Spy.\" By examining these narratives, the series aims to explore the intersection of identity, culture, and power in the modern world. Following its initial exclusive run, the podcast will be distributed across YouTube and other major audio platforms.\n\n\"Open a book. Discover a world.\"\n\nThis episode includes AI-generated content.",
+      "feed_url": "https://www.spreaker.com/show/6014182/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75391816/obama_s_literary_strategy_for_soft_power.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/0b/11/420b111a-5c5f-cb86-485b-cb357e4ee78f/mza_17650456379484407986.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/42/0b/11/420b111a-5c5f-cb86-485b-cb357e4ee78f/mza_17650456379484407986.jpg/600x600bb.jpg",
+      "collection_id": 1717326115,
+      "duration": 1832,
+      "pub_date": "2026-09-27T05:30:02Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/tom-hanks-ta-nehisi-coates-and-more-join-barack/id1717326115?i=1000791832139&uo=4",
+      "language": "en",
+      "itunes_id": 1000791832139,
+      "added_at": "2026-09-27T18:00:09.046538Z"
+    },
     {
       "guid": "b998868f-78ac-4124-93bf-6f333ff519bc",
       "title": "Ta-Nehisi Coates and Hasan Minhaj Define Empire | The Left-Populist Wave is Here | UAE As Sub-Imperial Power | Interview w/ William Lawrence | Ep. 314",
