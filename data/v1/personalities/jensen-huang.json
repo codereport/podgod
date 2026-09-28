@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "episodes": [
+    {
+      "guid": "f3fc9ea0-4366-4005-8602-cc6dc2b6c44e",
+      "title": "S4E8: How Jensen Huang’s Childhood Built Nvidia",
+      "podcast_title": "Good decisions - bad decisions",
+      "description": "This is a podcast analyzing key pivots from the perspective of the clinical paradigm and Kahnemann´ s intuitive and rational thinking. \n \nPIVOT: \n \nBased on Tae Kim’s detailed chronicle in The Nvidia Way: Jensen Huang and the Making of a Tech Giant, Nvidia's rise from a near-bankrupt startup to an AI superpower is defined by three massive, existential pivots: \n1. The Survival Pivot: Abandoning NV1 for Microsoft Standards (1995–1997) \nThe Crisis: Nvidia's first multimedia chip, the NV1, was a commercial failure. It relied on a niche geometry (quadratic surfaces) just as Microsoft released Direct3D, which standardized polygonal rendering. Nvidia was weeks away from running out of money. \nThe Pivot: Jensen Huang chose to swallow his pride, completely scrap the proprietary NV1 architecture, and re-engineer a standard polygonal chip from scratch. This resulted in the RIVA 128, a breakout success that saved the company and forced them to adapt to what the broader market actually needed rather than chasing isolated engineering \"beauty\". \n2. The Computing Pivot: The Massive Bet on CUDA (2006) \nThe Crisis: Nvidia was successfully dominating the PC video game market with its dedicated GPUs. However, staying constrained entirely to gaming limited long-term growth and left them vulnerable to cyclical consumer tech trends. \nThe Pivot: Nvidia launched CUDA (Compute Unified Device Architecture), a proprietary software ecosystem designed to turn consumer graphics chips into general-purpose parallel processors. Wall Street originally hated this pivot because it heavily suppressed profit margins for nearly a decade. However, this visionary gamble laid the absolute groundwork for deep learning, positioning Nvidia as the only hardware manufacturer ready for the AI boom over a decade later. \n3. The Structural Pivot: Shifting from Chips to Full-Stack Data Centers (2010s–Present) \nThe Crisis: Competing purely as a \"component provider\" meant Nvidia could always be undercut or bypassed by chip giants like Intel or cloud providers designing their own silicon. \nThe Pivot: Nvidia systematically pivoted from selling isolated graphics cards to inventing full AI infrastructure and data center platforms. Through massive internal restructuring and high-profile acquisitions (like Mellanox networking), they began architecting entire supercomputers. By packaging the hardware, the networking fabric, and the CUDA ecosystem together, they created an ironclad ecosystem loop that competitors still struggle to penetrate. \n \nThis podcast was created using Google LLM. This podcast is an experiment.  Please note: This episode of Good Decisions - Bad Decisions was produced and narrated using AI voice generation technology.   \n \n#nvidia #INSEAD #podcast #leadership #decisionmaking #psychodynamics #INSEADEMC #business \n \nSources used for this podcast: \nNicolai Banck thesis, INSEAD EMC 2023 \nhttps://goodreads.com/book/show/211399783 \nhttps://www.goodreads.com/book/show/218319936-the-nvidia-way \nhttps://www.youtube.com/watch?v=ks5ogYiGoZU",
+      "feed_url": "https://anchor.fm/s/1164d69c8/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1164d69c8/podcast/play/126358075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2Faea6a762-81c0-8efa-f229-c7e001dbc8f4.m4a",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/5c/35/665c35f2-5215-e0db-f51d-41ec59ca802a/mza_7920806699050161960.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/5c/35/665c35f2-5215-e0db-f51d-41ec59ca802a/mza_7920806699050161960.jpg/600x600bb.jpg",
+      "collection_id": 6803943894,
+      "duration": 1283,
+      "pub_date": "2026-09-27T22:08:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/s4e8-how-jensen-huangs-childhood-built-nvidia/id6803943894?i=1000791920632&uo=4",
+      "language": "en",
+      "itunes_id": 1000791920632,
+      "added_at": "2026-09-28T20:19:43.895226Z"
+    },
     {
       "guid": "substack:post:217397676",
       "title": "On Ezra Klein’s Podcast With Jensen Huang",
@@ -1588,7 +1605,7 @@
       "itunes_id": 1000739554307,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "Jensen Huang is the founder, president, and CEO of NVIDIA, the company whose 1999 invention of the GPU helped transform gaming, computer graphics, and accelerated computing. Under his leadership, NVIDIA has grown into a full-stack computing infrastructure company reshaping AI and data-center technology across industries.www.nvidia.com\n\nwww.youtube.com/nvidia\n\n\n\nPerplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan.\n\n\n\nVisible. Live in the know. Join today at https://www.visible.com\n\n\n\nDon’t miss out on all the action - Download the DraftKings app today! Sign-up at https://dkng.co/rogan or with my promo code ROGAN\n\nGAMBLING PROBLEM? CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Please Gamble Responsibly. 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. Eligibility restrictions apply. On behalf of Boot Hill Casino & Resort (KS). Pass-thru of per wager tax may apply in IL. 1 per new customer. Must register new account to receive reward Token. Must select Token BEFORE placing min. $5 bet to receive $200 in Bonus Bets if your bet wins. Min. -500 odds req. Token and Bonus Bets are single-use and non-withdrawable. Token expires 1/11/26. Bonus Bets expire in 7 days (168 hours). Stake removed from payout. Terms: sportsbook.draftkings.com/promos. Ends 1/4/26 at 11:59 PM ET. Sponsored by DK.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/39/c4/ac39c4f9-9a22-06b4-442e-ed5d9715b09f/mza_16971090484056979646.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/08/92/990892a2-72fc-d84f-10a8-5dc6eff51fd6/mza_13906283896473041916.jpg/600x600bb.jpg",
       "collection_id": 360084272,
       "language": "en"
     },
@@ -1670,23 +1687,6 @@
       "episode_url": "https://www.spreaker.com/episode/nvidia-ceo-jensen-huang-s-vision-for-the-future--68301025",
       "podcastindex_id": 44351802558,
       "added_at": "2026-06-16T21:00:57.237398Z",
-      "language": "en"
-    },
-    {
-      "guid": "497d58c6-ad43-11f0-864d-bff3f4ddb337",
-      "title": "#403 How Jensen Works",
-      "podcast_title": "Founders",
-      "description": "This episode covers the insanely valuable company-building principles of Jensen Huang—and nothing else.\n\nI spent over 40 hours reading (and rereading) this book on Jensen and Nvidia written by Tae Kim \n\nI then spent several days editing down 30 pages of notes from the book. I deleted everything that was not How Jensen Works. \n\n\n\nList of ideas: \n\n1. Professor Jensen \n\n2. The Whiteboard \n\n3. Complacency Kills\n\n4. Insist on a Flat Organization\n\n5. Public Criticism \n\n6. Tortured Into Greatness\n\n7. Speed of Light \n\n8. Extreme In All Things \n\n9. Top 5 Emails\n\n10. Direct Communication \n\n11. LUA\n\n12. The Mission is the Boss and Pilot-in-Command \n\n13. Strategy is Action \n\n14. Ship The Whole Cow\n\n15. Go To School On Everybody \n\n16. Create The Market \n\n17. Choke You With Gold \n\n18. Highest Priority First \n\n19. Swarm Your Greatest Opportunity \n\n\n\nEpisode sponsors: \n\n\n\n⁠Ramp⁠⁠⁠⁠⁠⁠⁠ gives you everything you need to control spend, watch your costs, and optimize your financial operations —all on a single platform. Make history's greatest entrepreneurs proud ⁠⁠⁠by going to Ramp and learning how they can help your business control your costs and save time and money.⁠⁠⁠ ⁠⁠⁠⁠https://ramp.com⁠⁠⁠⁠ \n\n\n\nAutomate compliance, security, and trust with Vanta.⁠ ⁠⁠⁠Vanta helps you win trust, close deals, and stay secure—faster and with less effort⁠⁠⁠⁠. ⁠⁠⁠Find out how increased security leads to more customers by going to Vanta⁠⁠⁠. Tell them David from Founders sent you and you'll get $1000 off. ⁠⁠⁠https://www.vanta.com/founders⁠⁠ ⁠⁠⁠\n\n\n\nCollateral⁠⁠ transforms your complex ideas into compelling narratives. Collateral crafts institutional grade marketing collateral for private equity, private credit, real estate, venture capital, family offices, hedge funds, oil & gas companies, and all kinds of corporations. Storytelling is one of the highest forms of leverage and you should invest heavily in it. You can do that by going to ⁠⁠https://collateral.com",
-      "feed_url": "https://feeds.megaphone.fm/DSLLC6297708582",
-      "audio_url": "https://traffic.megaphone.fm/DSLLC6890692582.mp3?updated=1764796550",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
-      "collection_id": 1141877104,
-      "duration": 3315,
-      "pub_date": "2025-10-20T02:28:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/403-how-jensen-works/id1141877104?i=1000732570996&uo=4",
-      "itunes_id": 1000732570996,
-      "added_at": "2026-06-16T21:08:46.008620Z",
       "language": "en"
     }
   ]
