@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "languages": [
     "da",
     "de",
@@ -291,7 +291,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 50,
+      "episode_count": 51,
       "handle_entity_id": null
     },
     {
@@ -328,7 +328,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 216,
+      "episode_count": 217,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [

@@ -4,8 +4,24 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "episodes": [
+    {
+      "guid": "a40d9477-80fc-4766-a06c-bfd45e8bef20",
+      "title": "Bill Gates’s Blunt Warning on A.I.",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "<p>Bill Gates thinks A.I. alarmism hasn’t gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, bio-terrorism and mass job loss&nbsp; unless the government acts, because he thinks the idea that the A.I. industry can just self-regulate is “insane.”&nbsp;</p><p>I was struck in the conversation by how genuinely afraid Gates seemed to be that we are not ready for the consequences of what we are building, and how emphatic he was that so many of the people in positions of authority are in complete denial about what he thinks is about to happen.</p><p>Gates is a pioneering technologist, the co-founder of Microsoft and the chair of Gates Foundation, which is set to spend down around $200 billion over the next two decades. He recently announced that trying to make A.I. a force for equality in the world, as opposed to an impetus for inequality, is a new priority of his foundation’s work.</p><p><i>(The New York Times has sued OpenAI and Microsoft claiming copyright infringement. The companies have denied those claims.)</i></p><p>Mentioned:</p><p>“<a href=\"https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make\" rel=\"noopener noreferrer\"><u>The turbulent AI era is here. The choices we make now are critical.</u></a>” by Bill Gates</p><p>“<a href=\"https://www.gatesnotes.com/meet-bill/tech-thinking/reader/the-risks-of-ai-are-real-but-manageable\" rel=\"noopener noreferrer\"><u>The Risks of A.I. Are Real but Manageable</u></a>” by Bill Gates</p><p>“<a href=\"https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html\" rel=\"noopener noreferrer\"><u>Why the A.I. Job Apocalypse (Probably) Won’t Happen</u></a>” by Ezra Klein</p><p>Book Recommendations:</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/755600/the-correspondent-by-virginia-evans/\" rel=\"noopener noreferrer\"><u>The Correspondent</u></a>” by Virginia Evans</p><p>“<a href=\"https://www.simonandschuster.com/books/Into-the-Wood-Chipper/Nicholas-Enrich/9781668226957\" rel=\"noopener noreferrer\"><u>Into the Wood Chipper</u></a>” by Nicholas Enrich</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/752231/the-infinity-machine-by-sebastian-mallaby/\" rel=\"noopener noreferrer\"><u>The Infinity Machine</u></a>” by Sebastian Mallaby</p><p>Thoughts? Guest suggestions? Email us at <a href=\"mailto:ezrakleinshow@nytimes.com\" rel=\"noopener noreferrer\"><u>ezrakleinshow@nytimes.com</u></a>.</p><p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at <a href=\"https://www.nytimes.com/article/ezra-klein-show-book-recs.html\" rel=\"noopener noreferrer\">https://www.nytimes.com/article/ezra-klein-show-book-recs.html</a></p><p>This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris, with Julie Beer. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Gautam Srikishan. Our recording engineer is Aman Sahota. Cinematography by Marina King, Kyle Kelley and Elliot deBruyn. Video editing by Julian Hackney, Brandon Belk-Yee, Arpita Aneja and Steph Khoury. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Kristin Lin, Emma Kehlbeck and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "feed_url": "https://feeds.simplecast.com/82FI35Px",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/315b9d5d-a796-4940-ac66-f285a522b4b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=315b9d5d-a796-4940-ac66-f285a522b4b7&feed=82FI35Px",
+      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "duration": 4453,
+      "pub_date": "2026-09-29T09:00:00Z",
+      "episode_url": "https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html",
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1371595",
+      "added_at": "2026-09-29T19:01:57.187589Z"
+    },
     {
       "guid": "a69774f2-8209-41d2-b45d-52ad8b9e3334",
       "title": "What Does Abdul El-Sayed Believe?",
@@ -1597,22 +1613,6 @@
       "episode_url": "",
       "language": "en",
       "podcastindex_id": 44753177562,
-      "added_at": "2026-08-18T23:11:09.024216Z"
-    },
-    {
-      "guid": "b3c303ea-cb7f-4511-b90d-facc404678d3",
-      "title": "This Is How the Democratic Party Beats Trump",
-      "podcast_title": "The Ezra Klein Show",
-      "description": "<p>Democrats don’t just need to win more people; they also need to win more places. And that requires a different kind of thinking.</p><p>Mentioned:</p><p>\"<a href=\"https://www.nytimes.com/2025/11/02/opinion/democrats-liberalism-elections-crick.html\">How Liberalism Wins</a>\" by Ezra Klein</p><p>Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.</p><p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html</p><p>This episode of “The Ezra Klein Show” was produced by Claire Gordon, Marie Cascione and Kristin Lin. Fact-checking by Michelle Harris. Our senior engineer is Jeff Geld. Our executive producer is Claire Gordon. The show’s production team also includes Annie Galvin, Rollin Hu, Emma Kehlbeck, Jack McCordick, Marina King and Jan Kobal. Original music by Pat McCusker. Audience strategy by Kristina Samulewski and Shannon Busta. The director of New York Times Opinion Audio is Annie-Rose Strasser. Special thanks to Isaac Jones.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-      "feed_url": "https://feeds.simplecast.com/82FI35Px",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0b181ead-08bf-4b48-ab8e-7d8e67f80fc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0b181ead-08bf-4b48-ab8e-7d8e67f80fc4&feed=82FI35Px",
-      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-      "duration": 2263,
-      "pub_date": "2025-11-02T04:00:00Z",
-      "episode_url": "https://www.nytimes.com/2025/11/02/opinion/democrats-liberalism-elections-crick.html",
-      "language": "en",
-      "hosted_podcast_id": "podcastindex-1371595",
       "added_at": "2026-08-18T23:11:09.024216Z"
     }
   ],

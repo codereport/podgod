@@ -4,8 +4,25 @@
   "name": "Stavros Halkias",
   "title": "Stand-up comedian and podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "episodes": [
+    {
+      "guid": "2350e9d1-6156-4a92-8a3b-e6ea8b71a588",
+      "title": "Stavros Halkias Worries Fame Might Kill Him",
+      "podcast_title": "Death, Sex & Money",
+      "description": "This year, Stavros Halkias released a stand-up special, appeared in the Anthony Bourdain biopic Tony, and continued his run on the hit Netflix show Tires. Despite the high points, he says this year has also been “torture.”\nThis week on the show, Stavros breaks down why success and unhealthy habits go hand in hand for him. He also traces his upbringing in a working-class immigrant family in Baltimore, his experiences in therapy, and his growing aptitude for flirting with women. \nPodcast production by Cameron Drews. \nRight now, we’re running a deal on Death, Sex & Money Plus memberships! Sign up to get bonus episodes of DSM and ad-free listening on all your favorite Slate podcasts. Visit slate.com/dsmplus and use promo code DSM50 to get 50% off your membership – a full year of Death, Sex & Money Plus for $59. \nIf you’re new to the show, welcome. We’re so glad you’re here. Find us and follow us on Instagram and you can find Anna’s newsletter at annasale.substack.com. Our email address, where you can reach us with voice memos, pep talks, questions, critiques, is deathsexmoney@slate.com.\nNeed to set up your Slate Plus feed? If you subscribed through Slate.com, check out our FAQ at slate.com/podcastfaqs for easy instructions. Members subscribed via Apple Podcasts get automatic access—no setup required.\n Hosted on Acast. See acast.com/privacy for more information.",
+      "feed_url": "https://my.slate.com/podcasts/feeds/death-sex-money/",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69655a401f21449d6dda7edc/e/6abacc884e059d44b5cd3a8b/media.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/25/c8/ab25c89d-f0ff-b241-4432-1ef06521b765/mza_16562465962407518091.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/25/c8/ab25c89d-f0ff-b241-4432-1ef06521b765/mza_16562465962407518091.jpg/600x600bb.jpg",
+      "collection_id": 870688022,
+      "duration": 3040,
+      "pub_date": "2026-09-29T07:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-worries-fame-might-kill-him/id870688022?i=1000792082309&uo=4",
+      "language": "en",
+      "itunes_id": 1000792082309,
+      "added_at": "2026-09-29T19:01:57.187589Z"
+    },
     {
       "guid": "a601a8bd-98a2-4028-a70e-e2c0161614a5",
       "title": "#200 - Kam Patterson",
