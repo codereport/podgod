@@ -4,8 +4,25 @@
   "name": "David Heinemeier Hansson",
   "title": "Software developer and entrepreneur",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "episodes": [
+    {
+      "guid": "b6ce45fd-b215-432d-b751-b13059067416",
+      "title": "Tech Genius Reveals Why The AI Revolution is Inevitable | David Heinemeier Hansson",
+      "podcast_title": "Decoded Genius",
+      "description": "Watch the full episode here: https://youtu.be/nNx1D54wVEM\nBECOME A SPONSOR:Email: will@decodedgenius.com\nCONNECT WITH DAVIDWebsite: https://dhh.dk/YouTube: https://www.youtube.com/@dhh37LinkedIn: https://www.linkedin.com/in/david-heinemeier-hansson-374b18221/Instagram: https://www.instagram.com/dhhdrives/X: https://x.com/dhh\nFOLLOW DECODED GENIUSWebsite: https://decodedgenius.com/Email updates: https://decodedgenius.com/subscribe/\nFOLLOW WILL CANNONInstagram: https://www.instagram.com/iamwillcannon/LinkedIn: https://www.linkedin.com/in/will-cannon/Website: https://iamwillcannon.com/\nWHAT WE DECODED→ Why David flipped from writing nearly all his code by hand to starting every new piece of code with a prompt, inside a single month→ How 37signals cut a $3.2 million annual cloud bill to roughly $800,000, and why a dollar saved beats five dollars earned→ Why Jeff Bezos took a minority stake with no control, no timeline and no guaranteed exit, and what he saw that the VCs didn't→ The 40-hour weekly moving average he's held for 25 years, and why the first ten hours beat hours 80 through 90→ Why \"lifestyle business\" was thrown at him as an insult, and why he took it as a compliment→ How refusing Apple's 30% cut became the best launch campaign 37signals ever ran→ Why he banned politics at work in 2021, and why that fight and the Apple fight are his two proudest moments→ The stoic practice he credits for cutting decades of wasted worry\nCHAPTERS00:00:45 The AI Supercycle, Agents & Six Months of Whiplash00:10:08 Bootstrapping, the Dot-Com Bust & the Case for Small Teams00:19:24 Constraints, Distribution & Starting a Software Business Today00:24:06 Jeff Bezos, Secondaries & Giving Up Zero Control00:33:28 SaaS Valuations, Raising in 2026 & the Rough Ride Ahead00:40:38 Productivity, ATMs, Tractors & Who Gets Left Behind00:49:59 Guardrails, Doomsday Stories & the Nuclear Mistake00:59:20 Hustle Culture, the 40-Hour Average & Finding Your Enough01:22:34 Leaving the Cloud, ONCE & the Case for Commodity Software01:37:22 The Apple War, Banning Politics & Two Proud Fights01:46:39 Cars, Le Mans & Why Mechanical Things Still Need Us01:59:52 Stoicism, Negative Visualization & the Final Advice\n#DecodedGenius #DHH #Bootstrapping #AIAgents #SoftwareBusiness",
+      "feed_url": "https://feeds.transistor.fm/decoded-genius",
+      "audio_url": "https://media.transistor.fm/3a26078f/aa145579.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/cb/cd/99cbcdfa-1bfb-3764-3dcf-41d2f0fe453e/mza_15845218468824087143.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b5/67/79b56756-3dbe-e287-50a8-42f72563dc53/mza_15649641932241596923.jpg/600x600bb.jpg",
+      "collection_id": 6785087782,
+      "duration": 7291,
+      "pub_date": "2026-09-30T13:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/tech-genius-reveals-why-the-ai-revolution-is/id6785087782?i=1000792387787&uo=4",
+      "language": "en",
+      "itunes_id": 1000792387787,
+      "added_at": "2026-09-30T18:44:21.231619Z"
+    },
     {
       "guid": "84559113-5cc4-4868-8292-af3964fcd948",
       "title": "Tokenizados #26: Las gafas de Meta y Muse, la factura que no baja y DHH deja de programar",

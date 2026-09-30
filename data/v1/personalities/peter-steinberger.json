@@ -4,8 +4,25 @@
   "name": "Peter Steinberger",
   "title": "Creator of OpenClaw",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "episodes": [
+    {
+      "guid": "4e2da1b3-717b-4778-8df0-9110bda19379",
+      "title": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
+      "podcast_title": "TBPN",
+      "description": "(09:00) - Sam Altman discusses how increasingly capable AI agents can simplify work and daily life while fostering an open ecosystem for developers. He also addresses OpenAI’s startup culture, expanding computing infrastructure, simplified model selection, rapid experimentation, and the unresolved scientific challenge of aligning superintelligent AI.\n(25:17) - Alexander Embiricos, an OpenAI product leader, discusses “dots,” proactive AI agents designed to act as personal delegates across workplace tools. He explains how personal and specialist dots can autonomously handle tasks, support individuals and enterprises, and make advanced AI more accessible through flexible interfaces and integrations.\n(41:54) - Andrew Ambrosino discusses leading OpenAI’s Codex desktop and Space teams and unifying Codex’s agentic capabilities with ChatGPT. He highlights cloud and local-machine integration, collaborative AI workspaces, dynamic interfaces, faster models, and OpenAI’s iterative, feedback-driven product development.\n(54:27) - Peter Steinberger discusses founding OpenClaw and pioneering personal AI agents that can proactively operate computers, use tools, and coordinate complex tasks. He explores agent-driven software development, changing online services, and a future where AI reshapes operating systems, commerce, and human workflows.\n(01:16:22) - Tibo Sottiaux discusses his work leading AI agent development at OpenAI, including Dots, Codex, and advances in computer use. He explains how persistent agents can learn users’ preferences, securely perform specialized organizational tasks, share long-term memory, and automatically balance speed, cost, and reasoning effort.\n(01:33:41) - Kath Korevec discusses her work as an OpenAI product manager for ChatGPT Sites, which reached 10 million sites within three months of launch. She highlights personal and professional uses, collaborative features within Spaces, new integrations and plugins, and plans to expand access to free users.\n(01:41:50) - Casey Neistat discusses his perspective as a filmmaker, YouTube pioneer, and ModRetro executive on retro technology, AI-assisted creativity, and the value of simple, purpose-built devices. He argues that AI will democratize game and video creation while human taste, expertise, and curation remain essential amid a growing flood of content.\n\nTBPN is made possible by:\nRamp - https://ramp.com\nPublic - https://public.com\nCisco - https://www.cisco.com\nConsole - https://www.console.com\nCrowdStrike - https://www.crowdstrike.com\nFigma - https://www.figma.com\nMongoDB - https://www.mongodb.com\nNYSE - https://www.nyse.com\nRailway - https://railway.com\nShopify - https://www.shopify.com\nCodex - http://openAI.com/codex\n\nFollow TBPN: \nhttps://TBPN.com\nhttps://x.com/tbpn\nhttps://open.spotify.com/show/2L6WMqY3GUPCGBD0dX6p00?si=674252d53acf4231\nhttps://podcasts.apple.com/us/podcast/tbpn/id1772360235\nhttps://www.youtube.com/@TBPNLive",
+      "feed_url": "https://feeds.transistor.fm/technology-brother",
+      "audio_url": "https://media.transistor.fm/b41e5338/059d2992.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
+      "collection_id": 1772360235,
+      "duration": 7514,
+      "pub_date": "2026-09-29T21:29:57Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/openai-devday-sam-altman-alexander-embiricos-andrew/id1772360235?i=1000792266091&uo=4",
+      "language": "en",
+      "itunes_id": 1000792266091,
+      "added_at": "2026-09-30T18:44:21.231619Z"
+    },
     {
       "guid": "flightcast:01M3CEKP9V5WPWKZZER7DP0BKR",
       "title": "Peter Steinberger: Stop Sending Me Code. Send Me Your Prompt",
