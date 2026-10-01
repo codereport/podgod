@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "episodes": [
+    {
+      "guid": "2429c9e2-fd7d-4bee-919f-1351321f42e2",
+      "title": "20VC: Instinct Raises $1B at $10B Valuation | AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B | Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover",
+      "podcast_title": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "description": "AGENDA: \n 00:00 Highlights: Jack Altman Joins The Trio\n 05:00 Anthropic's S-1 Leaks: $8B Operating Loss and $518B in Compute Commitments\n 10:00 Instinct Raises $1B at a $10B Valuation to Take On Meta\n 25:00 AMD Buys Fei-Fei Li's World Labs for $8.2B\n 39:00 Meta Poaches MongoDB's CEO as Shares Plunge 20%\n 43:00 AI Startup Seeks $10B Valuation Just One Week After Seed\n 47:00 Modal Hits $15B Valuation as Baseten Eyes $26B\n 54:00 OpenAI Reopens Its $200 Plan—and Halves What You Get\n 57:00 Oura Pulls IPO After Targeting a $16B Valuation\n 01:03:00 Nubank Eyes $8–12B Monzo Takeover\n 01:08:00 Bessemer Raises $5.75B as NFX Switches to Its Own Capital\n 01:14:00 Anthropic Founders Move to Lock In 50.1% Voting Control",
+      "feed_url": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_EP.76.mp3?dest-id=240976",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/dd/5c/cadd5cf6-092f-6eb7-50cc-3d9af5fd1c88/mza_16699677173661201997.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/4a/f9/cb4af9a2-5857-c3f1-30d4-14395af9a14f/mza_11350890235230424535.jpeg/600x600bb.jpg",
+      "collection_id": 958230465,
+      "duration": 4721,
+      "pub_date": "2026-10-01T07:07:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/20vc-instinct-raises-%241b-at-%2410b-valuation-amd-buys/id958230465?i=1000792526682&uo=4",
+      "language": "en",
+      "itunes_id": 1000792526682,
+      "added_at": "2026-10-01T19:10:50.050278Z"
+    },
     {
       "guid": "63f82bf6-f88a-458e-be05-4fd163afee36",
       "title": "Fei-Fei- Li: Visionary of Modern AI (5+ Hour Biography)",

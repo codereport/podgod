@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/75467894",
+      "title": "Latest: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution!!!",
+      "podcast_title": "Elon Musk Thinking",
+      "description": "Latest: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution!!!\n\n #ElonMusk #JensenHuang #TomBrown\n\n Source: https://youtu.be/388P7IFSpwE?s...\n\n Elon Musk is the CEO of the company X, Tesla, Neuralink, SpaceX and the Boring Company.\n\n Follow me on X https://x.com/Astronautman627?...\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/elon-musk-thinking--5839286/support.",
+      "feed_url": "https://www.spreaker.com/show/5839286/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75467894/imported_1790810989144550_audio.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/0b/eb/810beb3d-decb-42d7-f510-1da23b2b1c0c/mza_13034229317938289902.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1c/33/dc/1c33dcd4-efac-e1c4-a26e-bb213e9ac765/mza_15405286633140370701.jpg/600x600bb.jpg",
+      "collection_id": 1690590101,
+      "duration": 1597,
+      "pub_date": "2026-09-30T23:38:13Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/latest-elon-musk-jensen-huang-tom-brown-discuss-the/id1690590101?i=1000792478295&uo=4",
+      "language": "en",
+      "itunes_id": 1000792478295,
+      "added_at": "2026-10-01T19:10:50.050278Z"
+    },
     {
       "guid": "b99bd5b0-bcdd-11f1-acd3-9b3e0fc7c2ef",
       "title": "Jensen Huang's biggest Q3 moves, Rubrik CEO talks tech & cybersecurity",
@@ -1672,22 +1689,6 @@
       "pub_date": "2025-11-07T14:30:00Z",
       "episode_url": "https://podcasters.spotify.com/pod/show/theurbanherald/episodes/From-dishwasher-to-5-trillion-Jensen-Huangs-unlikely-path-to-AI-dominance-e3akt3m",
       "podcastindex_id": 44895496837,
-      "added_at": "2026-06-16T21:00:57.237398Z",
-      "language": "en"
-    },
-    {
-      "guid": "e8a2e5f4-250a-42a0-9cc4-b38d01222fab",
-      "title": "Who is Jensen Huang and why has Nvidia become so powerful?",
-      "podcast_title": "The Big Tech Show",
-      "description": "Who is Jensen Huang? Why does he always wear a leather jacket? And what's he like to work for? Stephen Witt, Los Angeles based journalist and author of The Thinking Machine: Jensen Huang, Nvidia And The World’s Most Coveted Microchip, joins Adrian on this week’s episode of The Big Tech Show. Last week, Nvidia became the first company to surpass a $5 trillion (€4.4 trillion) valuation. That’s worth more than every country’s GDP, except for the US and China. It’s worth more than the entire crypto market, the entire gold market and, according to one colourful estimate, every pizza ever sold in history. Nvidia is making vast amounts of real, hard cash from the AI boom. It’s not potential or future revenue, like OpenAI, Google, Microsoft or Anthropic. It’s billions in sales of its AI chips, which almost every tech company now craves. Sitting atop this new empire is Jensen Huang, the 62-year-old leather-jacket wearing Singaporean-American, who has gone from being a nerdy graphics card boss to the most powerful tech CEO in the world. For the moment, at least, he tops peers such as Elon Musk, Tim Cook and Mark Zuckerberg in influence and relevance. In the award-shortlisted biography The Thinking Machine: Jensen Huang, Nvidia And The World’s Most Coveted Microchip, which is the best account of Huang published so far, author Stephen Witt documents Huang’s life from a newly-arrived immigrant in the US to being a frequent visitor at Donald Trump’s Mar A Lago compound in Florida. You can listen to the full episode here, on the Irish Independent website or wherever you get your podcasts. <p>See <a href=\"https://omnystudio.com/listener\">omnystudio.com/listener</a> for privacy information.</p>",
-      "feed_url": "https://www.omnycontent.com/d/playlist/fdd7ab40-270d-4a1e-a257-acd200da1324/d50701f5-5236-4ba4-923c-ae720077f299/345e22e8-39c0-4bd5-b31a-ae720077f2ac/podcast.rss",
-      "audio_url": "https://traffic.omny.fm/d/clips/fdd7ab40-270d-4a1e-a257-acd200da1324/d50701f5-5236-4ba4-923c-ae720077f299/e8a2e5f4-250a-42a0-9cc4-b38d01222fab/audio.mp3?utm_source=Podcast&in_playlist=345e22e8-39c0-4bd5-b31a-ae720077f2ac",
-      "artwork_url": "https://www.omnycontent.com/d/clips/fdd7ab40-270d-4a1e-a257-acd200da1324/d50701f5-5236-4ba4-923c-ae720077f299/e8a2e5f4-250a-42a0-9cc4-b38d01222fab/image.jpg?t=1762450615&size=Large",
-      "podcast_artwork_url": "https://www.omnycontent.com/d/programs/fdd7ab40-270d-4a1e-a257-acd200da1324/d50701f5-5236-4ba4-923c-ae720077f299/image.jpg?t=1769768050&size=Large",
-      "duration": 1663,
-      "pub_date": "2025-11-07T02:05:00Z",
-      "episode_url": "https://omny.fm/shows/the-big-tech-show/who-is-jensen-huang-and-why-has-nvidia-become-so-powerful",
-      "podcastindex_id": 45231925088,
       "added_at": "2026-06-16T21:00:57.237398Z",
       "language": "en"
     }

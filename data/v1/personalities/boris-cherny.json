@@ -4,8 +4,24 @@
   "name": "Boris Cherny",
   "title": "Creator of Claude Code",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "episodes": [
+    {
+      "guid": "547f566b-7cff-459d-b490-a3afaa4c57df",
+      "title": "In Conversation with Boris Cherny, Creator of Claude Code",
+      "podcast_title": "Decoding Tech",
+      "description": "<p>What does it take to help shape one of the most consequential revolutions in tech history?<strong> Boris Cherny</strong>, creator and head of Claude Code, joins CHM curato<strong>r David C. Brock </strong>for a wide-ranging conversation about the past, present, and future of artificial intelligence. </p><p>This CHM Live program was recorded on September 23, 2026, and made possible by the generous support of Mark and Mary Stevens. To watch a video of this program, please visit the Computer History Museum's YouTube channel.</p><p>To learn more about the Computer History Museum and our upcoming CHM Live events, visit our website at <a href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fairtable.com%2FappauVaNN3f0C9voq%2FtblhryEe9DrpJqi96%2Fwww.computerhistory.org&data=05%7C02%7Crihrig%40computerhistory.org%7Caf55bd08077d4612f5c308df1f361700%7Cb6a9c12a29ee4c5f8f93f0d7a8e2db2f%7C0%7C0%7C639263989371180543%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=myFBpgZasNsiANVI%2FPt0AKPy2nDB3HkLL8owpyw3kJ4%3D&reserved=0\" target=\"_blank\" rel=\"noreferrer noopener\">www.computerhistory.org</a></p><p></p>",
+      "feed_url": "https://anchor.fm/s/ffa6cbb0/podcast/rss",
+      "audio_url": "https://anchor.fm/s/ffa6cbb0/podcast/play/126587628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F90e23e6f-2b70-ed8e-7364-61dca283ac6f.mp3",
+      "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42791212/42791212-1738703611710-04aae1e723303.jpg",
+      "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42791212/42791212-1738703611710-04aae1e723303.jpg",
+      "duration": 4136,
+      "pub_date": "2026-09-30T22:15:29Z",
+      "episode_url": "https://podcasters.spotify.com/pod/show/computer-history-museum/episodes/In-Conversation-with-Boris-Cherny--Creator-of-Claude-Code-e3pll9c",
+      "language": "en",
+      "podcastindex_id": 61085457727,
+      "added_at": "2026-10-01T19:10:50.050278Z"
+    },
     {
       "guid": "e5a345de-feda-4a8e-83ae-fa6bf83325cc",
       "title": "Fable 5.1 怎麼 prompt？5 件今天就該改的事",

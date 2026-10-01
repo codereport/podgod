@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "languages": [
     "da",
     "de",
@@ -47,7 +47,7 @@
       "title": "Creator of Claude Code",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
       "feed_url": "https://podgod.ca/data/v1/personalities/boris-cherny.json",
-      "episode_count": 55,
+      "episode_count": 56,
       "handle_entity_id": null
     },
     {
@@ -85,7 +85,7 @@
       "title": "Software developer and entrepreneur",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
       "feed_url": "https://podgod.ca/data/v1/personalities/david-heinemeier-hansson.json",
-      "episode_count": 26,
+      "episode_count": 28,
       "handle_entity_id": null,
       "nickname": "DHH"
     },
@@ -111,7 +111,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 89,
+      "episode_count": 90,
       "handle_entity_id": null
     },
     {
@@ -142,7 +142,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 30,
+      "episode_count": 31,
       "handle_entity_id": null
     },
     {
