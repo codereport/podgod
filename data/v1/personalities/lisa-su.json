@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "episodes": [
+    {
+      "guid": "a6781ea2-4ce9-4e0e-869a-32ab932c48a3",
+      "title": "How Lisa Su Turned a Dying AMD Into a $1 Trillion Giant | China Insights",
+      "podcast_title": "China Insights",
+      "description": "When Lisa Su took over AMD, the chipmaker was struggling with years of losses, heavy debt and a collapsing stock price. Today, AMD is worth more than $1 trillion.So how did she pull off one of the biggest turnarounds in tech history? From the gamble on Zen and Ryzen to a controversial China technology deal and the AI boom, this is the remarkable story of Lisa Su and AMD’s comeback.#LisaSu #AMD #Ryzen #Semiconductors #AI #Tech #Nvidia #Chips #TechHistory #Business",
+      "feed_url": "https://anchor.fm/s/1125cd2f4/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1125cd2f4/podcast/play/126615783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-1%2F433068303-44100-2-e393ca3e23bc1.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/e0/8d/75e08da7-4516-1daa-9a5d-9a157e93a39c/mza_242686529585759572.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/e0/8d/75e08da7-4516-1daa-9a5d-9a157e93a39c/mza_242686529585759572.jpg/600x600bb.jpg",
+      "collection_id": 1896475120,
+      "duration": 1613,
+      "pub_date": "2026-10-01T21:56:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/how-lisa-su-turned-a-dying-amd-into-a-%241/id1896475120?i=1000792651315&uo=4",
+      "language": "en",
+      "itunes_id": 1000792651315,
+      "added_at": "2026-10-02T18:50:41.055678Z"
+    },
     {
       "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
       "title": "How AMD's Lisa Su Views the Future of AI",

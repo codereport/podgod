@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "languages": [
     "da",
     "de",
@@ -85,7 +85,7 @@
       "title": "Software developer and entrepreneur",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
       "feed_url": "https://podgod.ca/data/v1/personalities/david-heinemeier-hansson.json",
-      "episode_count": 28,
+      "episode_count": 29,
       "handle_entity_id": null,
       "nickname": "DHH"
     },
@@ -206,7 +206,7 @@
       "title": "Olympic 1500m & 5000m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=a5020ba0",
       "feed_url": "https://podgod.ca/data/v1/personalities/jakob-ingebrigtsen.json",
-      "episode_count": 29,
+      "episode_count": 30,
       "handle_entity_id": null
     },
     {
@@ -254,7 +254,7 @@
       "title": "AMD CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
       "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
-      "episode_count": 24,
+      "episode_count": 25,
       "handle_entity_id": null
     },
     {
@@ -264,7 +264,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 28,
+      "episode_count": 29,
       "handle_entity_id": null
     },
     {
@@ -328,7 +328,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 218,
+      "episode_count": 219,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [
