@@ -4,7 +4,7 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "episodes": [
     {
       "guid": "785dce90-0cb9-419b-91a4-63654bb4fe7c",
@@ -113,7 +113,7 @@
       "feed_url": "https://feeds.megaphone.fm/colossus-magazine",
       "audio_url": "https://traffic.megaphone.fm/CLS4541566413.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/d9/d9/0dd9d9ce-bdd7-4275-dffe-09487a0d2073/mza_12321296465801464326.jpeg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/68/fa/cb68fa1c-369b-f327-4e35-11ce0608447a/mza_18004462637879254770.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8b/87/56/8b875657-d712-0768-5177-c8dbba369c72/mza_1898358240789239600.jpeg/600x600bb.jpg",
       "collection_id": 1896935216,
       "duration": 6981,
       "pub_date": "2026-09-14T08:00:00Z",
