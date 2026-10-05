@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "episodes": [
+    {
+      "guid": "substack:post:218860179",
+      "title": "Lisa Su: The Personal Mission Driving the Next Era of AI",
+      "podcast_title": "A Bit Personal with Jodi Shelton",
+      "description": "AMD’s comeback is one of the most unbelievable stories in modern tech and Lisa Su is the reason it happened. In this episode, Jodi Shelton sits down with Dr. Lisa Su, Chair and CEO of AMD.Some CEOs chase hype. Lisa Su chased execution. Guess who won. In this episode, Jodi Shelton sits down with Dr. Lisa Su, Chair and CEO of AMD.This is the part of tech history people will pretend was obvious later. It wasn’t. In this episode, Jodi Shelton sits down with Dr. Lisa Su, Chair and CEO of AMD.\n \n\nThis is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit abitpersonalpod.substack.com",
+      "feed_url": "https://api.substack.com/feed/podcast/10995552.rss",
+      "audio_url": "https://api.substack.com/feed/podcast/218860179/d019824dd277abf09acf57d77845c2b1.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/94/24/549424dd-5d50-3d20-7b60-170813858110/mza_5677713379860499782.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/cf/09/44cf09ea-d09e-58cb-aafc-5bd7ff4ddde5/mza_10213781730174889165.jpg/600x600bb.jpg",
+      "collection_id": 6817404831,
+      "duration": 3159,
+      "pub_date": "2026-10-05T01:29:25Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/lisa-su-the-personal-mission-driving-the-next-era-of-ai/id6817404831?i=1000793164676&uo=4",
+      "language": "en",
+      "itunes_id": 1000793164676,
+      "added_at": "2026-10-05T21:23:10.803142Z"
+    },
     {
       "guid": "a6781ea2-4ce9-4e0e-869a-32ab932c48a3",
       "title": "How Lisa Su Turned a Dying AMD Into a $1 Trillion Giant | China Insights",

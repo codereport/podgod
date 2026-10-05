@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "languages": [
     "da",
     "de",
@@ -73,7 +73,7 @@
       "title": "Ultramarathon champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
-      "episode_count": 14,
+      "episode_count": 15,
       "handle_entity_id": null
     },
     {
@@ -254,7 +254,7 @@
       "title": "AMD CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
       "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
-      "episode_count": 25,
+      "episode_count": 26,
       "handle_entity_id": null
     },
     {
@@ -264,7 +264,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 29,
+      "episode_count": 30,
       "handle_entity_id": null
     },
     {
@@ -328,7 +328,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 219,
+      "episode_count": 220,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [
