@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "episodes": [
+    {
+      "guid": "b489b602-c122-11f1-ac39-171fbc3aa28e",
+      "title": "Can We Govern AI? with Godfather of AI Geoffrey Hinton",
+      "podcast_title": "Smart Girl Dumb Questions",
+      "description": "We asked Geoffrey Hinton, the Nobel Prize-winning Godfather of AI: what happens when AI gets smarter than us? Can it unlearn bad behaviours? Break out and release a model that even Sam Altman acknowledges is dangerous? Under what circumstances can we trust Sam, Demis or Dario? And is the Trump administration and US government at all equipped to handle this moment? \n\nAlso: what does AI have to do with The Beatles … or beetles, rather. This is Part 3 of our Godfather of AI series you can find\n\nPart 1 here: https://youtu.be/Px3HfB2UkyU?si=W5A6S0X7FBgGTA8p\n\nPart 2 here: https://youtu.be/oMpNIz9AIu0?si=KYZHdN2U-tDNejnZ\n\nSend us your “dumb questions” on IG/TikTok @smartgirldumbquestions or by calling 1-855-MyDumbQ. \n\nMake sure you’re following Nayeema and the show on YouTube, Instagram and TikTok.\n\nAnd obvi: SHARE THE SHOW WITH YOUR FRIENDS, YOUR GROUP CHAT, YOUR MOM and YOUR AI Obsessed Coworker.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/SITTN8050158068",
+      "audio_url": "https://arttrk.com/p/MG4HN/traffic.megaphone.fm/TMLLC6743465339.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/2f/92/232f928a-b116-af35-0500-c51a584cbd05/mza_7414022346774586227.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/2d/17/f32d178d-3f28-bef4-a27f-ceeb04f8a30b/mza_840827627287835599.jpeg/600x600bb.jpg",
+      "collection_id": 1784967461,
+      "duration": 3307,
+      "pub_date": "2026-10-06T09:15:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/can-we-govern-ai-with-godfather-of-ai-geoffrey-hinton/id1784967461?i=1000793416075&uo=4",
+      "language": "en",
+      "itunes_id": 1000793416075,
+      "added_at": "2026-10-06T19:15:39.539364Z"
+    },
     {
       "guid": "03b06b8e-a4a6-11f1-8eb6-435fc18ed9d9",
       "title": "Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT,  Geoffrey Hinton",

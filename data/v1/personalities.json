@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "languages": [
     "da",
     "de",
@@ -111,7 +111,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 91,
+      "episode_count": 93,
       "handle_entity_id": null
     },
     {
@@ -155,7 +155,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 34,
+      "episode_count": 35,
       "handle_entity_id": "geoffrey-hinton"
     },
     {

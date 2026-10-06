@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19919055",
+      "title": "Episode 130: Uiua 0.19 with Kai Schmidt",
+      "podcast_title": "ArrayCast",
+      "description": "<p>Adam, Conor, Max chat with Kai Schmidt about the new release of Uiua 0.19.</p><p><b>Host:</b> Conor Hoekstra</p><p><b>Panel:</b> Adám Brudzewsky, Max Sun (Guest)</p><p><b>Guest:</b> Kai Schmidt</p><p><b>Show Notes</b></p><p>ArrayCast - October 5th, 2026</p><ul><li><a href='https://www.youtube.com/@arraycast'>ArrayCast on Youtube</a></li><li><a href='https://www.arraycast.com/'>arraycast.com</a></li><li><a href='https://www.uiua.org'>Uiua</a></li><li><a href='https://www.uiua.org/blog/uiua-0.19.0'>Uiua 0.19</a></li><li><a href='https://www.arraycast.com/2024/04/13/Kai-Schmidt-and-the-Evolving-Uiua-Programming-Language.html'>Episode 77: Kai Schmidt and the Evolving Uiua Programming Language</a></li><li><a href='https://tacittalk.com/2024/05/10/Episode-1.html'>Tacit Talk Episode 1: Uiua with Kai Schmidt</a></li><li><a href='https://tacittalk.com/2025/02/21/Episode-19.html'>Tacit Talk Episode 19: Uiua 0.15 with Kai Schmidt</a></li><li><a href='https://codereport.github.io/array-language-timeline/'>Array Languages Timeline</a></li><li><a href='https://www.uiua.org/pad'>UiuaPad</a></li><li><a href='https://www.uiua.org/blog/uiua-0.19.0#custom-subscripts'>Uiua Custom Subscripts</a></li><li><a href='https://www.uiua.org/blog/uiua-0.19.0#custom-subscripts'>Uiua Type System</a></li><li><a href='https://www.uiua.org/blog/uiua-0.19.0#custom-subscripts'>Uiua Geometric Algebra</a></li></ul>",
+      "feed_url": "https://rss.buzzsprout.com/2592851.rss",
+      "audio_url": "https://www.buzzsprout.com/2592851/episodes/19919055-episode-130-uiua-0-19-with-kai-schmidt.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/oxi39xtropugmhoi3vqtroqizro6?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/oxi39xtropugmhoi3vqtroqizro6?.jpg",
+      "duration": 5477,
+      "pub_date": "2026-10-06T14:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-3897552",
+      "added_at": "2026-10-06T19:15:39.539364Z"
+    },
     {
       "guid": "Buzzsprout-19898028",
       "title": "Episode 306: Will Bryce Switch to Linux (Omarchy)?!",
