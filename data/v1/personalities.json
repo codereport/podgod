@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "languages": [
     "da",
     "de",
@@ -10,6 +10,7 @@
     "fr",
     "hi",
     "hu",
+    "id",
     "it",
     "ja",
     "ko",
@@ -111,7 +112,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 93,
+      "episode_count": 95,
       "handle_entity_id": null
     },
     {
@@ -142,7 +143,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 31,
+      "episode_count": 32,
       "handle_entity_id": null
     },
     {
