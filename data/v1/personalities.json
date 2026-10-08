@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "languages": [
     "da",
     "de",
@@ -86,7 +86,7 @@
       "title": "Software developer and entrepreneur",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
       "feed_url": "https://podgod.ca/data/v1/personalities/david-heinemeier-hansson.json",
-      "episode_count": 29,
+      "episode_count": 30,
       "handle_entity_id": null,
       "nickname": "DHH"
     },
@@ -112,7 +112,7 @@
       "title": "Tesla & SpaceX CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
-      "episode_count": 95,
+      "episode_count": 97,
       "handle_entity_id": null
     },
     {
@@ -265,7 +265,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 30,
+      "episode_count": 31,
       "handle_entity_id": null
     },
     {
@@ -329,7 +329,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 220,
+      "episode_count": 221,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [

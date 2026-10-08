@@ -4,8 +4,24 @@
   "name": "David Heinemeier Hansson",
   "title": "Software developer and entrepreneur",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "episodes": [
+    {
+      "guid": "a631a772-4913-48c4-b7c4-a62b99d32145",
+      "title": "Better Dev Club #41 - DHH idzie na emeryturę programistyczną. Czy rzemiosło umarło?",
+      "podcast_title": "Better Dev Club",
+      "description": "<p>Głośny keynote DHH (Davida Heinemeiera Hanssona) na Rails World wstrząsnął całym światem IT. Twórca Ruby on Rails ogłosił, że po 20 latach przestaje pisać kod ręcznie i w zasadzie przechodzi na „emeryturę programistyczną”, oddając pisanie w ręce modeli AI. W 41. odcinku Better Dev Club Piotrek Stapp i Kajetan Duszyński rozkładają to wystąpienie na czynniki pierwsze. Czy Software Craftsmanship i dyskusje o czystości kodu to już przeszłość? Co z pasjonatami programowania, którzy weszli do branży z miłości do klepania linijek — czy czeka ich los dawnych malarzy po wynalezieniu aparatu fotograficznego? Panowie bez owijania w bawełnę analizują swoje codzienne nawyki: czy w ogóle jeszcze czytają wygenerowany kod, dlaczego testy stały się jedyną uprzężą trzymającą projekt w ryzach i czy tester z LLM-em w ręku może wkrótce zastąpić klasycznego programistę. Dyskutują także o zmianie struktury zespołów — od pełnej specjalizacji ku „dyrektorom kreatywnym” — pułapce traktowania kodu jak czarnej skrzynki oraz o tym, dlaczego paradoksalnie zrozumienie architektury komputera i fundamentów systemowych staje się ważniejsze niż kiedykolwiek.</p><p>00:00 Wstęp — suchar o DHH i echa keynote’a na Rails World </p><p>03:02 DHH i Ruby on Rails — języki programowania tracą znaczenie na rzecz modeli AI </p><p>04:45 Koniec Software Craftsmanship? Rzemiosło jako ukłon w stronę zespołu </p><p>06:01 Co z pasjonatami kodu? Malarstwo po wynalezieniu fotografii </p><p>08:51 Nowa warstwa abstrakcji — czy kochaliśmy klepać każdą linijkę? </p><p>12:03 Czytasz jeszcze kod? Testy jako „harness” projektu </p><p>13:31 LLM pisze lepsze testy — przypadki brzegowe, E2E i code review </p><p>15:52 Co zostało z rzemiosła? Czy wystarczy dać LLM-a testerom? </p><p>18:22 Rewolucja w zespołach — od specjalizacji do dyrektora kreatywnego </p><p>21:10 Stolarz a fabryka mebli — ręcznie strugany kod jako nisza</p><p>23:06 Kod jako czarna skrzynka — Uncle Bob, agenci i architektura </p><p>25:53 Powrót do fundamentów — rozumienie komputera zamiast „fix it” </p><p>26:22 Rok utrzymywania kodu z AI — czy stajesz się inżynierem? </p><p>27:40 90% pracy to CRUD-y — kraftowy kod kontra biznesowa rzeczywistość </p><p>29:19 Spełniony sen o IT i biznesie — optymistyczne spojrzenie w przyszłość </p><p>#BetterDevClub #DHH #AI #CleanCode #SoftwareCraftsmanship #Programowanie #LLM #Testowanie #ArchitekturaOprogramowania #SDLC #RailsWorld #RubyOnRails</p>",
+      "feed_url": "https://api.riverside.fm/hosting/sO9aqG1n.rss",
+      "audio_url": "https://api.riverside.com/hosting-analytics/media/98d4ae0fb3b2a3ad28b8c01c6e58a15193913680bfbcf53d1fcf4471157fa4d8/eyJlcGlzb2RlSWQiOiJhNjMxYTc3Mi00OTEzLTQ4YzQtYjdjNC1hNjJiOTlkMzIxNDUiLCJwb2RjYXN0SWQiOiI1Y2I0ZTllZS05NjE0LTQ1NzctYmU0ZS0xZmU0MzU5YTJjYWQiLCJhY2NvdW50SWQiOiI2NzNiNzhjNDA4ZGJlNzUwMzE1OWZkNTMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjNjExZTM0ODU3NGMxYTU0NDg3YTdkL2thamV0YW4tZHVzenlza2lzLXN0dWRpby0yMDI2LTEwLTdfXzktMzMtMjMubXAzIn0=.mp3",
+      "artwork_url": "https://hosting-media.riverside.com/media/podcasts/5cb4e9ee-9614-4577-be4e-1fe4359a2cad/logos/ef77b94a-91a6-428c-ac96-3e2b79b53660.png",
+      "podcast_artwork_url": "https://hosting-media.riverside.com/media/podcasts/5cb4e9ee-9614-4577-be4e-1fe4359a2cad/logos/ef77b94a-91a6-428c-ac96-3e2b79b53660.png",
+      "duration": 1833,
+      "pub_date": "2026-10-08T07:00:00Z",
+      "episode_url": "",
+      "language": "pl",
+      "podcastindex_id": 61426406718,
+      "added_at": "2026-10-08T19:35:29.469207Z"
+    },
     {
       "guid": "2e6d1cb7-a319-404e-8363-f4deffca12bf",
       "title": "Meta Muse's 0-Day, DHH's Rails World Keynote, GPT-6 Astra & the LLMentalist Effect | ADI Pod #41",
