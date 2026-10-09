@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "episodes": [
+    {
+      "guid": "Buzzsprout-19933193",
+      "title": "Episode 307: C++ Conferences & Meetups with Jason Turner",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "<p>In this episode, Conor and Ben chat about Jason Turner&apos;s about C++ conferences, meetups and more!</p><ul><li><a href='https://adspthepodcast.com/2026/10/09/Episode-307.html'>Link to Episode 307 on Website</a></li><li><a href='https://github.com/codereport/adsp2/discussions/209'>Discuss this episode, leave a comment, or ask a question (on GitHub)</a></li></ul><p><b>Socials</b></p><ul><li>ADSP: The Podcast: <a href='https://twitter.com/adspthepodcast'>Twitter</a></li><li>Conor Hoekstra: <a href='https://conorshakory.com'>LinkTree / Bio</a></li><li>Ben Deane: <a href='https://x.com/ben_deane'>Twitter</a> <a href='https://bsky.app/profile/elbeno.com'>BlueSky</a></li></ul><p><b>About the Guest:</b></p><p><a href='https://twitter.com/lefticus'>Jason</a> is host of the <a href='https://www.youtube.com/c/lefticus1'>YouTube channel C++ Weekly</a>, co-host of the podcast <a href='https://cppcast.com'>CppCast</a>, author of <a href='https://www.amazon.ca/Best-Practices-Simple-Specific-Action/dp/B08SJSZKJ5'>C++ Best Practices</a>, and author of the first <a href='https://leanpub.com/u/jason_turner'>casual puzzle books</a> designed to teach C++ fundamentals while having fun!</p><p><b>Show Notes</b></p><p><b>Date Recorded:</b> 2026-10-07 <br/> <b>Date Released:</b> 2026-10-09</p><ul><li><a href='https://www.cppcast.com/'>CppCast Podcast</a></li><li><a href='https://cpp.chat/'>cpp.chat Podcast</a></li><li><a href='https://www.meetup.com/north-denver-metro-c-meetup/'>Denver C++ Meetup</a></li><li><a href='https://www.meetup.com/stockholmcpp/'>Stockholm C++ Meetup</a></li><li><a href='https://ndctoronto.com/'>NDC Toronto</a></li><li><a href='https://lambda.world/'>Lambda World</a></li><li><a href='https://cpponline.uk/'>C++ Online</a></li><li><a href='https://ndccopenhagen.com/'>NDC Copenhagen</a> <a href='https://cpponsea.uk/'>C++ On Sea</a></li><li><a href='https://cppnow.org/'>C++ Now</a></li><li><a href='https://cppcon.org/'>CppCon</a></li><li><a href='https://cppunderthesea.nl'>C++ Under the Sea</a></li><li><a href='https://www.youtube.com/playlist?list=PLs3KjaCtOwSaUCQOzoGEhKwYxQL3qs8ub'>List of All Jason&apos;s Talks</a></li><li>Safety In Numbers Talk</li><li>Rule of N Talk</li><li><a href='https://www.youtube.com/watch?v=TJhMGS9sRlw'>Keynote: I Fixed Move Semantics - Jason Turner @cppweekly</a></li></ul><p><b>Intro Song Info</b></p><p>Miss You by Sarah Jansen <a href='https://soundcloud.com/sarahjansenmusic'>https://soundcloud.com/sarahjansenmusic</a><br/> Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br/> Free Download / Stream: <a href='http://bit.ly/l-miss-you'>http://bit.ly/l-miss-you</a><br/> Music promoted by Audio Library <a href='https://youtu.be/iYYxnasvfx8'>https://youtu.be/iYYxnasvfx8</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/19933193-episode-307-c-conferences-meetups-with-jason-turner.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "duration": 1533,
+      "pub_date": "2026-10-09T11:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1331453",
+      "added_at": "2026-10-09T19:10:21.220736Z"
+    },
     {
       "guid": "Buzzsprout-19919055",
       "title": "Episode 130: Uiua 0.19 with Kai Schmidt",

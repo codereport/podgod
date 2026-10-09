@@ -4,8 +4,24 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "episodes": [
+    {
+      "guid": "f49df869-186c-47bc-8006-8c056889a142",
+      "title": "Intelligence Isn't Power",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "<p>At the center of the country’s debates over artificial intelligence is a simple but hard question: What kind of technology is this?</p><p>Is A.I. a kind of “alien mind”? Are we unleashing a new species on the planet, one that will transform human society so completely that historical analogies to past technologies simply don’t hold? Or is A.I. more normal than that?</p><p>Arvind Narayanan is a professor of computer science at Princeton University and the director of the Center for Information Technology Policy. And he’s an author, alongside his colleague Sayash Kapoor, of the extremely influential essay “<a href=\"https://knightcolumbia.org/content/ai-as-normal-technology?utm_source=substack&amp;utm_medium=email\" rel=\"noopener noreferrer\"><u>A.I. as Normal Technology</u></a>.”</p><p>In that essay, and then in a Substack under that name, they lay out their case that A.I. is in fact something we’ve seen before — or at least, it’s close enough to past revolutionary technologies that we have a road map to deal with it. So I wanted to bring Narayanan on the show to hear that perspective.</p><p>Mentioned:</p><p>“<a href=\"https://knightcolumbia.org/content/ai-as-normal-technology?utm_source=substack&amp;utm_medium=email\" rel=\"noopener noreferrer\"><u>A.I. as Normal Technology</u></a>” by Arvind Narayanan and Sayash Kapoor</p><p>“<a href=\"https://aleximas.substack.com/p/what-will-be-scarce\" rel=\"noopener noreferrer\"><u>What Will Be Scarce?</u></a>” by Alex Imas</p><p>Book Recommendations:</p><p>“<a href=\"https://www.hachettebookgroup.com/titles/hannah-ritchie/not-the-end-of-the-world/9780316536752/\" rel=\"noopener noreferrer\"><u>Not the End of the World</u></a>” by Hannah Ritchie</p><p>“<a href=\"https://wwnorton.com/books/9781324106036\" rel=\"noopener noreferrer\"><u>Breakneck</u></a>” by Dan Wang</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/801035/thinking-in-systems-by-donella-meadows/\" rel=\"noopener noreferrer\"><u>Thinking in Systems</u></a> by Donella Meadows</p><p>Thoughts? Guest suggestions? Email us at <a href=\"mailto:ezrakleinshow@nytimes.com\" rel=\"noopener noreferrer\"><u>ezrakleinshow@nytimes.com</u></a>.</p><p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html</p><p>This episode of “The Ezra Klein Show” was produced by Rollin Hu. Fact-checking by Michelle Harris, with Kate Sinclair and Mary Marge Locker. Our senior engineer is Jeff Geld, with additional mixing by Isaac Jones. Our recording engineer is Aman Sahota. Our director of photography is Marina King. Video editing by Brandon Belk-Yee, Kristen Williamson and Dani Dillon. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Kristin Lin, Emma Kehlbeck, Jack McCordick and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "feed_url": "https://feeds.simplecast.com/82FI35Px",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/0329ed77-0495-4a94-9c47-057c57d9c7c8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=0329ed77-0495-4a94-9c47-057c57d9c7c8&feed=82FI35Px",
+      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "duration": 3689,
+      "pub_date": "2026-10-09T09:00:00Z",
+      "episode_url": "https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html",
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1371595",
+      "added_at": "2026-10-09T19:10:21.220736Z"
+    },
     {
       "guid": "6b1e8393-f69d-41ee-8463-b4be505fec4c",
       "title": "‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit.",
@@ -1595,22 +1611,6 @@
       "duration": 5020,
       "pub_date": "2025-11-14T10:00:00Z",
       "episode_url": "https://www.nytimes.com/2025/11/14/opinion/ezra-klein-podcast-john-ganz.html",
-      "language": "en",
-      "hosted_podcast_id": "podcastindex-1371595",
-      "added_at": "2026-08-18T23:11:09.024216Z"
-    },
-    {
-      "guid": "a4e899c0-34e9-43bd-8905-0b052910fcbd",
-      "title": "What Were Democrats Thinking?",
-      "podcast_title": "The Ezra Klein Show",
-      "description": "<p>Democrats’ case for the government shutdown was just starting to break through to voters. Why fold now?</p><p>Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.</p><p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html </p><p>This column read was produced by Kristin Lin. Fact-checking by Jack McCordick. Our senior engineer is Jeff Geld, with mixing by Isaac Jones. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Michelle Harris, Rollin Hu, Marina King, Emma Kehlbeck and Jan Kobal. Original music by Aman Sahota and Pat McCusker. Audience strategy by Kristina Samulewski and Shannon Busta. The director of New York Times Opinion Audio is Annie-Rose Strasser.</p><p>Subscribe today at nytimes.com/podcasts or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here https://www.nytimes.com/activate-access/audio?source=podcatcher. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts and Spotify. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
-      "feed_url": "https://feeds.simplecast.com/82FI35Px",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/6ae0e784-6768-466e-a0ae-4ef66ca62262/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=6ae0e784-6768-466e-a0ae-4ef66ca62262&feed=82FI35Px",
-      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-      "duration": 606,
-      "pub_date": "2025-11-10T18:28:56Z",
-      "episode_url": "https://www.nytimes.com/2025/11/10/opinion/government-shutdown-democrats-republicans.html",
       "language": "en",
       "hosted_podcast_id": "podcastindex-1371595",
       "added_at": "2026-08-18T23:11:09.024216Z"
