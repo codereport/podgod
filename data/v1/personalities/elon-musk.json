@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "episodes": [
+    {
+      "guid": "90f97554-c421-11f1-953e-cf309fda0659",
+      "title": "700. Dumpster Dive | Jed York, Ken Urker, Elon Musk, Kimberly Guilfoyle",
+      "podcast_title": "Trashy Divorces",
+      "description": "Rounding out our Celebration of Dumpster Dives week, Alicia updates us on 49ers owner Jed York and explains the untimely death of Gypsy Rose Blanchard's partner Ken Urker. Then Stacie goes into tinfoil hat land with the alleged breakup of Elon Musk and Shivon Zilis, and we close with the Petty Crockerest corruption scandal imaginable (so far). If you want to go deep-deep on the Elon-Shivon story - and many other interesting avenues of our unfolding digital age - definitely check out The Drey Dossier.\n\nSponsors\n\nFind the fall pieces you’ll reach for most at Quince. Download the Quince app for app-exclusive offers, or go to Quince.com. Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. And when Quince asks where you heard about them, let them know it was Trashy Divorces! It’s the best way to support the show.\n\nVinted. See what’s hiding in your closet – you might be surprised how much you can earn with Vinted! Download the Vinted app for free to start listing with no seller fees, and for a limited time, enjoy free shipping in the US.\n\nWant early, ad-free episodes, regular Dumpster Dives, bonus divorces, limited series, Zoom hangouts, and more? Join us at patreon.com/trashydivorces!\n\n\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/trashydivorces",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP3617306497.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/8a/07/2e8a074c-4950-5d31-ccd0-c52d7a8eb71e/mza_8426016919097505717.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2e/8a/07/2e8a074c-4950-5d31-ccd0-c52d7a8eb71e/mza_8426016919097505717.jpeg/600x600bb.jpg",
+      "collection_id": 1447198778,
+      "duration": 2615,
+      "pub_date": "2026-10-10T07:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/700-dumpster-dive-jed-york-ken-urker-elon-musk-kimberly/id1447198778?i=1000794606889&uo=4",
+      "language": "en",
+      "itunes_id": 1000794606889,
+      "added_at": "2026-10-10T18:08:15.388778Z"
+    },
     {
       "guid": "2be11fd2-c34f-11f1-97df-2f181caa025d",
       "title": "Alex Gibney on his Elon Musk documentary and why the doc business has never been more scared",
@@ -1686,23 +1703,6 @@
       "pub_date": "2026-03-17T21:26:00Z",
       "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-optimus-3-is-coming-recursive-self-improvement/id1648228034?i=1000755839112&uo=4",
       "itunes_id": 1000755839112,
-      "added_at": "2026-06-09T17:19:36.453215Z",
-      "language": "en"
-    },
-    {
-      "guid": "substack:post:186967347",
-      "title": "Elon Musk — \"In 36 months, the cheapest place to put AI will be space”",
-      "podcast_title": "Dwarkesh Podcast",
-      "description": "In this episode, John and I got to do a real deep-dive with Elon. We discuss the economics of orbital data centers, the difficulties of scaling power on Earth, what it would take to manufacture humanoids at high-volume in America, xAI’s business and alignment plans, DOGE, and much more.\nWatch on YouTube; read the transcript.\nSponsors\n* Mercury just started offering personal banking! I’m already banking with Mercury for business purposes, so getting to bank with them for my personal life makes everything so much simpler. Apply now at mercury.com/personal-banking\n* Jane Street sent me a new puzzle last week: they trained a neural net, shuffled all 96 layers, and asked me to put them back in order. I tried but… I didn’t quite nail it. If you’re curious, or if you think you can do better, you should take a stab at janestreet.com/dwarkesh\n* Labelbox can get you robotics and RL data at scale. Labelbox starts by helping you define your ideal data distribution, and then their massive Alignerr network collects frontier-grade data that you can use to train your models. Learn more at labelbox.com/dwarkesh\nTimestamps\n(00:00:00) - Orbital data centers\n(00:36:46) - Grok and alignment\n(00:59:56) - xAI’s business plan\n(01:17:21) - Optimus and humanoid manufacturing\n(01:30:22) - Does China win by default?\n(01:44:16) - Lessons from running SpaceX\n(02:20:08) - DOGE\n(02:38:28) - TeraFab\n \n\nGet full access to Dwarkesh Podcast at www.dwarkesh.com/subscribe",
-      "feed_url": "https://apple.dwarkesh-podcast.workers.dev/feed.rss",
-      "audio_url": "https://api.substack.com/feed/podcast/186967347/7e1421b0bbe8243af32f70dda75bef63.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f1/71/34/f171348c-1c45-cc82-ca40-f3ab7001c678/mza_8067509417026613172.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg",
-      "collection_id": 1516093381,
-      "duration": 10185,
-      "pub_date": "2026-02-05T16:45:08Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-in-36-months-the-cheapest-place-to-put-ai/id1516093381?i=1000748400389&uo=4",
-      "itunes_id": 1000748400389,
       "added_at": "2026-06-09T17:19:36.453215Z",
       "language": "en"
     }
