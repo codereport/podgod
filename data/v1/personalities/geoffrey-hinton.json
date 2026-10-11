@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-11",
   "episodes": [
+    {
+      "guid": "vc-digest-2026-10-11-159",
+      "title": "Geoffrey Hinton, AI 통제와 안전 규제",
+      "podcast_title": "Audrey, Jeremy의 AI, Tech Update",
+      "description": "2026년 10월 11일 — AI 안전성, 정렬 및 거버넌스 논쟁",
+      "feed_url": "https://pub-83b99a24f7a54a7c870248f59f2da13c.r2.dev/podcast.xml",
+      "audio_url": "https://pub-83b99a24f7a54a7c870248f59f2da13c.r2.dev/episodes/2026-10-11_159.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/3d/c1503dcc-245f-abb2-2a43-d4897b45cdab/mza_10313645855105343986.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/50/3d/c1503dcc-245f-abb2-2a43-d4897b45cdab/mza_10313645855105343986.jpg/600x600bb.jpg",
+      "collection_id": 6819118882,
+      "duration": 646,
+      "pub_date": "2026-10-11T13:22:42Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-ai-%ED%86%B5%EC%A0%9C%EC%99%80-%EC%95%88%EC%A0%84-%EA%B7%9C%EC%A0%9C/id6819118882?i=1000795275532&uo=4",
+      "language": "ko",
+      "itunes_id": 1000795275532,
+      "added_at": "2026-10-11T18:33:29.245834Z"
+    },
     {
       "guid": "b489b602-c122-11f1-ac39-171fbc3aa28e",
       "title": "Can We Govern AI? with Godfather of AI Geoffrey Hinton",

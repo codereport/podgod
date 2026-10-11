@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-11",
   "episodes": [
+    {
+      "guid": "6ac7b084ad328d4be1cafc8d",
+      "title": "Facebook Whistleblower on Mark Zuckerberg, Meta AI and The Social Reckoning",
+      "podcast_title": "Times Tech",
+      "description": "Five years after leaking thousands of internal Facebook documents, whistleblower Frances Haugen joins Times Tech to talk about The Social Reckoning, Aaron Sorkin’s new film about her story and the sequel to The Social Network.\nShe talks about Hollywood’s current obsession with Silicon Valley, how attitudes towards Big Tech have changed since she blew the whistle and what Mark Zuckerberg, Meta and today’s AI companies can learn from the social media era.\nThe Interview is our weekly conversation with the people shaping the future of technology.\nWatch on YouTube \nGet in touch: techpod@thetimes.co.uk \nPresenters:\nKatie Prescott, Technology Business Editor, The Times \nDanny Fortson, US West Coast Correspondent, The Sunday Times \nProducer: Marnie Duke \nExecutive Producer: Priyanka Deladia\nVideo Producer: Bronwen Latham\nImage: Getty\nClip: NBC News\n Hosted on Acast. See acast.com/privacy for more information.",
+      "feed_url": "https://feeds.acast.com/public/shows/8cf4cec7-5a0f-49c5-8ec9-36941b5c6b6e",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/6ac7b084ad328d4be1cafc8d/media.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/9c/5c/899c5ce1-34b2-4939-7423-eb61c815c1d6/mza_7227437180091119631.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/ec/b5/79ecb5cd-08c1-df4d-a821-c0592d93949d/mza_13693377286152817716.jpeg/600x600bb.jpg",
+      "collection_id": 1233991021,
+      "duration": 1591,
+      "pub_date": "2026-10-10T23:01:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/facebook-whistleblower-on-mark-zuckerberg-meta-ai-and/id1233991021?i=1000795185546&uo=4",
+      "language": "en",
+      "itunes_id": 1000795185546,
+      "added_at": "2026-10-11T18:33:29.245834Z"
+    },
     {
       "guid": "6ac6a3857ce338e8cd9e836c",
       "title": "Mark Zuckerberg : How to be an Icon",
