@@ -4,8 +4,25 @@
   "name": "David Heinemeier Hansson",
   "title": "Software developer and entrepreneur",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "episodes": [
+    {
+      "guid": "6a1ca32f-2527-4581-a883-f3fa8d9e307f",
+      "title": "#127 Anthropic Advierte que Su IPO Puede Destruir la Humanidad, Vinod Khosla Insulta al CEO que Financia y DHH el Hombre del que Todos Estamos Celosos",
+      "podcast_title": "Indie vs Unicornio",
+      "description": "El episodio 127 llegó con drama, datos y un personaje que nos hizo sentir que no estamos haciendo nada con nuestras vidas.\nArrancamos con las impresiones de la semana. Lucas estuvo en Nueva York con la gente de Google y Cristóbal visitó las oficinas de Stripe en México, el headquarter de LatAm que superó en diseño y hospitalidad a todo lo que esperaban. Dos mundos corporativos vistos desde adentro, con todas sus dinámicas políticas, tribus internas y catering mediocre incluido.\nDespués el evento del año en Silicon Valley: el All In Summit. Entrada por solicitud, $7.500 el ticket, y un lineup que no tiene comparación: Elon Musk, JD Vance, Jensen Huang, Satya Nadella, el administrador de la NASA y los founders de las compañías más importantes del mundo. De ahí salió la presentación de A16Z State of the Market con los datos más importantes del momento: el 55% de toda la inversión en EE.UU. este año fue AI, Grok, Anthropic y OpenAI ya generan más revenue que todo el software que cotiza en bolsa junto, y las Mac 7 están estancadas mientras el resto del mercado crece.\nLuego el momento que nadie esperaba. Anthropic presentó su S1 para el IPO y entre los disclosures legales aparece uno que quedará en la historia: “este IPO podría resultar en la destrucción de la humanidad.” No es una metáfora. Está en el filing oficial. El resto de los números: $4.6B de revenue en 2025, pérdida operativa de $8B, pérdida total de $42B y el 25% del revenue viniendo de solo dos clientes.\nDespués Lucas confiesa algo poco frecuente: está celoso de alguien. El personaje es David Heinemeier Hansson, más conocido como DHH, creador de Ruby on Rails, co-founder de 37signals con productos usados por decenas de millones de personas, $50M de profit por año sin haber levantado plata, autor de bestsellers del New York Times, corredor de Le Mans con Aston Martin, board member de Shopify, casado y con tres hijos. La conclusión: espera que tenga hemorroides.\nTambién hablamos del drama más entretenido de Silicon Valley en semanas: la pelea entre Factory y Cognition en Twitter. El CEO de Factory acusa a un ex advisor de robarle secretos. El acusado responde negando todo. Se mete Vinod Khosla, leyenda del VC, a insultar públicamente al CEO de Factory llamándolo fundador de segundo tier. El detalle que lo hace imposible: Vinod es el inversor lead de las dos compañías en conflicto. Palmer Lucky y Sequoia se meten también. El organigrama de quilombos es espectacular.\nCerramos con tres temas que apuntan al futuro. Ghost, una computadora AI sin pantalla manejada por voz, $3.500, fundador de 19 años y $11M levantados. La robótica en YC pasó de representar el 5% al 25% del batch en cinco años y por qué LatAm no tiene nada en ese mundo todavía. Y el pensamiento que más miedo da: la AI está mejorando más rápido gracias a sí misma. Cuanto mejor es, más rápido avanzan los que la construyen. El loop ya empezó.\n__\n🔗Links del episodio:\nState of markets: https://a16z.com/state-of-markets-ii/\nDHH: https://x.com/dhh\nhttps://dhh.dk/\nOn the YC S26 batch: https://jaredheyman.medium.com/on-the-yc-s26-batch-return-of-the-atoms-2f6f47fd295a\nEmprendedor de 19 años: https://x.com/RussellQuantum/status/2107291655795548493?s=20\nhttps://x.com/rexsalisbury/status/2105427220684849423/photo/1\n__",
+      "feed_url": "https://anchor.fm/s/afd48c80/podcast/rss",
+      "audio_url": "https://anchor.fm/s/afd48c80/podcast/play/127335085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2F433981315-44100-2-3255f93f0075c.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/2a/7c/7a/2a7c7acd-9a70-76f7-e529-cca166fee917/mza_800737776621979819.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/2a/7c/7a/2a7c7acd-9a70-76f7-e529-cca166fee917/mza_800737776621979819.jpg/600x600bb.jpg",
+      "collection_id": 1640084980,
+      "duration": 2504,
+      "pub_date": "2026-10-12T12:07:21Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/127-anthropic-advierte-que-su-ipo-puede-destruir-la/id1640084980?i=1000795947042&uo=4",
+      "language": "es",
+      "itunes_id": 1000795947042,
+      "added_at": "2026-10-12T21:56:01.637712Z"
+    },
     {
       "guid": "a631a772-4913-48c4-b7c4-a62b99d32145",
       "title": "Better Dev Club #41 - DHH idzie na emeryturę programistyczną. Czy rzemiosło umarło?",
