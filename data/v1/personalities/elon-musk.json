@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "episodes": [
+    {
+      "guid": "6a2a6240-a4b6-4001-a788-b4e4014e66ce",
+      "title": "Dr. Trendyll and Mr. Zeit 10/15 Amazon Wearables, Elon Musk Documentary, and Google's Top Costumes",
+      "podcast_title": "The Daily Zeitgeist",
+      "description": "In this edition of Dr. Trendyll and Mr. Zeit, Jack and Miles discuss Dr. Jekyll and Ms. Hyde, Amazon's new (and totally not surveillance device) wearables, the nearly 4 hour long Elon Musk Documentary that just dropped in theaters, and Google's top Halloween costumes for 2026.\nSee omnystudio.com/listener for privacy information.",
+      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/ab6037f4-9a9a-449b-915d-ae2b00156375/podcast.rss",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39e934d7-2ddc-4b3e-bc73-ae2b00156363/6a2a6240-a4b6-4001-a788-b4e4014e66ce/audio.mp3?utm_source=Podcast&in_playlist=ab6037f4-9a9a-449b-915d-ae2b00156375",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/f2/0b/63f20b8f-4627-73be-a229-c2298ce40e00/mza_17172377238594242904.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/f2/0b/63f20b8f-4627-73be-a229-c2298ce40e00/mza_17172377238594242904.jpg/600x600bb.jpg",
+      "collection_id": 1289384685,
+      "duration": 1979,
+      "pub_date": "2026-10-15T20:27:11Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/dr-trendyll-and-mr-zeit-10-15-amazon-wearables-elon/id1289384685?i=1000796546801&uo=4",
+      "language": "en",
+      "itunes_id": 1000796546801,
+      "added_at": "2026-10-16T17:45:38.664939Z"
+    },
     {
       "guid": "559d63d2-c820-11f1-921c-e7e808204062",
       "title": "GRIMES Talks Elon Musk, AI, and the End of Humanity",
@@ -1687,23 +1704,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/genius-level-reptile-gabor-mate-vs-gad-saad-on-elon/id1618445014?i=1000774077860&uo=4",
       "language": "en",
       "itunes_id": 1000774077860,
-      "added_at": "2026-06-25T16:18:23.368429Z"
-    },
-    {
-      "guid": "0ea693d5-1090-49b1-b609-a8eb242ea738",
-      "title": "Rep. Ro Khanna praises ‘New Generation’ of Democrats, criticizes Trump’s Iran deal and discusses challenging Elon Musk to a debate",
-      "podcast_title": "Morning Joe",
-      "description": "June 24, 2026 - 7am:\n\n\n Rep. Ro Khanna praises ‘new generation’ of Democrats, criticizes Trump’s Iran deal and discusses challenging Elon Musk to a debate\n Today marks 4 years since the Dobbs decision, the Supreme Court case that effectively overturned Roe v. Wade and repealed the Constitutional right to an abortion. The Nation's Amy Littlefield discusses how the Dobbs ruling has affected the number of abortions across the country and women’s healthcare overall.\n Mamdani allies sweep New York House Primaries\n The latest edition of 'Brand Up, Brand Down' with Donny Deutsch\n\nTo listen to this show and other MS podcasts without ads, sign up for MS NOW Premium on Apple Podcasts.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "feed_url": "https://feeds.simplecast.com/5EFCkAYb",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/injector.simplecastaudio.com/7619179a-b130-4a44-b441-20380e04af35/episodes/541235a9-018c-4e97-aa25-043cdf37928e/audio/128/default.mp3?aid=rss_feed&awCollectionId=7619179a-b130-4a44-b441-20380e04af35&awEpisodeId=541235a9-018c-4e97-aa25-043cdf37928e&feed=5EFCkAYb",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/c9/3b/c6c93b35-1f3f-79fb-20c0-fc26efae4863/mza_3156122001457171418.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/c9/3b/c6c93b35-1f3f-79fb-20c0-fc26efae4863/mza_3156122001457171418.jpg/600x600bb.jpg",
-      "collection_id": 974299441,
-      "duration": 2815,
-      "pub_date": "2026-06-24T16:57:41Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/rep-ro-khanna-praises-new-generation-of-democrats/id974299441?i=1000774069722&uo=4",
-      "language": "en",
-      "itunes_id": 1000774069722,
       "added_at": "2026-06-25T16:18:23.368429Z"
     }
   ]

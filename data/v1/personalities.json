@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "languages": [
     "da",
     "de",
@@ -99,7 +99,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 88,
+      "episode_count": 90,
       "handle_entity_id": null
     },
     {
@@ -265,7 +265,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 34,
+      "episode_count": 35,
       "handle_entity_id": null
     },
     {

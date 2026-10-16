@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "episodes": [
+    {
+      "guid": "4234ad44-c8b3-11f1-a071-d51a3302427d",
+      "title": "Ebola en RDC: 4000 morts en cinq mois / Volodymyr Zelensky cherche de l'aide / Mark Zuckerberg achète un château en Irlande...",
+      "podcast_title": "Journal en français facile",
+      "description": "Le Journal en français facile du jeudi 15 octobre 2026, 18 h 00 à Paris. \nRetrouvez votre épisode avec la transcription synchronisée et des exercices pédagogiques pour progresser en français : https://rfi.my/D8RW.A",
+      "feed_url": "https://apis.fle.rfi.fr/products/get_product/fle_getpodcast_by_nid_author_rfi?token_application=applepodcast_fle&program.entrepriseId=WBMZ39-FLE-FR-20220627",
+      "audio_url": "https://audio.audiomeans.fr/pfx/b035a7c4-de15-11ef-9e7b-cfc4fb0c91f4/aod-rfi.akamaized.net/rfi/francais/audio/jff/202610/journal_francais_facile_16h00_-_16h10_gmt_20261015.mp3?guid=4234ad44-c8b3-11f1-a071-d51a3302427d&source=PcNCvtcnHj",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/15/23/8115239e-731b-e9eb-aeb4-bcc7bab89aae/mza_92410675554346166.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/15/23/8115239e-731b-e9eb-aeb4-bcc7bab89aae/mza_92410675554346166.jpg/600x600bb.jpg",
+      "collection_id": 1573764973,
+      "duration": 600,
+      "pub_date": "2026-10-15T19:01:13Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ebola-en-rdc-4000-morts-en-cinq-mois-volodymyr-zelensky/id1573764973?i=1000796536102&uo=4",
+      "language": "fr",
+      "itunes_id": 1000796536102,
+      "added_at": "2026-10-16T17:45:38.664939Z"
+    },
     {
       "guid": "6acfb2c639599f7c56289fa2",
       "title": "Elizabeth Day’s TV thriller, Mark Zuckerberg and when comedians go too far",
