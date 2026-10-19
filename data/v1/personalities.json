@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "languages": [
     "da",
     "de",
@@ -143,7 +143,7 @@
       "title": "Godmother of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
       "feed_url": "https://podgod.ca/data/v1/personalities/fei-fei-li.json",
-      "episode_count": 32,
+      "episode_count": 33,
       "handle_entity_id": null
     },
     {
@@ -265,7 +265,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 35,
+      "episode_count": 36,
       "handle_entity_id": null
     },
     {
@@ -329,7 +329,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 224,
+      "episode_count": 225,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [

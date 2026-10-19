@@ -4,8 +4,25 @@
   "name": "Fei-Fei Li",
   "title": "Godmother of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "episodes": [
+    {
+      "guid": "https://english.9natree.com/read/1250898102/",
+      "title": "[Review] The Worlds I See (Dr. Fei-Fei Li) Summarized.",
+      "podcast_title": "9Natree",
+      "description": "The Worlds I See (Dr. Fei-Fei Li)\n\n\n\n- Amazon USA Store: https://www.amazon.com/dp/1250898102?tag=9natree-20 \n\n\n- Amazon Worldwide Store: https://global.buys.trade/The-Worlds-I-See-Dr-Fei-Fei-Li.html \n\n\n\n- Apple Books: https://books.apple.com/us/audiobook/the-worlds-i-see/id1660594465?itsct=books_box_link&itscg=30200&ls=1&at=1001l3bAw&ct=9natree \n\n\n- eBay: https://www.ebay.com/sch/i.html?_nkw=The+Worlds+I+See+Dr+Fei+Fei+Li+&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339060787&customid=9natree&toolid=10001&mkevt=1 \n\n\n\n- Read more: https://english.9natree.com/read/1250898102/ \n\n\n#ImageNet #Computervision #Deeplearningbenchmarks #HumancenteredAI #AI4ALLdiversity #TheWorldsISee\n\n\nThe Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI is a scientific memoir by computer scientist Fei-Fei Li. It combines an account of her upbringing and immigration from China to the United States with an insider history of the developments that helped make contemporary artificial intelligence possible. Its central scientific subject is computer vision, especially ImageNet, the large labeled image dataset and benchmark that Li helped create. The book explains why enabling machines to recognize visual categories was difficult, why large-scale data changed the field, and how the ImageNet competition accelerated deep learning research. Yet it is not simply a technical history. Li places scientific work within questions of access, institutional culture, bias, safety, public responsibility, and the people whose labor and choices shape technology. The purpose is to show AI as a human endeavor rather than an autonomous force. Through memoir, accessible scientific explanation, and ethical reflection, Li argues that the future of AI depends on maintaining human values alongside technical ambition.",
+      "feed_url": "https://english.9natree.com/feed.xml",
+      "audio_url": "https://episodes.castos.com/660078c6833215-59505987/2664137/c1e-3ond0cnrm5mb6x6nq-kppw117xsgn7-rqealq.mp3?awCollectionId=58765&awEpisodeId=https%3A%2F%2Fpermalink.castos.com%2Fpodcast%2F58765%2Fepisode%2F2664137&aw_0_1st.ri=castos&aw_0_cnt.rss=https%3A%2F%2Ffeeds.castos.com%2Fd2168&aw_0_azn.pgenre=%5BEducation%3A+Self-Improvement%2CBusiness%3A+Entrepreneurship%2CTechnology%5D&aw_0_cnt.url=https%3A%2F%2F9natree.castos.com%2Fepisodes%2Freview-the-worlds-i-see-dr-fei-fei-li-summarized-1&aw_0_azn.planguage=en&aw_0_azn.pcountry=US&q_co=ba4fc0d6b200d3e2f9b593bce444cc822b7dd13276d05b65a37dc29920a4b856",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/cc/1b/74cc1bdc-1a33-c957-3eed-1aa929cae68f/mza_10552280033433945674.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/5e/04/c85e0473-e2dc-1b6b-15e9-52110de5aca4/mza_17775045712907821677.png/600x600bb.jpg",
+      "collection_id": 1737655656,
+      "duration": 607,
+      "pub_date": "2026-10-19T16:26:47Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/review-the-worlds-i-see-dr-fei-fei-li-summarized/id1737655656?i=1000797117688&uo=4",
+      "language": "en",
+      "itunes_id": 1000797117688,
+      "added_at": "2026-10-19T19:34:54.692188Z"
+    },
     {
       "guid": "https://malaysian.9natree.com/read/1250898102/",
       "title": "[Ulasan] The Worlds I See (Dr. Fei-Fei Li) Diringkaskan.",

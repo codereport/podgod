@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/75854374",
+      "title": "Elon Musk - King of Backpfeifengesicht",
+      "podcast_title": "Suggested Articles - The Podcast",
+      "description": "Elon Musk made a flying car.  Or did he, though?  Also, Ukraine takes down most of Twitter's traffic, Jef brings a new game to the table, and Ben escalates his urethra game... or something like that.  Make sure you check out the posts on Patreon - that's all I can say!\n\n\nWe have faces! Subscribe to the new YouTube channel:\nhttps://www.youtube.com/@SuggestedArticles\n\nIs The Algorithm watching YOU too closely? Send us your thoughts: \nsuggestedarticlespodcast@gmail.com\n\nSee images discussed on the show at our FREE PATREON:\nhttps://www.patreon.com/suggestedarticles",
+      "feed_url": "https://www.spreaker.com/show/6539544/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/75854374/072_backpfeifengesicht.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/54/0d/83/540d83b4-4486-2420-eb54-c92bda896c1d/mza_13574208492565709962.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/54/0d/83/540d83b4-4486-2420-eb54-c92bda896c1d/mza_13574208492565709962.jpg/600x600bb.jpg",
+      "collection_id": 1731758785,
+      "duration": 4170,
+      "pub_date": "2026-10-19T06:00:14Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musk-king-of-backpfeifengesicht/id1731758785?i=1000797023533&uo=4",
+      "language": "en",
+      "itunes_id": 1000797023533,
+      "added_at": "2026-10-19T19:34:54.692188Z"
+    },
     {
       "guid": "83f0db2c-141c-4022-b886-b20b4db19f8b",
       "title": "School Shooting in Bend, Elon Musk's Power, MN Senate Race",
@@ -1688,23 +1705,6 @@
       "language": "en",
       "itunes_id": 1000778592436,
       "added_at": "2026-07-28T15:59:48.724412Z"
-    },
-    {
-      "guid": "a3a1ff2c-a91b-4dfc-8e43-b493015ab984",
-      "title": "“The “White” Odyssey: Elon Musk Vows To Produce An Anti-Woke Version Coming Soon",
-      "podcast_title": "Amy & T.J.",
-      "description": "As “The Odyssey” continues to dominate the box office for the second weekend in a row, Elon Musk has renewed his vow to create an AI version of Christopher Nolan’s “The Odyssey”. Musk maintains that Nolan cast non-white characters in his movie in order to be considered for the Academy Awards.  Musk, telling his followers, “Before this year ends, Grok Imagine will make a full-length movie of The Odyssey that is historically accurate and true to the art of Home.”\nSee omnystudio.com/listener for privacy information.",
-      "feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/68466af8-84dd-421f-99de-b0b20155ece0/cfc84027-3a4f-421d-901d-b0b201563f9f/podcast.rss",
-      "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/68466af8-84dd-421f-99de-b0b20155ece0/a3a1ff2c-a91b-4dfc-8e43-b493015ab984/audio.mp3?utm_source=Podcast&in_playlist=cfc84027-3a4f-421d-901d-b0b201563f9f",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/bf/92/b7bf9249-9a5b-b563-db16-f09551307d36/mza_7866828919724086019.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/03/a9/9d03a99c-dd75-7b5d-fc9e-425f6dfce745/mza_1980846249837316778.jpg/600x600bb.jpg",
-      "collection_id": 1719095006,
-      "duration": 1382,
-      "pub_date": "2026-07-26T21:12:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/the-white-odyssey-elon-musk-vows-to-produce-an-anti/id1719095006?i=1000778451961&uo=4",
-      "language": "en",
-      "itunes_id": 1000778451961,
-      "added_at": "2026-07-27T16:09:59.947017Z"
     }
   ]
 }

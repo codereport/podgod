@@ -4,8 +4,25 @@
   "name": "Mark Zuckerberg",
   "title": "Meta CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "episodes": [
+    {
+      "guid": "6ad528d85cda6bbdfce7ce12",
+      "title": "Qui est vraiment Mark Zuckerberg ? (3/4) avec David Honnorat",
+      "podcast_title": "Star System",
+      "description": "Quand Mark Zuckerberg crée Facebook en 2004, c’est encore un étudiant un peu gauche, plus à l’aise derrière un écran qu’en société. Mais avec le succès de la plateforme, il devient l’un des hommes les plus influents de la planète.\nDepuis, de nombreux scandales ont écorné l'image de Meta : collecte massive de données personnelles, prolifération des fake news, rapprochement avec l’extrême-droite... Rien ne semble arrêter le magnat de la tech dans sa course à la croissance.\nDans le troisième épisode de cette série, Facebook cherche à conquérir de nouveaux territoires et ne recule devant rien pour y parvenir. Malgré quelques revers, le rôle que joue la plateforme dans l'élection surprise de Trump ne va faire que confirmer la nouvelle stature de Zuckerberg...\nDavid Honnorat :\nLa chaîne YouTube CalmosLe podcast CalmosLe livre Movieland\nSource : Sarah Wynn-Williams, Careless People (2025)\nSoutenez le podcast sur Tipeee : https://fr.tipeee.com/starsystem \nSuivez Star System sur les réseaux :\nInstagram : @starsystempodcastTikTok : @starsystempodcast\nIllustration : Ines Basille. Musique : Naaha.\n Hébergé par Acast. Visitez acast.com/privacy pour plus d'informations.",
+      "feed_url": "https://feeds.acast.com/public/shows/674ef0d65e1cc0fabeec0e06",
+      "audio_url": "https://sphinx.acast.com/p/open/s/674ef0d65e1cc0fabeec0e06/e/6ad528d85cda6bbdfce7ce12/media.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/30/41/ec30413f-a66b-ec37-3c20-ec9e4d5530f8/mza_9245915610961594430.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/30/41/ec30413f-a66b-ec37-3c20-ec9e4d5530f8/mza_9245915610961594430.jpeg/600x600bb.jpg",
+      "collection_id": 1635180078,
+      "duration": 1695,
+      "pub_date": "2026-10-19T04:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/qui-est-vraiment-mark-zuckerberg-3-4-avec-david-honnorat/id1635180078?i=1000797010464&uo=4",
+      "language": "fr",
+      "itunes_id": 1000797010464,
+      "added_at": "2026-10-19T19:34:54.692188Z"
+    },
     {
       "guid": "4234ad44-c8b3-11f1-a071-d51a3302427d",
       "title": "Ebola en RDC: 4000 morts en cinq mois / Volodymyr Zelensky cherche de l'aide / Mark Zuckerberg achète un château en Irlande...",
