@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "episodes": [
+    {
+      "guid": "substack:post:221434652",
+      "title": "“The future of computing is about AI and the chips that power it” Jensen Huang",
+      "podcast_title": "The AI Future Podcast",
+      "description": "This is a public episode. If you would like to discuss this with other subscribers or get access to bonus episodes, visit theaifuture1.substack.com",
+      "feed_url": "https://api.substack.com/feed/podcast/7649024.rss",
+      "audio_url": "https://api.substack.com/feed/podcast/221434652/937de473dd666c5783dfeffe666e98f3.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/d0/65/37d065cd-b723-2c94-4156-07e6d7f66c26/mza_9504812352599612982.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f4/8e/22/f48e2227-0647-96f4-1baf-81b51eb18362/mza_15473951734930351245.jpg/600x600bb.jpg",
+      "collection_id": 1871160132,
+      "duration": 738,
+      "pub_date": "2026-10-21T06:05:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/the-future-of-computing-is-about-ai-and-the-chips/id1871160132?i=1000797394233&uo=4",
+      "language": "en",
+      "itunes_id": 1000797394233,
+      "added_at": "2026-10-21T18:19:08.534459Z"
+    },
     {
       "guid": "0c7508b8-0634-11f0-b89f-eb3e659f26e5",
       "title": "How Jensen Huang Became The #1 CEO In The World | Logically Answered",
@@ -1291,7 +1308,7 @@
       "itunes_id": 1000766861065,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "NVIDIA is one of the most valuable companies in human history. Its chips run the AI systems transforming everything from entertainment to warfare. But for years, almost nobody believed in co-founder Jensen Huang’s vision. Jensen spent nearly a decade pouring billions into a technology called CUDA, long before AI made it profitable.\nIn this deeply personal conversation, Jensen tells Guy why NVIDIA’s very first chip was a catastrophic failure … and how at one point, the company was 30 days away from going out of business. \nJensen also explains why he thinks fears about AI are overblown, and why he believes the next generation will have more opportunity — not less — because of AI.\n\nWhat You’ll Learn:\nWhy NVIDIA nearly collapsed before becoming an AI giantHow researchers sparked the AI boom using NVIDIA gaming chipsHow to lead through uncertainty when a huge bet hasn’t yet paid offHow Jensen approaches hard decisions like an engineerWe’re “doing ourselves a disservice” by being afraid: Jensen on AI and job lossHow Jensen defends his demanding management styleWhy past failures still haunt him\nKey Moments From the Interview:\n00:07:51 — Jensen Huang’s childhood at an unusual Kentucky boarding school00:14:50 — Why Jensen left a stable career to help start NVIDIA00:17:14 — NVIDIA’s first failure: the NV1 disaster00:19:51 — The desperate trip to Japan that gave the company a lifeline00:23:11 — “The only idea we had” for prototyping: the emulator Hail Mary00:30:53 — The book that shaped Jensen’s thinking about innovation00:35:04 — Why NVIDIA kept investing in CUDA while Wall Street lost faith00:41:38 — The moment AI researchers discovered the power of NVIDIA’s chips 00:53:17 — Jensen on fear of job loss from AI, and why America risks falling behind01:01:56 — Knowing what he knows now, would he do it again? Yes — and no\nThis episode was researched and produced by Alex Cheng with music by Ramtin Arablouei. It was edited by Neva Grant. Our engineers were Patrick Murray and Robert Rodriguez.\n\nFollow How I Built This:\nInstagram → @howibuiltthis\nX → @HowIBuiltThis\nFacebook → How I Built This\n\nFollow Guy Raz:\nInstagram → @guy.raz\nYoutube → guy_raz\nX → @guyraz\nSubstack → guyraz.substack.com\nWebsite → guyraz.com\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/64/45/06/644506b5-c44f-f661-f74e-f63a4b2511bc/mza_14892199991035639268.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/96/f6/1596f64d-347f-87b6-b5f2-04dcc079a598/mza_10725073278164213531.jpeg/600x600bb.jpg",
       "collection_id": 1150510297,
       "language": "en"
     },
@@ -1678,22 +1695,6 @@
       "pub_date": "2026-01-08T04:00:51Z",
       "episode_url": "https://itspradio.com/episodes/ces-2026-why-nvidias-jensen-huang-won-ieee-medal-of-honor-a-conversation-with-mary-ellen-randall-ieees-2026-president-and-ceo-redefining-society-and-technology-with-marco-ciappelli-4SgptI6K",
       "podcastindex_id": 48040688420,
-      "added_at": "2026-06-16T21:00:57.237398Z",
-      "language": "en"
-    },
-    {
-      "guid": "0f7ca3ae-6662-45c3-8c70-8a0a4151a449",
-      "title": "CES 2026: Why NVIDIA's Jensen Huang Won IEEE Medal of Honor | A Conversation with Mary Ellen Randall, IEEE's 2026 President and CEO | Redefining Society and Technology with Marco Ciappelli",
-      "podcast_title": "An Analog Brain In A Digital Age | With Marco Ciappelli",
-      "description": "<p><strong>Jensen Huang Just Won IEEE's Highest Honor. The Reason Tells Us Everything About Where Tech Is Headed.</strong></p><p>IEEE announced Jensen Huang as its 2026 Medal of Honor recipient at CES this week. The NVIDIA founder joins a lineage stretching back to 1917—over a century of recognizing people who didn't just advance technology, but advanced humanity through technology.</p><p>That distinction matters more than ever.</p><p>I spoke with Mary Ellen Randall, IEEE's 2026 President and CEO, from the floor of CES Las Vegas. The timing felt significant. Here we are, surrounded by the latest gadgets and AI demonstrations, having a conversation about something deeper: what all this technology is actually for.</p><p>IEEE isn't a small operation. It's the world's largest technical professional society—500,000 members across 190 countries, 38 technical societies, and 142 years of history that traces back to when the telegraph was connecting continents and electricity was the revolutionary new thing. Back then, engineers gathered to exchange ideas, challenge each other's thinking, and push innovation forward responsibly.</p><p>The methods have evolved. The mission hasn't.</p><p>\"We're dedicated to advancing technology for the benefit of humanity,\" Randall told me. Not advancing technology for its own sake. Not for quarterly earnings. For humanity. It sounds like a slogan until you realize it's been their operating principle since before radio existed.</p><p>What struck me was her framing of this moment. Randall sees parallels to the Renaissance—painters working with sculptors, sharing ideas with scientists, cross-pollinating across disciplines to create explosive growth. \"I believe we're in another time like that,\" she said. \"And IEEE plays a crucial role because we are the way to get together and exchange ideas on a very rapid scale.\"</p><p>The Jensen Huang selection reflects this philosophy. Yes, NVIDIA built the hardware that powers AI. But the Medal of Honor citation focuses on something broader—the entire ecosystem NVIDIA created that enables AI advancement across healthcare, autonomous systems, drug discovery, and beyond. It's not just about chips. It's about what the chips make possible.</p><p>That ecosystem thinking matters when AI is moving faster than our ethical frameworks can keep pace. IEEE is developing standards to address bias in AI models. They've created certification programs for ethical AI development. They even have standards for protecting young people online—work that doesn't make headlines but shapes the digital environment we all inhabit.</p><p>\"Technology is a double-edged sword,\" Randall acknowledged. \"But we've worked very hard to move it forward in a very responsible and ethical way.\"</p><p>What does responsible look like when everything is accelerating? IEEE's answer involves convening experts to challenge each other, peer-reviewing research to maintain trust, and developing standards that create guardrails without killing innovation. It's the slow, unglamorous work that lets the exciting breakthroughs happen safely.</p><p>The organization includes 189,000 student members—the next generation of engineers who will inherit both the tools and the responsibilities we're creating now. \"Engineering with purpose\" is the phrase Randall kept returning to. People don't join IEEE just for career advancement. They join because they want to do good.</p><p>I asked about the future. Her answer circled back to history: the Renaissance happened when different disciplines intersected and people exchanged ideas freely. We have better tools for that now—virtual conferences, global collaboration, instant communication. The question is whether we use them wisely.</p><p>We live in a Hybrid Analog Digital Society where the choices engineers make today ripple through everything tomorrow. Organizations like IEEE exist to ensure those choices serve humanity, not just shareholder returns.</p><p>Jensen Huang's Medal of Honor i",
-      "feed_url": "https://feeds.simplecast.com/awoCGJL0",
-      "audio_url": "https://afp-110348-injected.calisto.simplecastaudio.com/c9e3bf6c-c42d-48fc-bc88-378637145f04/episodes/16c23da2-ef55-4c84-be4a-d57542d2ffc4/audio/128/default.mp3?aid=rss_feed&awCollectionId=c9e3bf6c-c42d-48fc-bc88-378637145f04&awEpisodeId=16c23da2-ef55-4c84-be4a-d57542d2ffc4&feed=awoCGJL0",
-      "artwork_url": "https://image.simplecastcdn.com/images/dc632811-2d4b-42a7-b17c-b527aa3c92d7/0facefeb-1326-40bf-8b10-a0d6b45297c6/3000x3000/an_analog_brain_in_a_digital_age_with_marco_ciappelli.jpg?aid=rss_feed",
-      "podcast_artwork_url": "https://image.simplecastcdn.com/images/dc632811-2d4b-42a7-b17c-b527aa3c92d7/0facefeb-1326-40bf-8b10-a0d6b45297c6/3000x3000/an_analog_brain_in_a_digital_age_with_marco_ciappelli.jpg?aid=rss_feed",
-      "duration": 1486,
-      "pub_date": "2026-01-08T03:50:29Z",
-      "episode_url": "https://redefiningsocietyandtechnologypodcast.com/episodes/ces-2026-why-nvidias-jensen-huang-won-ieee-medal-of-honor-a-conversation-with-mary-ellen-randall-ieees-2026-president-and-ceo-redefining-society-and-technology-with-marco-ciappelli-1byYM13t",
-      "podcastindex_id": 48040247569,
       "added_at": "2026-06-16T21:00:57.237398Z",
       "language": "en"
     }
