@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "episodes": [
+    {
+      "guid": "7adc52ae-bef5-4e73-8053-3aae909f5ee6",
+      "title": "9AM HOUR: AI Trade Pain, Meta and Tesla Slide, Jensen Huang Interview 10/22/26",
+      "podcast_title": "Squawk on the Street",
+      "description": "Carl Quintanilla, David Faber and Michael Santoli delved into AI trade weakness, including why Meta and Tesla shares fell despite both companies posting Q3 beats. The anchors reacted to what Meta CEO Mark Zuckerberg and Tesla CEO Elon Musk said on their respective earnings calls. On a rough day for the chip sector, CNBC's Arjun Kharpal interviewed Nvidia CEO Jensen Huang at the company's GTC conference in Berlin. Also in focus: Meta's new class of stock to fund AI spending; Buzz surrounding a potential SpaceX-Tesla merger; IBM earnings reaction; The \"Tide\" is high for P&G; Lockheed Martin rallies; Airline earnings impacted by fuel costs; Oil prices surge on Middle East tensions; Barclays and the job cuts parade; Carriers cut the price of Apple's foldable iPhone Duo ahead of its Friday in-store debut.\nSquawk on the Street Disclaimer\n \n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/GcylmXl7",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/c34b928a-0f6e-410b-bece-b27c20569898/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=c34b928a-0f6e-410b-bece-b27c20569898&feed=GcylmXl7",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/a5/f7/52a5f739-0ac1-beac-d3ce-0c54f98d0af7/mza_14484496975303419360.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/a5/f7/52a5f739-0ac1-beac-d3ce-0c54f98d0af7/mza_14484496975303419360.jpg/600x600bb.jpg",
+      "collection_id": 1475116211,
+      "duration": 2539,
+      "pub_date": "2026-10-22T14:45:18Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/9am-hour-ai-trade-pain-meta-and-tesla-slide-jensen/id1475116211?i=1000797630328&uo=4",
+      "language": "en",
+      "itunes_id": 1000797630328,
+      "added_at": "2026-10-22T18:13:05.881219Z"
+    },
     {
       "guid": "substack:post:221434652",
       "title": "“The future of computing is about AI and the chips that power it” Jensen Huang",
@@ -1680,22 +1697,6 @@
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8f/46/88/8f4688ec-087f-28a1-7f6d-0d401d2e8a00/mza_14043856542292072583.jpg/600x600bb.jpg",
       "collection_id": 1668002688,
       "podcastindex_id": 48056773191,
-      "language": "en"
-    },
-    {
-      "guid": "ab8e6d3d-91cd-4c75-97a8-49fb876c651b",
-      "title": "CES 2026: Why NVIDIA's Jensen Huang Won IEEE Medal of Honor | A Conversation with Mary Ellen Randall, IEEE's 2026 President and CEO | Redefining Society and Technology with Marco Ciappelli",
-      "podcast_title": "The ITSPmagazine Podcast",
-      "description": "<p><strong>Jensen Huang Just Won IEEE's Highest Honor. The Reason Tells Us Everything About Where Tech Is Headed.</strong></p><p>IEEE announced Jensen Huang as its 2026 Medal of Honor recipient at CES this week. The NVIDIA founder joins a lineage stretching back to 1917—over a century of recognizing people who didn't just advance technology, but advanced humanity through technology.</p><p>That distinction matters more than ever.</p><p>I spoke with Mary Ellen Randall, IEEE's 2026 President and CEO, from the floor of CES Las Vegas. The timing felt significant. Here we are, surrounded by the latest gadgets and AI demonstrations, having a conversation about something deeper: what all this technology is actually for.</p><p>IEEE isn't a small operation. It's the world's largest technical professional society—500,000 members across 190 countries, 38 technical societies, and 142 years of history that traces back to when the telegraph was connecting continents and electricity was the revolutionary new thing. Back then, engineers gathered to exchange ideas, challenge each other's thinking, and push innovation forward responsibly.</p><p>The methods have evolved. The mission hasn't.</p><p>\"We're dedicated to advancing technology for the benefit of humanity,\" Randall told me. Not advancing technology for its own sake. Not for quarterly earnings. For humanity. It sounds like a slogan until you realize it's been their operating principle since before radio existed.</p><p>What struck me was her framing of this moment. Randall sees parallels to the Renaissance—painters working with sculptors, sharing ideas with scientists, cross-pollinating across disciplines to create explosive growth. \"I believe we're in another time like that,\" she said. \"And IEEE plays a crucial role because we are the way to get together and exchange ideas on a very rapid scale.\"</p><p>The Jensen Huang selection reflects this philosophy. Yes, NVIDIA built the hardware that powers AI. But the Medal of Honor citation focuses on something broader—the entire ecosystem NVIDIA created that enables AI advancement across healthcare, autonomous systems, drug discovery, and beyond. It's not just about chips. It's about what the chips make possible.</p><p>That ecosystem thinking matters when AI is moving faster than our ethical frameworks can keep pace. IEEE is developing standards to address bias in AI models. They've created certification programs for ethical AI development. They even have standards for protecting young people online—work that doesn't make headlines but shapes the digital environment we all inhabit.</p><p>\"Technology is a double-edged sword,\" Randall acknowledged. \"But we've worked very hard to move it forward in a very responsible and ethical way.\"</p><p>What does responsible look like when everything is accelerating? IEEE's answer involves convening experts to challenge each other, peer-reviewing research to maintain trust, and developing standards that create guardrails without killing innovation. It's the slow, unglamorous work that lets the exciting breakthroughs happen safely.</p><p>The organization includes 189,000 student members—the next generation of engineers who will inherit both the tools and the responsibilities we're creating now. \"Engineering with purpose\" is the phrase Randall kept returning to. People don't join IEEE just for career advancement. They join because they want to do good.</p><p>I asked about the future. Her answer circled back to history: the Renaissance happened when different disciplines intersected and people exchanged ideas freely. We have better tools for that now—virtual conferences, global collaboration, instant communication. The question is whether we use them wisely.</p><p>We live in a Hybrid Analog Digital Society where the choices engineers make today ripple through everything tomorrow. Organizations like IEEE exist to ensure those choices serve humanity, not just shareholder returns.</p><p>Jensen Huang's Medal of Honor i",
-      "feed_url": "https://feeds.simplecast.com/uHBB4m9X",
-      "audio_url": "https://chtbl.com/track/1CBDEF/afp-110348-injected.calisto.simplecastaudio.com/0310f993-fbb0-4fcc-b698-db9af99f73ca/episodes/b310b08a-e3c9-4153-ae6a-7b67b8536ebe/audio/128/default.mp3?aid=rss_feed&awCollectionId=0310f993-fbb0-4fcc-b698-db9af99f73ca&awEpisodeId=b310b08a-e3c9-4153-ae6a-7b67b8536ebe&feed=uHBB4m9X",
-      "artwork_url": "https://image.simplecastcdn.com/images/dc632811-2d4b-42a7-b17c-b527aa3c92d7/af252068-062e-4486-918d-a159767ee4b3/3000x3000/2025-20redefining-20society-20new-20-20cover-203500-20x-203500.jpg?aid=rss_feed",
-      "podcast_artwork_url": "https://image.simplecastcdn.com/images/dc632811-2d4b-42a7-b17c-b527aa3c92d7/b9feaafb-a4b6-414f-8e46-0b9fa4154ffb/3000x3000/podcast_cover_itspmagazine.jpg?aid=rss_feed",
-      "duration": 1486,
-      "pub_date": "2026-01-08T04:00:51Z",
-      "episode_url": "https://itspradio.com/episodes/ces-2026-why-nvidias-jensen-huang-won-ieee-medal-of-honor-a-conversation-with-mary-ellen-randall-ieees-2026-president-and-ceo-redefining-society-and-technology-with-marco-ciappelli-4SgptI6K",
-      "podcastindex_id": 48040688420,
-      "added_at": "2026-06-16T21:00:57.237398Z",
       "language": "en"
     }
   ]
