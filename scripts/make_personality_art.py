@@ -45,6 +45,19 @@ from pathlib import Path
 from typing import Any
 
 import requests
+
+try:
+    # GitHub downloads this optional helper into RUNNER_TEMP, outside the repo.
+    from podgod_network_activity import install_requests_tracing, set_personality
+except ModuleNotFoundError as error:
+    if error.name != "podgod_network_activity":
+        raise
+
+    def install_requests_tracing() -> None:
+        pass
+
+    def set_personality(value: str) -> None:
+        pass
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -440,6 +453,8 @@ def process_person(
     uploaded_photo: Path | None = None,
 ) -> dict[str, Any]:
     pid = person["id"]
+    install_requests_tracing()
+    set_personality(pid)
     name = person["name"]
     title = person.get("wikimedia") or name
     result: dict[str, Any] = {"id": pid}

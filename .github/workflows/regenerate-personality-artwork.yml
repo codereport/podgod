@@ -25,6 +25,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Load private network reporter
+        env:
+          ACTIVITY_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: |
+          if [ -n "$ACTIVITY_TOKEN" ] && curl --fail --silent --show-error --retry 1 --max-time 10 \
+            -H "Authorization: Bearer $ACTIVITY_TOKEN" \
+            https://api.podgod.ca/internal/network-reporter.py \
+            --output "$RUNNER_TEMP/podgod_network_activity.py"; then
+            echo "PYTHONPATH=$RUNNER_TEMP${PYTHONPATH:+:$PYTHONPATH}" >> "$GITHUB_ENV"
+          else
+            rm -f "$RUNNER_TEMP/podgod_network_activity.py"
+            echo "::warning::Network reporting is unavailable; continuing the job."
+          fi
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -54,6 +68,10 @@ jobs:
         run: pip install -r scripts/requirements-art.txt
 
       - name: Generate branded artwork
+        env:
+          PODGOD_ACTIVITY_URL: https://api.podgod.ca/internal/network-events
+          PODGOD_ACTIVITY_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+          PODGOD_ACTIVITY_JOB_ID: ${{ inputs.job_id }}
         run: >-
           python scripts/make_personality_art.py
           --only "$PERSONALITY_ID"

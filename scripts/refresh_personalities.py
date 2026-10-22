@@ -49,6 +49,19 @@ from typing import Any
 import requests
 
 try:
+    # GitHub downloads this optional helper into RUNNER_TEMP, outside the repo.
+    from podgod_network_activity import install_requests_tracing, set_personality
+except ModuleNotFoundError as error:
+    if error.name != "podgod_network_activity":
+        raise
+
+    def install_requests_tracing() -> None:
+        pass
+
+    def set_personality(value: str) -> None:
+        pass
+
+try:
     # Optional: language-detection fallback for episodes whose source carries no
     # language tag (e.g. iTunes episode search). PodcastIndex `feedLanguage` is
     # used first; this only fills the gaps. Seeded for deterministic output.
@@ -813,6 +826,7 @@ def resolve_source(requested: str) -> str:
 
 
 def main() -> int:
+    install_requests_tracing()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--since",
@@ -877,6 +891,7 @@ def main() -> int:
 
     for person in people:
         pid = person["id"]
+        set_personality(pid)
         feed_path = PERSON_DIR / f"{pid}.json"
         feed = load_json(feed_path)
         existing_eps = feed.get("episodes", []) if isinstance(feed, dict) else []
