@@ -4,8 +4,25 @@
   "name": "Stavros Halkias",
   "title": "Stand-up comedian and podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "episodes": [
+    {
+      "guid": "2a93bb71-4c18-480b-af94-a5dbb3c4cd04",
+      "title": "Bobby Uncorked ft. Stavros Halkias",
+      "podcast_title": "Bad Friends",
+      "description": "Bobby Uncorked ft. Stavros Halkias",
+      "feed_url": "https://media.rss.com/bad-friends/feed.xml",
+      "audio_url": "https://content.rss.com/episodes/407209/3258206/bad-friends/2026_10_22_22_53_26_d5241607-8d9d-4999-a2cb-df2bf64ed2c6.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0b/2f/b10b2f2a-813e-2471-e91c-204277531bfc/mza_3793572856396555340.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0b/2f/b10b2f2a-813e-2471-e91c-204277531bfc/mza_3793572856396555340.jpg/600x600bb.jpg",
+      "collection_id": 6813987287,
+      "duration": 4763,
+      "pub_date": "2026-10-22T23:36:02Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/bobby-uncorked-ft-stavros-halkias/id6813987287?i=1000797695761&uo=4",
+      "language": "en",
+      "itunes_id": 1000797695761,
+      "added_at": "2026-10-23T18:02:22.950940Z"
+    },
     {
       "guid": "c1c7f9b5-d303-4ab2-9507-cc9d2ceda672",
       "title": "Bonus #203 - Brandon Wardell [PATREON PREVIEW]",

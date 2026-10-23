@@ -4,8 +4,24 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "episodes": [
+    {
+      "guid": "a21bf344-4bac-4256-8be5-5cde95604647",
+      "title": "Why Trump’s 2024 Voters Are Turning on Him",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "<p>Sarah Longwell has probably conducted more focus groups with Trump voters than anyone else in America — hundreds of them, starting in Trump’s first term. So she has a treasure trove of qualitative evidence of how voters have evolved in the Trump era and why many of the president’s voters are souring on him now.</p><p>Trump’s approval rating has plummeted since the start of his second term, especially among the groups that swung toward him in the last election —&nbsp;young, Black and Hispanic voters. But I wanted to have Longwell on the show to hear what these people are really saying. What exactly has disappointed them about Trump’s second term? And what opportunities could that open for Democrats?</p><p>Longwell is a founder and the publisher of The Bulwark, the host of “The Focus Group Podcast” and the author of “<a href=\"https://static.macmillan.com/static/smp/how-to-eat-an-elephant-9781250464170/\" rel=\"noopener noreferrer\">How to Eat an Elephant: One Voter at a Time</a>.”</p><p>Mentioned:</p><p>“<a href=\"https://www.thebulwark.com/p/trump-voters-explain-ossoffs-appeal\" rel=\"noopener noreferrer\"><u>Trump Voters Explain Ossoff’s Appeal. And It’s Not What You Think.</u></a>”&nbsp;by Sarah Longwell</p><p>Book Recommendations:</p><p>“<a href=\"https://us.macmillan.com/books/9780374602635/intermezzo/\" rel=\"noopener noreferrer\"><u>Intermezzo</u></a>” by Sally Rooney</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/191134/stoner-by-john-williams-introduction-by-john-mcgahern/\" rel=\"noopener noreferrer\"><u>Stoner</u></a>” by John Williams</p><p>“<a href=\"https://www.harpercollins.com/products/the-poisonwood-bible-barbara-kingsolver?variant=32115036422178\" rel=\"noopener noreferrer\"><u>The Poisonwood Bible</u></a>”&nbsp;by Barbara Kingsolver</p><p>Thoughts? Guest suggestions? Email us at <a href=\"mailto:ezrakleinshow@nytimes.com\" rel=\"noopener noreferrer\"><u>ezrakleinshow@nytimes.com</u></a>.</p><p>You can find the transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at <a href=\"https://www.nytimes.com/article/ezra-klein-show-book-recs.html\" rel=\"noopener noreferrer\">https://www.nytimes.com/article/ezra-klein-show-book-recs.html</a>&nbsp;</p><p>This episode of “The Ezra Klein Show” was produced by Annie Galvin and Jack McCordick. Fact-checking by Kelsey Lannin, Michelle Harris and Kate Sinclair. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Isaac Jones. Our recording engineer is Aman Sahota. Cinematography by Bets Wilkins. Video editing by Julian Hackney, Britt Shacham Bernstein and Arpita Aneja. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Kristin Lin, Emma Kehlbeck, Rollin Hu, Marina King and Jan Kobal. Original music by Pat McCusker. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser. Transcript editing by Sarah Murphy and Marlaine Glicksman.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "feed_url": "https://feeds.simplecast.com/82FI35Px",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/eb463534-5fae-4bbd-b815-dd25c3d38f80/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=eb463534-5fae-4bbd-b815-dd25c3d38f80&feed=82FI35Px",
+      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "duration": 4101,
+      "pub_date": "2026-10-23T09:00:00Z",
+      "episode_url": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1371595",
+      "added_at": "2026-10-23T18:02:22.950940Z"
+    },
     {
       "guid": "684c49eb-21e1-4fde-81f4-d740057fc001",
       "title": "Trumpism Is Backfiring",
@@ -1598,22 +1614,6 @@
       "episode_url": "https://www.nytimes.com/ezra-klein-podcast",
       "language": "en",
       "hosted_podcast_id": "podcastindex-1371595",
-      "added_at": "2026-08-18T23:11:09.024216Z"
-    },
-    {
-      "guid": "03300176-c6e7-11f0-b959-a355ee40be3c",
-      "title": "Ezra Klein on Philanthropy’s Role at a Precarious Time",
-      "podcast_title": "Giving Done Right",
-      "description": "<p>As the current federal administration makes sweeping cuts to social safety net programs, political divisions deepen, and the guardrails of American democracy are tested, what is philanthropy’s role in this precarious time? </p>\n<p>In the final episode of this season, Phil Buchanan and Grace Nicolette interview New York Times columnist and podcast host Ezra Klein live at CEP’s 2025 conference. Klein contends that America needs to renew a politics of plenty, face up to the failures of liberal governance, and abandon what he calls the chosen scarcities that have deformed American life. But what does this analysis mean for philanthropy, particularly at a moment of so many competing and urgent crises?</p>\n<p><br></p>\n<p>Additional Resources:</p>\n<p>“<a href=\"https://cep.org/report/mounting-pressure/\"><u>Mounting Pressure: U.S. Foundations and Nonprofits on the 2025 Political Climate</u></a>”</p>\n<p><a href=\"https://givingdoneright.org/season-5-episode12/\"><u>Elisha Smith Arrillaga, Ph.D. on the Giving Done Right podcast</u></a></p>\n<p>“<a href=\"https://www.simonandschuster.com/books/Abundance/Ezra-Klein/9781668023488\"><u>Abundance</u></a>,” by Ezra Klein and Derek Thompson</p>",
-      "feed_url": "https://feeds.megaphone.fm/CEECE1839524396",
-      "audio_url": "https://mgln.ai/e/p367526/traffic.megaphone.fm/CEECE8216056970.mp3?updated=1763741089",
-      "artwork_url": "https://megaphone.imgix.net/podcasts/03300176-c6e7-11f0-b959-a355ee40be3c/image/41b58087e6a9d60d895722c95d1ae928.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/c950d980-6f0d-11ef-bb35-cbeac4be9f2f/image/32c4e2602482d873f1690e07208f9305.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "duration": 4321,
-      "pub_date": "2025-12-02T10:00:00Z",
-      "episode_url": "",
-      "language": "en",
-      "podcastindex_id": 46077886305,
       "added_at": "2026-08-18T23:11:09.024216Z"
     }
   ],

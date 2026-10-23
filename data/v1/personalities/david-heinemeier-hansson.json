@@ -4,8 +4,25 @@
   "name": "David Heinemeier Hansson",
   "title": "Software developer and entrepreneur",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/75900695",
+      "title": "Za dużo AI-owego LSD? - DHH, Decision API i inne linki",
+      "podcast_title": "Patoarchitekci",
+      "description": "\"Dla mnie łyknął za dużo AI-owego LSD.\" 🎯 Tak Łukasz podsumowuje keynote DHH na RailsConf. Szymon broni prezentacji, bo jego zdaniem wycinki z Twittera wypaczyły jej sens: Rust tylko w core, Ruby on Rails dalej w aplikacjach webowych, a natywne apki zamiast uniwersalnych, bo ich utrzymanie to dziś po prostu koszt tokenów. Spór szybko schodzi głębiej. Łukasz przypomina, że Agile skończył jako SAFe, a DevOps jako stanowisko, i AI czeka ten sam los. Szymon odpowiada: \"Pilnowanie staje się wartością, myślenie staje się wartością\". Kontrargument Łukasza z życia klienta: \"dwa miesiące przepisywania systemu automatami i dwa miesiące backfixowania jebanego\". ⚠️ Dalej linki. Vector Search wszedł w GA w SQL Server, a Łukasz zbudował na nim hybrid search do MCP Pato, bo \"nie mam tam żadnej bazy wektorowej\". Do tego Meta i Microsoft przycinają limity w Anthropic, który szuka Mega Account Executive za 450 tysięcy dolarów rocznie. Na deser Decision API: Jev, Clef od Cloudflare, 10 centów za milion tokenów wejściowych i odpowiedź poniżej 100 ms. Brand24 ma 92% trafności, a Jev 88%. Czy klasyfikator budowany latami przetrwa jeszcze rok?     A teraz nie ma co się obijać!  👉 Wpadajcie na naszego Discorda: https://discord.gg/78zPcEaP22 ! 🔥Tam możecie się z nami pokłócić o przyspieszanie SQL-a, podyskutować o naiwnych nadziejach na AI albo po prostu podzielić się swoimi IT-owymi przemyśleniami.     Słuchasz Patoarchitektów dzięki PROTOPII – firmie, w której Łukasz i Szymon działają na co dzień, wspierając zespoły IT na każdym etapie: od projektowania, przez wdrożenia i migracje, aż po optymalizację i zabezpieczenia. Oferujemy też mentoring i szkolenia dostosowane do potrzeb każdej firmy, niezależnie od wielkości. Sprawdź nas: 👉 protopia.tech   - Nasze sociale i linki - Materiały do odcinka - Pato szkolenia    \n00:00:00 Intro\n00:02:24 Vector Search w SQL i uniwersalność baz relacyjnych\n00:04:11 Keynote DHH na RailsConf, Hashimoto i przepisywanie na Rusta\n00:10:37 Frameworki, korporacyjne mielenie rewolucji i powrót aplikacji natywnych\n00:13:19 Możliwości i ograniczenia AI: halucynacje, nowe odkrycia i entuzjazm\n00:16:57 Biznes wokół AI: własne klastry GPU, chińskie modele i limity w Anthropicu\n00:20:02 Decision API: Jev, alternatywy, koszty i zastosowania\n00:26:13 Podsumowanie i zakończenie",
+      "feed_url": "https://www.spreaker.com/show/4215515/episodes/feed",
+      "audio_url": "https://api.spreaker.com/download/episode/75900695/utf_8_q_za_du_c5_bco_ai_owego_lsd_dhh_decision_api_i_inne_linki_mp3.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/50/b6/b050b691-c82b-25b0-398d-278cc20f3e66/mza_12185722582018767746.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/50/b6/b050b691-c82b-25b0-398d-278cc20f3e66/mza_12185722582018767746.jpg/600x600bb.jpg",
+      "collection_id": 1477067604,
+      "duration": 1567,
+      "pub_date": "2026-10-23T06:00:03Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/za-du%C5%BCo-ai-owego-lsd-dhh-decision-api-i-inne-linki/id1477067604?i=1000797732646&uo=4",
+      "language": "pl",
+      "itunes_id": 1000797732646,
+      "added_at": "2026-10-23T18:02:22.950940Z"
+    },
     {
       "guid": "6a1ca32f-2527-4581-a883-f3fa8d9e307f",
       "title": "#127 Anthropic Advierte que Su IPO Puede Destruir la Humanidad, Vinod Khosla Insulta al CEO que Financia y DHH el Hombre del que Todos Estamos Celosos",
