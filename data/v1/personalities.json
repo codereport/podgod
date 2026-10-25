@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "languages": [
     "da",
     "de",
@@ -265,7 +265,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 38,
+      "episode_count": 40,
       "handle_entity_id": null
     },
     {
