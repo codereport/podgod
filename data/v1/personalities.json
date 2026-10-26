@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "languages": [
     "da",
     "de",
@@ -74,7 +74,7 @@
       "title": "Ultramarathon champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "feed_url": "https://podgod.ca/data/v1/personalities/courtney-dauwalter.json",
-      "episode_count": 15,
+      "episode_count": 16,
       "handle_entity_id": null
     },
     {
@@ -197,7 +197,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
-      "episode_count": 32,
+      "episode_count": 34,
       "handle_entity_id": null
     },
     {
@@ -329,7 +329,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 227,
+      "episode_count": 229,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [

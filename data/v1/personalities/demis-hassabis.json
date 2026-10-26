@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "episodes": [
+    {
+      "guid": "5abf9ade-a452-11f1-bc59-9bade99638c2",
+      "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
+      "podcast_title": "AI Explained",
+      "description": "The condensed highlights of hours of AI lab leader interviews, last-48-hour model releases, Gemini 3 Flash insights (plus it’s hidden flaw), Hassabis’ ‘proto-AGI’ and much more…https://matsprogram.org/apply?utm_source=ai-explained&utm_medium=youtube&utm_campaign=s26  Also, do check out my new app: https://lmcouncil.aiChapters: 00:00 - Introduction00:50 - Results02:44 - But… the Flaw04:49 - So Benchmarks are fake? No07:37 - Spatial Reasoning + Hassabis10:06 - Proto-AGI12:07 - Minimal AGI15:07 - Compute Slowdown17:56 - New Data ParadigmGemini 3 Flash: https://deepmind.google/models/gemini/flash/Hassabis Interview: https://www.youtube.com/watch?v=PqVbypvxDtoLegg Interview: https://www.youtube.com/watch?v=l3u_FAv33G0Pre-training Lead Interview: https://www.youtube.com/watch?v=cNGDAqFXvewAltman Interview: https://www.youtube.com/watch?v=2P27Ef-LLuQBrockman Video: https://x.com/OpenAI/status/2001336514786017417Post-Training Reveal: https://x.com/OfficialLoganK/status/2001742530472534442Hallucinations Paper: https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdfPatreon Hallucinations Vid: https://www.patreon.com/posts/blockers-to-and-139264812AA-Omniscience Benchmark: https://artificialanalysis.ai/evaluations/omnisciencehttps://arxiv.org/pdf/2511.13029lmcouncil.ai/benchmarks https://simple-bench.com/https://x.com/scaling01/status/19996205877448132055.2 Codex Drop: https://cdn.openai.com/pdf/ac7c37ae-7f4c-4442-b741-2eabdeaf77e0/oai_5_2_Codex.pdfOpenAI Compute Trend: https://www.theinformation.com/articles/openais-350-billion-computing-cost-problem?rc=sy0ihqCramer Tweet/Response: https://x.com/BorisMPower/status/2001440650210976018OpenAI Valuation: ​​https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion?rc=sy0ihqIndian Data: https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/TheInformation Data: https://x.com/theinformation/status/2001421225751351778Genie 3: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/Sima 2: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/Veo 3.1: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/METR: https://metr.org/blohttps://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/2025-03-19-measuring-ai-ability-to-complete-long-tasks/AI Insiders ($9!): https://www.patreon.com/AIExplainedNon-hype Newsletter: https://signaltonoise.beehiiv.com/Podcast: https://aiexplainedopodcast.buzzsprout.com/\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/ai-explained",
+      "audio_url": "https://traffic.megaphone.fm/HD5638811412.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/06/07/8106070f-534a-c427-e345-1d8a225b70e3/mza_3965906245310112087.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/f6/6b/b8f66b2f-43d9-ba7f-c977-a5e27edee3ed/mza_13405313213973365272.jpg/600x600bb.jpg",
+      "collection_id": 6809119333,
+      "duration": 1634,
+      "pub_date": "2026-10-26T06:13:38Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/gemini-exponential-demis-hassabis-proto-agi-coming-but/id6809119333?i=1000788096801&uo=4",
+      "language": "en",
+      "itunes_id": 1000788096801,
+      "added_at": "2026-10-16T17:45:38.664939Z"
+    },
     {
       "guid": "8dfeba9c-b767-11f1-8fb9-436ad529e9a8",
       "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
@@ -20,23 +37,6 @@
       "episode_url": "",
       "language": "en",
       "podcastindex_id": 61923373931,
-      "added_at": "2026-10-16T17:45:38.664939Z"
-    },
-    {
-      "guid": "5abf9ade-a452-11f1-bc59-9bade99638c2",
-      "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
-      "podcast_title": "AI Explained",
-      "description": "The condensed highlights of hours of AI lab leader interviews, last-48-hour model releases, Gemini 3 Flash insights (plus it’s hidden flaw), Hassabis’ ‘proto-AGI’ and much more…https://matsprogram.org/apply?utm_source=ai-explained&utm_medium=youtube&utm_campaign=s26  Also, do check out my new app: https://lmcouncil.aiChapters: 00:00 - Introduction00:50 - Results02:44 - But… the Flaw04:49 - So Benchmarks are fake? No07:37 - Spatial Reasoning + Hassabis10:06 - Proto-AGI12:07 - Minimal AGI15:07 - Compute Slowdown17:56 - New Data ParadigmGemini 3 Flash: https://deepmind.google/models/gemini/flash/Hassabis Interview: https://www.youtube.com/watch?v=PqVbypvxDtoLegg Interview: https://www.youtube.com/watch?v=l3u_FAv33G0Pre-training Lead Interview: https://www.youtube.com/watch?v=cNGDAqFXvewAltman Interview: https://www.youtube.com/watch?v=2P27Ef-LLuQBrockman Video: https://x.com/OpenAI/status/2001336514786017417Post-Training Reveal: https://x.com/OfficialLoganK/status/2001742530472534442Hallucinations Paper: https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdfPatreon Hallucinations Vid: https://www.patreon.com/posts/blockers-to-and-139264812AA-Omniscience Benchmark: https://artificialanalysis.ai/evaluations/omnisciencehttps://arxiv.org/pdf/2511.13029lmcouncil.ai/benchmarks https://simple-bench.com/https://x.com/scaling01/status/19996205877448132055.2 Codex Drop: https://cdn.openai.com/pdf/ac7c37ae-7f4c-4442-b741-2eabdeaf77e0/oai_5_2_Codex.pdfOpenAI Compute Trend: https://www.theinformation.com/articles/openais-350-billion-computing-cost-problem?rc=sy0ihqCramer Tweet/Response: https://x.com/BorisMPower/status/2001440650210976018OpenAI Valuation: ​​https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion?rc=sy0ihqIndian Data: https://www.reuters.com/world/india/with-freebies-openai-google-vie-indian-users-training-data-2025-12-17/TheInformation Data: https://x.com/theinformation/status/2001421225751351778Genie 3: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/Sima 2: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/Veo 3.1: https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/METR: https://metr.org/blohttps://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/2025-03-19-measuring-ai-ability-to-complete-long-tasks/AI Insiders ($9!): https://www.patreon.com/AIExplainedNon-hype Newsletter: https://signaltonoise.beehiiv.com/Podcast: https://aiexplainedopodcast.buzzsprout.com/\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/ai-explained",
-      "audio_url": "https://traffic.megaphone.fm/HD5638811412.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/81/06/07/8106070f-534a-c427-e345-1d8a225b70e3/mza_3965906245310112087.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b8/f6/6b/b8f66b2f-43d9-ba7f-c977-a5e27edee3ed/mza_13405313213973365272.jpg/600x600bb.jpg",
-      "collection_id": 6809119333,
-      "duration": 1634,
-      "pub_date": "2026-10-21T20:32:43Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/gemini-exponential-demis-hassabis-proto-agi-coming-but/id6809119333?i=1000788096801&uo=4",
-      "language": "en",
-      "itunes_id": 1000788096801,
       "added_at": "2026-10-16T17:45:38.664939Z"
     },
     {
@@ -823,7 +823,7 @@
       "itunes_id": 1000764822395,
       "added_at": "2026-06-06T18:31:07.224008Z",
       "description": "Demis Hassabis, co-founder and CEO of Google DeepMind and 2024 Nobel laureate in chemistry for AlphaFold, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 for a wide-ranging conversation about the path to AGI and what comes after. He explains why he believes AGI is achievable by 2030, why drug discovery could collapse from ten years to days, and why we should think of information, not matter or energy, as the most fundamental substance in the universe. Also: what Einstein would tell us about the limits of today's models, and why the next year or two will be critical for humanity.",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/99/be/0a/99be0ae0-444c-2f23-2d75-04944103d600/mza_3492514935618303735.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/a4/30/1fa430ee-f569-b4d5-d91a-dc0e6bd5e79d/mza_10127413725823826079.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "language": "en"
     },
