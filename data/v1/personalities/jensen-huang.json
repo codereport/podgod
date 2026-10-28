@@ -4,8 +4,25 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "episodes": [
+    {
+      "guid": "420bdce2-079b-4102-8f53-369877f87303",
+      "title": "#54 - [DEEP DIVE] - The Company Makes Billions. And You Should Leave? Microsoft, BMW and Jensen Huang's Advice to Young People",
+      "podcast_title": "AI Neanderthal by Malcolm Werchota",
+      "description": "Imagine you finally got the job at Microsoft. Three months later, on a Monday morning, the email arrives: you can leave voluntarily, for money. And the company sending it isn't struggling. It made $331.8 billion in revenue last fiscal year and $133.7 billion in net income.\n\n\n\nToday a deep dive on one single story: what happens when one of the most profitable companies in the world offers roughly 60,000 employees a way out, and what it tells the rest of us.\n\n\n\nIn this episode:\n\n📧 The email on Monday (01:25) — A young developer in Hyderabad, three months at Microsoft, six months of savings: if I stay, am I next in the next round? If I go, I'm entering a market where tens of thousands of people with Microsoft on their CV may be looking at the same time. Important: about 60,000 people are eligible for a voluntary programme. Nobody knows yet how many will actually leave.\n\n💰 The company makes billions (03:23) — Revenue up 18 percent, net income up 31 percent, and still an offer to roughly a quarter of the workforce. A mother in Canada, almost ten years at the company, coming back from parental leave: ten months' salary sounds generous, until you have a mortgage, childcare and a saturated job market.\n\n🚗 BMW and the rush for the exit (08:39) — The continental European version: BMW opened a voluntary severance programme on 8 October, the internal portal buckled under the demand, and on 20 October it closed early because the target had been reached.\n\n📉 More revenue, fewer people (11:18) — Microsoft's headcount fell two percent year on year while revenue grew eighteen percent. Managers being cut at double the rate, and why this is not only a US and German story. Only the few companies that really roll AI out everywhere get these results, and that doesn't mean handing people ChatGPT or Copilot.\n\n🪜 The first rung of the ladder (14:50) — Amazon cut about 14,000 office jobs in October 2025 and another 16,000 in January 2026, while sales and profits went up. And if companies need fewer entry-level people, how are young people supposed to climb a ladder that's missing its first rungs?\n\n🧑‍💻 Jensen Huang, Andre and what I really want to say (19:15) — At GTC in Berlin a young woman asked NVIDIA's CEO what he would do if he were starting his career today. His answer: become one of the best users of AI. Plus a weekend with our family friend Andre, my eight-year-old asking \"why don't you just ask a couple of AI agents?\", and why your agents should keep working after your employees go home at five.\n\n\n\n🧵 The thread — It's no longer enough to be good at your job. Good work itself is changing. Learn the tools, and to the bosses: measure before you cut, and make sure this technological revolution doesn't become merely a revolution on corporate balance sheets.\n\n\n\nCorrections to the recording:\n\n• Microsoft has not offered \"a third of all its employees\" a way out: about 60,000 employees in selected teams in the US, Canada, India and the UK are eligible for a voluntary, time-limited programme, roughly a quarter of the workforce. How many will accept is not known, and Microsoft has not said it is cutting \"10% or 15%\".\n\n• Microsoft says explicitly that AI is not the driver of this programme. That AI is the main reason has not been shown.\n\n\n\nSources: Microsoft (Amy Coleman, Amy Hood, annual report), Reddit posts by affected employees, BMW (8 and 20 Oct 2026), Amazon, NVIDIA GTC Berlin (Jensen Huang).\n\n\n\n📱 Ping Malcolm on WhatsApp/Telegram/Signal: +43 676 6144 904\n\n🌐 werchota.ai\n\n\n\nAI Neanderthal — AI news for humans, not robots. Stay curious.",
+      "feed_url": "https://feeds.transistor.fm/ai-neanderthal-by-malcolm-werchota",
+      "audio_url": "https://media.transistor.fm/343ef9b2/4e06a5c5.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/78/ca/ca/78caca92-510e-e53f-bb73-48e869b8eb93/mza_11597639862496084000.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/0f/12/8c0f12af-2729-3f73-de8d-b148be9fb431/mza_7683605163044482660.jpg/600x600bb.jpg",
+      "collection_id": 6801816657,
+      "duration": 1696,
+      "pub_date": "2026-10-28T08:55:06Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/54-deep-dive-the-company-makes-billions-and-you/id6801816657?i=1000798491159&uo=4",
+      "language": "en",
+      "itunes_id": 1000798491159,
+      "added_at": "2026-10-28T19:12:20.410828Z"
+    },
     {
       "guid": "505fbe82-2349-11f1-b610-3fa7e6c21ed0",
       "title": "How to Take Risks and Still Succeed | Jensen Huang's Guidance in 25 Minutes",
@@ -1133,7 +1150,7 @@
       "feed_url": "https://feeds.megaphone.fm/trainingdata",
       "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI2705410687.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/6c/a0/176ca095-e98d-c48d-de7a-8f62904019c6/mza_18017408129362165708.png/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/a4/30/1fa430ee-f569-b4d5-d91a-dc0e6bd5e79d/mza_10127413725823826079.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/0b/51/150b5193-0902-4733-4154-d5f3c450f73f/mza_14354539321651303690.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "duration": 2480,
       "pub_date": "2026-06-10T09:00:00Z",
@@ -1681,22 +1698,6 @@
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/de/3a/23de3ad4-cb1a-e7f6-d956-233ed78f67a2/mza_13417256785565588829.jpg/600x600bb.jpg",
       "collection_id": 1524487980,
       "language": "en"
-    },
-    {
-      "guid": "a7d2ee80-6c29-43c7-9a18-4e0929843a91",
-      "title": "58. TRA TẤN ĐỂ TRỞ NÊN VĨ ĐẠI - Tư Duy Lãnh Đạo Hủy Diệt Của Jensen Huang | Inner World Podcast",
-      "podcast_title": "Inner World Podcast",
-      "description": "<p>Bạn có thể xem phiên bản video của podcast tại: https://youtu.be/Y-FBqv4haLk</p><p>Bạn có dám làm việc cho một ông chủ sẵn sàng tế sống bạn trước hàng trăm đồng nghiệp, chất vấn công việc ngay trong nhà vệ sinh, kỳ vọng bạn phải làm việc với cường độ cao trong nhiều năm liên tục, can thiệp vào từng chi tiết nhỏ nhất, và luôn nhắc nhở rằng: \"Chúng ta chỉ còn 30 ngày nữa là phá sản\"?</p><p>Đó chính là Jensen Huang – linh hồn của Nvidia, đế chế 5.000 tỷ đô la. </p><p>Jensen Huang có phải là một nhà lãnh đạo độc tài, một ông sếp ám ảnh quyền lực, hay sự khắc nghiệt của ông ẩn chứa những triết lý lãnh đạo nào khác? </p><p>Trong video hôm nay, chúng ta sẽ giải mã tư duy: \"Tortured into Greatness - Tra tấn để trở nên vĩ đại\" của Jensen Huang nhé.</p><p>0:00 Tôi mong bạn sẽ gặp đủ đau khổ và thử thách trong đời</p><p>4:00 Sách: Phong cách Nvidia & Nvidia - Cỗ máy tư duy vĩ đại</p><p>6:12 Bài học từ trường giáo dưỡng</p><p>11:20 Cái giá của sự xao nhãng</p><p>13:22 Người rửa bát giỏi nhất tại Denny’s</p><p>14:50 Sẵn lòng làm những việc khó nhất</p><p>18:02 Chúng ta chỉ còn 30 ngày nữa là phá sản</p><p>24:26 Phê bình công khai</p><p>26:37 Sự vô cảm với thành tích</p><p>29:45 Làm việc như một vận động viên Olympic</p><p>33:50 Làm công việc cực  khó cùng những người cực giỏi</p><p>35:29 Không ai phải thất bại một mình</p><p>36:34 Sứ mệnh là ông chủ</p><p>37: 11 Tặng thưởng hậu hĩnh</p><p>38:16 Tổng kết</p><p>➡ VIDEO LIÊN QUAN</p><p>➡ Tại Sao Jensen Huang Cấm Nhân Viên So Sánh Với Đối Thủ? - Tư Duy Tốc Độ Ánh Sáng:</p><p>https://youtu.be/ZxXj9dFt1Cw</p><p>➡ Tại Sao Jensen Huang Cấm Dùng PowerPoint? - Sức Mạnh Tư Duy Bảng Trắng: </p><p>https://youtu.be/ttgAy7Z630Q</p><p>➡ First Principles Thinking- Trở thành bậc thầy giải quyết vấn đề như Elon Musk bằng Tư duy nguyên bản: </p><p>https://youtu.be/SQCrvygz8Ck</p><p>➡ Tư duy như Feynman: Steve Jobs, Bill Gates, Elon Musk đều ngưỡng mộ trí tuệ của người đàn ông này</p><p><a href=\"https://youtu.be/Nil0-x25E4c\">https://youtu.be/Nil0-x25E4c</a></p><p>📖 Sách tham khảo thêm:</p><p>1️⃣ Phong cách NVIDIA (The NVIDIA Way)</p><p>2️⃣ NVIDIA Cỗ Máy Tư Duy Vĩ Đại (The Thinking Machine)</p><p>☘ Những nội dung trong video này cần rất nhiều thời gian để nghiên cứu, viết kịch bản, thu âm và chỉnh sửa video... Nếu bạn thấy nội dung của mình hữu ích, bạn có thể cân nhắc đóng góp cho sự phát triển của kênh ngay hôm nay nhé. Cảm ơn vì sự cho đi hào phóng của bạn ❤</p><p> 🎁 Bank: 7807 1044 - LE THI NGA - VPBank (Ngân hàng Việt Nam Thịnh Vượng) </p><p>Đăng ký kênh Youtube: Inner World Podcast: youtube.com/@Innerworld.podcast?sub_confirmation=1</p>",
-      "feed_url": "https://anchor.fm/s/e6958bac/podcast/rss",
-      "audio_url": "https://anchor.fm/s/e6958bac/podcast/play/115102006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-6%2Ff7b62d25-fa8c-5aad-7a25-679f73049369.mp3",
-      "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/38585603/38585603-1770344283158-4e8010c58f9cb.jpg",
-      "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38585603/38585603-1747993109561-7d1c75ed869e6.jpg",
-      "duration": 2415,
-      "pub_date": "2026-02-05T17:00:00Z",
-      "episode_url": "https://podcasters.spotify.com/pod/show/thina-le/episodes/58--TRA-TN--TR-NN-V-I---T-Duy-Lnh-o-Hy-Dit-Ca-Jensen-Huang--Inner-World-Podcast-e3en4rm",
-      "podcastindex_id": 49626049847,
-      "added_at": "2026-06-16T21:00:57.237398Z",
-      "language": "vi"
     }
   ]
 }

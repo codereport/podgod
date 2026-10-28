@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "languages": [
     "da",
     "de",
@@ -156,7 +156,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 37,
+      "episode_count": 38,
       "handle_entity_id": "geoffrey-hinton"
     },
     {
@@ -292,7 +292,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 52,
+      "episode_count": 55,
       "handle_entity_id": null
     },
     {

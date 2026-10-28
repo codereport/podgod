@@ -4,8 +4,25 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "episodes": [
+    {
+      "guid": "43d46b46-830f-4f64-afe8-996b3c47d325",
+      "title": "Geoffrey Hinton, The Architect Who Warned the Machine: The Minds That Bend the Machine, Chapter 2",
+      "podcast_title": "The Other AI: Audio Briefings on Augmented Intelligence and AI Governance",
+      "description": "Why did the scientist who taught machines to learn from their own error resign from Google to speak freely about the risks? This Deep Dive walks through Chapter 2 of The Minds That Bend the Machine by Basil C. Puglisi, MPA.\nThe hosts follow Geoffrey Hinton from the idea of a machine that measures its own error to the 1986 Nature paper on backpropagation. His record runs to the Turing Award and the Nobel Prize in Physics, both of them shared. They stay with his May 2023 resignation from Google and the warnings that followed, then lay out the argument those warnings opened with Yann LeCun and Andrew Ng. They follow his warnings into 2026 and ask what the chapter takes from him. A short turn covers how the warnings shaped the author's own work and a simulated critique the book reconstructs from Hinton's published record. The episode ends on the handoff to Yoshua Bengio.\nThe book releases November 6, 2026, in hardcover, with presales opening October 30, 2026, and the Kindle edition opening November 3, 2026.\nThe simulated critique in this chapter is a reconstruction built from the public record and does not represent the views, words, opinions, or endorsements of Geoffrey Hinton.\nhttps://basilpuglisi.com/minds-that-bend-the-machine/\nPodcast: The Other AI: Audio Briefings on Augmented Intelligence and AI Governance\nSpotify: https://open.spotify.com/show/033dvhzMIcWLdY7IUgsu7F\nApple Podcasts: https://podcasts.apple.com/us/podcast/id1896506152\nAmazon Music: https://music.amazon.com/podcasts/923d1a79-533f-4623-bae3-e2ba83453dfb\nYouTube playlist: https://www.youtube.com/playlist?list=PLchpU2bIYoEEBh2hdY-BVP9ckyTPiHOAQ\nGenerated using NotebookLM. Content may have inaccuracies. For full detail refer to the original paper, document, or article.\nThese are AI generated under NotebookLM as audio overviews not polished products.\n#AIassisted using the HAIA Ecosystem | CC BY-NC-SA 4.0\nFree for personal, educational, and noncommercial research use with attribution. Commercial exploitation, paid productization, and enterprise commercialization require separate permission and licensing.\nSuggested citation: Puglisi, B. C. (2026). The Minds That Bend the Machine. basilpuglisi.com.",
+      "feed_url": "https://media.rss.com/the-other-ai/feed.xml",
+      "audio_url": "https://content.rss.com/episodes/385604/3274424/the-other-ai/2026_10_28_16_30_53_01e558e7-3fcd-4c2a-9215-90d529fb7085.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/0b/90/790b90b7-2b1f-a228-1dba-a016a8d1864d/mza_5712009684271995774.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/3b/06/ed3b062f-f339-2cd5-00aa-7f4f85f64a23/mza_1109077208266792156.png/600x600bb.jpg",
+      "collection_id": 1896506152,
+      "duration": 2105,
+      "pub_date": "2026-10-28T16:31:19Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/geoffrey-hinton-the-architect-who-warned-the/id1896506152?i=1000798556843&uo=4",
+      "language": "en",
+      "itunes_id": 1000798556843,
+      "added_at": "2026-10-28T19:12:20.410828Z"
+    },
     {
       "guid": "3967282c-ff67-44ae-8be6-d908b2b7d3a1",
       "title": "Can AI Really Think? Geoffrey Hinton on Machine Intelligence",
