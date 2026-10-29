@@ -4,7 +4,7 @@
   "name": "Andrej Karpathy",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "episodes": [
     {
       "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
@@ -235,7 +235,7 @@
       "itunes_id": 1000764662696,
       "added_at": "2026-06-06T18:30:48.553353Z",
       "description": "<p>\n</p>\n<p>Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner Stephanie Zhan at AI Ascent 2026 about what's changed in the year since he coined \"vibe coding.\" He explains why he's never felt more behind as a programmer, why agentic engineering is the more serious discipline taking shape on top of vibe coding, and why we should think of LLMs not as animals but as ghosts: jagged, statistical, summoned entities that require a new kind of taste and judgment to direct. He also touches on Software 3.0, the limits of verifiability, and why you can outsource your thinking but never your understanding.</p>\n<p><br>\n</p>",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/0b/51/150b5193-0902-4733-4154-d5f3c450f73f/mza_14354539321651303690.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/01/bd/4001bd05-9453-3d7f-c034-d815c74d332d/mza_6464974713460854089.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "podcastindex_id": 54008554101,
       "language": "en"

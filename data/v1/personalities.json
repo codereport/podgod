@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "languages": [
     "da",
     "de",
@@ -265,7 +265,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 41,
+      "episode_count": 42,
       "handle_entity_id": null
     },
     {
@@ -329,7 +329,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 229,
+      "episode_count": 230,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [
@@ -346,7 +346,7 @@
       "title": "Author and journalist",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ta-nehisi-coates.png?v=742d7d8d",
       "feed_url": "https://podgod.ca/data/v1/personalities/ta-nehisi-coates.json",
-      "episode_count": 19,
+      "episode_count": 20,
       "handle_entity_id": null
     }
   ]

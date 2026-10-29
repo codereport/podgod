@@ -4,8 +4,25 @@
   "name": "Ta-Nehisi Coates",
   "title": "Author and journalist",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ta-nehisi-coates.png?v=742d7d8d",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "episodes": [
+    {
+      "guid": "thepalfestpodcast.podbean.com/27ba0bbf-9504-3bbe-bb31-d81b15e83f54",
+      "title": "On Freedom: Tareq Baconi, Ta-Nehisi Coates & Nesrine Malik",
+      "podcast_title": "The PalFest Podcast",
+      "description": "Ta-Nehisi Coates, Tareq Baconi and Nesrine Malik discuss the struggle for justice in Palestine, its global ramifications, and strategies for decolonisation in the 21st century. \n\nThe Palestine Festival of Literature hosted this landmark conversation at London's Southbank Centre as part of the London Literature Festival 2026. \n\nTareq Baconi is one of the foremost Palestinian intellectuals of his generation and we were honoured to be launching his new book What Now: On Palestine, Freedom, and Our Global Future. \n\nThe London Literature Festival is presented in cooperation with Service95 and Dua Lipa",
+      "feed_url": "https://feed.podbean.com/thepalfestpodcast/feed.xml",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/5k57f9bzndmwi6q2/On_Freedom.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/b3/48/55b3483d-4a2c-d190-61a2-23e736967c23/mza_358381195648182827.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/b3/48/55b3483d-4a2c-d190-61a2-23e736967c23/mza_358381195648182827.jpg/600x600bb.jpg",
+      "collection_id": 1844820692,
+      "duration": 5046,
+      "pub_date": "2026-10-29T12:51:11Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/on-freedom-tareq-baconi-ta-nehisi-coates-nesrine-malik/id1844820692?i=1000798709002&uo=4",
+      "language": "en",
+      "itunes_id": 1000798709002,
+      "added_at": "2026-10-29T19:21:27.841853Z"
+    },
     {
       "guid": "e362121e-b784-11f1-b3a7-9705708d93b4",
       "title": "Ta-Nehisi Coates on the Lasting Wreckage of Trump’s Second Term",

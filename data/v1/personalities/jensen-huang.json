@@ -4,8 +4,24 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "episodes": [
+    {
+      "guid": "f45948bb-6224-416a-89ba-2a01a191eca8",
+      "title": "Jensen Huang, Part 1: AI Will Fix Everything (Probably)",
+      "podcast_title": "Decoding the Gurus",
+      "description": "<p>Jensen Huang is so hot right now; not only did he make some statements that were widely derided, but he also featured in a glitzy \"collab\" episode with our favourite lone wolf, Lex Fridman. Sensing guru vibes, we turned to take a deep dive into his recent interview with Ezra Klein. Huang is the co-founder and CEO of Nvidia; he also really likes Lex Fridman and the All-In Besties. Trump even called him while he was on the All-In stage! So it's fair to say we went into this one expecting yet another bloviating tech CEO and were ready to join the dunking. We do not do guilt by association, of course, but bad vibes were in the air.</p><p>Huang thinks AI will transform the economy, take over tedious tasks, and leave us free to do more interesting things. Some jobs will disappear, but new industries will emerge to replace them, like wellness spas... It's okay for those whose jobs are disappearing, though Jensen has a solution: they should become systems thinkers!</p><p>Alongside such high-level insights, Matt and Chris do find some points of agreement, including his impatience with apocalyptic predictions being presented as scientific findings. The discussion also highlights a difference between our dear hosts: Huang's irritation with people talking about software like little human minds makes Chris increasingly sympathetic to him. Matt, as a committed pan-psychic, is less impressed by the reassurance that engineers understand what they are building, and thinks understanding the components is rather different from knowing what the whole system will do. Inevitably, this leads to a discussion of dogs, ants, and what \"unpredictable\" means, because apparently we are sensemakers now.</p><p>We will get to the fuller discussion of AI safety in Part Two. Until then, listeners can enjoy the experience of us listening to one of the less terrible tech billionaires and disagreeing with each other over minor points!</p><h3><strong>Source material</strong></h3><ul><li><a href=\"https://www.youtube.com/watch?v=HjurAWAr_nY\" rel=\"noopener noreferrer\" target=\"_blank\">The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far</a></li><li><a href=\"https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html\" rel=\"noopener noreferrer\" target=\"_blank\">The New York Times: Episode page and transcript</a></li><li><a href=\"https://www.youtube.com/watch?v=FGCP2F_7rQk\" rel=\"noopener noreferrer\" target=\"_blank\">Lex Fridman: Taiwan: The Most Epic Night Market Experience w/ Jensen Huang (the Taiwan visit mentioned in the introduction)</a></li><li><a href=\"https://www.youtube.com/watch?v=S7CrlFLAmEA\" rel=\"noopener noreferrer\" target=\"_blank\">All-In Summit: Jensen Huang: The Doomer Hoax, Superintelligence is Here, and The Future of AI (ft. President Trump)</a></li><li><a href=\"https://www.youtube.com/watch?v=2HMPRXstSvQ\" rel=\"noopener noreferrer\" target=\"_blank\">Creative Destruction Lab: Geoff Hinton: On Radiology (2016)</a></li><li><a href=\"https://www.youtube.com/watch?v=ujkD4SxPKOI\" rel=\"noopener noreferrer\" target=\"_blank\">Kurzgesagt: AI Just Crossed the Terrifying Line - Now What? (previously titled The Moment They Lost Control of AI)</a></li></ul><br/><h3><strong>Relevant articles</strong></h3><ul><li><a href=\"https://arxiv.org/abs/1706.03762\" rel=\"noopener noreferrer\" target=\"_blank\">Vaswani et al. (2017): Attention Is All You Need</a></li><li><a href=\"https://www.anthropic.com/institute/recursive-self-improvement\" rel=\"noopener noreferrer\" target=\"_blank\">Anthropic: When AI builds itself</a></li><li><a href=\"https://metr.org/hugging-face-incident-report-aug-2026.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">METR: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</a></li><li><a href=\"https://www.anthropic.com/news/2026-usage-policy-update\" rel=\"noopener noreferrer\" target=\"_blank\">Anthropic: 2026 Usage Policy update (including its policy on abusive",
+      "feed_url": "https://feeds.captivate.fm/decoding-the-gurus/",
+      "audio_url": "https://episodes.captivate.fm/episode/f45948bb-6224-416a-89ba-2a01a191eca8.mp3",
+      "artwork_url": "https://artwork.captivate.fm/ca36b15f-e9a3-44d0-b341-cb03f96046e3/aj9LitB3bvW15m3-LL0fusjp.jpg",
+      "podcast_artwork_url": "https://artwork.captivate.fm/ca36b15f-e9a3-44d0-b341-cb03f96046e3/aj9LitB3bvW15m3-LL0fusjp.jpg",
+      "duration": 7363,
+      "pub_date": "2026-10-28T22:50:00Z",
+      "episode_url": "https://decoding-the-gurus.captivate.fm/episode/jensen-huang-part-1-ai-will-fix-everything-probably",
+      "language": "en",
+      "podcastindex_id": 62420744634,
+      "added_at": "2026-10-29T19:21:27.841853Z"
+    },
     {
       "guid": "420bdce2-079b-4102-8f53-369877f87303",
       "title": "#54 - [DEEP DIVE] - The Company Makes Billions. And You Should Leave? Microsoft, BMW and Jensen Huang's Advice to Young People",
@@ -1150,7 +1166,7 @@
       "feed_url": "https://feeds.megaphone.fm/trainingdata",
       "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI2705410687.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/17/6c/a0/176ca095-e98d-c48d-de7a-8f62904019c6/mza_18017408129362165708.png/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/0b/51/150b5193-0902-4733-4154-d5f3c450f73f/mza_14354539321651303690.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/01/bd/4001bd05-9453-3d7f-c034-d815c74d332d/mza_6464974713460854089.png/600x600bb.jpg",
       "collection_id": 1750736528,
       "duration": 2480,
       "pub_date": "2026-06-10T09:00:00Z",
@@ -1680,23 +1696,6 @@
       "description": "After reporting a strong quarter, Nvidia CEO Jensen Huang speaks to Becky Quick about his company’s future and the future of the AI landscape–including the ongoing standoff between Anthropic and the Pentagon. FDA Commissioner Dr. Marty Makary discusses the agency’s push for reforms and expedited drug approvals, particularly for rare disease therapies. Plus, Beast Games Season 2 finale is out on Amazon Prime, and season three is already in preproduction. Beast Industries CEO Jeff Housenbold discusses his ambitions of building another Disney while producing the most-followed person on the internet, Mr. Beast. \n\n \n\nDr. Marty Makary - 17:16\n\nJeff Housenbold - 33:30\n\n \n\nIn this episode:\n\nDr. Marty Makary, @DrMakaryFDA\n\nJeff Housenbold, @jtbold\n\nJoe Kernen, @JoeSquawk\n\nBecky Quick, @BeckyQuick\n\nAndrew Ross Sorkin,\n\n @andrewrsorkin\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/01/37/6a/01376abe-dd48-fab8-6523-206206b942e1/mza_10086547629325855259.jpg/600x600bb.jpg",
       "collection_id": 1480890290,
-      "language": "en"
-    },
-    {
-      "guid": "2a9d7cbe-bdc1-4542-ba03-43978e5467a8",
-      "title": "Brad Gerstner, Jensen Huang and Treasury Secretary Scott Bessent join us live 2/6/26",
-      "podcast_title": "Halftime Report",
-      "feed_url": "https://feeds.simplecast.com/qltQrd_8",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/26b7b638-4673-47c3-a344-1eb24efbcfff/episodes/e1c9ba2f-30cb-416e-a699-a72ac889b48f/audio/128/default.mp3?aid=rss_feed&awCollectionId=26b7b638-4673-47c3-a344-1eb24efbcfff&awEpisodeId=e1c9ba2f-30cb-416e-a699-a72ac889b48f&feed=qltQrd_8",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/de/3a/23de3ad4-cb1a-e7f6-d956-233ed78f67a2/mza_13417256785565588829.jpg/600x600bb.jpg",
-      "duration": 3353,
-      "pub_date": "2026-02-06T18:23:10Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/brad-gerstner-jensen-huang-and-treasury-secretary/id1524487980?i=1000748571825&uo=4",
-      "itunes_id": 1000748571825,
-      "added_at": "2026-06-06T18:30:48.553353Z",
-      "description": "Scott Wapner and the Investment Committee are live in Santa Clara outside Levi's Stadium ahead of the big game on Sunday.  Altimeter Capital's Brad Gerstner joins us for the hour to discuss the tech & software selloff, the markets and more. Plus, Nvidia CEO Jensen Huang gives us his view of the AI trade, competition with China, and where he sees tech going from here. And later, Treasury Secretary Scott Bessent joins us to discuss the Kevin Warsh nomination to Fed Chair, Trump accounts, the dollar and the markets.  \nInvestment Committee Disclosures\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/23/de/3a/23de3ad4-cb1a-e7f6-d956-233ed78f67a2/mza_13417256785565588829.jpg/600x600bb.jpg",
-      "collection_id": 1524487980,
       "language": "en"
     }
   ]
