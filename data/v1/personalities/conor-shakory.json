@@ -4,8 +4,24 @@
   "name": "Conor Shakory",
   "title": "NVIDIA researcher & podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/conor-shakory.png?v=5625993a",
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "episodes": [
+    {
+      "guid": "Buzzsprout-20044164",
+      "title": "Episode 310: Leaving NVIDIA for... ?",
+      "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+      "description": "<p>In this episode, Conor and Bryce talk about Bryce&apos;s next chapter and where he is leaving NVIDIA for.</p><ul><li><a href='https://adspthepodcast.com/2026/10/30/Episode-310.html'>Link to Episode 310 on Website</a></li><li><a href='https://github.com/codereport/adsp2/discussions/212'>Discuss this episode, leave a comment, or ask a question (on GitHub)</a></li></ul><p><b>Socials</b></p><ul><li>ADSP: The Podcast: <a href='https://twitter.com/adspthepodcast'>Twitter</a></li><li>Conor Hoekstra: <a href='https://conorshakory.com'>LinkTree / Bio</a></li><li>Bryce Adelstein Lelbach: <a href='https://x.com/blelbach'>Twitter</a> <a href='https://bsky.app/profile/blelbach.bsky.social'>BlueSky</a></li></ul><p><b>Show Notes</b></p><p><b>Date Recorded:</b> 2026-09-30 <br/> <b>Date Released:</b> 2026-10-30</p><ul><li><a href='https://octoai.com/'>OctoAI</a></li><li><a href='https://minimax.io'>MiniMax</a></li><li><a href='https://modal.com/'>Modal</a></li><li><a href='https://github.com/karpathy/autoresearch'>autoresearch</a></li></ul><p><b>Intro Song Info</b></p><p>Miss You by Sarah Jansen <a href='https://soundcloud.com/sarahjansenmusic'>https://soundcloud.com/sarahjansenmusic</a><br/> Creative Commons — Attribution 3.0 Unported — CC BY 3.0<br/> Free Download / Stream: <a href='http://bit.ly/l-miss-you'>http://bit.ly/l-miss-you</a><br/> Music promoted by Audio Library <a href='https://youtu.be/iYYxnasvfx8'>https://youtu.be/iYYxnasvfx8</a></p>",
+      "feed_url": "https://rss.buzzsprout.com/1501960.rss",
+      "audio_url": "https://www.buzzsprout.com/1501960/episodes/20044164-episode-310-leaving-nvidia-for.mp3",
+      "artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg",
+      "duration": 1434,
+      "pub_date": "2026-10-30T10:00:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1331453",
+      "added_at": "2026-10-30T18:56:10.568168Z"
+    },
     {
       "guid": "Buzzsprout-20006986",
       "title": "Episode 309: Default Construction & CppCon 2026 with Jason Turner",

@@ -4,8 +4,25 @@
   "name": "Jeff Dean",
   "title": "Google senior fellow and researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "episodes": [
+    {
+      "guid": "c688605c-d409-11f1-85b3-8bb5813a78db",
+      "title": "Ex-Palantir execs launch Dream to build AI world models for construction; plus, Upwind raises $400M; and Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "podcast_title": "TechCrunch Startup News",
+      "description": "-Trained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.\n\n-The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.\n\n-Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/techcrunch-startup-news",
+      "audio_url": "https://mgln.ai/e/211/traffic.megaphone.fm/AIRWV1067186462.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/32/38/32/32383216-9dca-5fcd-ad8a-cdcd0e96605d/mza_4152736626111999890.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/32/38/32/32383216-9dca-5fcd-ad8a-cdcd0e96605d/mza_4152736626111999890.jpg/600x600bb.jpg",
+      "collection_id": 1145974783,
+      "duration": 686,
+      "pub_date": "2026-10-30T07:03:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ex-palantir-execs-launch-dream-to-build-ai-world-models/id1145974783?i=1000798848769&uo=4",
+      "language": "en",
+      "itunes_id": 1000798848769,
+      "added_at": "2026-10-30T18:56:10.568168Z"
+    },
     {
       "guid": "cec8bc7e-3408-4297-a4b8-3cb8d7632cb6",
       "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28",

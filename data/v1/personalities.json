@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "languages": [
     "da",
     "de",
@@ -36,7 +36,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
-      "episode_count": 53,
+      "episode_count": 56,
       "handle_entity_id": null
     },
     {
@@ -217,7 +217,7 @@
       "title": "Google senior fellow and researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
       "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
-      "episode_count": 23,
+      "episode_count": 24,
       "handle_entity_id": null
     },
     {
