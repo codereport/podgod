@@ -34,6 +34,7 @@ class BrandIconExportsTests(unittest.TestCase):
             with Image.open(source) as image:
                 circle = image.convert("RGBA")
             with Image.open(output / "pod-god-square.png") as image:
+                self.assertEqual(image.mode, "RGBA")
                 square = image.convert("RGBA")
             self.assertEqual(square.size, circle.size)
             self.assertEqual(square.getchannel("A").getextrema(), (255, 255))

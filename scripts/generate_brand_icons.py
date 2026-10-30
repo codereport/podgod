@@ -170,10 +170,15 @@ def generate(source: Path, output: Path, size: int = 512) -> None:
     (output / "pod-god-circle.svg").write_text(circle, encoding="utf-8")
     square_path = output / "pod-god-square.svg"
     square_path.write_text(square, encoding="utf-8")
+    square_png = output / "pod-god-square.png"
     subprocess.run([
         renderer, "--width", str(size), "--height", str(size),
-        "--output", str(output / "pod-god-square.png"), str(square_path),
+        "--output", str(square_png), str(square_path),
     ], check=True)
+    # Google Play requests a 32-bit PNG, even though every pixel is opaque.
+    with Image.open(square_png) as rendered:
+        opaque_square = rendered.convert("RGBA")
+    opaque_square.save(square_png, format="PNG", optimize=True)
 
 
 def main() -> None:
