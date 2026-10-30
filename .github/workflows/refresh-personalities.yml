@@ -1,11 +1,13 @@
 name: Refresh Personalities
+run-name: ${{ inputs.daily_run_date && format('Daily discovery · {0}', inputs.daily_run_date) || 'Refresh Personalities' }}
 
 on:
-  schedule:
-    # 14:00 UTC = 10:00 AM at UTC-4 (shifts by 1h under DST). GitHub cron is UTC.
-    - cron: "0 14 * * *"
   workflow_dispatch:
     inputs:
+      daily_run_date:
+        description: "Daily publication date supplied by the Cloudflare coordinator (YYYY-MM-DD). Leave blank for a manual refresh."
+        required: false
+        default: ""
       since:
         description: "Time window to scan (e.g. 24h for the daily run, 365d for a backfill)."
         required: false
@@ -55,13 +57,13 @@ jobs:
         env:
           PODGOD_ACTIVITY_URL: https://api.podgod.ca/internal/network-events
           PODGOD_ACTIVITY_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
-          PODGOD_ACTIVITY_JOB_ID: ${{ inputs.job_id }}
+          PODGOD_ACTIVITY_JOB_ID: ${{ inputs.daily_run_date }}
           # Optional: if these secrets are set, discovery uses PodcastIndex
           # byperson (better matches). If absent, it falls back to the iTunes
           # Search API automatically - no signup/key required.
           PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
           PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
-          # Daily schedule passes nothing -> defaults below. Manual dispatch can override.
+          # Cloudflare dispatches the daily run; manual dispatch can override.
           SINCE: ${{ github.event.inputs.since || '24h' }}
           ONLY: ${{ github.event.inputs.only || '' }}
         run: |
