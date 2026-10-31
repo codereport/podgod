@@ -1,0 +1,637 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-31T14:04:55.783Z",
+  "personalities": [
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "title": "AI researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
+      "episodes": [
+        {
+          "title": "[1hr Talk] Intro to Large Language Models",
+          "podcast_title": "Andrej Karpathy",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/PODAGEN6073283629.mp3",
+          "pub_date": "2026-10-30T09:46:21Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/f5a1e078-cc4a-11f1-b0aa-d7d0bc5ffb22/image/8fb5cc40379a618275c64c3243890a24.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
+          "title": "On AI: Andrej Karpathy - From Vibe Coding to Agentic Engineering",
+          "podcast_title": "Talking Books",
+          "episode_url": "https://podcasts.apple.com/us/podcast/on-ai-andrej-karpathy-from-vibe-coding-to-agentic-engineering/id1707036287?i=1000767787485&uo=4",
+          "audio_url": "https://anchor.fm/s/e8f52df8/podcast/play/119990820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-14%2F68a23fe9-0d59-007b-d9d8-8bc404fc0f1d.mp3",
+          "pub_date": "2026-05-14T15:35:25Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/df/36/fa/df36fab7-8cdc-0244-2f12-301d8ba1d10a/mza_12461487852201455623.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "boris-cherny",
+      "name": "Boris Cherny",
+      "title": "Creator of Claude Code",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/boris-cherny.png?v=5fe7933e",
+      "episodes": [
+        {
+          "title": "In Conversation with Boris Cherny, Creator of Claude Code",
+          "podcast_title": "Decoding Tech",
+          "episode_url": "https://podcasters.spotify.com/pod/show/computer-history-museum/episodes/In-Conversation-with-Boris-Cherny--Creator-of-Claude-Code-e3pll9c",
+          "audio_url": "https://anchor.fm/s/ffa6cbb0/podcast/play/126587628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-30%2F90e23e6f-2b70-ed8e-7364-61dca283ac6f.mp3",
+          "pub_date": "2026-09-30T22:15:29Z",
+          "language": "en",
+          "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42791212/42791212-1738703611710-04aae1e723303.jpg"
+        },
+        {
+          "title": "Boris Cherny: Building Claude Code",
+          "podcast_title": "Y Combinator Startup Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/boris-cherny-building-claude-code/id1236907421?i=1000778651350&uo=4",
+          "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/123415216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-28%2F428743828-44100-2-eb65dd355d011.mp3",
+          "pub_date": "2026-07-28T05:17:01Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/d1/1e/65d11ed6-914f-e163-bc7a-d1ea5eda5b79/mza_2184580866640883071.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cole-hocker",
+      "name": "Cole Hocker",
+      "title": "Olympic 1500m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/cole-hocker.png?v=b835672c",
+      "episodes": [
+        {
+          "title": "Leveling Up and Remaining There with Cole Hocker",
+          "podcast_title": "Axel's Personal Best",
+          "episode_url": "https://podcasts.apple.com/us/podcast/leveling-up-and-remaining-there-with-cole-hocker/id1820714464?i=1000754490551&uo=4",
+          "audio_url": "https://content.rss.com/episodes/333083/2616837/axels-personal-best/2026_03_10_16_53_15_e4ba8641-cee9-4f95-b79d-93c227c81096.mp3",
+          "pub_date": "2026-03-10T15:17:12Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/08/53/a5085367-b8be-1772-5156-16406a450c0f/mza_15917832541062258870.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "428: Cole Hocker - I Can Win The Biggest Race On the Biggest Day",
+          "podcast_title": "C Tolle Run",
+          "episode_url": "https://podcasts.apple.com/us/podcast/428-cole-hocker-i-can-win-the-biggest-race-on-the-biggest-day/id499637041?i=1000749421298&uo=4",
+          "audio_url": "https://api.riverside.com/hosting-analytics/media/699add14f66e28092abc51ebed1fe9f6adf4bb60839dd22e2354d18ed12aa530/eyJlcGlzb2RlSWQiOiIwYmY0OWJiMC03MmE5LTQ2YzAtYTFkNi1jMDFiNTY1ZTcwNDEiLCJwb2RjYXN0SWQiOiI3Y2UwN2RhOC1iNDg4LTQyMTctYmU1NC1kOWQxYmZlMjQ4MzUiLCJhY2NvdW50SWQiOiI2OWI4OTU1YTNjMDUxZGY4YTM1M2JlNTQiLCJwYXRoIjoibWVkaWEvaW1wb3J0cy9wb2RjYXN0cy83Y2UwN2RhOC1iNDg4LTQyMTctYmU1NC1kOWQxYmZlMjQ4MzUvZXBpc29kZXMvMGJmNDliYjAtNzJhOS00NmMwLWExZDYtYzAxYjU2NWU3MDQxL2M0MTViZDA3LWI0ODctNDFjNy1iMzU3LTllZTgwZGFhMGYxMC5tcDMifQ==.mp3",
+          "pub_date": "2026-02-12T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/5d/39/1e/5d391e5b-a91c-d893-0c6b-043cd70b6c7b/mza_4170689982978637299.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "courtney-dauwalter",
+      "name": "Courtney Dauwalter",
+      "title": "Ultramarathon champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
+      "episodes": [
+        {
+          "title": "Courtney Dauwalter: No Coach, No Plan",
+          "podcast_title": "Frodeno Going Mental",
+          "episode_url": "https://podcasts.apple.com/us/podcast/courtney-dauwalter-no-coach-no-plan/id1866924141?i=1000798099043&uo=4",
+          "audio_url": "https://traffic.megaphone.fm/PDS1958293735.mp3",
+          "pub_date": "2026-10-26T02:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/16/13/2f161345-e45a-4832-44fd-e5c92e835051/mza_11905731200605615931.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Courtney Dauwalter | Hardrock 100 Post-Race Interview 2026",
+          "podcast_title": "The Freetrail Podcast with Dylan Bowman",
+          "episode_url": "https://podcasts.apple.com/us/podcast/courtney-dauwalter-hardrock-100-post-race-interview-2026/id1492327668?i=1000776415598&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/thewellwithdylanbowman/Courtney_Dauwalter__Hardrock_100_Post-Race_Interview_2026.mp3?dest-id=1746794",
+          "pub_date": "2026-07-12T01:11:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/fd/a7/befda794-8757-27b5-a09a-6d320fb0d81d/mza_18263586815604263330.png/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "david-heinemeier-hansson",
+      "name": "David Heinemeier Hansson",
+      "title": "Software developer and entrepreneur",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
+      "episodes": [
+        {
+          "title": "Tech Genius Reveals Why The AI Revolution is Inevitable | David Heinemeier Hansson",
+          "podcast_title": "Decoded Genius",
+          "episode_url": "https://podcasts.apple.com/us/podcast/tech-genius-reveals-why-the-ai-revolution-is/id6785087782?i=1000792387787&uo=4",
+          "audio_url": "https://media.transistor.fm/3a26078f/aa145579.mp3",
+          "pub_date": "2026-09-30T13:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b5/67/79b56756-3dbe-e287-50a8-42f72563dc53/mza_15649641932241596923.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Confronting The Creator Of Omarchy | DHH",
+          "podcast_title": "Tech Over Tea",
+          "episode_url": "https://podcasters.spotify.com/pod/show/tech-over-tea/episodes/Confronting-The-Creator-Of-Omarchy--DHH-e3o9qlk",
+          "audio_url": "https://anchor.fm/s/149fd51c/podcast/play/125151348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431114324-44100-2-aac48ccc95ce7.mp3",
+          "pub_date": "2026-09-04T22:05:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3360191/3360191-1582876308682-774a5e811e2b3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "demis-hassabis",
+      "name": "Demis Hassabis",
+      "title": "DeepMind CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
+      "episodes": [
+        {
+          "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
+          "podcast_title": "Varun Mayya",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
+          "pub_date": "2026-10-26T21:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
+          "title": "An AI@GSB Special: Demis Hassabis Thinks We’re in the ‘Foothills of the Singularity’",
+          "podcast_title": "If/Then",
+          "episode_url": "https://podcasts.apple.com/us/podcast/an-ai-gsb-special-demis-hassabis-thinks-were-in/id1725380194?i=1000791237150&uo=4",
+          "audio_url": "https://op3.dev/e/tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/mgln.ai/e/p853501/rss.art19.com/episodes/78dcdb24-b808-4185-b0a1-2bd3bf05d446.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "pub_date": "2026-09-23T07:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/e6/fe/10e6fe45-708c-a8e7-90f2-46da14db2c25/mza_371232288568074203.jpeg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "title": "Tesla & SpaceX CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
+      "episodes": [
+        {
+          "title": "NEW FROM THE BUILDERS: Elon Musk: \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+          "podcast_title": "kill switch",
+          "episode_url": "https://podcasts.apple.com/us/podcast/new-from-the-builders-elon-musk-humans-wont-be-in/id1449757372?i=1000798662278&uo=4",
+          "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/831281a8-5137-4558-bea8-b4e30172c72f/audio.mp3?utm_source=Podcast&in_playlist=e3ded945-4db8-41cd-aeda-ae2e01547197",
+          "pub_date": "2026-10-29T07:01:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/65/05/3f/65053f48-2a2c-4be9-6907-c3cbfb751a08/mza_7992774544986006970.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "NEW FROM THE BUILDERS: Elon Musk: \"Humans Won't Be in Control\" When AI Becomes Smarter Than Us",
+          "podcast_title": "ON CRISPR: The Story of Jennifer Doudna with Walter Isaacson",
+          "episode_url": "https://podcasts.apple.com/us/podcast/new-from-the-builders-elon-musk-humans-wont-be-in/id1719795462?i=1000798664542&uo=4",
+          "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/831281a8-5137-4558-bea8-b4e30172c72f/audio.mp3?utm_source=Podcast&in_playlist=4d90b67e-d3df-40c7-adf7-b0b50167906d",
+          "pub_date": "2026-10-29T07:01:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/18/cd/8c18cd25-ea49-ce40-8fc3-f403db71c595/mza_17878952654286606129.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ezra-klein",
+      "name": "Ezra Klein",
+      "title": "Journalist and podcast host",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
+      "episodes": [
+        {
+          "title": "Elon Musk’s Endgame",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5992c694-91bf-4809-891e-5a67afb35d30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5992c694-91bf-4809-891e-5a67afb35d30&feed=82FI35Px",
+          "pub_date": "2026-10-30T09:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        },
+        {
+          "title": "Nate Silver Predicts a ‘Momentous’ Midterm",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/50149e7c-02e8-4181-a1d8-c9d26fc15b0a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=50149e7c-02e8-4181-a1d8-c9d26fc15b0a&feed=82FI35Px",
+          "pub_date": "2026-10-27T09:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        }
+      ]
+    },
+    {
+      "id": "fei-fei-li",
+      "name": "Fei-Fei Li",
+      "title": "Godmother of AI",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/fei-fei-li.png?v=cff843d0",
+      "episodes": [
+        {
+          "title": "AI Pioneer Fei-Fei Li Talks AI Safety, Competition with China",
+          "podcast_title": "Bloomberg Talks",
+          "episode_url": "https://podcasts.apple.com/us/podcast/ai-pioneer-fei-fei-li-talks-ai-safety-competition-with-china/id1690236827?i=1000791143508&uo=4",
+          "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/f84cbe1e-90ba-44c4-885e-b4cd01095445/audio.mp3?utm_source=Podcast&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63",
+          "pub_date": "2026-09-22T16:57:47Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/7f/57/947f5710-6890-2c0e-4555-ab63509d6176/mza_3438809990974300563.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Fei Fei Li: The Race to Build World Models For AI",
+          "podcast_title": "The a16z Show",
+          "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-the-race-to-build-world-models-for-ai/id842818711?i=1000787830626&uo=4",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7a8beefc-2d73-42f7-8b7a-d2f15ad0358d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7a8beefc-2d73-42f7-8b7a-d2f15ad0358d&feed=JGE3yC0V",
+          "pub_date": "2026-09-04T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "geoffrey-hinton",
+      "name": "Geoffrey Hinton",
+      "title": "Godfather of AI",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
+      "episodes": [
+        {
+          "title": "Can We Govern AI? with Godfather of AI Geoffrey Hinton",
+          "podcast_title": "Smart Girl Dumb Questions",
+          "episode_url": "https://podcasts.apple.com/us/podcast/can-we-govern-ai-with-godfather-of-ai-geoffrey-hinton/id1784967461?i=1000793416075&uo=4",
+          "audio_url": "https://arttrk.com/p/MG4HN/traffic.megaphone.fm/TMLLC6743465339.mp3",
+          "pub_date": "2026-10-06T09:15:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/2d/17/f32d178d-3f28-bef4-a27f-ceeb04f8a30b/mza_840827627287835599.jpeg/600x600bb.jpg"
+        },
+        {
+          "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried",
+          "podcast_title": "Big Technology Podcast",
+          "episode_url": "",
+          "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP2236404252.mp3",
+          "pub_date": "2026-06-03T19:37:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "grant-fisher",
+      "name": "Grant Fisher",
+      "title": "Olympic distance runner",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/grant-fisher.png?v=6f8afe5e",
+      "episodes": [
+        {
+          "title": "Grant Fisher | Double Olympic medallist",
+          "podcast_title": "Podium Athletics",
+          "episode_url": "https://podcasts.apple.com/us/podcast/grant-fisher-double-olympic-medallist/id1817172963?i=1000771092067&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9152236456.mp3",
+          "pub_date": "2026-06-04T03:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cf/66/3b/cf663be1-f8cb-8133-e49f-7fbfa8ae93da/mza_11431565085743926793.jpeg/600x600bb.jpg"
+        },
+        {
+          "title": "Grant Fisher",
+          "podcast_title": "Running--State of the Sport",
+          "episode_url": "https://podcasts.apple.com/us/podcast/grant-fisher/id1705148059?i=1000759036264&uo=4",
+          "audio_url": "https://anchor.fm/s/3da1e180/podcast/play/117898685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2F8078cd33-a4f7-dd4d-8f5e-2f48e9aa066a.mp3",
+          "pub_date": "2026-04-03T11:30:29Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5e/72/07/5e720798-b390-1e1d-44ed-ba133370471a/mza_10879806188077743132.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hasan-piker",
+      "name": "Hasan Piker",
+      "title": "Political commentator and streamer",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
+      "episodes": [
+        {
+          "title": "What Next - Hasan Piker and Adam Mockler Are Ready for Something New",
+          "podcast_title": "Slate News",
+          "episode_url": "https://podcasts.apple.com/us/podcast/what-next-hasan-piker-and-adam-mockler-are-ready-for/id1093260018?i=1000793392896&uo=4",
+          "audio_url": "https://sphinx.acast.com/p/open/s/6961268923ce58f14615840d/a/slatenews-podcasts/e/6ac40daa22e4cb85bd58029a/media.mp3",
+          "pub_date": "2026-10-06T07:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/b3/7c/f1b37c94-52b6-ad89-46b1-2c1dbb4b8b67/mza_1494488240045395607.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Hasan Piker Is an Agitator. But Is That What Democrats Need?",
+          "podcast_title": "Clock It with Symone & Eugene",
+          "episode_url": "https://podcasts.apple.com/us/podcast/hasan-piker-is-an-agitator-but-is-that-what-democrats-need/id1707410660?i=1000790285289&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/ddf39aaa-fb45-4ce3-8b02-a33f4fc295e7/episodes/72d37944-f817-4fc0-a690-6b4f6679ec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=ddf39aaa-fb45-4ce3-8b02-a33f4fc295e7&awEpisodeId=72d37944-f817-4fc0-a690-6b4f6679ec09&feed=umlz4Xxx",
+          "pub_date": "2026-09-17T09:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/eb/e1/e1ebe13a-288c-9c16-4c3b-42d082859a14/mza_7457145155568499500.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ilya-sutskever",
+      "name": "Ilya Sutskever",
+      "title": "AI researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
+      "episodes": [
+        {
+          "title": "Ilya Sutskever on AI: Transitioning from Scaling to Research, Generalization, and the Future of Superintelligence",
+          "podcast_title": "Neural intel Pod",
+          "episode_url": "https://podcasters.spotify.com/pod/show/neuralintelpod/episodes/Ilya-Sutskever-on-AI-Transitioning-from-Scaling-to-Research--Generalization--and-the-Future-of-Superintelligence-e3bg378",
+          "audio_url": "https://anchor.fm/s/feb5beb4/podcast/play/111725224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-26%2F39b1ed46-0ff3-9782-ca80-3f502c34a508.m4a",
+          "pub_date": "2025-11-26T07:44:46Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/21/b5/5b21b5ed-a4e4-61f5-6763-39cd728bb28b/mza_8940241363465430390.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Ilya Sutskever — We're moving from the age of scaling to the age of research",
+          "podcast_title": "Dwarkesh Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-were-moving-from-the-age-of-scaling/id1516093381?i=1000738363711&uo=4",
+          "audio_url": "https://api.substack.com/feed/podcast/179924094/8fff4c8da77eff5a44fad5d13ae599e2.mp3",
+          "pub_date": "2025-11-25T17:04:02Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jakob-ingebrigtsen",
+      "name": "Jakob Ingebrigtsen",
+      "title": "Olympic 1500m & 5000m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jakob-ingebrigtsen.png?v=a5020ba0",
+      "episodes": [
+        {
+          "title": "Jakob Ingebrigtsen: Achilles Recovery, the Josh Kerr Rivalry & His Marathon Future",
+          "podcast_title": "Marathon Handbook Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/jakob-ingebrigtsen-achilles-recovery-the-josh-kerr/id1687070922?i=1000768117587&uo=4",
+          "audio_url": "https://media.transistor.fm/3ed793a8/c646be9a.mp3",
+          "pub_date": "2026-05-16T14:00:01Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/a4/af/0fa4af00-e08d-e3c0-9dee-318adcf6f3da/mza_7082257742902254285.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "#127: Jakob Ingebrigtsen's Advice to Run Faster, For Non-Elites",
+          "podcast_title": "The Extramilest Podcast",
+          "episode_url": "https://florisgierman.libsyn.com/127-jakob-ingebrigtsens-advice-to-run-faster-for-non-elites",
+          "audio_url": "https://traffic.libsyn.com/secure/florisgierman/Jakob_Ingebrigtsens_Advice_to_Run_Faster.mp3?dest-id=557444",
+          "pub_date": "2026-05-15T13:28:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://static.libsyn.com/p/assets/0/6/7/4/06749c59643c2839/theextramilestshow236.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jeff-dean",
+      "name": "Jeff Dean",
+      "title": "Google senior fellow and researcher",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
+      "episodes": [
+        {
+          "title": "Jeff Dean: The 1% Rule for Building in AI",
+          "podcast_title": "Y Combinator Startup Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/jeff-dean-the-1-rule-for-building-in-ai/id1236907421?i=1000779426144&uo=4",
+          "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/123586250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F428976415-44100-2-4750afd8ab692.mp3",
+          "pub_date": "2026-08-01T14:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/d1/1e/65d11ed6-914f-e163-bc7a-d1ea5eda5b79/mza_2184580866640883071.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Owning the AI Pareto Frontier — Jeff Dean",
+          "podcast_title": "Latent Space: The AI Engineer Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/owning-the-ai-pareto-frontier-jeff-dean/id1674008350?i=1000749498954&uo=4",
+          "audio_url": "https://api.substack.com/feed/podcast/187741497/443b8df57e77c5522b031c52b1302c0d.mp3",
+          "pub_date": "2026-02-12T22:02:35Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/c3/b1/2dc3b1c6-2170-e926-04d0-0aaabf848eff/mza_2266632206147105925.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jensen-huang",
+      "name": "Jensen Huang",
+      "title": "NVIDIA CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
+      "episodes": [
+        {
+          "title": "9AM HOUR: AI Trade Pain, Meta and Tesla Slide, Jensen Huang Interview 10/22/26",
+          "podcast_title": "Squawk on the Street",
+          "episode_url": "https://podcasts.apple.com/us/podcast/9am-hour-ai-trade-pain-meta-and-tesla-slide-jensen/id1475116211?i=1000797630328&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/772daf2b-4aa5-445b-9969-6ecd181231b1/episodes/c34b928a-0f6e-410b-bece-b27c20569898/audio/128/default.mp3?aid=rss_feed&awCollectionId=772daf2b-4aa5-445b-9969-6ecd181231b1&awEpisodeId=c34b928a-0f6e-410b-bece-b27c20569898&feed=GcylmXl7",
+          "pub_date": "2026-10-22T14:45:18Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/a5/f7/52a5f739-0ac1-beac-d3ce-0c54f98d0af7/mza_14484496975303419360.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+          "podcast_title": "BG2Pod with Brad Gerstner and Bill Gurley",
+          "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-does-ai-revenue-justify-capex-27-ai-bottlenecks/id1727278168?i=1000796472885&uo=4",
+          "audio_url": "https://anchor.fm/s/f06c2370/podcast/play/127499364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434203331-44100-2-dec3db8a7fb56.mp3",
+          "pub_date": "2026-10-15T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/4b/ab/e5/4babe58b-7cda-b2b3-40a5-bcac3f262764/33f9cff7-dc0b-4293-a5bf-d8cc62ab8c98.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "josh-kerr",
+      "name": "Josh Kerr",
+      "title": "World 1500m champion",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
+      "episodes": [
+        {
+          "title": "Running a Mile with World Record holder Josh Kerr",
+          "podcast_title": "Paula's Run Club",
+          "episode_url": "https://podcasts.apple.com/us/podcast/running-a-mile-with-world-record-holder-josh-kerr/id1786774007?i=1000781330504&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5935978001.mp3",
+          "pub_date": "2026-08-10T02:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/ef/c5/8cefc545-8127-c57f-1eba-e91f0d60ab07/mza_2366220677727622774.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "E471| Josh Kerr (Re-Release)",
+          "podcast_title": "The Drop",
+          "episode_url": "https://podcasts.apple.com/us/podcast/e471-josh-kerr-re-release/id1530996749?i=1000779668524&uo=4",
+          "audio_url": "https://anchor.fm/s/347e3928/podcast/play/123484631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428838401-44100-2-b3a186d875b49.mp3",
+          "pub_date": "2026-08-03T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3a/44/5d/3a445d89-5273-9c11-7a81-17df0b8a5145/mza_8345768886873157223.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "lisa-su",
+      "name": "Lisa Su",
+      "title": "AMD CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
+      "episodes": [
+        {
+          "title": "How AMD's Lisa Su Views the Future of AI",
+          "podcast_title": "Harvard Business Review",
+          "episode_url": "https://podcasts.apple.com/us/podcast/how-amds-lisa-su-views-the-future-of-ai/id1886705492?i=1000756327576&uo=4",
+          "audio_url": "https://traffic.megaphone.fm/VG2323803785.mp3?updated=1778673018",
+          "pub_date": "2026-10-17T09:52:30Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/c9/16/aec91637-5357-f60e-f3a3-b9995f9b66dd/mza_12668835872398433341.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Lisa Su: The Personal Mission Driving the Next Era of AI",
+          "podcast_title": "A Bit Personal with Jodi Shelton",
+          "episode_url": "https://podcasts.apple.com/us/podcast/lisa-su-the-personal-mission-driving-the-next-era-of-ai/id6817404831?i=1000793164676&uo=4",
+          "audio_url": "https://api.substack.com/feed/podcast/218860179/d019824dd277abf09acf57d77845c2b1.mp3",
+          "pub_date": "2026-10-05T01:29:25Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/44/cf/09/44cf09ea-d09e-58cb-aafc-5bd7ff4ddde5/mza_10213781730174889165.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mark-zuckerberg",
+      "name": "Mark Zuckerberg",
+      "title": "Meta CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
+      "episodes": [
+        {
+          "title": "TODAY September 24, 3rd Hour: Mark Zuckerberg on AI | Mind Your Macros | Catching Up With… CC Sabathia",
+          "podcast_title": "TODAY",
+          "episode_url": "https://podcasts.apple.com/us/podcast/today-september-24-3rd-hour-mark-zuckerberg-on-ai-mind/id1573272310?i=1000791531694&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/WyZndMW35x3t79tHlknd/nbcnews.simplecastaudio.com/94e25754-e86b-45c4-823a-db69b4df29dc/episodes/22d72b16-62ff-44b1-9ebf-f8e1b3bbb8ba/audio/128/default.mp3?aid=rss_feed&awCollectionId=94e25754-e86b-45c4-823a-db69b4df29dc&awEpisodeId=22d72b16-62ff-44b1-9ebf-f8e1b3bbb8ba&feed=pur1aAR9",
+          "pub_date": "2026-09-24T22:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/1b/55/cb1b55bc-52ac-b336-bf56-2614e1b77698/mza_15275800531392240202.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
+          "podcast_title": "Sources with Alex Heath",
+          "episode_url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg-on-muse-metas-biggest-ai-bet-yet/id1840154537?i=1000788542811&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/api.substack.com/feed/podcast/214752912/fad7d63c4351e72ce1e5f08e5a5b5bab.mp3",
+          "pub_date": "2026-09-08T22:02:32Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/7d/a3/807da375-ca6a-0aa0-85cc-1adcfeb1ee57/mza_8453028832480131344.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mira-murati",
+      "name": "Mira Murati",
+      "title": "Thinking Machines CEO",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
+      "episodes": []
+    },
+    {
+      "id": "palmer-luckey",
+      "name": "Palmer Luckey",
+      "title": "Founder of Anduril & Oculus",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
+      "episodes": [
+        {
+          "title": "BONUS: Anduril Founder Palmer Luckey Talks Partnership With Qualcomm",
+          "podcast_title": "Bloomberg Tech",
+          "episode_url": "https://podcasts.apple.com/us/podcast/bonus-anduril-founder-palmer-luckey-talks-partnership/id1611767434?i=1000798530870&uo=4",
+          "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/bf75c349-f958-43dc-8342-b4f0016c5438/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
+          "pub_date": "2026-10-28T13:32:01Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/9c/9f/f59c9f1f-cbc8-0e46-629d-2df7e6a18274/mza_3594252261487211794.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Anduril Founder Palmer Luckey Talks Partnership With Qualcomm",
+          "podcast_title": "Bloomberg Talks",
+          "episode_url": "https://podcasts.apple.com/us/podcast/anduril-founder-palmer-luckey-talks-partnership-with/id1690236827?i=1000798530594&uo=4",
+          "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/bf75c349-f958-43dc-8342-b4f0016c5438/audio.mp3?utm_source=Podcast&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63",
+          "pub_date": "2026-10-28T13:31:56Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/7f/57/947f5710-6890-2c0e-4555-ab63509d6176/mza_3438809990974300563.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "peter-steinberger",
+      "name": "Peter Steinberger",
+      "title": "Creator of OpenClaw",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
+      "episodes": [
+        {
+          "title": "OpenAI DevDay | Sam Altman, Alexander Embiricos, Andrew Ambrosino, Peter Steinberger, Tibo Sottiaux, Kath Korevec, Casey Neistat",
+          "podcast_title": "TBPN",
+          "episode_url": "https://podcasts.apple.com/us/podcast/openai-devday-sam-altman-alexander-embiricos-andrew/id1772360235?i=1000792266091&uo=4",
+          "audio_url": "https://media.transistor.fm/b41e5338/059d2992.mp3",
+          "pub_date": "2026-09-29T21:29:57Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Peter Steinberger: Stop Sending Me Code. Send Me Your Prompt",
+          "podcast_title": "AI Worth Using",
+          "episode_url": "https://podcasts.apple.com/us/podcast/peter-steinberger-stop-sending-me-code-send-me-your-prompt/id6805129805?i=1000791645540&uo=4",
+          "audio_url": "https://episode.flightcast.com/01M3CEKP9V5WPWKZZER7DP0BKR.mp3",
+          "pub_date": "2026-09-25T15:06:41Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ec/69/cd/ec69cd14-5e5d-d17d-cce7-021d40cd0f3d/mza_18436016168235021875.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sean-parent",
+      "name": "Sean Parent",
+      "title": "C++ luminary",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=dbc9fded",
+      "episodes": [
+        {
+          "title": "Episode 263: 🇳🇱 The Sean Parent Origin Story",
+          "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+          "episode_url": "https://podcasts.apple.com/us/podcast/episode-263-the-sean-parent-origin-story/id1541407369?i=1000739854710&uo=4",
+          "audio_url": "https://www.buzzsprout.com/1501960/episodes/18304237-episode-263-the-sean-parent-origin-story.mp3",
+          "pub_date": "2025-12-05T13:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Episode 262: 🇳🇱 Chaos with Sean Parent! Bikes, Buses, Waffles & More!",
+          "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+          "episode_url": "https://podcasts.apple.com/us/podcast/episode-262-chaos-with-sean-parent-bikes-buses-waffles-more/id1541407369?i=1000738790868&uo=4",
+          "audio_url": "https://www.buzzsprout.com/1501960/episodes/18264398-episode-262-chaos-with-sean-parent-bikes-buses-waffles-more.mp3",
+          "pub_date": "2025-11-28T13:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "stavros-halkias",
+      "name": "Stavros Halkias",
+      "title": "Stand-up comedian and podcaster",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
+      "episodes": [
+        {
+          "title": "Bonus #204 - Caleb Pitts and Patrick Doran [PATREON PREVIEW]",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/e6d6cc46-49ec-4138-9764-388297c31521/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=e6d6cc46-49ec-4138-9764-388297c31521&feed=Fa0PP4fl",
+          "pub_date": "2026-10-29T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
+          "title": "Stavros Halkias Tells Maury the TRUTH About Shane Gillis & Cum Town",
+          "podcast_title": "On Par with Maury Povich",
+          "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-tells-maury-the-truth-about-shane/id1803175670?i=1000798183653&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/6362a899-28d1-4424-8de3-15c40be8ccf9/StavrosAudio.mp3?dest-id=5586374",
+          "pub_date": "2026-10-26T14:02:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/59/03/7f5903ec-9dc3-b324-38db-6687d3f3b8de/mza_10452429799388463260.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ta-nehisi-coates",
+      "name": "Ta-Nehisi Coates",
+      "title": "Author and journalist",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/ta-nehisi-coates.png?v=742d7d8d",
+      "episodes": [
+        {
+          "title": "On Freedom: Tareq Baconi, Ta-Nehisi Coates & Nesrine Malik",
+          "podcast_title": "The PalFest Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/on-freedom-tareq-baconi-ta-nehisi-coates-nesrine-malik/id1844820692?i=1000798709002&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/mcdn.podbean.com/mf/web/5k57f9bzndmwi6q2/On_Freedom.mp3",
+          "pub_date": "2026-10-29T12:51:11Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/b3/48/55b3483d-4a2c-d190-61a2-23e736967c23/mza_358381195648182827.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Ta-Nehisi Coates on the Lasting Wreckage of Trump’s Second Term",
+          "podcast_title": "Fair Game by Vanity Fair",
+          "episode_url": "https://podcasts.apple.com/us/podcast/ta-nehisi-coates-on-the-lasting-wreckage-of/id6809938900?i=1000796458831&uo=4",
+          "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdrl.fm/ee2c9d/tracking.swap.fm/track/uJwtcKQUPuqBQPfusm59/traffic.megaphone.fm/CNE3659382016.mp3",
+          "pub_date": "2026-10-15T09:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/18/be/44/18be4413-91cf-1724-5333-bc7a72b61d3b/mza_12049339815466254161.jpeg/600x600bb.jpg"
+        }
+      ]
+    }
+  ]
+}

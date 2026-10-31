@@ -541,19 +541,11 @@
     async function loadPersonalities() {
       grid.setAttribute('aria-busy', 'true');
       try {
-        const index = await fetchJson('/data/v1/personalities.json');
+        const index = await fetchJson('/website-data/personalities.json');
         const personalities = index.personalities || [];
-        const feeds = await Promise.all(personalities.map(async (personality) => {
-          try {
-            return await fetchJson(personality.feed_url);
-          } catch (error) {
-            console.error(`Could not load ${personality.name}`, error);
-            return { episodes: [] };
-          }
-        }));
 
         grid.replaceChildren(...personalities.map((personality, position) =>
-          personalityCard(personality, feeds[position], position)
+          personalityCard(personality, personality, position)
         ));
       } catch (error) {
         console.error('Could not load POD GOD personalities', error);
