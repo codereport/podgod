@@ -1,0 +1,44 @@
+name: Publish curated website
+run-name: Curated website · ${{ inputs.published_at }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      published_at:
+        description: Earliest completed curated publication timestamp
+        required: true
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: publish-curated-website
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch the finished public website snapshot
+        env:
+          EXPECTED_PUBLISHED_AT: ${{ inputs.published_at }}
+          PODGOD_WEBSITE_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
+        run: python scripts/publish_website_snapshot.py
+      - name: Commit the website snapshot
+        run: |
+          git add website-data/personalities.json
+          if ! git diff --cached --quiet; then
+            git config user.name podgod-bot
+            git config user.email bot@podgod.ca
+            git commit -m "🌐 Publish curated website snapshot"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Request the GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --jq '.status'
