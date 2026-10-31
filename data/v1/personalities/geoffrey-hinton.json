@@ -7,6 +7,23 @@
   "updatedAt": "2026-10-31",
   "episodes": [
     {
+      "guid": "https://api.spreaker.com/episode/76097754",
+      "title": "Abbiamo incontrato Geoffrey Hinton “the Godfather of AI\"",
+      "podcast_title": "Intelligenza Artificiale Spiegata Semplice",
+      "description": "Geoffrey Hinton: «L’AI sarà più intelligente di noi. Ma avrà empatia?»\n\nIl Premio Nobel avverte: il futuro dell’umanità dipenderà da come costruiremo le macchine.\n\nE se il vero problema dell’intelligenza artificiale non fosse quanto diventerà intelligente, ma se sarà capace di prendersi cura dell’umanità? Geoffrey Hinton, Premio Nobel per la Fisica e uno dei padri dell’AI moderna, ha lanciato un messaggio potentissimo durante una straordinaria intervista condotta da Nicholas Thompson, alla quale abbiamo avuto il privilegio di assistere dal vivo. Dai rischi esistenziali alla disoccupazione di massa, dalla coscienza delle macchine alla possibilità che l’uomo perda il primato dell’intelligenza: una conversazione che mette in discussione tutto ciò che pensiamo di sapere sul nostro futuro.\n\nIn questa puntata di Intelligenza Artificiale Spiegata Semplice, Pasquale Viscanti e Giacinto Fiore raccontano e analizzano i passaggi più sorprendenti dell’intervista, vissuta in prima persona. Perché Hinton paragona l’arrivo dell’AI alle rivoluzioni di Copernico e Darwin? Perché sostiene che le macchine comprendano davvero ciò che dicono? E soprattutto, perché alla domanda su quale unica istruzione darebbe a una superintelligenza ha risposto con una sola parola: empatia? Un episodio che parte dall’incontro con una delle menti più influenti della nostra epoca per affrontare una domanda fondamentale: stiamo costruendo un’intelligenza con cui vorremo davvero condividere il pianeta?\n\nPasquale Viscanti e Giacinto Fiore ti guideranno alla scoperta di quello che sta accadendo grazie o a causa dell’Intelligenza Artificiale, spiegandola semplice.\n\nPuoi iscriverti anche alla newsletter su: https://www.iaspiegatasemplice.it",
+      "feed_url": "https://www.spreaker.com/show/3326261/episodes/feed",
+      "audio_url": "https://api.spreaker.com/download/episode/76097754/14_ep_iass_podcast_sabato_31_ottobre_2026_stag_9_1.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/58/96/43/589643e6-6d63-aa67-92d0-b2a6c3956db1/mza_8083322462485196748.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/94/e0/7594e0d6-42b8-b094-08b3-84bf26121f25/mza_12840323737700545177.jpg/600x600bb.jpg",
+      "collection_id": 1453562383,
+      "duration": 1247,
+      "pub_date": "2026-10-31T10:40:27Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/abbiamo-incontrato-geoffrey-hinton-the-godfather-of-ai/id1453562383?i=1000799059269&uo=4",
+      "language": "it",
+      "itunes_id": 1000799059269,
+      "added_at": "2026-10-31T14:00:39.840281Z"
+    },
+    {
       "guid": "03b06b8e-a4a6-11f1-8eb6-435fc18ed9d9",
       "title": "Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT,  Geoffrey Hinton",
       "podcast_title": "Wes Roth",

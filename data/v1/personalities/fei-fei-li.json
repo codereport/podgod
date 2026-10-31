@@ -7,6 +7,23 @@
   "updatedAt": "2026-10-31",
   "episodes": [
     {
+      "guid": "389ff5ff-28a0-46b5-a14d-33cbcddc4e29",
+      "title": "Fei-Fei Li, Human-Centered Intelligence at Real-World Scale: The Minds That Bend the Machine, Chapter 5",
+      "podcast_title": "The Other AI: Audio Briefings on Augmented Intelligence and AI Governance",
+      "description": "What happens when the people affected by AI get a voice in how it is designed? This Deep Dive walks through Chapter 5 of The Minds That Bend the Machine by Basil C. Puglisi, MPA, on Fei-Fei Li.\nThe hosts follow Fei-Fei Li from ImageNet, published in 2009 with Jia Deng and others, to a shared Queen Elizabeth Prize for Engineering. They stay with why she puts people at the center, from Parsippany to Stanford's Institute for Human-Centered Artificial Intelligence and AI4ALL. Then they follow her argument into testimony and policy, trace her spatial intelligence work into World Labs, and ask what the chapter takes from her. A short turn covers how her work shaped the author's own work and a simulated critique the book reconstructs from Li's published record. The episode ends on the handoff to Demis Hassabis.\nThe book releases November 6, 2026, in hardcover, with presales opening October 30, 2026, and the Kindle edition opening November 3, 2026.\nThe simulated critique in this chapter is a reconstruction built from the public record and does not represent the views, words, opinions, or endorsements of Fei-Fei Li.\nhttps://basilpuglisi.com/minds-that-bend-the-machine/\nPodcast: The Other AI: Audio Briefings on Augmented Intelligence and AI Governance\nSpotify: https://open.spotify.com/show/033dvhzMIcWLdY7IUgsu7F\nApple Podcasts: https://podcasts.apple.com/us/podcast/id1896506152\nAmazon Music: https://music.amazon.com/podcasts/923d1a79-533f-4623-bae3-e2ba83453dfb\nYouTube playlist: https://www.youtube.com/playlist?list=PLchpU2bIYoEEBh2hdY-BVP9ckyTPiHOAQ\nGenerated using NotebookLM. Content may have inaccuracies. For full detail refer to the original paper, document, or article.\nThese are AI generated under NotebookLM as audio overviews not polished products.\n#AIassisted using the HAIA Ecosystem | CC BY-NC-SA 4.0\nFree for personal, educational, and noncommercial research use with attribution. Commercial exploitation, paid productization, and enterprise commercialization require separate permission and licensing.\nSuggested citation: Puglisi, B. C. (2026). The Minds That Bend the Machine. basilpuglisi.com.",
+      "feed_url": "https://media.rss.com/the-other-ai/feed.xml",
+      "audio_url": "https://content.rss.com/episodes/385604/3281677/the-other-ai/2026_10_30_22_20_36_dfef22b8-5704-4db5-8c49-050d2309b7a7.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/13/09/f2/1309f200-64bd-f93f-5b6d-80c75b6917cd/mza_6948437028279161951.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/3b/06/ed3b062f-f339-2cd5-00aa-7f4f85f64a23/mza_1109077208266792156.png/600x600bb.jpg",
+      "collection_id": 1896506152,
+      "duration": 868,
+      "pub_date": "2026-10-31T12:20:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/fei-fei-li-human-centered-intelligence-at-real-world/id1896506152?i=1000799071937&uo=4",
+      "language": "en",
+      "itunes_id": 1000799071937,
+      "added_at": "2026-10-31T14:00:39.840281Z"
+    },
+    {
       "guid": "https://english.9natree.com/read/1250898102/",
       "title": "[Review] The Worlds I See (Dr. Fei-Fei Li) Summarized.",
       "podcast_title": "9Natree",
