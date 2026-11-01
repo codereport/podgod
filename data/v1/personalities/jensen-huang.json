@@ -4,8 +4,24 @@
   "name": "Jensen Huang",
   "title": "NVIDIA CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "episodes": [
+    {
+      "guid": "2116aacc-1787-41de-87f8-bffc638134ce",
+      "title": "Jensen Huang, Part 2: We Have to Hurt You to Save You",
+      "podcast_title": "Decoding the Gurus",
+      "description": "<p>Part Two of our Jensen Huang decoding gets to AI safety, where Jensen gives the labs some simple advice: if your products aren’t safe, don’t release them! There we go. Glad we got that sorted.</p><p>Luckily Jensen knows a lot of CEOs and he’s confident they want to do the right thing. Good CEOs and good engineers, doing good work. Reassuring stuff, although Volkswagen presumably had a few of those too when it was cheating on emissions tests. We’re slightly less inclined to treat Jensen’s confidence in his rich friends as a safety mechanism, particularly when he does rather well out of selling them chips.</p><p>Though to be fair, he seems a little more open to independent auditors and new regulations than some accounts of the interview suggest. Matt also offers some qualified reasons for optimism about AI safety research. So there are some things to discuss beyond whether we should trust all the nice billionaires.</p><p>We also cover his \"interesting\" environmental argument. To save the planet, Jensen explains, we’ll first have to do it quite a lot of damage. It’s like surgery: an ENORMOUS amount of pain now, with the promise that things might possibly get better afterwards. In this case, perhaps some more solar plants. For operations usually they give you anaesthetics, but a lovely new park next to the data centre will maybe do the same job.</p><p>In short, there’s plenty of out-of-touch billionaire optimism here, and a convenient overlap between what’s good for the future/planet and what’s good for Nvidia sales. But even with all that, Jensen remains a bit short on the guru flair we usually encounter. C'est la vie!</p><h3>Source material</h3><ul><li><a href=\"https://www.youtube.com/watch?v=HjurAWAr_nY\" rel=\"noopener noreferrer\" target=\"_blank\">The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far</a></li><li><a href=\"https://www.youtube.com/watch?v=WLfAf8oHrMo\" rel=\"noopener noreferrer\" target=\"_blank\">I Think You Should Leave: Hot Dog Car Sketch (Netflix Is A Joke)</a></li><li><a href=\"https://www.posbookclub.com/how-to-become-a-christian-in-seven-days-by-russell-brand/\" rel=\"noopener noreferrer\" target=\"_blank\">Piece of Shit Book Club: How to Become a Christian in Seven Days by Russell Brand</a></li><li><a href=\"https://www.simonandschuster.com/books/How-to-Become-a-Christian-in-Seven-Days%2A/Russell-Brand/9781683585459\" rel=\"noopener noreferrer\" target=\"_blank\">Russell Brand: How to Become a Christian in Seven Days</a></li><li><a href=\"https://a24films.com/films/you-can-see-everything\" rel=\"noopener noreferrer\" target=\"_blank\">You Can See Everything: Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary</a></li></ul><br/><h3>Relevant articles</h3><ul><li><a href=\"https://www.pacingthefrontier.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Pacing the Frontier: The AI employees' open letter quoted in the interview</a></li><li><a href=\"https://already-clean.goodfire.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Nick Cammarata / Goodfire: Neural Networks Are Already Clean</a></li><li><a href=\"https://www.epa.gov/vw/learn-about-volkswagen-violations\" rel=\"noopener noreferrer\" target=\"_blank\">US Environmental Protection Agency: Learn About Volkswagen Violations (Dieselgate)</a></li></ul><br/>",
+      "feed_url": "https://feeds.captivate.fm/decoding-the-gurus/",
+      "audio_url": "https://episodes.captivate.fm/episode/2116aacc-1787-41de-87f8-bffc638134ce.mp3",
+      "artwork_url": "https://artwork.captivate.fm/ca36b15f-e9a3-44d0-b341-cb03f96046e3/aj9LitB3bvW15m3-LL0fusjp.jpg",
+      "podcast_artwork_url": "https://artwork.captivate.fm/ca36b15f-e9a3-44d0-b341-cb03f96046e3/aj9LitB3bvW15m3-LL0fusjp.jpg",
+      "duration": 4691,
+      "pub_date": "2026-10-31T23:15:00Z",
+      "episode_url": "https://decoding-the-gurus.captivate.fm/episode/jensen-huang-part-2-we-have-to-hurt-you-to-save-you",
+      "language": "en",
+      "podcastindex_id": 62567252269,
+      "added_at": "2026-11-01T14:00:38.280040Z"
+    },
     {
       "guid": "6ae462d3ba442585c2a65049",
       "title": "#884: Shanmugam, Grace Fu and Gan Kim Yong Meet CEOs & NVIDIA’s Jensen Huang Defends SG Company",
@@ -1679,23 +1695,6 @@
       "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/06/fc/4d06fc3a-e7df-9bfb-e38e-e0d40d8e44d0/mza_18115190681597785982.jpg/600x600bb.jpg",
       "collection_id": 1683401861,
       "podcastindex_id": 51428510934,
-      "language": "en"
-    },
-    {
-      "guid": "https://api.spreaker.com/episode/70522070",
-      "title": "Jensen Huang Biography Flash: NVIDIA Bets 40 Billion on OpenAI and Anthropic While Mapping the Road to Rubin and Beyond",
-      "podcast_title": "Jensen Huang  - Biography Flash",
-      "feed_url": "https://feeds.megaphone.fm/NPTNI7165819387",
-      "audio_url": "https://traffic.megaphone.fm/NPTNI3216397378.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b7/a6/79b7a627-3091-0166-4464-ce45aa454f9d/mza_7189772044041602108.jpg/600x600bb.jpg",
-      "duration": 659,
-      "pub_date": "2026-03-07T08:15:26Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-biography-flash-nvidia-bets-40-billion/id1835546799?i=1000753752789&uo=4",
-      "itunes_id": 1000753752789,
-      "added_at": "2026-06-06T18:30:48.553353Z",
-      "description": "Marc Ellery breaks down Jensen Huang's whirlwind week, covering NVIDIA's massive $30 billion investment in OpenAI, a $10 billion bet on Anthropic, the upcoming GTC 2026 keynote teaser, and the company's ambitious roadmap through 2028. The episode examines NVIDIA's strategic positioning in the AI revolution, potential IPOs on the horizon, geopolitical challenges in China, and Huang's vision of a multi-trillion dollar AI infrastructure buildout that could reshape the global tech landscape.\n\nLoved this episode? Discover more original shows from the Quiet Please Network at QuietPlease.ai, explore our curated favorites here amzn.to/42YoQGI, and catch just a slice of our AI hosts in action on Instagram at instagram.com/claredelish and YouTube at youtube.com/@DIYHOMEGARDENTV\n\nThis content was created in partnership and with the help of Artificial Intelligence AI.",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b7/a6/79b7a627-3091-0166-4464-ce45aa454f9d/mza_7189772044041602108.jpg/600x600bb.jpg",
-      "collection_id": 1835546799,
       "language": "en"
     }
   ]
