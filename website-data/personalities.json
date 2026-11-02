@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T14:02:05.681Z",
+  "updatedAt": "2026-11-02T14:13:16.434Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -143,7 +143,7 @@
           "podcast_title": "Varun Mayya",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
-          "pub_date": "2026-10-26T21:00:00Z",
+          "pub_date": "2026-11-01T19:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
