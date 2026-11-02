@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:37:54.008Z",
+  "updatedAt": "2026-11-02T19:01:18.298Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -588,6 +588,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
+          "title": "#205 - Esther Povitsky and Jordan Jensen",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/6bdd8b36-b1d3-45ad-9534-3b5e22425679/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=6bdd8b36-b1d3-45ad-9534-3b5e22425679&feed=Fa0PP4fl",
+          "pub_date": "2026-11-02T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
           "title": "Bonus #204 - Caleb Pitts and Patrick Doran [PATREON PREVIEW]",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
@@ -595,15 +604,6 @@
           "pub_date": "2026-10-29T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Stavros Halkias Tells Maury the TRUTH About Shane Gillis & Cum Town",
-          "podcast_title": "On Par with Maury Povich",
-          "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-tells-maury-the-truth-about-shane/id1803175670?i=1000798183653&uo=4",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/6362a899-28d1-4424-8de3-15c40be8ccf9/StavrosAudio.mp3?dest-id=5586374",
-          "pub_date": "2026-10-26T14:02:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/59/03/7f5903ec-9dc3-b324-38db-6687d3f3b8de/mza_10452429799388463260.jpg/600x600bb.jpg"
         }
       ]
     },
