@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "episodes": [
+    {
+      "guid": "2786bd2c-d6df-11f1-9df1-0bb8fdec2831",
+      "title": "Are we FINALLY in the good timeline?!",
+      "podcast_title": "Fear&",
+      "description": "Maybe the world is healing, everyone here better knock on your nearest oak!\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD5680134945.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 4004,
+      "pub_date": "2026-11-02T16:51:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-11-03T14:00:42.497665Z"
+    },
     {
       "guid": "7b594970-d409-11f1-87f2-7ff71c180714",
       "title": "Bari Weiss Breaks Silence on CBS Drama; Fox News Ratings Tank; Hasan Piker Sues Scott Jennings",
@@ -1676,23 +1692,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/alex-jones-dsa-francesca-hong-loses-wisconsin-primary/id354628391?i=1000783007310&uo=4",
       "language": "en",
       "itunes_id": 1000783007310,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "ricochet-1998584",
-      "title": "Chicks on the Right: Trump’s Air Force One Decoy, Joe Rogan Enters Candace Debate & Hasan Piker’s Socialism",
-      "podcast_title": "The Ricochet Superfeed",
-      "description": "The Chicks break down a packed day of political chaos, viral moments, media drama, and culture-war headlines. Election results bring some major surprises, including Francesca Hong’s narrow loss, the South Carolina Senate primary heading to a runoff, Michelle Tafoya’s Minnesota Senate primary victory, and Mike Lindell’s loss. Then, Scott Jennings shares an update involving Mitch […]",
-      "feed_url": "https://ricochet.com/podcast/feed/",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/claritaspod.com/measure/mgln.ai/e/441/pscrb.fm/rss/p/api.spreaker.com/download/episode/73852143/0812_mixdown.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/33/ab/fd33abcf-a73e-b6d5-9a0d-df663522fa07/mza_12741466853041828266.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/9b/e3/ac9be307-99c9-d8f0-8170-5782930206a2/mza_3178262495336810405.jpg/600x600bb.jpg",
-      "collection_id": 960814054,
-      "duration": 5612,
-      "pub_date": "2026-08-12T18:23:37Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/chicks-on-the-right-trumps-air-force-one-decoy-joe/id960814054?i=1000783006598&uo=4",
-      "language": "en",
-      "itunes_id": 1000783006598,
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],
