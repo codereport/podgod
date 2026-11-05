@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T18:07:13.061Z",
+  "updatedAt": "2026-11-05T18:18:01.164Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -425,22 +425,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "episodes": [
         {
-          "title": "When Success Hides the Drinking: Josh Kerr on Secrecy, Surrender, and Sobriety",
-          "podcast_title": "Confessions of a Christian Alcoholic with Jon Seidl",
-          "episode_url": "https://omny.fm/shows/confessions-of-a-christian-alcoholic-with-jon-seidl/when-success-hides-the-drinking-josh-kerr-on-secrecy-surrender-and-sobriety",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/bd6fe5bb-906e-45e9-a26c-b2d600e896a9/23b6e5d7-26e0-4924-929a-b4f8013f0489/audio.mp3?utm_source=Podcast&in_playlist=d16248b4-1ccd-433c-9f3e-b2d600e89dba",
-          "pub_date": "2026-11-04T19:53:45Z",
+          "title": "Running a Mile with World Record holder Josh Kerr",
+          "podcast_title": "Paula's Run Club",
+          "episode_url": "https://podcasts.apple.com/us/podcast/running-a-mile-with-world-record-holder-josh-kerr/id1786774007?i=1000781330504&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5935978001.mp3",
+          "pub_date": "2026-08-10T02:00:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://www.omnycontent.com/d/programs/5e27a451-e6e6-4c51-aa03-a7370003783c/bd6fe5bb-906e-45e9-a26c-b2d600e896a9/image.jpg?t=1746626825&size=Large"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/ef/c5/8cefc545-8127-c57f-1eba-e91f0d60ab07/mza_2366220677727622774.jpg/600x600bb.jpg"
         },
         {
-          "title": "Confessions of a Christian Alcoholic with Jon Seid... - When Success Hides the Drinking: Josh Kerr on Secrecy, Surrender, and Sobriety",
-          "podcast_title": "LifeAudio",
-          "episode_url": "https://omny.fm/shows/confessions-of-a-christian-alcoholic-with-jon-seidl/when-success-hides-the-drinking-josh-kerr-on-secrecy-surrender-and-sobriety",
-          "audio_url": "https://go.godcaster.fm/act/e/714/7331856/62748720910/https%253A%252F%252Fpscrb.fm%252Frss%252Fp%252Ftraffic.omny.fm%252Fd%252Fclips%252F5e27a451-e6e6-4c51-aa03-a7370003783c%252Fbd6fe5bb-906e-45e9-a26c-b2d600e896a9%252F23b6e5d7-26e0-4924-929a-b4f8013f0489%252Faudio.mp3%253Futm_source%253DPodcast%2526in_playlist%253Dd16248b4-1ccd-433c-9f3e-b2d600e89dba",
-          "pub_date": "2026-11-04T19:53:45Z",
+          "title": "E471| Josh Kerr (Re-Release)",
+          "podcast_title": "The Drop",
+          "episode_url": "https://podcasts.apple.com/us/podcast/e471-josh-kerr-re-release/id1530996749?i=1000779668524&uo=4",
+          "audio_url": "https://anchor.fm/s/347e3928/podcast/play/123484631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428838401-44100-2-b3a186d875b49.mp3",
+          "pub_date": "2026-08-03T10:00:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://assets.godcaster.fm/image_714_1756521923.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3a/44/5d/3a445d89-5273-9c11-7a81-17df0b8a5145/mza_8345768886873157223.jpg/600x600bb.jpg"
         }
       ]
     },
