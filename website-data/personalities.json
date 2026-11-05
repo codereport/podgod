@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T14:11:44.524Z",
+  "updatedAt": "2026-11-05T14:06:41.982Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -139,22 +139,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "episodes": [
         {
+          "title": "Demis Hassabis says society is “not ready” for the AI future",
+          "podcast_title": "Masters of Scale",
+          "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-says-society-is-not-ready-for-the-ai-future/id1227971746?i=1000800019587&uo=4",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/142bdf36-d6ed-4e90-892c-96609f27f1f8.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "pub_date": "2026-11-05T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/4b/81/134b8173-d713-cbb2-2d3b-4a8692bd87c0/mza_996010941061703843.jpeg/600x600bb.jpg"
+        },
+        {
           "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
           "podcast_title": "Varun Mayya",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
-          "pub_date": "2026-11-01T19:00:00Z",
+          "pub_date": "2026-11-05T03:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-        },
-        {
-          "title": "An AI@GSB Special: Demis Hassabis Thinks We’re in the ‘Foothills of the Singularity’",
-          "podcast_title": "If/Then",
-          "episode_url": "https://podcasts.apple.com/us/podcast/an-ai-gsb-special-demis-hassabis-thinks-were-in/id1725380194?i=1000791237150&uo=4",
-          "audio_url": "https://op3.dev/e/tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/mgln.ai/e/p853501/rss.art19.com/episodes/78dcdb24-b808-4185-b0a1-2bd3bf05d446.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
-          "pub_date": "2026-09-23T07:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/10/e6/fe/10e6fe45-708c-a8e7-90f2-46da14db2c25/mza_371232288568074203.jpeg/600x600bb.jpg"
         }
       ]
     },
@@ -191,20 +191,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
       "episodes": [
         {
+          "title": "The End of Trumpism",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c4b2aeef-c679-4933-adc4-3e7f5750d89a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c4b2aeef-c679-4933-adc4-3e7f5750d89a&feed=82FI35Px",
+          "pub_date": "2026-11-04T21:43:35Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        },
+        {
           "title": "Elon Musk’s Endgame",
           "podcast_title": "The Ezra Klein Show",
           "episode_url": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/5992c694-91bf-4809-891e-5a67afb35d30/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=5992c694-91bf-4809-891e-5a67afb35d30&feed=82FI35Px",
           "pub_date": "2026-10-30T09:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Nate Silver Predicts a ‘Momentous’ Midterm",
-          "podcast_title": "The Ezra Klein Show",
-          "episode_url": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/50149e7c-02e8-4181-a1d8-c9d26fc15b0a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=50149e7c-02e8-4181-a1d8-c9d26fc15b0a&feed=82FI35Px",
-          "pub_date": "2026-10-27T09:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
         }
@@ -425,22 +425,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "episodes": [
         {
-          "title": "Running a Mile with World Record holder Josh Kerr",
-          "podcast_title": "Paula's Run Club",
-          "episode_url": "https://podcasts.apple.com/us/podcast/running-a-mile-with-world-record-holder-josh-kerr/id1786774007?i=1000781330504&uo=4",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5935978001.mp3",
-          "pub_date": "2026-08-10T02:00:00Z",
+          "title": "When Success Hides the Drinking: Josh Kerr on Secrecy, Surrender, and Sobriety",
+          "podcast_title": "Confessions of a Christian Alcoholic with Jon Seidl",
+          "episode_url": "https://omny.fm/shows/confessions-of-a-christian-alcoholic-with-jon-seidl/when-success-hides-the-drinking-josh-kerr-on-secrecy-surrender-and-sobriety",
+          "audio_url": "https://pscrb.fm/rss/p/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/bd6fe5bb-906e-45e9-a26c-b2d600e896a9/23b6e5d7-26e0-4924-929a-b4f8013f0489/audio.mp3?utm_source=Podcast&in_playlist=d16248b4-1ccd-433c-9f3e-b2d600e89dba",
+          "pub_date": "2026-11-04T19:53:45Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/ef/c5/8cefc545-8127-c57f-1eba-e91f0d60ab07/mza_2366220677727622774.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://www.omnycontent.com/d/programs/5e27a451-e6e6-4c51-aa03-a7370003783c/bd6fe5bb-906e-45e9-a26c-b2d600e896a9/image.jpg?t=1746626825&size=Large"
         },
         {
-          "title": "E471| Josh Kerr (Re-Release)",
-          "podcast_title": "The Drop",
-          "episode_url": "https://podcasts.apple.com/us/podcast/e471-josh-kerr-re-release/id1530996749?i=1000779668524&uo=4",
-          "audio_url": "https://anchor.fm/s/347e3928/podcast/play/123484631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428838401-44100-2-b3a186d875b49.mp3",
-          "pub_date": "2026-08-03T10:00:00Z",
+          "title": "Confessions of a Christian Alcoholic with Jon Seid... - When Success Hides the Drinking: Josh Kerr on Secrecy, Surrender, and Sobriety",
+          "podcast_title": "LifeAudio",
+          "episode_url": "https://omny.fm/shows/confessions-of-a-christian-alcoholic-with-jon-seidl/when-success-hides-the-drinking-josh-kerr-on-secrecy-surrender-and-sobriety",
+          "audio_url": "https://go.godcaster.fm/act/e/714/7331856/62748720910/https%253A%252F%252Fpscrb.fm%252Frss%252Fp%252Ftraffic.omny.fm%252Fd%252Fclips%252F5e27a451-e6e6-4c51-aa03-a7370003783c%252Fbd6fe5bb-906e-45e9-a26c-b2d600e896a9%252F23b6e5d7-26e0-4924-929a-b4f8013f0489%252Faudio.mp3%253Futm_source%253DPodcast%2526in_playlist%253Dd16248b4-1ccd-433c-9f3e-b2d600e89dba",
+          "pub_date": "2026-11-04T19:53:45Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3a/44/5d/3a445d89-5273-9c11-7a81-17df0b8a5145/mza_8345768886873157223.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://assets.godcaster.fm/image_714_1756521923.jpg"
         }
       ]
     },
@@ -588,22 +588,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
-          "title": "#205 - Esther Povitsky and Jordan Jensen",
+          "title": "Bonus #205 - Live Call Show Vol. 46 [PATREON PREVIEW]",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/6bdd8b36-b1d3-45ad-9534-3b5e22425679/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=6bdd8b36-b1d3-45ad-9534-3b5e22425679&feed=Fa0PP4fl",
-          "pub_date": "2026-11-02T11:00:00Z",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/ead034d4-004e-451e-be10-8d489fc512a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=ead034d4-004e-451e-be10-8d489fc512a6&feed=Fa0PP4fl",
+          "pub_date": "2026-11-05T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
         },
         {
-          "title": "Bonus #204 - Caleb Pitts and Patrick Doran [PATREON PREVIEW]",
-          "podcast_title": "Stavvy's World",
-          "episode_url": "https://siriusxm.com",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/e6d6cc46-49ec-4138-9764-388297c31521/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=e6d6cc46-49ec-4138-9764-388297c31521&feed=Fa0PP4fl",
-          "pub_date": "2026-10-29T10:00:00Z",
+          "title": "Stavros Halkias – Live at the Lodge Room Full Special (Stand-up Comedy)",
+          "podcast_title": "Just For Laughs - Standup Comedy",
+          "episode_url": "https://www.spreaker.com/episode/stavros-halkias-live-at-the-lodge-room-full-special-stand-up-comedy--76063545",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76063545/utf_8_q_live_at_the_lodge_room_ef_bd_9c_full_utf_8_q_special_ef_bd_9c_stavros_halkias_mp3.mp3",
+          "pub_date": "2026-11-04T20:00:02Z",
           "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+          "podcast_artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a340734c85d5cab4893511591e64c460.jpg"
         }
       ]
     },
