@@ -42,8 +42,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
-          cache-dependency-path: scripts/requirements-art.txt
+          # Metadata-only edits never run pip, so there may be no cache to save.
 
       - name: Fetch private edit input
         env:
