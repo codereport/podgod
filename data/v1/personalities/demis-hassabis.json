@@ -4,8 +4,25 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "episodes": [
+    {
+      "guid": "gid://art19-episode-locator/V0/1ZmgThkm4KAznp1sVo_wRyM8ZZkGllXbOaZGvionlEw",
+      "title": "Demis Hassabis says society is “not ready” for the AI future",
+      "podcast_title": "Masters of Scale",
+      "description": "Google DeepMind co-founder and chair Demis Hassabis says the world is not ready yet for what’s next in AI. He joins Reid Hoffman to talk about how to effectively govern frontier AI, why a more diverse group of experts need a seat at the table, and more.\nThis conversation was recorded live as part of Masters of Scale Summit in October of 2026 at the Presidio Theatre in San Francisco. \nSubscribe to the Masters of Scale weekly newsletter: https://mastersofscale.com/subscribe\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.",
+      "feed_url": "https://rss.art19.com/masters-of-scale",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/142bdf36-d6ed-4e90-892c-96609f27f1f8.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/4b/81/134b8173-d713-cbb2-2d3b-4a8692bd87c0/mza_996010941061703843.jpeg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/4b/81/134b8173-d713-cbb2-2d3b-4a8692bd87c0/mza_996010941061703843.jpeg/600x600bb.jpg",
+      "collection_id": 1227971746,
+      "duration": 1587,
+      "pub_date": "2026-11-05T10:00:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-says-society-is-not-ready-for-the-ai-future/id1227971746?i=1000800019587&uo=4",
+      "language": "en",
+      "itunes_id": 1000800019587,
+      "added_at": "2026-11-05T14:00:52.920588Z"
+    },
     {
       "guid": "8dfeba9c-b767-11f1-8fb9-436ad529e9a8",
       "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
@@ -15,11 +32,11 @@
       "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
       "artwork_url": "https://megaphone.imgix.net/podcasts/8dfeba9c-b767-11f1-8fb9-436ad529e9a8/image/98e656bed43bdd561f6908b6c27db464.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "duration": 2702,
-      "pub_date": "2026-11-01T19:00:00Z",
+      "duration": 2762,
+      "pub_date": "2026-11-05T03:00:00Z",
       "episode_url": "",
       "language": "en",
-      "podcastindex_id": 62470878341,
+      "podcastindex_id": 62774549605,
       "added_at": "2026-10-16T17:45:38.664939Z"
     },
     {
