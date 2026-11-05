@@ -354,9 +354,7 @@
     {
       "id": "josh-kerr",
       "name": "Josh Kerr",
-      "aliases": [
-        "josh kerr"
-      ],
+      "aliases": [],
       "title": "World 1500m champion",
       "queries": [
         "Josh Kerr"
@@ -365,6 +363,13 @@
       "feed_blocklist": [
         "audio biography",
         "biography flash"
+      ],
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "running",
+        "olympian",
+        "runner",
+        "1500m"
       ]
     },
     {
