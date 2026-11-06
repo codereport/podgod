@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "languages": [
     "da",
     "de",
@@ -240,7 +240,7 @@
       "title": "World 1500m champion",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "feed_url": "https://podgod.ca/data/v1/personalities/josh-kerr.json",
-      "episode_count": 78,
+      "episode_count": 59,
       "handle_entity_id": null
     },
     {
