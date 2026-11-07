@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T23:56:33.545Z",
+  "updatedAt": "2026-11-07T23:57:15.539904Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -495,13 +495,6 @@
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/7d/a3/807da375-ca6a-0aa0-85cc-1adcfeb1ee57/mza_8453028832480131344.jpg/600x600bb.jpg"
         }
       ]
-    },
-    {
-      "id": "mira-murati",
-      "name": "Mira Murati",
-      "title": "Thinking Machines CEO",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/mira-murati.png?v=d9b112e7",
-      "episodes": []
     },
     {
       "id": "palmer-luckey",

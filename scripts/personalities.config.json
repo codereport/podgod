@@ -353,41 +353,6 @@
       ]
     },
     {
-      "id": "mira-murati",
-      "name": "Mira Murati",
-      "aliases": [
-        "mira murati",
-        "murati"
-      ],
-      "title": "Thinking Machines CEO",
-      "queries": [
-        "Mira Murati"
-      ],
-      "wikimedia": "Mira Murati",
-      "feed_blocklist": [
-        "biography flash",
-        "ai fire daily",
-        "daily ai",
-        "ai brief",
-        "ai unraveled",
-        "brianbot",
-        "gen zeo",
-        "blocknews",
-        "tokenizados",
-        "bad boys",
-        "life bond",
-        "patchperfect",
-        "aw med ai",
-        "künstlich intelligent",
-        "startup insider",
-        "the information's titv",
-        "top tech",
-        "le centre de gravité",
-        "intelligence artificielle générale",
-        "ai daily"
-      ]
-    },
-    {
       "id": "palmer-luckey",
       "name": "Palmer Luckey",
       "aliases": [
