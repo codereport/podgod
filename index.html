@@ -166,23 +166,17 @@
     }
 
     .showcase-heading {
-      display: flex;
-      align-items: end;
-      justify-content: space-between;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+      align-items: center;
       gap: 24px;
       max-width: 1346px;
       margin: 0 auto 30px;
-    }
-
-    .showcase-eyebrow {
-      margin: 0 0 12px;
-      color: var(--muted-dim);
-      font-size: 0.68rem;
-      font-weight: 700;
-      letter-spacing: 0.16em;
+      text-align: center;
     }
 
     .showcase-heading h2 {
+      grid-column: 2;
       margin: 0;
       font-family: 'Bungee', 'Inter', sans-serif;
       font-size: clamp(1.35rem, 3vw, 2.3rem);
@@ -194,7 +188,9 @@
       -webkit-text-fill-color: transparent;
     }
 
-    .screenshot-toggle {
+    .carousel-toggle {
+      grid-column: 3;
+      justify-self: end;
       flex-shrink: 0;
       display: inline-flex;
       align-items: center;
@@ -210,23 +206,23 @@
       cursor: pointer;
     }
 
-    .screenshot-toggle[hidden] {
+    .carousel-toggle[hidden] {
       display: none;
     }
 
-    .screenshot-toggle:hover,
-    .screenshot-toggle:focus-visible {
+    .carousel-toggle:hover,
+    .carousel-toggle:focus-visible {
       color: var(--text);
       border-color: var(--line-hover);
     }
 
-    .screenshot-toggle svg {
+    .carousel-toggle svg {
       width: 13px;
       height: 13px;
       fill: currentColor;
     }
 
-    .screenshot-viewport {
+    .carousel-viewport {
       width: 100vw;
       margin-left: calc(50% - 50vw);
       overflow-x: auto;
@@ -236,17 +232,18 @@
       mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
     }
 
-    .screenshot-viewport::-webkit-scrollbar {
+    .carousel-viewport::-webkit-scrollbar {
       display: none;
     }
 
-    .screenshot-viewport:focus-visible {
+    .carousel-viewport:focus-visible {
       outline: 2px solid var(--purple);
       outline-offset: 5px;
     }
 
     .screenshot-track,
-    .screenshot-group {
+    .screenshot-group,
+    .personality-track {
       display: flex;
       width: max-content;
     }
@@ -303,10 +300,17 @@
     }
 
     .personality-grid {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0, 320px));
-      justify-content: center;
+      display: flex;
+      flex-shrink: 0;
+      width: max-content;
       gap: 22px;
+      padding: 12px 22px 20px 0;
+    }
+
+    .personality-card,
+    .loading-card {
+      flex: 0 0 auto;
+      width: clamp(260px, 26vw, 320px);
     }
 
     .personality-card {
@@ -478,12 +482,6 @@
       text-align: center;
     }
 
-    @media (max-width: 1180px) {
-      .personality-grid {
-        grid-template-columns: repeat(3, minmax(0, 320px));
-      }
-    }
-
     @media (max-width: 820px) {
       .shell {
         padding: 26px 20px 44px;
@@ -503,9 +501,14 @@
         font-size: 4rem;
       }
 
-      .personality-grid {
-        grid-template-columns: repeat(2, minmax(0, 320px));
-        gap: 16px;
+      .showcase-heading {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .showcase-heading h2,
+      .carousel-toggle {
+        grid-column: 1;
       }
     }
 
@@ -543,10 +546,6 @@
         line-height: 1.5;
       }
 
-      .personality-grid {
-        grid-template-columns: 1fr;
-      }
-
       .loading-card {
         min-height: 500px;
       }
@@ -556,8 +555,6 @@
       }
 
       .showcase-heading {
-        display: block;
-        position: relative;
         margin-bottom: 20px;
       }
 
@@ -565,10 +562,7 @@
         font-size: clamp(0.95rem, 4.7vw, 1.2rem);
       }
 
-      .screenshot-toggle {
-        position: absolute;
-        top: -9px;
-        right: 0;
+      .carousel-toggle {
         min-height: 34px;
         padding: 7px 12px;
       }
@@ -608,20 +602,17 @@
     </header>
 
     <main>
-      <section class="player-showcase" id="player-preview" aria-labelledby="showcase-title">
+      <section class="player-showcase" id="player-preview" aria-labelledby="showcase-title" data-carousel data-carousel-name="screenshot">
         <div class="showcase-heading">
-          <div>
-            <p class="showcase-eyebrow">THE POD GOD PLAYER</p>
-            <h2 id="showcase-title">Beautiful · Simple · Ad-free</h2>
-          </div>
-          <button class="screenshot-toggle" id="screenshot-toggle" type="button" aria-label="Pause screenshot scrolling" aria-pressed="false" aria-controls="screenshot-viewport" hidden>
+          <h2 id="showcase-title">Beautiful · Simple · Ad-free</h2>
+          <button class="carousel-toggle" id="screenshot-toggle" data-carousel-toggle type="button" aria-label="Pause screenshot scrolling" aria-pressed="false" aria-controls="screenshot-viewport" hidden>
             <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 3h3v10H4zm5 0h3v10H9z"/></svg>
             <span>Pause</span>
           </button>
         </div>
-        <div class="screenshot-viewport" id="screenshot-viewport" tabindex="0" role="group" aria-label="POD GOD app screenshots. Scroll horizontally to explore.">
-          <div class="screenshot-track" id="screenshot-track">
-            <div class="screenshot-group" id="screenshot-group">
+        <div class="carousel-viewport" id="screenshot-viewport" data-carousel-viewport tabindex="0" role="group" aria-label="POD GOD app screenshots. Scroll horizontally to explore.">
+          <div class="screenshot-track" id="screenshot-track" data-carousel-track>
+            <div class="screenshot-group" id="screenshot-group" data-carousel-group>
               <a class="screenshot-card" href="/screenshots/01-personalities.webp" target="_blank" rel="noopener">
                 <img src="/screenshots/01-personalities.webp" alt="Find and follow Personalities to discover their podcast appearances" width="648" height="1152" loading="lazy" decoding="async">
                 <span>Follow Personalities</span>
@@ -652,21 +643,32 @@
         <p class="showcase-hint">Scroll to explore · Select a screen for a closer look</p>
       </section>
 
-      <section id="personalities" aria-label="Podcast personalities">
-      <div class="personality-grid" id="personality-grid" aria-live="polite" aria-busy="true">
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-        <div class="loading-card" aria-hidden="true"></div>
-      </div>
+      <section id="personalities" aria-labelledby="personalities-title" data-carousel data-carousel-name="personality" data-carousel-speed-multiplier="1.6" data-carousel-image-fallback="/player-icon-borderless.png">
+        <div class="showcase-heading">
+          <h2 id="personalities-title">Personalities</h2>
+          <button class="carousel-toggle" id="personality-toggle" data-carousel-toggle type="button" aria-label="Pause personality scrolling" aria-pressed="false" aria-controls="personality-viewport" hidden>
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 3h3v10H4zm5 0h3v10H9z"/></svg>
+            <span>Pause</span>
+          </button>
+        </div>
+        <div class="carousel-viewport" id="personality-viewport" data-carousel-viewport tabindex="0" role="group" aria-label="Podcast personalities and their latest episodes. Scroll horizontally to explore.">
+          <div class="personality-track" id="personality-track" data-carousel-track>
+            <div class="personality-grid" id="personality-grid" data-carousel-group aria-live="polite" aria-busy="true">
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+              <div class="loading-card" aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
 
-      <noscript>
-        <p class="load-error">JavaScript is required to load the latest podcast episodes.</p>
-      </noscript>
+        <noscript>
+          <p class="load-error">JavaScript is required to load the latest podcast episodes.</p>
+        </noscript>
       </section>
     </main>
 
@@ -677,7 +679,7 @@
     </footer>
   </div>
 
-  <script src="/screenshots/carousel.js" defer></script>
+  <script src="/screenshots/carousel.js?v=2" defer></script>
   <script>
     const grid = document.getElementById('personality-grid');
     function element(tag, className, text) {
