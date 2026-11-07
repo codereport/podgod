@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "languages": [
     "da",
     "de",
@@ -99,7 +99,7 @@
       "title": "DeepMind CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "feed_url": "https://podgod.ca/data/v1/personalities/demis-hassabis.json",
-      "episode_count": 91,
+      "episode_count": 92,
       "handle_entity_id": null
     },
     {
@@ -197,7 +197,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
       "feed_url": "https://podgod.ca/data/v1/personalities/ilya-sutskever.json",
-      "episode_count": 34,
+      "episode_count": 35,
       "handle_entity_id": null
     },
     {

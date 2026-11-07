@@ -4,8 +4,24 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "episodes": [
+    {
+      "guid": "e3ffbfbc-49cf-4426-8257-6746836d99dd",
+      "title": "AI Usage Limits Keep Changing. What Breaks If Yours Do?",
+      "podcast_title": "500x Engineer",
+      "description": "<p>AI Usage Limits Keep Changing. What Breaks If Yours Do?</p><p>In the last few weeks, three AI companies changed the rules my video pipeline runs on: OpenAI says ChatGPT and Codex will share one usage allowance from December, Elon Musk said serving Grok Bot had become too expensive, and Anthropic's new usage policy takes effect on November 12, 2026. So I mapped the 12 outside services my pipeline depends on, measured what one episode uses, and unplugged two of them on purpose.</p><p>Short answer: 4 of the 6 steps that make a video run on someone else's servers. One episode used 9,255 voice characters, one $0.86 twin clip and about 65,600 Codex tokens for three thumbnails, and Claude Code isn't logged at all. With the twin service \"gone\", a free local lip-sync model re-synced an old clip to a new line in 26 minutes on my Mac (SyncNet 8.69 against 6.92 for the cloud take, with the caveat that this model is trained with a SyncNet-style checker). A thumbnail with no new AI picture rendered in about three seconds. Then the checklist: map, log, one tested backup per step, pin versions, keep your files at home, read the change pages. Opinions are mine.</p><p>Full write-up: https://www.500xengineer.com/blog/ai-usage-limits-platform-risk</p><p>Join the free Skool community: https://www.500xengineer.com/skool?utm_source=spotify&utm_medium=podcast&utm_campaign=ep09-platform-risk</p><p>CHAPTERS:</p><p>0:00 Intro<br>1:07 Three companies, three changes<br>2:49 The map<br>4:05 What one episode uses<br>5:39 The drill<br>7:41 Reading the new rules<br>8:37 The checklist<br>9:34 The takeaway</p><p>SOURCES: the full source list is in the YouTube description: https://www.youtube.com/watch?v=9nYit7yvA2k</p><p>DISCLOSURE:</p><p>The narration is AI-generated with ElevenLabs, using a clone of Elon's own voice. The short opening clip of Elon is an AI-generated avatar made from his likeness. Some images are AI-generated.</p>",
+      "feed_url": "https://anchor.fm/s/1197a4fbc/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1197a4fbc/podcast/play/128947200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-6%2F436089869-44100-2-f0bc5c898a7f78.mp3",
+      "artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47124135/47124135-1793494309940-eb45b630eb553.jpg",
+      "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/47124135/47124135-1793494309940-eb45b630eb553.jpg",
+      "duration": 605,
+      "pub_date": "2026-11-06T19:34:18Z",
+      "episode_url": "https://podcasters.spotify.com/pod/show/500xengineer/episodes/AI-Usage-Limits-Keep-Changing--What-Breaks-If-Yours-Do-e3rtli0",
+      "language": "en",
+      "podcastindex_id": 62864060885,
+      "added_at": "2026-11-07T14:00:41.116406Z"
+    },
     {
       "guid": "deedb162-d8cb-11f1-9acc-67e3e28e8d87",
       "title": "Midterm Blowout: Dems Batter GOP & Elon Musk Is Out $500 Million | Erica Chenoweth",
@@ -660,7 +676,7 @@
       "feed_url": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20wall%20street%20journal%20whats%20news",
       "audio_url": "https://dowjones.simplecastaudio.com/3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b/episodes/98b0a9bf-dc40-445b-bd48-302311f4e2af/audio/128/default.mp3?aid=rss_feed&awCollectionId=3d1c8b0a-4b6d-4ea9-a455-ab1adaa7e74b&awEpisodeId=98b0a9bf-dc40-445b-bd48-302311f4e2af&feed=BA5QWI2p",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/e6/62/87e6629b-78fa-7b76-959a-901e020bc5c7/mza_13260730044840862954.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1d/24/b0/1d24b0c2-4412-a301-bc4f-71bb99a8b0de/mza_17463252986028945340.jpg/600x600bb.jpg",
       "collection_id": 152016440,
       "duration": 683,
       "pub_date": "2026-10-20T21:05:00Z",
@@ -1688,23 +1704,6 @@
       "language": "en",
       "itunes_id": 1000785170047,
       "added_at": "2026-08-23T14:15:17.932751Z"
-    },
-    {
-      "guid": "93d044dc-9cae-11f1-ad72-1334184ad63a",
-      "title": "Elon Musk’s Derek Chauvin Post Reignites the George Floyd Fight",
-      "podcast_title": "The Gerry Callahan Show",
-      "description": "- Elon Musk calls Derek Chauvin’s murder conviction unjust and says he should be freed, reigniting debate over George Floyd’s death as the segment pushes Trump to consider a federal pardon.\n\n- CNN faces criticism for amplifying Jon Ossoff’s insinuation involving Trump aide Natalie Harp, including an interview with Harp’s estranged brother as the controversy spreads.\n\n- The Lindsay Clancy trial reaches another emotional peak as hundreds of supporters dressed in pink gather outside court and her defense argues the mental-health system failed her.\n\n- A Fairfax County murder case intensifies the immigration debate after authorities arrest a 19-year-old Salvadoran man whom the segment says was previously caught and released at the border under the Biden administration.\n\n- A new UK asylum booklet spells out rules on consent, women’s rights and public behavior for newcomers, triggering fresh backlash over immigration and assimilation.\n\n\n\nToday’s podcast is sponsored by :\n\n\n\nPARAMOUNT PLUS - Don’t Miss “⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Lioness⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠” - all episodes NOW STREAMING on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Paramount Plus⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n\nYou can now WATCH and chat with The Gerry Callahan Show LIVE on Newsmax's social media channels (Facebook, X/Twitter, YouTube, Rumble) \n\n\n\nListen to Newsmax LIVE and see our entire podcast lineup at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://Newsmax.com/Listen⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n\nMake the switch to NEWSMAX today! Get your 15 day free trial of NEWSMAX+ at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://NewsmaxPlus.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n\nLooking for NEWSMAX caps, tees, mugs & more? Check out the Newsmax merchandise shop at : ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://nws.mx/shop⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n\n\nFollow NEWSMAX on Social Media: \n\n            • Facebook: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://nws.mx/FB⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n            • X/Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://nws.mx/twitter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n            • Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://nws.mx/IG⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n            • YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://youtube.com/NewsmaxTV⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n             • Rumble: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://rumble.com/c/NewsmaxTV⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n             • TRUTH Social: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://truthsocial.com/@NEWSMAX⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n            • GETTR: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://gettr.com/user/newsmax⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n            • Threads: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://threads.net/@NEWSMAX⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n            • Telegram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://t.me/newsmax⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n             • BlueSky: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bsky.app/profile/newsmax.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n            • Parler: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠http://app.parler.com/newsmax⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/NMAX7433727927",
-      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/clrtpod.com/m/mgln.ai/e/35/arttrk.com/p/ADCT2/traffic.megaphone.fm/NMAX7109412591.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/93/f5/0593f5c1-b982-2215-3b95-9abe20822850/mza_11701437199008350967.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/93/f5/0593f5c1-b982-2215-3b95-9abe20822850/mza_11701437199008350967.jpg/600x600bb.jpg",
-      "collection_id": 1490937170,
-      "duration": 3464,
-      "pub_date": "2026-08-20T15:48:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/elon-musks-derek-chauvin-post-reignites-the-george/id1490937170?i=1000784624249&uo=4",
-      "language": "en",
-      "itunes_id": 1000784624249,
-      "added_at": "2026-08-21T14:25:59.339503Z"
     }
   ]
 }

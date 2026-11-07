@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "episodes": [
+    {
+      "guid": "e3adbcd2-d3a4-11f1-b2b0-1b3654056500",
+      "title": "Ilya Sutskever: The Genius Behind OpenAI",
+      "podcast_title": "David Ondrej",
+      "description": null,
+      "feed_url": "https://feeds.megaphone.fm/david-ondrej",
+      "audio_url": "https://traffic.megaphone.fm/HD5475902720.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/67/7c/6a677c8e-0f63-11e7-e8d1-40073429f1c4/mza_1575318240502684550.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/5c/52/d65c5261-c858-d77a-9547-03fce59d55a4/mza_3949763696448263942.jpg/600x600bb.jpg",
+      "collection_id": 6824570385,
+      "duration": 872,
+      "pub_date": "2026-11-07T04:52:31Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-the-genius-behind-openai/id6824570385?i=1000800366483&uo=4",
+      "language": "en",
+      "itunes_id": 1000800366483,
+      "added_at": "2026-11-07T14:00:41.116406Z"
+    },
     {
       "guid": "43b12962-a456-11f1-9f14-23f791116782",
       "title": "Altman@Microsoft, Shear@OpenAI, Chaos@Everywhere: Sutskever Regret and the Weekend That Changed AI",

@@ -4,8 +4,24 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "episodes": [
+    {
+      "guid": "03c7c056-ce8e-11f1-9f56-2b710a8985af",
+      "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
+      "podcast_title": "The Royal Society: Questions That Shape Our Future",
+      "description": "<p>Demis Hassabis, Alison Noble and Paul Nurse discuss how the scientific community can get the best out of AI.<br><br>Uploaded 11-06-26<br><br>#ai #tech #science #chemisrty #nobelprize <br><br>AI has already contributed to applications across all STEM fields. This Nobel Prize Dialogue looks at the ways that AI might transform science in the future.  <br><br>Event organised by  @NobelPrize  Outreach and hosted at the Royal Society. <br><br>Demis Hassabis, Alison Noble and Paul Nurse joined us to discuss how the scientific community can get the best out of AI.<br><br>Nobel Prize Dialogue in partnership with the Royal Society. Nobel International Partners ABB, EQT, Scania. Special thanks to the Embassy of Sweden in London.<br><br>00:00 - Adam Smith and Alison Noble on people's perceptions of AI<br>12:55 - Nobel Prize laureates Demis Hassabis and Paul Nurse in conversation with Adam Smith and Alison Noble on the future of science with AI<br><br>About the Royal Society <br>The Royal Society is a Fellowship of many of the world's most eminent scientists and is the oldest scientific academy in continuous existence.<br><a href=\"https://royalsociety.org/\">https://royalsociety.org/</a><br><br>Subscribe to our YouTube channel for exciting science videos and live events. <a href=\"https://www.youtube.com/royalsociety\">https://www.youtube.com/royalsociety</a><br><br>Find us on:<br>Bluesky: <a href=\"https://bsky.app/profile/royalsociety.org\">https://bsky.app/profile/royalsociety.org</a><br>Facebook: <a href=\"https://www.facebook.com/theroyalsociety/\">https://www.facebook.com/theroyalsociety/</a><br>Instagram: <a href=\"https://www.instagram.com/theroyalsociety/\">https://www.instagram.com/theroyalsociety/</a><br>LinkedIn: <a href=\"https://www.linkedin.com/company/the-royal-society\">https://www.linkedin.com/company/the-royal-society</a><br>TikTok: <a href=\"https://www.tiktok.com/@royalsocietyscience\">https://www.tiktok.com/@royalsocietyscience</a></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+      "feed_url": "https://feeds.megaphone.fm/the-royal-society-questions-that-shape-our-future",
+      "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/03c7c056-ce8e-11f1-9f56-2b710a8985af/image/90ff3b8f4000da553279ace37810930c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 5231,
+      "pub_date": "2026-11-07T09:26:00Z",
+      "episode_url": "",
+      "language": "en",
+      "podcastindex_id": 62874234550,
+      "added_at": "2026-11-07T14:00:41.116406Z"
+    },
     {
       "guid": "gid://art19-episode-locator/V0/1ZmgThkm4KAznp1sVo_wRyM8ZZkGllXbOaZGvionlEw",
       "title": "Demis Hassabis says society is “not ready” for the AI future",
