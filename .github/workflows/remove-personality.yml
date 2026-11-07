@@ -1,0 +1,49 @@
+name: Remove Personality
+run-name: Remove personality · ${{ inputs.job_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      job_id:
+        description: Removal job identifier
+        required: true
+        type: string
+      personality_id:
+        description: Personality URL slug to remove
+        required: true
+        type: string
+
+concurrency:
+  group: refresh-personalities
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Remove from discovery and public listings
+        env:
+          PERSONALITY_ID: ${{ inputs.personality_id }}
+        run: python scripts/remove_personality.py --id "$PERSONALITY_ID"
+      - name: Commit the removal
+        env:
+          PERSONALITY_ID: ${{ inputs.personality_id }}
+        run: |
+          set -euo pipefail
+          git add -u -- scripts/personalities.config.json data/v1/personalities.json data/v1/personalities website-data/personalities.json
+          if ! git diff --cached --quiet; then
+            git config user.name podgod-bot
+            git config user.email bot@podgod.ca
+            git commit -m "➖ Remove $PERSONALITY_ID from the personality catalog"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
