@@ -160,6 +160,148 @@
       scroll-margin-top: 24px;
     }
 
+    .player-showcase {
+      margin-bottom: 96px;
+      scroll-margin-top: 36px;
+    }
+
+    .showcase-heading {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 24px;
+      max-width: 1346px;
+      margin: 0 auto 30px;
+    }
+
+    .showcase-eyebrow {
+      margin: 0 0 12px;
+      color: var(--muted-dim);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.16em;
+    }
+
+    .showcase-heading h2 {
+      margin: 0;
+      font-family: 'Bungee', 'Inter', sans-serif;
+      font-size: clamp(1.35rem, 3vw, 2.3rem);
+      font-weight: 400;
+      line-height: 1.4;
+      background: linear-gradient(110deg, var(--pink), var(--purple), var(--blue));
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .screenshot-toggle {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 40px;
+      padding: 9px 15px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--muted);
+      background: rgba(20, 26, 40, 0.7);
+      font: inherit;
+      font-size: 0.75rem;
+      cursor: pointer;
+    }
+
+    .screenshot-toggle[hidden] {
+      display: none;
+    }
+
+    .screenshot-toggle:hover,
+    .screenshot-toggle:focus-visible {
+      color: var(--text);
+      border-color: var(--line-hover);
+    }
+
+    .screenshot-toggle svg {
+      width: 13px;
+      height: 13px;
+      fill: currentColor;
+    }
+
+    .screenshot-viewport {
+      width: 100vw;
+      margin-left: calc(50% - 50vw);
+      overflow-x: auto;
+      overscroll-behavior-x: contain;
+      scrollbar-width: none;
+      -webkit-mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
+      mask-image: linear-gradient(to right, transparent, #000 5%, #000 95%, transparent);
+    }
+
+    .screenshot-viewport::-webkit-scrollbar {
+      display: none;
+    }
+
+    .screenshot-viewport:focus-visible {
+      outline: 2px solid var(--purple);
+      outline-offset: 5px;
+    }
+
+    .screenshot-track,
+    .screenshot-group {
+      display: flex;
+      width: max-content;
+    }
+
+    .screenshot-group {
+      flex-shrink: 0;
+      gap: 24px;
+      padding: 12px 24px 20px 0;
+    }
+
+    .screenshot-card {
+      display: block;
+      flex: 0 0 auto;
+      width: clamp(192px, 19vw, 280px);
+      color: var(--muted);
+      text-align: center;
+      text-decoration: none;
+    }
+
+    .screenshot-card img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 9 / 16;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 20px;
+      background: #1c1c1e;
+      box-shadow: 0 12px 26px rgba(0, 0, 0, 0.24);
+    }
+
+    .screenshot-card:hover img,
+    .screenshot-card:focus-visible img {
+      border-color: var(--line-hover);
+    }
+
+    .screenshot-card:focus-visible {
+      outline: 2px solid var(--purple);
+      outline-offset: 5px;
+      border-radius: 20px;
+    }
+
+    .screenshot-card span {
+      display: block;
+      margin-top: 16px;
+      font-size: 0.74rem;
+      font-weight: 500;
+    }
+
+    .showcase-hint {
+      margin: 12px 0 0;
+      color: var(--muted-dim);
+      font-size: 0.72rem;
+      text-align: center;
+    }
+
     .personality-grid {
       display: grid;
       grid-template-columns: repeat(4, minmax(0, 320px));
@@ -408,6 +550,37 @@
       .loading-card {
         min-height: 500px;
       }
+
+      .player-showcase {
+        margin-bottom: 64px;
+      }
+
+      .showcase-heading {
+        display: block;
+        position: relative;
+        margin-bottom: 20px;
+      }
+
+      .showcase-heading h2 {
+        font-size: clamp(0.95rem, 4.7vw, 1.2rem);
+      }
+
+      .screenshot-toggle {
+        position: absolute;
+        top: -9px;
+        right: 0;
+        min-height: 34px;
+        padding: 7px 12px;
+      }
+
+      .screenshot-group {
+        gap: 16px;
+        padding-right: 16px;
+      }
+
+      .screenshot-card img {
+        border-radius: 15px;
+      }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -431,10 +604,55 @@
         <p class="tagline">The best podcast player and editor out there.</p>
       </div>
       <a class="editor-link" href="/editor/">Editor</a>
-      <a class="scroll-cue" href="#personalities">Personalities</a>
+      <a class="scroll-cue" href="#player-preview">Explore the player</a>
     </header>
 
-    <main id="personalities" aria-label="Podcast personalities">
+    <main>
+      <section class="player-showcase" id="player-preview" aria-labelledby="showcase-title">
+        <div class="showcase-heading">
+          <div>
+            <p class="showcase-eyebrow">THE POD GOD PLAYER</p>
+            <h2 id="showcase-title">Beautiful · Simple · Ad-free</h2>
+          </div>
+          <button class="screenshot-toggle" id="screenshot-toggle" type="button" aria-label="Pause screenshot scrolling" aria-pressed="false" aria-controls="screenshot-viewport" hidden>
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 3h3v10H4zm5 0h3v10H9z"/></svg>
+            <span>Pause</span>
+          </button>
+        </div>
+        <div class="screenshot-viewport" id="screenshot-viewport" tabindex="0" role="group" aria-label="POD GOD app screenshots. Scroll horizontally to explore.">
+          <div class="screenshot-track" id="screenshot-track">
+            <div class="screenshot-group" id="screenshot-group">
+              <a class="screenshot-card" href="/screenshots/01-personalities.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/01-personalities.webp" alt="Find and follow Personalities to discover their podcast appearances" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Follow Personalities</span>
+              </a>
+              <a class="screenshot-card" href="/screenshots/02-library.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/02-library.webp" alt="Podcasts and followed Personalities together in the POD GOD library" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Your podcast library</span>
+              </a>
+              <a class="screenshot-card" href="/screenshots/03-player.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/03-player.webp" alt="Episode playback with skip controls, playback speeds, and soundbite creation" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Listen your way</span>
+              </a>
+              <a class="screenshot-card" href="/screenshots/04-queue.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/04-queue.webp" alt="Listening queue with episode progress and Personality episode labels" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Keep your queue moving</span>
+              </a>
+              <a class="screenshot-card" href="/screenshots/05-statistics.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/05-statistics.webp" alt="Listening statistics with episode counts, total time, and podcast history" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Your listening history</span>
+              </a>
+              <a class="screenshot-card" href="/screenshots/06-soundbites.webp" target="_blank" rel="noopener">
+                <img src="/screenshots/06-soundbites.webp" alt="Create a visual soundbite and add optional on-device captions" width="648" height="1152" loading="lazy" decoding="async">
+                <span>Share a soundbite</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <p class="showcase-hint">Scroll to explore · Select a screen for a closer look</p>
+      </section>
+
+      <section id="personalities" aria-label="Podcast personalities">
       <div class="personality-grid" id="personality-grid" aria-live="polite" aria-busy="true">
         <div class="loading-card" aria-hidden="true"></div>
         <div class="loading-card" aria-hidden="true"></div>
@@ -449,6 +667,7 @@
       <noscript>
         <p class="load-error">JavaScript is required to load the latest podcast episodes.</p>
       </noscript>
+      </section>
     </main>
 
     <footer class="site-footer">
@@ -458,6 +677,7 @@
     </footer>
   </div>
 
+  <script src="/screenshots/carousel.js" defer></script>
   <script>
     const grid = document.getElementById('personality-grid');
     function element(tag, className, text) {
