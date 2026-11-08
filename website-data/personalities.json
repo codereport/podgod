@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T23:57:34.373Z",
+  "updatedAt": "2026-11-08T14:03:29.128Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -139,6 +139,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "episodes": [
         {
+          "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
+          "podcast_title": "Varun Mayya",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
+          "pub_date": "2026-11-07T18:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
           "podcast_title": "The Royal Society: Questions That Shape Our Future",
           "episode_url": "",
@@ -146,15 +155,6 @@
           "pub_date": "2026-11-07T09:26:00Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-        },
-        {
-          "title": "Demis Hassabis says society is “not ready” for the AI future",
-          "podcast_title": "Masters of Scale",
-          "episode_url": "https://podcasts.apple.com/us/podcast/demis-hassabis-says-society-is-not-ready-for-the-ai-future/id1227971746?i=1000800019587&uo=4",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/142bdf36-d6ed-4e90-892c-96609f27f1f8.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
-          "pub_date": "2026-11-05T10:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/4b/81/134b8173-d713-cbb2-2d3b-4a8692bd87c0/mza_996010941061703843.jpeg/600x600bb.jpg"
         }
       ]
     },
