@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T14:03:29.128Z",
+  "updatedAt": "2026-11-09T14:05:18.240Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -581,6 +581,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
+          "title": "#206 - Maury Povich",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/6003a30b-5b3c-452c-8c48-e0e4acd0a34b/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=6003a30b-5b3c-452c-8c48-e0e4acd0a34b&feed=Fa0PP4fl",
+          "pub_date": "2026-11-09T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
           "title": "Bonus #205 - Live Call Show Vol. 46 [PATREON PREVIEW]",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
@@ -588,15 +597,6 @@
           "pub_date": "2026-11-05T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Stavros Halkias – Live at the Lodge Room Full Special (Stand-up Comedy)",
-          "podcast_title": "Just For Laughs - Standup Comedy",
-          "episode_url": "https://www.spreaker.com/episode/stavros-halkias-live-at-the-lodge-room-full-special-stand-up-comedy--76063545",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76063545/utf_8_q_live_at_the_lodge_room_ef_bd_9c_full_utf_8_q_special_ef_bd_9c_stavros_halkias_mp3.mp3",
-          "pub_date": "2026-11-04T20:00:02Z",
-          "language": "en",
-          "podcast_artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/a340734c85d5cab4893511591e64c460.jpg"
         }
       ]
     },
