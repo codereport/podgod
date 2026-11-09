@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "languages": [
     "da",
     "de",
@@ -156,7 +156,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 39,
+      "episode_count": 42,
       "handle_entity_id": "geoffrey-hinton"
     },
     {
@@ -217,7 +217,7 @@
       "title": "Google senior fellow and researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
       "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
-      "episode_count": 24,
+      "episode_count": 25,
       "handle_entity_id": null
     },
     {
@@ -314,7 +314,7 @@
       "title": "Stand-up comedian and podcaster",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "feed_url": "https://podgod.ca/data/v1/personalities/stavros-halkias.json",
-      "episode_count": 233,
+      "episode_count": 234,
       "handle_entity_id": null,
       "nickname": "Stavvy",
       "hosted_podcasts": [

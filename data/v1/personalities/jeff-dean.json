@@ -4,8 +4,25 @@
   "name": "Jeff Dean",
   "title": "Google senior fellow and researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "episodes": [
+    {
+      "guid": "6af143a1b4a4e20202f6e97c",
+      "title": "直面我们的 AI 未来：Jeff Dean与李飞飞在斯坦福的对谈",
+      "podcast_title": "AI智识录",
+      "description": "2026 年 10 月 28 日，斯坦福以人为本人工智能研究院的年度大会在胡佛研究所闭幕。刚刚离开工作 27 年的 Google、创立公司 Discovery Loop 的 Jeff Dean 登台做了主题演讲，随后与 HAI 创所所长李飞飞展开了半小时对谈。这也是两人第一次公开、正面地拆解那个被硅谷炒得最热的词，递归自我改进（RSI）。\nJeff Dean 是 MapReduce、Bigtable、TensorFlow 和 TPU 的幕后推手，也带过 Google Brain 和 Gemini。今年 8 月，他和 Quoc Le、Sanjay Ghemawat、Oriol Vinyals 一起出走，要做的是把科学实验的全流程自动化。李飞飞则是 ImageNet 的发明者、World Labs 的联合创始人。\n这期完整收录了演讲与对谈。你会听到他如何区分「自我改进」和「递归自我改进」，为什么认为实验、训练、评估都要消耗真实的物理时间，加速不可能没有上限；也能听到他复盘过去十年哪些技术判断押对了、哪些看走了眼，以及对就业冲击与年轻人焦虑的坦率回应。\n原视频：https://www.youtube.com/watch?v=ooGKNwJWdb8\n在小宇宙查看该单集文稿",
+      "feed_url": "https://feed.xyzfm.space/fxrjpjcpycap",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/665593980c1cea6c57faa3b9/6af143a1b4a4e20202f6e97c/media.xyzcdn.net/665593980c1cea6c57faa3b9/lvl3v5Xqdu2VAYfHkrfqjYV6Gl7B.m4a",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/60/ba/9b60ba6a-897e-8a0f-0f5b-62eae851c4e2/mza_17550262053583657575.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9b/60/ba/9b60ba6a-897e-8a0f-0f5b-62eae851c4e2/mza_17550262053583657575.png/600x600bb.jpg",
+      "collection_id": 1889829123,
+      "duration": 2180,
+      "pub_date": "2026-11-09T03:55:51Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/%E7%9B%B4%E9%9D%A2%E6%88%91%E4%BB%AC%E7%9A%84-ai-%E6%9C%AA%E6%9D%A5-jeff-dean%E4%B8%8E%E6%9D%8E%E9%A3%9E%E9%A3%9E%E5%9C%A8%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%9A%84%E5%AF%B9%E8%B0%88/id1889829123?i=1000800697749&uo=4",
+      "language": "zh",
+      "itunes_id": 1000800697749,
+      "added_at": "2026-11-09T14:00:43.019925Z"
+    },
     {
       "guid": "c688605c-d409-11f1-85b3-8bb5813a78db",
       "title": "Ex-Palantir execs launch Dream to build AI world models for construction; plus, Upwind raises $400M; and Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
