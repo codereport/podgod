@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "languages": [
     "da",
     "de",
@@ -36,7 +36,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
-      "episode_count": 56,
+      "episode_count": 57,
       "handle_entity_id": null
     },
     {
@@ -156,7 +156,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 42,
+      "episode_count": 45,
       "handle_entity_id": "geoffrey-hinton"
     },
     {
@@ -217,7 +217,7 @@
       "title": "Google senior fellow and researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jeff-dean.png?v=35e65948",
       "feed_url": "https://podgod.ca/data/v1/personalities/jeff-dean.json",
-      "episode_count": 25,
+      "episode_count": 27,
       "handle_entity_id": null
     },
     {

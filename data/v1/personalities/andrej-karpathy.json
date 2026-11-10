@@ -4,8 +4,24 @@
   "name": "Andrej Karpathy",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "episodes": [
+    {
+      "guid": "37e89cf1-2a12-448d-bef7-3d36c6e46cee",
+      "title": "#696 Neil: Build Smarter With Andrej Karpathy's Claude Code Workflow",
+      "podcast_title": "AI Fire Daily",
+      "description": "<p><a href=\"https://rss.com/podcasts/ai-fire-daily/voicemail\" target=\"_blank\">Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode!</a></p><p>What does Andrej Karpathy's Claude Code workflow look like in practice? Follow one website project from short prompts and performance fixes to interactive architecture maps, Sonnet sub-agents, and automated catalog checks. See what passed testing and what still needs review. 💡 </p><p></p><p><strong>We'll Talk About</strong>: </p><ul><li>How to set up Claude Code with Claude Opus on Medium Effort.</li><li>How to write short, effective prompts for real coding tasks.</li><li>How to build an interactive Architecture Explorer to understand complex projects.</li><li>How to use Claude Sonnet sub-agents to improve a website in parallel.</li><li>How to automate product data checks and generate reusable reports.</li></ul><p></p><p><strong>Keywords</strong>: Claude Code Workflow, Claude Code Best Practices, Claude Code Prompting, Claude Code Automation, AI Coding Workflow, AI Tools. </p><p></p><p><strong>Links:</strong></p><ol><li>Newsletter: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.aifire.co/subscribe\">Sign up for our FREE daily newsletter.</a></li><li>Our Community: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://community.aifire.co/\">Get 3-level AI tutorials across industries.</a></li><li>Join AI Fire Academy: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.aifire.co/upgrade\">500+ advanced AI workflows ($14,500+ Value)</a></li></ol><p></p><p><strong>Our Socials:</strong></p><ol><li>Facebook Group: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.facebook.com/groups/aifire.co\">Join 301K+ AI builders</a></li><li>X (Twitter): <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://x.com/aifireco\">Follow us for daily AI drops</a></li><li>YouTube: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/@aifire.official\">Watch AI walkthroughs & tutorials</a></li></ol>",
+      "feed_url": "https://media.rss.com/ai-fire-daily/feed.xml",
+      "audio_url": "https://content.rss.com/episodes/331987/3307479/ai-fire-daily/2026_11_10_06_53_53_6daa2e28-4f04-4f89-aa7c-96e6873f46e3.mp3",
+      "artwork_url": "https://media.rss.com/ai-fire-daily/ep_cover_20261110_065339_9bb318692d272c68578de1a5c1c6fe36.png",
+      "podcast_artwork_url": "https://media.rss.com/ai-fire-daily/20250604_090646_e7b928bbae0190271124179ee55fb4ce.jpg",
+      "duration": 1024,
+      "pub_date": "2026-11-10T06:51:28Z",
+      "episode_url": "https://rss.com/podcasts/ai-fire-daily/3307479",
+      "language": "en",
+      "podcastindex_id": 63001054920,
+      "added_at": "2026-11-10T14:00:47.042050Z"
+    },
     {
       "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
       "title": "The REAL Reason Andrej Karpathy Joined Anthropic",

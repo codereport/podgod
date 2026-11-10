@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "episodes": [
+    {
+      "guid": "c51ce488-dc5e-11f1-bf0b-97124a4308a1",
+      "title": "WE HAVE BREAKING NEWS! | FEAR&",
+      "podcast_title": "Fear&",
+      "description": "Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9087030679.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 3761,
+      "pub_date": "2026-11-09T16:42:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-11-10T14:00:47.042050Z"
+    },
     {
       "guid": "2786bd2c-d6df-11f1-9df1-0bb8fdec2831",
       "title": "Are we FINALLY in the good timeline?!",
@@ -1675,23 +1691,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/hasan-pikers-sewer-socialism-shock-fauci-text-roseanne/id1821493726?i=1000783050670&uo=4",
       "language": "en",
       "itunes_id": 1000783050670,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "https://www.podomatic.com/podcasts/renegadetalk/episodes/2026-08-12T11_31_45-07_00",
-      "title": "Alex Jones DSA Francesca Hong Loses Wisconsin Primary After Being Endorsed By Far-Left Hasan Piker Who Admitted He Wants To “Destroy The White Race",
-      "podcast_title": "Renegade Talk Radio",
-      "description": "DSA Francesca Hong Loses Wisconsin Primary After Being Endorsed By Far-Left Hasan Piker Who Admitted He Wants To “Destroy The White Race!” Alex Jones Is LIVE On-Air Right Now Exposing Piker & The Communist Cult He Represents",
-      "feed_url": "https://renegadetalk.podomatic.com/rss2.xml",
-      "audio_url": "https://www.podomatic.com/e/podcasts/renegadetalk/episodes/2026-08-12T11_31_45-07_00.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/43/1a/0b/431a0b21-9924-b5e7-b030-30c9cc95722e/mza_3492070783470392466.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/43/1a/0b/431a0b21-9924-b5e7-b030-30c9cc95722e/mza_3492070783470392466.jpg/600x600bb.jpg",
-      "collection_id": 354628391,
-      "duration": 7226,
-      "pub_date": "2026-08-12T18:31:45Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/alex-jones-dsa-francesca-hong-loses-wisconsin-primary/id354628391?i=1000783007310&uo=4",
-      "language": "en",
-      "itunes_id": 1000783007310,
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],
