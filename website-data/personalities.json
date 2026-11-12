@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:03:31.201Z",
+  "updatedAt": "2026-11-12T14:06:41.440Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -581,20 +581,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
+          "title": "Bonus #206 - Max Wittert [PATREON PREVIEW]",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/47b98b74-cbc5-422c-a29a-922fa27752e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=47b98b74-cbc5-422c-a29a-922fa27752e9&feed=Fa0PP4fl",
+          "pub_date": "2026-11-12T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
           "title": "#206 - Maury Povich",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/6003a30b-5b3c-452c-8c48-e0e4acd0a34b/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=6003a30b-5b3c-452c-8c48-e0e4acd0a34b&feed=Fa0PP4fl",
           "pub_date": "2026-11-09T11:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Bonus #205 - Live Call Show Vol. 46 [PATREON PREVIEW]",
-          "podcast_title": "Stavvy's World",
-          "episode_url": "https://siriusxm.com",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/ead034d4-004e-451e-be10-8d489fc512a6/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=ead034d4-004e-451e-be10-8d489fc512a6&feed=Fa0PP4fl",
-          "pub_date": "2026-11-05T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
         }
