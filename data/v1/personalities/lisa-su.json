@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "episodes": [
+    {
+      "guid": "c8a7937a-1a12-4bb6-aba4-e6a1163eccb7",
+      "title": "Lisa Su should lead a merged NVIDIA and AMD",
+      "podcast_title": "The Seema Arora Podcast on Sustainability, Climate, Business. Economy, and Tech",
+      "description": "@WhiteHouse\n@NVIDIA\n@AMD\n#merger #ai #leadership #engineering #ceo #cfo",
+      "feed_url": "https://anchor.fm/s/eac5cc8c/podcast/rss",
+      "audio_url": "https://anchor.fm/s/eac5cc8c/podcast/play/129346501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-12%2F436606826-44100-2-ce0d88c3ba48e.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/42/aa/7642aa03-f79b-d42c-69c0-c48b7a88607c/mza_14184602357100639086.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/42/aa/7642aa03-f79b-d42c-69c0-c48b7a88607c/mza_14184602357100639086.jpg/600x600bb.jpg",
+      "collection_id": 1798367410,
+      "duration": 661,
+      "pub_date": "2026-11-12T21:48:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/lisa-su-should-lead-a-merged-nvidia-and-amd/id1798367410?i=1000801590566&uo=4",
+      "language": "en",
+      "itunes_id": 1000801590566,
+      "added_at": "2026-11-13T14:00:44.313856Z"
+    },
     {
       "guid": "18d195ae-0e3f-11f1-ab00-2bf2035c5693",
       "title": "How AMD's Lisa Su Views the Future of AI",
