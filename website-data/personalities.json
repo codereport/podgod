@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T14:06:41.440Z",
+  "updatedAt": "2026-11-13T14:07:34.448Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -191,22 +191,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
       "episodes": [
         {
-          "title": "How the Democrats Did It",
+          "title": "Hasan Piker Has Joined the Party",
           "podcast_title": "The Ezra Klein Show",
-          "episode_url": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/881d9663-8713-4a17-8415-99451e0ef854/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=881d9663-8713-4a17-8415-99451e0ef854&feed=82FI35Px",
-          "pub_date": "2026-11-07T12:00:00Z",
+          "episode_url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=82FI35Px",
+          "pub_date": "2026-11-13T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
         },
         {
-          "title": "The End of Trumpism",
-          "podcast_title": "The Ezra Klein Show",
-          "episode_url": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/c4b2aeef-c679-4933-adc4-3e7f5750d89a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=c4b2aeef-c679-4933-adc4-3e7f5750d89a&feed=82FI35Px",
-          "pub_date": "2026-11-04T21:43:35Z",
+          "title": "Ezra Klein: MAGA Is Over",
+          "podcast_title": "The Bulwark",
+          "episode_url": "https://www.thebulwark.com/p/ezra-klein-maga-is-over",
+          "audio_url": "https://api.substack.com/feed/podcast/224638969/51a8fb78b23ecbcde76aee0bf87ef28c.mp3",
+          "pub_date": "2026-11-12T19:58:21Z",
           "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+          "podcast_artwork_url": "https://substackcdn.com/feed/podcast/87281/bdfc1a0210bdb3ec795d92dcdbef8a56.jpg"
         }
       ]
     },
