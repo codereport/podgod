@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T14:07:34.448Z",
+  "updatedAt": "2026-11-14T14:04:41.869Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -9,22 +9,22 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "episodes": [
         {
-          "title": "[1hr Talk] Intro to Large Language Models",
+          "title": "Building makemore Part 4: Becoming a Backprop Ninja",
           "podcast_title": "Andrej Karpathy",
           "episode_url": "",
-          "audio_url": "https://traffic.megaphone.fm/PODAGEN6073283629.mp3",
-          "pub_date": "2026-10-30T09:46:21Z",
+          "audio_url": "https://traffic.megaphone.fm/PODAGEN4619191311.mp3",
+          "pub_date": "2026-11-14T05:43:20Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/f5a1e078-cc4a-11f1-b0aa-d7d0bc5ffb22/image/8fb5cc40379a618275c64c3243890a24.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
         {
-          "title": "On AI: Andrej Karpathy - From Vibe Coding to Agentic Engineering",
-          "podcast_title": "Talking Books",
-          "episode_url": "https://podcasts.apple.com/us/podcast/on-ai-andrej-karpathy-from-vibe-coding-to-agentic-engineering/id1707036287?i=1000767787485&uo=4",
-          "audio_url": "https://anchor.fm/s/e8f52df8/podcast/play/119990820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-14%2F68a23fe9-0d59-007b-d9d8-8bc404fc0f1d.mp3",
-          "pub_date": "2026-05-14T15:35:25Z",
+          "title": "Let's build GPT: from scratch, in code, spelled out.",
+          "podcast_title": "Andrej Karpathy",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/PODAGEN1412575564.mp3",
+          "pub_date": "2026-11-13T19:30:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/df/36/fa/df36fab7-8cdc-0244-2f12-301d8ba1d10a/mza_12461487852201455623.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/f5a1e078-cc4a-11f1-b0aa-d7d0bc5ffb22/image/8fb5cc40379a618275c64c3243890a24.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
