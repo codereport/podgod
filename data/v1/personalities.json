@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "languages": [
     "da",
     "de",
@@ -8,7 +8,6 @@
     "es",
     "fi",
     "fr",
-    "hi",
     "hu",
     "id",
     "it",
@@ -36,7 +35,7 @@
       "title": "AI researcher",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
-      "episode_count": 57,
+      "episode_count": 59,
       "handle_entity_id": null
     },
     {
