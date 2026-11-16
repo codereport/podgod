@@ -135,6 +135,65 @@
       font-weight: 500;
     }
 
+    .hero-download {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      margin-top: 32px;
+    }
+
+    .download-availability {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0;
+      color: var(--text);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+
+    .download-availability::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #68dfa9;
+      box-shadow: 0 0 12px rgba(104, 223, 169, 0.25);
+    }
+
+    .google-play-link {
+      display: block;
+      border-radius: 10px;
+      transition: transform 160ms ease;
+    }
+
+    .google-play-link:hover {
+      transform: translateY(-2px);
+    }
+
+    .google-play-link:focus-visible {
+      outline: 2px solid var(--purple);
+      outline-offset: 2px;
+    }
+
+    .google-play-link img {
+      display: block;
+      width: 220px;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .download-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.75rem;
+      line-height: 1.5;
+    }
+
     .scroll-cue {
       position: absolute;
       bottom: 24px;
@@ -595,7 +654,14 @@
           <img class="brand-icon" src="/player-icon-borderless.png" alt="" width="108" height="108">
           <h1 class="brand-name">POD GOD</h1>
         </a>
-        <p class="tagline">The best podcast player and editor out there.</p>
+        <p class="tagline">A beautiful, simple, ad-free podcast player.</p>
+        <div class="hero-download">
+          <p class="download-availability">Now available</p>
+          <a class="google-play-link" href="https://play.google.com/store/apps/details?id=ca.podgod.player" target="_blank" rel="noopener noreferrer" aria-label="Get POD GOD for Android on Google Play (opens in a new tab)">
+            <img src="/branding/google-play-badge.png" alt="Get it on Google Play" width="646" height="250">
+          </a>
+          <p class="download-note">Open beta for Android</p>
+        </div>
       </div>
       <a class="editor-link" href="/editor/">Editor</a>
       <a class="scroll-cue" href="#player-preview">Explore the player</a>
