@@ -303,6 +303,25 @@
       "feed_blocklist": []
     },
     {
+      "id": "jim-keller",
+      "name": "Jim Keller",
+      "aliases": [],
+      "title": "Tenstorrent CEO & Microprocessor engineer",
+      "queries": [
+        "Jim Keller"
+      ],
+      "review_pending": true,
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "Microprocessor",
+        "engineer",
+        "AMD",
+        "Apple",
+        "Tesla",
+        "Tenstorrent"
+      ]
+    },
+    {
       "id": "josh-kerr",
       "name": "Josh Kerr",
       "aliases": [],
