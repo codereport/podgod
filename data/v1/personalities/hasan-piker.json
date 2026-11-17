@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "episodes": [
+    {
+      "guid": "1f14ba08-e1df-11f1-b351-6b2af3b4a590",
+      "title": "The Streamer Awards Are Rigged! | Fear&",
+      "podcast_title": "Fear&",
+      "description": "The Streamer Awards\n\nDC swapping James Gunn\n\nA national flight outage\n\nLiterally all of our Superbowl\n\nRidge's biggest sale of the year is here—get up to 49% off plus holiday extras like gift bags and classic cuff beanies on qualifying orders at https://ridge.com/FEAR while supplies last!\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7484989797.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 4440,
+      "pub_date": "2026-11-16T16:58:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-11-17T14:00:42.293066Z"
+    },
     {
       "guid": "c51ce488-dc5e-11f1-bf0b-97124a4308a1",
       "title": "WE HAVE BREAKING NEWS! | FEAR&",
@@ -1674,23 +1690,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/2710-deployed-sailors-are-getting-desperate-the/id402306412?i=1000783372102&uo=4",
       "language": "en",
       "itunes_id": 1000783372102,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "387bdd96-93ff-4139-b7bd-b1a853e8967f",
-      "title": "Hasan Piker’s “Sewer Socialism,” SHOCK Fauci Text, Roseanne Betrayal, w/ Malice, & Dobby’s Fake Grave",
-      "podcast_title": "After Party with Emily Jashinsky",
-      "description": "Emily Jashinsky is joined by Michael Malice, host of “YOUR WELCOME” and author of \"The White Pill: A Tale of Good and Evil,” to discuss Wisconsin DSA candidate Francesca Hong’s narrow defeat and Hasan Piker’s recent push for “sewer socialism.” Michael also offers a fascinating history lesson on anarchist Emma Goldman and her evolution from revolutionary radical to fierce critic of Soviet authoritarianism. They react to Massachusetts’ disturbing new abortion law, newly released Fauci messages about COVID shots and pregnancy, and the lasting collapse of trust after the pandemic. Michael then unloads on former “Roseanne” star Michael Fishman for defending ABC’s firing of Roseanne Barr and offers a surprisingly sympathetic take on Rosie O’Donnell’s feud with Trump. Emily rounds out the show with the bizarre fight over Dobby’s so-called “grave” and what she believes it reveals about adults who struggle to let go of childhood.\n\n \n\nPreBorn: Help save a baby go to https://PreBorn.com/Emily or dial #250 keyword BABY\n\n \n\nLean: Discover why LEAN is becoming the choice for real weight‑loss results—shop now at https://TAKELEAN.com use code EMILY. \n\n \n\nZBiotics: Go to https://zbiotics.com/AFTERPARTY and use AFTERPARTY at checkout for 15% off any first-time orders of ZBiotics probiotics.\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
-      "feed_url": "https://feeds.simplecast.com/SBwa8H9v",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/mgln.ai/e/101/pscrb.fm/rss/p/clrtpod.com/m/sxm.simplecastaudio.com/fa1a1770-8a7a-4974-9040-8a14324d4571/episodes/cbb5ce9a-6101-4b87-97f8-915828ec9b69/audio/128/default.mp3?aid=rss_feed&awCollectionId=fa1a1770-8a7a-4974-9040-8a14324d4571&awEpisodeId=cbb5ce9a-6101-4b87-97f8-915828ec9b69&feed=SBwa8H9v",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7c/66/c4/7c66c4b7-777a-e425-00a0-79bbc1194eec/mza_4768928359584269421.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/24/dc/3724dc96-f6c6-29d4-cda0-828236fe80c1/mza_17497978246900183626.jpg/600x600bb.jpg",
-      "collection_id": 1821493726,
-      "duration": 4501,
-      "pub_date": "2026-08-13T11:00:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/hasan-pikers-sewer-socialism-shock-fauci-text-roseanne/id1821493726?i=1000783050670&uo=4",
-      "language": "en",
-      "itunes_id": 1000783050670,
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],

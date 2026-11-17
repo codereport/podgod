@@ -4,7 +4,7 @@
   "name": "Peter Steinberger",
   "title": "Creator of OpenClaw",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/peter-steinberger.png?v=1a9169d4",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "episodes": [
     {
       "guid": "4e2da1b3-717b-4778-8df0-9110bda19379",
@@ -14,7 +14,7 @@
       "feed_url": "https://feeds.transistor.fm/technology-brother",
       "audio_url": "https://media.transistor.fm/b41e5338/059d2992.mp3",
       "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/6f/83/da6f83ce-5d6e-e4e6-42e8-906e085d2431/mza_7970262893223688744.jpg/600x600bb.jpg",
       "collection_id": 1772360235,
       "duration": 7514,
       "pub_date": "2026-09-29T21:29:57Z",
@@ -597,7 +597,7 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/full-interview-clawdbots-peter-steinberger-makes-first/id1772360235?i=1000746965358&uo=4",
       "itunes_id": 1000746965358,
       "added_at": "2026-06-08T22:56:43.778397Z",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/6f/83/da6f83ce-5d6e-e4e6-42e8-906e085d2431/mza_7970262893223688744.jpg/600x600bb.jpg",
       "collection_id": 1772360235,
       "language": "en"
     },
@@ -614,7 +614,7 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/clawdbot-creator-peter-steinberger-joins-metas-premium/id1772360235?i=1000746931879&uo=4",
       "itunes_id": 1000746931879,
       "added_at": "2026-06-08T22:56:43.778397Z",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/6f/83/da6f83ce-5d6e-e4e6-42e8-906e085d2431/mza_7970262893223688744.jpg/600x600bb.jpg",
       "collection_id": 1772360235,
       "language": "en"
     },
