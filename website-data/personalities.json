@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:38:12.659Z",
+  "updatedAt": "2026-11-17T03:45:49.116Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -422,7 +422,7 @@
       "id": "jim-keller",
       "name": "Jim Keller",
       "title": "Tenstorrent CEO & Microprocessor engineer",
-      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jim-keller.png?v=26011f05",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jim-keller.png?v=6b64cc89",
       "episodes": [
         {
           "title": "Tetralogue on the Liquid Sun Revolution- Dr. P.M. Robitaille & Jim Keller, DemystifySci #342",
