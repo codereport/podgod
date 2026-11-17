@@ -3,7 +3,7 @@
   "id": "jim-keller",
   "name": "Jim Keller",
   "title": "Tenstorrent CEO & Microprocessor engineer",
-  "artwork_url": "https://podgod.ca/data/v1/personalities/art/jim-keller.png?v=26011f05",
+  "artwork_url": "https://podgod.ca/data/v1/personalities/art/jim-keller.png?v=6b64cc89",
   "updatedAt": "2026-11-17",
   "episodes": [
     {
@@ -220,5 +220,6 @@
       "itunes_id": 1000410549098,
       "added_at": "2026-11-17T03:12:21.231886Z"
     }
-  ]
+  ],
+  "aliases": []
 }
