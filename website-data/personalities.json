@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:30:06.051Z",
+  "updatedAt": "2026-11-17T03:38:12.659Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -415,6 +415,32 @@
           "pub_date": "2026-10-15T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/4b/ab/e5/4babe58b-7cda-b2b3-40a5-bcac3f262764/33f9cff7-dc0b-4293-a5bf-d8cc62ab8c98.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jim-keller",
+      "name": "Jim Keller",
+      "title": "Tenstorrent CEO & Microprocessor engineer",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/jim-keller.png?v=26011f05",
+      "episodes": [
+        {
+          "title": "Tetralogue on the Liquid Sun Revolution- Dr. P.M. Robitaille & Jim Keller, DemystifySci #342",
+          "podcast_title": "The DemystifySci Podcast",
+          "episode_url": "https://podcasters.spotify.com/pod/show/demystifysci/episodes/Tetralogue-on-the-Liquid-Sun-Revolution--Dr--P-M--Robitaille--Jim-Keller--DemystifySci-342-e32nshk",
+          "audio_url": "https://anchor.fm/s/2be66934/podcast/play/102543348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400109198-44100-2-190632b9da21.mp3",
+          "pub_date": "2025-05-12T18:16:06Z",
+          "language": "en",
+          "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/7265205/7265205-1776538551580-d298b4312aae6.jpg"
+        },
+        {
+          "title": "A Case for Scientific Anarchy - Jim Keller, DemystifySci #326",
+          "podcast_title": "The DemystifySci Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/a-case-for-scientific-anarchy-jim-keller-demystifysci-326/id1523643420?i=1000698468738&uo=4",
+          "audio_url": "https://anchor.fm/s/2be66934/podcast/play/99573634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-9%2F396223564-44100-2-9b672afd107b5.mp3",
+          "pub_date": "2025-03-09T14:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/6e/7c/ac6e7c64-a1b0-8d64-99b1-b71fbe4f49e8/mza_11715346177390740927.jpg/600x600bb.jpg"
         }
       ]
     },
