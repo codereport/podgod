@@ -65,6 +65,8 @@ jobs:
             --output "$RUNNER_TEMP/personality-photo"
           personality_id="$(python -c 'import json,sys; print(json.load(open(sys.argv[1]))["id"])' "$RUNNER_TEMP/personality.json")"
           echo "PERSONALITY_ID=$personality_id" >> "$GITHUB_ENV"
+          personality_since="$(python scripts/personality_history_window.py "$RUNNER_TEMP/personality.json")"
+          echo "PERSONALITY_SINCE=$personality_since" >> "$GITHUB_ENV"
 
       - name: Add catalog entry
         run: python scripts/create_personality.py --metadata "$RUNNER_TEMP/personality.json"
@@ -87,14 +89,14 @@ jobs:
       - name: Install discovery dependencies
         run: pip install -r scripts/requirements-refresh.txt
 
-      - name: Backfill one year of appearances
+      - name: Backfill the requested years of appearances
         env:
           PODGOD_ACTIVITY_URL: https://api.podgod.ca/internal/network-events
           PODGOD_ACTIVITY_TOKEN: ${{ secrets.PODGOD_PERSONALITY_CREATION_TOKEN }}
           PODGOD_ACTIVITY_JOB_ID: ${{ inputs.job_id }}
           PODCASTINDEX_KEY: ${{ secrets.PODCASTINDEX_KEY }}
           PODCASTINDEX_SECRET: ${{ secrets.PODCASTINDEX_SECRET }}
-        run: python scripts/refresh_personalities.py --since 365d --only "$PERSONALITY_ID"
+        run: python scripts/refresh_personalities.py --since "$PERSONALITY_SINCE" --only "$PERSONALITY_ID"
 
       - name: Require at least one qualifying episode
         run: >-
