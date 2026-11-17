@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:45:49.116Z",
+  "updatedAt": "2026-11-17T14:06:32.618Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -191,6 +191,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
       "episodes": [
         {
+          "title": "The Winning Democrat Who Wants to Break Up Political Parties",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/ed5c691c-6843-47fc-a41e-932593163be6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=ed5c691c-6843-47fc-a41e-932593163be6&feed=82FI35Px",
+          "pub_date": "2026-11-17T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        },
+        {
           "title": "Hasan Piker Has Joined the Party",
           "podcast_title": "The Ezra Klein Show",
           "episode_url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
@@ -198,15 +207,6 @@
           "pub_date": "2026-11-13T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Ezra Klein: MAGA Is Over",
-          "podcast_title": "The Bulwark",
-          "episode_url": "https://www.thebulwark.com/p/ezra-klein-maga-is-over",
-          "audio_url": "https://api.substack.com/feed/podcast/224638969/51a8fb78b23ecbcde76aee0bf87ef28c.mp3",
-          "pub_date": "2026-11-12T19:58:21Z",
-          "language": "en",
-          "podcast_artwork_url": "https://substackcdn.com/feed/podcast/87281/bdfc1a0210bdb3ec795d92dcdbef8a56.jpg"
         }
       ]
     },
@@ -295,6 +295,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
       "episodes": [
         {
+          "title": "The Streamer Awards Are Rigged! | Fear&",
+          "podcast_title": "Fear&",
+          "episode_url": null,
+          "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7484989797.mp3",
+          "pub_date": "2026-11-16T16:58:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "What Next - Hasan Piker and Adam Mockler Are Ready for Something New",
           "podcast_title": "Slate News",
           "episode_url": "https://podcasts.apple.com/us/podcast/what-next-hasan-piker-and-adam-mockler-are-ready-for/id1093260018?i=1000793392896&uo=4",
@@ -302,15 +311,6 @@
           "pub_date": "2026-10-06T07:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/b3/7c/f1b37c94-52b6-ad89-46b1-2c1dbb4b8b67/mza_1494488240045395607.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Hasan Piker Is an Agitator. But Is That What Democrats Need?",
-          "podcast_title": "Clock It with Symone & Eugene",
-          "episode_url": "https://podcasts.apple.com/us/podcast/hasan-piker-is-an-agitator-but-is-that-what-democrats-need/id1707410660?i=1000790285289&uo=4",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/injector.simplecastaudio.com/ddf39aaa-fb45-4ce3-8b02-a33f4fc295e7/episodes/72d37944-f817-4fc0-a690-6b4f6679ec09/audio/128/default.mp3?aid=rss_feed&awCollectionId=ddf39aaa-fb45-4ce3-8b02-a33f4fc295e7&awEpisodeId=72d37944-f817-4fc0-a690-6b4f6679ec09&feed=umlz4Xxx",
-          "pub_date": "2026-09-17T09:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/eb/e1/e1ebe13a-288c-9c16-4c3b-42d082859a14/mza_7457145155568499500.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -529,6 +529,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "episodes": [
         {
+          "title": "Palmer Luckey: “Steve Jobs Ruined Everything with the iPhone”",
+          "podcast_title": "The Builders",
+          "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-steve-jobs-ruined-everything-with-the-iphone/id6820674378?i=1000802426961&uo=4",
+          "audio_url": "https://tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/0660608e-1378-4134-9c86-b4ff011b0940/audio.mp3?utm_source=Podcast&in_playlist=51d9281c-e886-4139-b940-b4c0011494bc",
+          "pub_date": "2026-11-17T08:01:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/600x600bb.jpg"
+        },
+        {
           "title": "BONUS: Anduril Founder Palmer Luckey Talks Partnership With Qualcomm",
           "podcast_title": "Bloomberg Tech",
           "episode_url": "https://podcasts.apple.com/us/podcast/bonus-anduril-founder-palmer-luckey-talks-partnership/id1611767434?i=1000798530870&uo=4",
@@ -536,15 +545,6 @@
           "pub_date": "2026-10-28T13:32:01Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/9c/9f/f59c9f1f-cbc8-0e46-629d-2df7e6a18274/mza_3594252261487211794.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Anduril Founder Palmer Luckey Talks Partnership With Qualcomm",
-          "podcast_title": "Bloomberg Talks",
-          "episode_url": "https://podcasts.apple.com/us/podcast/anduril-founder-palmer-luckey-talks-partnership-with/id1690236827?i=1000798530594&uo=4",
-          "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/bf75c349-f958-43dc-8342-b4f0016c5438/audio.mp3?utm_source=Podcast&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63",
-          "pub_date": "2026-10-28T13:31:56Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/94/7f/57/947f5710-6890-2c0e-4555-ab63509d6176/mza_3438809990974300563.jpg/600x600bb.jpg"
         }
       ]
     },
