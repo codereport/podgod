@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T02:49:19.468Z",
+  "updatedAt": "2026-11-18T02:54:27.956Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -259,6 +259,32 @@
           "pub_date": "2026-06-03T19:37:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "george-hotz",
+      "name": "George Hotz",
+      "title": "Software engineer and hacker",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/george-hotz.png?v=f93a4e6c",
+      "episodes": [
+        {
+          "title": "GDP is fake, electricity is real | George Hotz",
+          "podcast_title": "Endgame with Amanda Cassatt",
+          "episode_url": "https://podcasters.spotify.com/pod/show/futures-edge/episodes/GDP-is-fake--electricity-is-real--George-Hotz-e3ftb33",
+          "audio_url": "https://anchor.fm/s/10255546c/podcast/play/116353571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-3%2F419237186-44100-2-9afd9151f2f75.mp3",
+          "pub_date": "2026-03-04T12:30:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43241139/43241139-1741787319205-f46dd623a8529.jpg"
+        },
+        {
+          "title": "Ramp New $16B Valuation, OpenAI Wins $200M U.S. Defense Contract | Saquon Barkley, Eric Glyman, George Hotz, Joseph Torigian, Paul Klein, Ry",
+          "podcast_title": "TBPN",
+          "episode_url": "https://www.spreaker.com/episode/ramp-new-16b-valuation-openai-wins-200m-u-s-defense-contract-saquon-barkley-eric-glyman-george-hotz-joseph-torigian-paul-klein-ry--76299500",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/76299500/33accd59.mp3",
+          "pub_date": "2025-06-17T21:57:36Z",
+          "language": "en",
+          "podcast_artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/db05a835f5502971f40db7d4eb015c67.jpg"
         }
       ]
     },
