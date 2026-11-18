@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T02:54:27.956Z",
+  "updatedAt": "2026-11-18T14:04:20.125Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -143,7 +143,7 @@
           "podcast_title": "Varun Mayya",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
-          "pub_date": "2026-11-15T18:00:00Z",
+          "pub_date": "2026-11-17T23:07:55Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
@@ -529,6 +529,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "episodes": [
         {
+          "title": "The Future Mark Zuckerberg Is Trying To Build",
+          "podcast_title": "Cleo Abram",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/PODAGEN1347107158.mp3",
+          "pub_date": "2026-11-18T03:18:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/05d4a9be-d3fb-11f1-9bab-57472740544b/image/50c7d45a5d185c410c246ff863f8f008.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "TODAY September 24, 3rd Hour: Mark Zuckerberg on AI | Mind Your Macros | Catching Up With… CC Sabathia",
           "podcast_title": "TODAY",
           "episode_url": "https://podcasts.apple.com/us/podcast/today-september-24-3rd-hour-mark-zuckerberg-on-ai-mind/id1573272310?i=1000791531694&uo=4",
@@ -536,15 +545,6 @@
           "pub_date": "2026-09-24T22:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cb/1b/55/cb1b55bc-52ac-b336-bf56-2614e1b77698/mza_15275800531392240202.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
-          "podcast_title": "Sources with Alex Heath",
-          "episode_url": "https://podcasts.apple.com/us/podcast/mark-zuckerberg-on-muse-metas-biggest-ai-bet-yet/id1840154537?i=1000788542811&uo=4",
-          "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/api.substack.com/feed/podcast/214752912/fad7d63c4351e72ce1e5f08e5a5b5bab.mp3",
-          "pub_date": "2026-09-08T22:02:32Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/7d/a3/807da375-ca6a-0aa0-85cc-1adcfeb1ee57/mza_8453028832480131344.jpg/600x600bb.jpg"
         }
       ]
     },
