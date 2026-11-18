@@ -263,6 +263,16 @@
       "handle_entity_id": null
     },
     {
+      "id": "julia-louis-dreyfus",
+      "name": "Julia Louis Dreyfus",
+      "aliases": [],
+      "title": "Award winning comedic actress",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/julia-louis-dreyfus.png?v=358daccf",
+      "feed_url": "https://podgod.ca/data/v1/personalities/julia-louis-dreyfus.json",
+      "episode_count": 4,
+      "handle_entity_id": null
+    },
+    {
       "id": "lisa-su",
       "name": "Lisa Su",
       "aliases": [
