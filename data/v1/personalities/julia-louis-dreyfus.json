@@ -69,6 +69,38 @@
       "language": "en",
       "podcastindex_id": 33437087345,
       "added_at": "2026-11-18T15:29:55.015399Z"
+    },
+    {
+      "guid": "856573dc-b3ca-4097-8376-ad87018542fe",
+      "title": "The Whole Hog with Julia Louis-Dreyfus",
+      "podcast_title": "El podcast de June Uribarren Jiménez",
+      "description": "This week we welcome the VEEP of our hearts, Julia Louis Dreyfus. Julia stages an intervention with Jessica, and fact checks their “cute-meet” story. Then, the Divine Miss JLD gives us some hot parenting hacks on how to keep your kids around as long as possible (hint, it's snacks), chats about her illness complaint list, and June and Jessica wonder how to be “not a slob”.    You can follow The Deep Dive on Twitter @thedeepdivepod<br />June Diane Raphael @MsJuneDiane on Twitter @junediane on Instagram<br />Jessica St. Clair @Jessica_StClair on Twitter @stclairjessica on Instagram<br />Check out the Jane Club at <a href=\"https://urldefense.com/v3/__http://www.janeclub.com__;!!NUnUjx3wvH5xgA!LFVoBUU6iXgR0KJeTWzXZlF89kIAstxo-RRKFbzf_DDqdzpoD0A2E1LAd1pK4BLg$\" target=\"_blank\" rel=\"noreferrer noopener\">www.janeclub.com</a><br />Send us your The Deep Dive theme or any questions you might have to thedeepdive@earwolf.com See <a href=\"https://omnystudio.com/listener\" target=\"_blank\" rel=\"noreferrer noopener\">omnystudio.com/listener</a> for privacy information.",
+      "feed_url": "https://www.spreaker.com/show/6510204/episodes/feed",
+      "audio_url": "https://api.spreaker.com/download/episode/64817954/audio.mp3",
+      "artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/424f3f3c5d8271b2a406ec18b1f23b78.jpg",
+      "podcast_artwork_url": "https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/nuvolari-assets/black_square_mic.jpg",
+      "duration": 3397,
+      "pub_date": "2021-08-18T04:00:00Z",
+      "episode_url": "https://www.spreaker.com/episode/the-whole-hog-with-julia-louis-dreyfus--64817954",
+      "language": "es",
+      "podcastindex_id": 34743822121,
+      "added_at": "2026-11-18T15:37:50.900356Z"
+    },
+    {
+      "guid": "26441c66-4e33-11ea-801d-8b8211917030",
+      "title": "Gwyneth Paltrow x Julia Louis Dreyfus: How Does Fear Push Us Forward?",
+      "podcast_title": "The Goop Guide with Gwyneth Paltrow",
+      "description": "<p>“The fear is kind of like the gas in your tank,” says Julia Louis-Dreyfus. The actor and producer sits down with GP to talk about motherhood, family life, how she looks back on her career (Second City, <em>SNL</em>, <em>Seinfeld, Veep</em>), and where she’s going next. They talk about marriage and what makes a relationship get “cozy” over time. They talk about acting, humor, laughter. And they talk about their experiences with post-partum depression. Louis-Dreyfus shares the mindset she cultivated when she was diagnosed with breast cancer. And, she tells us about her newest project <em>Downhill</em>, which she produced and stars in, and which comes out on Valentine’s Day. (For more, see <a href=\"https://url.emailprotection.link/?bjE8wTftZfcmuju01p2ThIaE2r2zbw5q90WuEXjU4MRIcAuOowizV771YTNoxRl--ztgGGK33I-CTnVVkLFjJUA~~\"><strong>The goop Podcast hub</strong></a>.)</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://podcastchoices.com/adchoices\">podcastchoices.com/adchoices</a></p>",
+      "feed_url": "https://feeds.megaphone.fm/goop-podcast",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/CAD5110359310.mp3?updated=1731692545",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/bdad5832-0f60-11e9-b326-cf9d0464717f/image/af5bab83369ecf63f0c77cb9506591d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/bdad5832-0f60-11e9-b326-cf9d0464717f/image/af5bab83369ecf63f0c77cb9506591d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 3368,
+      "pub_date": "2020-02-13T08:01:00Z",
+      "episode_url": "",
+      "language": "en",
+      "podcastindex_id": 13412071,
+      "added_at": "2026-11-18T15:37:50.900356Z"
     }
   ]
 }
