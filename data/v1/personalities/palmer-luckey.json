@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "episodes": [
+    {
+      "guid": "4dce96f0-e2ea-11f1-bb51-93f709b6249b",
+      "title": "04. Palmer Luckey, l’Eterno Fanciullo",
+      "podcast_title": "I profeti del codice",
+      "description": "Cacciato da Facebook, Palmer Luckey riparte con i fondi di Peter Thiel e costruisce droni a basso costo per il Pentagono. Propone di ribattezzarlo Dipartimento della Guerra, e Trump firma. Il ritratto del trentenne che sta riscrivendo il modo in cui l’America combatte le guerre.",
+      "feed_url": "https://feeds.megaphone.fm/ISOS8597805585",
+      "audio_url": "https://traffic.megaphone.fm/ISOS7629016415.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d3/cc/a5/d3cca5b4-2bb6-c5f3-4e38-d2fe9c69a936/mza_15287109378223282396.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d3/cc/a5/d3cca5b4-2bb6-c5f3-4e38-d2fe9c69a936/mza_15287109378223282396.jpg/600x600bb.jpg",
+      "collection_id": 6827490676,
+      "duration": 1336,
+      "pub_date": "2026-11-18T00:52:02Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/04-palmer-luckey-leterno-fanciullo/id6827490676?i=1000802595287&uo=4",
+      "language": "it",
+      "itunes_id": 1000802595287,
+      "added_at": "2026-11-18T14:00:42.509827Z"
+    },
     {
       "guid": "0660608e-1378-4134-9c86-b4ff011b0940",
       "title": "Palmer Luckey: “Steve Jobs Ruined Everything with the iPhone”",
