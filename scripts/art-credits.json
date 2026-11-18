@@ -106,5 +106,9 @@
   "jim-keller": {
     "source": "admin_upload",
     "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
+  },
+  "george-hotz": {
+    "source": "admin_upload",
+    "note": "Photo supplied by a Pod God administrator with publication rights confirmed."
   }
 }

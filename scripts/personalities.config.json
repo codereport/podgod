@@ -216,6 +216,16 @@
       "handle_entity_id": "geoffrey-hinton"
     },
     {
+      "id": "george-hotz",
+      "name": "George Hotz",
+      "aliases": [],
+      "title": "Software engineer and hacker",
+      "queries": [
+        "George Hotz"
+      ],
+      "review_pending": true
+    },
+    {
       "id": "grant-fisher",
       "name": "Grant Fisher",
       "aliases": [
