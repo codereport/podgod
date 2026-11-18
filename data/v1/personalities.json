@@ -159,6 +159,16 @@
       "handle_entity_id": "geoffrey-hinton"
     },
     {
+      "id": "george-hotz",
+      "name": "George Hotz",
+      "aliases": [],
+      "title": "Software engineer and hacker",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/george-hotz.png?v=f93a4e6c",
+      "feed_url": "https://podgod.ca/data/v1/personalities/george-hotz.json",
+      "episode_count": 64,
+      "handle_entity_id": null
+    },
+    {
       "id": "grant-fisher",
       "name": "Grant Fisher",
       "aliases": [
