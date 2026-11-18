@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T15:31:17.736Z",
+  "updatedAt": "2026-11-18T15:35:42.854Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -493,6 +493,32 @@
           "pub_date": "2026-08-03T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3a/44/5d/3a445d89-5273-9c11-7a81-17df0b8a5145/mza_8345768886873157223.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "julia-louis-dreyfus",
+      "name": "Julia Louis Dreyfus",
+      "title": "Award winning comedic actress",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/julia-louis-dreyfus.png?v=358daccf",
+      "episodes": [
+        {
+          "title": "You Need to Fight for Friendship with Julia Louis Dreyfus",
+          "podcast_title": "IMO with Michelle Obama and Craig Robinson",
+          "episode_url": "",
+          "audio_url": "https://mgln.ai/e/p371092/pscrb.fm/rss/p/clrtpod.com/m/arttrk.com/p/NTLY3/rss.art19.com/episodes/0987bdac-4a7d-44fb-a9e2-5bcf8222e66f.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+          "pub_date": "2025-07-09T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://content.production.cdn.art19.com/images/ae/b7/ee/00/aeb7ee00-3633-4871-a1ab-63814d9dbbc2/6974bbb1d592955edc05fcae62635a65ace00078688b652237a2eaa24615e584391e238a45c92b6433a358a6c4fb826a7b4e006dad49b84b7a4dad41d2258649.jpeg"
+        },
+        {
+          "title": "A Double Dip: The Whole Hog with Julia Louis-Dreyfus",
+          "podcast_title": "The Deep Dive with Jessica St. Clair and June Diane Raphael",
+          "episode_url": "https://www.earwolf.com/",
+          "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME5194447552.mp3?updated=1776799831",
+          "pub_date": "2023-06-07T06:05:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/50a6855a-3ab0-11f1-a246-2718e52e0cfd/image/2500423e81801d72f9d9547537690c9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
