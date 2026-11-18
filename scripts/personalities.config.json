@@ -350,6 +350,16 @@
       ]
     },
     {
+      "id": "julia-louis-dreyfus",
+      "name": "Julia Louis Dreyfus",
+      "aliases": [],
+      "title": "Award winning comedic actress",
+      "queries": [
+        "Julia Louis Dreyfus"
+      ],
+      "review_pending": true
+    },
+    {
       "id": "lisa-su",
       "name": "Lisa Su",
       "aliases": [
