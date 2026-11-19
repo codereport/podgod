@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T15:38:23.796Z",
+  "updatedAt": "2026-11-19T14:05:15.746Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -139,6 +139,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "episodes": [
         {
+          "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
+          "podcast_title": "The Royal Society: Questions That Shape Our Future",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
+          "pub_date": "2026-11-18T18:21:10Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
           "podcast_title": "Varun Mayya",
           "episode_url": "",
@@ -146,15 +155,6 @@
           "pub_date": "2026-11-17T23:07:55Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-        },
-        {
-          "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
-          "podcast_title": "The Royal Society: Questions That Shape Our Future",
-          "episode_url": "",
-          "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
-          "pub_date": "2026-11-07T09:26:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
@@ -243,6 +243,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "episodes": [
         {
+          "title": "The “godfather of AI” on the risks that worry him most | Geoffrey Hinton",
+          "podcast_title": "TED Talks Daily",
+          "episode_url": "http://go.ted.com/GeoffreyHinton",
+          "audio_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3",
+          "pub_date": "2026-11-18T21:46:01Z",
+          "language": "en",
+          "podcast_artwork_url": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png"
+        },
+        {
           "title": "Can We Govern AI? with Godfather of AI Geoffrey Hinton",
           "podcast_title": "Smart Girl Dumb Questions",
           "episode_url": "https://podcasts.apple.com/us/podcast/can-we-govern-ai-with-godfather-of-ai-geoffrey-hinton/id1784967461?i=1000793416075&uo=4",
@@ -250,15 +259,6 @@
           "pub_date": "2026-10-06T09:15:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/2d/17/f32d178d-3f28-bef4-a27f-ceeb04f8a30b/mza_840827627287835599.jpeg/600x600bb.jpg"
-        },
-        {
-          "title": "AI Pioneer Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried",
-          "podcast_title": "Big Technology Podcast",
-          "episode_url": "",
-          "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP2236404252.mp3",
-          "pub_date": "2026-06-03T19:37:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/600x600bb.jpg"
         }
       ]
     },
@@ -581,6 +581,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "episodes": [
         {
+          "title": "The Builders:  Palmer Luckey",
+          "podcast_title": "TechStuff",
+          "episode_url": "https://podcasts.apple.com/us/podcast/the-builders-palmer-luckey/id282795787?i=1000802886596&uo=4",
+          "audio_url": "https://prefix.up.audio/s/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/0660608e-1378-4134-9c86-b4ff011b0940/audio.mp3?utm_source=Podcast&in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07",
+          "pub_date": "2026-11-19T08:05:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b0/c3/f5b0c38e-77dd-af43-9592-92cad79d83c8/mza_1313272657195752278.jpg/600x600bb.jpg"
+        },
+        {
           "title": "Palmer Luckey: “Steve Jobs Ruined Everything with the iPhone”",
           "podcast_title": "The Builders",
           "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-steve-jobs-ruined-everything-with-the-iphone/id6820674378?i=1000802426961&uo=4",
@@ -588,15 +597,6 @@
           "pub_date": "2026-11-17T08:01:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "BONUS: Anduril Founder Palmer Luckey Talks Partnership With Qualcomm",
-          "podcast_title": "Bloomberg Tech",
-          "episode_url": "https://podcasts.apple.com/us/podcast/bonus-anduril-founder-palmer-luckey-talks-partnership/id1611767434?i=1000798530870&uo=4",
-          "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/bf75c349-f958-43dc-8342-b4f0016c5438/audio.mp3?utm_source=Podcast&in_playlist=9caafc41-289c-4115-995d-ae7c0030ab75",
-          "pub_date": "2026-10-28T13:32:01Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/9c/9f/f59c9f1f-cbc8-0e46-629d-2df7e6a18274/mza_3594252261487211794.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -659,20 +659,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
+          "title": "Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/15a3907e-1113-4ce8-a517-08a52addc33d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=15a3907e-1113-4ce8-a517-08a52addc33d&feed=Fa0PP4fl",
+          "pub_date": "2026-11-19T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
           "title": "#207 - Nathan Lund and Sam Tallent",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/3f10a227-7445-47fb-971c-92d74dd75554/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=3f10a227-7445-47fb-971c-92d74dd75554&feed=Fa0PP4fl",
           "pub_date": "2026-11-16T11:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Bonus #206 - Max Wittert [PATREON PREVIEW]",
-          "podcast_title": "Stavvy's World",
-          "episode_url": "https://siriusxm.com",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/47b98b74-cbc5-422c-a29a-922fa27752e9/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=47b98b74-cbc5-422c-a29a-922fa27752e9&feed=Fa0PP4fl",
-          "pub_date": "2026-11-12T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
         }
