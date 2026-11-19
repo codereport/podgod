@@ -4,8 +4,24 @@
   "name": "Geoffrey Hinton",
   "title": "Godfather of AI",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "episodes": [
+    {
+      "guid": "6afc7f5d22c8b5ded545df81",
+      "title": "The “godfather of AI” on the risks that worry him most | Geoffrey Hinton",
+      "podcast_title": "TED Talks Daily",
+      "description": "Geoffrey Hinton helped create the neural networks behind today’s AI, won a Nobel Prize for it — and has spent the years since warning about where it’s headed. In conversation with journalist Nicholas Thompson, Hinton shares the AI risks he’s worried about, sketches out a best-case future for the technology and explores whether or not chatbots have subjective experience. Plus: hear his thoughts on the one rule we must give superintelligent AI.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+      "feed_url": "https://feeds.feedburner.com/TEDTalks_video",
+      "audio_url": "https://sphinx.acast.com/p/open/s/67587e77c705e441797aff96/e/6afc7f5d22c8b5ded545df81/media.mp3",
+      "artwork_url": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
+      "podcast_artwork_url": "https://assets.pippa.io/shows/67587e77c705e441797aff96/show-cover.png",
+      "duration": 1759,
+      "pub_date": "2026-11-18T21:46:01Z",
+      "episode_url": "http://go.ted.com/GeoffreyHinton",
+      "language": "en",
+      "podcastindex_id": 63420253706,
+      "added_at": "2026-11-19T14:00:44.023176Z"
+    },
     {
       "guid": "03b06b8e-a4a6-11f1-8eb6-435fc18ed9d9",
       "title": "Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT,  Geoffrey Hinton",
