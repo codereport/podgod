@@ -4,8 +4,24 @@
   "name": "Ezra Klein",
   "title": "Journalist and podcast host",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "episodes": [
+    {
+      "guid": "8430159e-a1b4-4984-a0a6-00fdc24e3a7b",
+      "title": "The Democrats’ Plan for Investigating Trump",
+      "podcast_title": "The Ezra Klein Show",
+      "description": "<p>As the incoming chairman of the Oversight Committee, Representative Robert Garcia will be leading the investigations into the Trump administration’s alleged corruption.</p><p>One challenge Democrats like Garcia will face is that there simply is so much to investigate: shady crypto schemes, ballroom donations, lucrative business deals associated with Trump family members, whatever’s been happening in Venezuela. Where do you begin? And how do you deal with an administration you know is going to fight you at every turn?</p><p>So I wanted to have Garcia on the show to talk about what — and who — he wants his committee to investigate, and how these investigations fit into the Democrats’ broader strategy as they take back control of Congress.</p><p>Mentioned:</p><p><a href=\"https://oversightdemocrats.house.gov/imo/media/doc/2026-05-08garciatododigretrumpfamilycontracts.pdf\" rel=\"noopener noreferrer\"><u>Rep. Garcia’s letter</u></a></p><p><a href=\"https://assets1.cbsnewsstatic.com/hub/cms/prod_cms_alt/file/2026/11/11/6464b90e-a9e6-401f-ae03-a8216e411085/garcia_letter_signed_11.10.2026.pdf\" rel=\"noopener noreferrer\"><u>Will Scharf’s letter</u></a></p><p>Book Recommendations:</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/86058/the-death-and-life-of-great-american-cities-by-jane-jacobs/\" rel=\"noopener noreferrer\"><u>The Death and Life of Great American Cities</u></a>” by Jane Jacobs</p><p>“<a href=\"https://www.penguinrandomhouse.com/books/719661/the-sirens-call-by-chris-hayes/\" rel=\"noopener noreferrer\"><u>The Sirens' Call</u></a>” by Chris Hayes</p><p>“<a href=\"https://www.dc.com/graphic-novels/y-the-last-man-2002/y-the-last-man-omnibus\" rel=\"noopener noreferrer\"><u>Y: The Last Man</u></a>” by Brian K. Vaughan</p><p>Thoughts? Guest suggestions? Email us at <a href=\"mailto:ezrakleinshow@nytimes.com\" rel=\"noopener noreferrer\"><u>ezrakleinshow@nytimes.com</u></a>.</p><p>You can find a transcript and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all of our guests are listed at <a href=\"https://www.nytimes.com/article/ezra-klein-show-book-recs.html\" rel=\"noopener noreferrer\">https://www.nytimes.com/article/ezra-klein-show-book-recs.html</a>&nbsp;</p><p>This episode of “The Ezra Klein Show” was produced by Jack McCordick. Fact-checking by Michelle Harris with Julie Beer and Mary Marge Locker. Our senior engineer is Jeff Geld, with additional mixing by Aman Sahota and Gautam Srikishan. Our recording engineer is Aman Sahota. Cinematography by Marina King. Video editing by Dani Dillon, Steph Khoury, Julian Hackney and Kristen Williamson. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Kristin Lin, Emma Kehlbeck and Jan Kobal. Original music by Pat McCusker and Dan Powell. Audience strategy by Shannon Busta. The director of New York Times Opinion Shows is Annie-Rose Strasser.</p>\n<p><p>Subscribe today at <a href=\"http://nytimes.com/podcasts\">nytimes.com/podcasts</a> or on Apple Podcasts, Spotify and Amazon Music. You can also subscribe via your favorite podcast app here <a href=\"https://www.nytimes.com/activate-access/audio?source=podcatcher\">https://www.nytimes.com/activate-access/audio?source=podcatcher</a>. For more podcasts and narrated articles, download The New York Times app at nytimes.com/app.</p></p><br/> <p>Hosted by Simplecast, an AdsWizz company. See <a href=\"https://pcm.adswizz.com\">pcm.adswizz.com</a> for information about our collection and use of personal data for advertising.</p>",
+      "feed_url": "https://feeds.simplecast.com/82FI35Px",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/556bc9c6-8fc0-4eb1-9861-0ed5ae969c64/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=556bc9c6-8fc0-4eb1-9861-0ed5ae969c64&feed=82FI35Px",
+      "artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
+      "duration": 3279,
+      "pub_date": "2026-11-20T10:00:00Z",
+      "episode_url": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-1371595",
+      "added_at": "2026-11-20T14:00:49.429886Z"
+    },
     {
       "guid": "96f98f9a-7e35-4fa9-8d7e-24e233b52d87",
       "title": "The Winning Democrat Who Wants to Break Up Political Parties",
@@ -1597,23 +1613,6 @@
       "episode_url": "https://www.nytimes.com/2026/01/02/opinion/ezra-klein-podcast-stephen-batchelor.html",
       "language": "en",
       "hosted_podcast_id": "podcastindex-1371595",
-      "added_at": "2026-08-18T23:11:09.024216Z"
-    },
-    {
-      "guid": "df9e8dae-617a-11ef-996b-3fc64a69e179",
-      "title": "Ezra Klein: The Year in Politics, Part II",
-      "podcast_title": "Impolitic with John Heilemann",
-      "description": "John welcomes New York Times columnist and podcasting dynamo Ezra Klein back to the show for the second installment of a two-part, year-end review of the national political scene in 2025\n\n\n\nSee all the ways bp is investing in America at ⁠⁠⁠⁠⁠⁠⁠⁠bp.com/InvestingInAmerica⁠⁠⁠⁠⁠⁠⁠\n\n.",
-      "feed_url": "https://rss.amperwave.net/v2/feed/audacynetwork/hell-high-water",
-      "audio_url": "https://tracking.swap.fm/track/v9Uiw3bGr54f6BVZKSyc/pscrb.fm/rss/p/serve.castfire.com/audio/8282645/8282645_2026-04-18-055345.192.mp3?rssID=6020",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/0c/97/390c97a8-48d2-b9f8-ee6b-a946f6919fe3/mza_18024640121083529645.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/0c/97/390c97a8-48d2-b9f8-ee6b-a946f6919fe3/mza_18024640121083529645.jpg/600x600bb.jpg",
-      "collection_id": 1529346075,
-      "duration": 5421,
-      "pub_date": "2025-12-29T08:00:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/ezra-klein-the-year-in-politics-part-ii/id1529346075?i=1000743028022&uo=4",
-      "language": "en",
-      "itunes_id": 1000743028022,
       "added_at": "2026-08-18T23:11:09.024216Z"
     }
   ],

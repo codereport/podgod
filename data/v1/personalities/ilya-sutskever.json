@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "episodes": [
+    {
+      "guid": "89b9971a-a95f-11f1-bcd0-bf242f31bc66",
+      "title": "BREAKING: OpenAI Reveals the TRUTH About Elon Musk's Lawsuit | Sam Altman, Ilya Sutskever and more.",
+      "podcast_title": "Wes Roth",
+      "description": "Learn AI With Me:https://www.skool.com/natural20/aboutJoin my community and classroom to learn AI and get ready for the new world.#openai #ai #llm LINKS:https://openai.com/blog/openai-elon-muskhttp://slatestarcodex.com/2015/12/17/should-ai-be-open/BUSINESS, MEDIA & SPONSORSHIPS:Wes Roth Business @ Gmail . comwesrothbusiness@gmail.com\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN3679320722.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/b3/26/dcb326bd-a7e4-e781-0052-14b5b02107d4/mza_14585283376893206590.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
+      "collection_id": 6806726491,
+      "duration": 1666,
+      "pub_date": "2026-11-20T00:30:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/breaking-openai-reveals-the-truth-about-elon-musks/id6806726491?i=1000800837683&uo=4",
+      "language": "en",
+      "itunes_id": 1000800837683,
+      "added_at": "2026-11-17T14:00:42.293066Z"
+    },
     {
       "guid": "4dbe414c-a451-11f1-a3f1-1f4b9ed931c5",
       "title": "'Pause Giant AI Experiments' - Letter Breakdown w/ Research Papers, Altman, Sutskever and more",
@@ -21,23 +38,6 @@
       "language": "en",
       "podcastindex_id": 63303814917,
       "added_at": "2026-10-03T17:42:03.062125Z"
-    },
-    {
-      "guid": "89b9971a-a95f-11f1-bcd0-bf242f31bc66",
-      "title": "BREAKING: OpenAI Reveals the TRUTH About Elon Musk's Lawsuit | Sam Altman, Ilya Sutskever and more.",
-      "podcast_title": "Wes Roth",
-      "description": "Learn AI With Me:https://www.skool.com/natural20/aboutJoin my community and classroom to learn AI and get ready for the new world.#openai #ai #llm LINKS:https://openai.com/blog/openai-elon-muskhttp://slatestarcodex.com/2015/12/17/should-ai-be-open/BUSINESS, MEDIA & SPONSORSHIPS:Wes Roth Business @ Gmail . comwesrothbusiness@gmail.com\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/wes-roth",
-      "audio_url": "https://traffic.megaphone.fm/PODAGEN3679320722.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/b3/26/dcb326bd-a7e4-e781-0052-14b5b02107d4/mza_14585283376893206590.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
-      "collection_id": 6806726491,
-      "duration": 1666,
-      "pub_date": "2026-11-19T00:30:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/breaking-openai-reveals-the-truth-about-elon-musks/id6806726491?i=1000800837683&uo=4",
-      "language": "en",
-      "itunes_id": 1000800837683,
-      "added_at": "2026-11-17T14:00:42.293066Z"
     },
     {
       "guid": "26e550ea-bccc-11f1-8443-2335778e2f1b",
