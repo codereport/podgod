@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T14:05:15.746Z",
+  "updatedAt": "2026-11-20T14:06:16.841Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -139,6 +139,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "episodes": [
         {
+          "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
+          "podcast_title": "Varun Mayya",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
+          "pub_date": "2026-11-20T03:03:16Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
           "podcast_title": "The Royal Society: Questions That Shape Our Future",
           "episode_url": "",
@@ -146,15 +155,6 @@
           "pub_date": "2026-11-18T18:21:10Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-        },
-        {
-          "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
-          "podcast_title": "Varun Mayya",
-          "episode_url": "",
-          "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
-          "pub_date": "2026-11-17T23:07:55Z",
-          "language": "en",
-          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
@@ -191,20 +191,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/ezra-klein.png?v=806f5e30",
       "episodes": [
         {
+          "title": "The Democrats’ Plan for Investigating Trump",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/556bc9c6-8fc0-4eb1-9861-0ed5ae969c64/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=556bc9c6-8fc0-4eb1-9861-0ed5ae969c64&feed=82FI35Px",
+          "pub_date": "2026-11-20T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+        },
+        {
           "title": "The Winning Democrat Who Wants to Break Up Political Parties",
           "podcast_title": "The Ezra Klein Show",
           "episode_url": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/ed5c691c-6843-47fc-a41e-932593163be6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=ed5c691c-6843-47fc-a41e-932593163be6&feed=82FI35Px",
           "pub_date": "2026-11-17T10:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-        },
-        {
-          "title": "Hasan Piker Has Joined the Party",
-          "podcast_title": "The Ezra Klein Show",
-          "episode_url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=82FI35Px",
-          "pub_date": "2026-11-13T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
         }
