@@ -4,8 +4,25 @@
   "name": "David Heinemeier Hansson",
   "title": "Software developer and entrepreneur",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "episodes": [
+    {
+      "guid": "030986db-8ba8-41c9-9fae-b42a34c5dc25",
+      "title": "Why the Agent Era Needs a New Operating System | DHH",
+      "podcast_title": "The a16z Show",
+      "description": "David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: the chance to build a new operating system people actually want to use.\nDHH joins a16z General Partners Martin Casado and Anish Acharya to explain why he’s building Omarchy, an agent-first Linux distribution designed around a computer that users can modify simply by asking. They discuss why the command lines, config files, and detailed error messages that once made Linux intimidating now make it unusually well suited to agents, and why DHH believes software development has become cheap enough to challenge decades-old platform lock-in.\nBut if code is becoming abundant, what still matters? DHH argues that taste, craft, and the willingness to obsess over the final 2% become more important, not less. The conversation moves from tiny teams wielding the productive capacity of thousands of people to open models, competition at the frontier, and the return of hacker, demo, and pseudonymous internet culture.\nResources:\nFollow David Heinemeier Hansson on X: @dhh\nDavid Heinemeier Hansson: dhh.dk\nOmarchy: omarchy.org\n37signals: 37signals.com\nFollow Martin Casado on X: @martin_casado\nFollow Anish Acharya on X: @illscience\n\nStay Updated:\nFind a16z on YouTube: YouTube\nFind a16z on X\nFind a16z on LinkedIn\nListen to the a16z Show on Spotify\nListen to the a16z Show on Apple Podcasts\nFollow our host: https://twitter.com/eriktorenberg\n \nPlease note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. a16z and its affiliates may maintain investments in the companies discussed. For more details please see a16z.com/disclosures.\n\n\n Hosted by Simplecast, an AdsWizz company. See pcm.adswizz.com for information about our collection and use of personal data for advertising.",
+      "feed_url": "https://feeds.simplecast.com/JGE3yC0V",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg",
+      "collection_id": 842818711,
+      "duration": 3205,
+      "pub_date": "2026-11-20T15:48:13Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/why-the-agent-era-needs-a-new-operating-system-dhh/id842818711?i=1000803152201&uo=4",
+      "language": "en",
+      "itunes_id": 1000803152201,
+      "added_at": "2026-11-21T14:00:39.688218Z"
+    },
     {
       "guid": "https://api.spreaker.com/episode/75900695",
       "title": "Za dużo AI-owego LSD? - DHH, Decision API i inne linki",

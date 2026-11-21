@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "episodes": [
+    {
+      "guid": "c37673d9-5970-4516-ac16-b508006a128e",
+      "title": "After The Builders: On Palmer Luckey and Alex Karp",
+      "podcast_title": "TechStuff",
+      "description": "Episodes six and seven of The Builders with Walter Isaacson explore the world of defense technology through interviews with Palmer Luckey, founder of Oculus and Anduril, and Alex Karp, CEO of Palantir.\n Joining Kaleidoscope co-founder Oz Woloshyn to contextualize these interviews are three journalists and authors who have spent countless hours trying to understand what drives these two men.\n Blake J. Harris is a correspondent-at-large for Colossus and the author of the book The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality. Michael Steinberger is a contributing writer to The New York Times Magazine and the author of The Philosopher in the Valley: Alex Karp, Palantir, and the Rise of the Surveillance State. And David Ignatius is a columnist for The Washington Post, where he covers foreign affairs, the Middle East, and the CIA. \n Listen to hear how these founders defend the political, technological and ethical implications of their controversial products.\nSee omnystudio.com/listener for privacy information.",
+      "feed_url": "https://rss.introcast.io/282795787/www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/659ad4ad-c26b-48a7-bb34-ae2b00350f07/podcast.rss",
+      "audio_url": "https://prefix.up.audio/s/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/mgln.ai/e/p457950/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/c37673d9-5970-4516-ac16-b508006a128e/audio.mp3?utm_source=Podcast&in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b0/c3/f5b0c38e-77dd-af43-9592-92cad79d83c8/mza_1313272657195752278.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b0/c3/f5b0c38e-77dd-af43-9592-92cad79d83c8/mza_1313272657195752278.jpg/600x600bb.jpg",
+      "collection_id": 282795787,
+      "duration": 2606,
+      "pub_date": "2026-11-20T15:11:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/after-the-builders-on-palmer-luckey-and-alex-karp/id282795787?i=1000803150077&uo=4",
+      "language": "en",
+      "itunes_id": 1000803150077,
+      "added_at": "2026-11-21T14:00:39.688218Z"
+    },
     {
       "guid": "5758c2ff-1224-4611-96d5-b505011c2170",
       "title": "The Builders:  Palmer Luckey",
