@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T14:06:16.841Z",
+  "updatedAt": "2026-11-21T14:06:00.136Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -87,6 +87,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "episodes": [
         {
+          "title": "#163 | Courtney Dauwalter | The Power of Belief, Finding Your Limits & More Pain Cave",
+          "podcast_title": "Choose Strong",
+          "episode_url": "https://podcasts.apple.com/us/podcast/163-courtney-dauwalter-the-power-of-belief-finding/id1591743310?i=1000803280963&uo=4",
+          "audio_url": "https://anchor.fm/s/674e5298/podcast/play/129842348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F437269881-44100-2-e0fc361e0a3108.mp3",
+          "pub_date": "2026-11-21T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/41/27/35/412735c8-3358-9165-c4a9-63d303daacca/mza_7002650638943562710.jpg/600x600bb.jpg"
+        },
+        {
           "title": "Courtney Dauwalter: No Coach, No Plan",
           "podcast_title": "Frodeno Going Mental",
           "episode_url": "https://podcasts.apple.com/us/podcast/courtney-dauwalter-no-coach-no-plan/id1866924141?i=1000798099043&uo=4",
@@ -94,15 +103,6 @@
           "pub_date": "2026-10-26T02:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/16/13/2f161345-e45a-4832-44fd-e5c92e835051/mza_11905731200605615931.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Courtney Dauwalter | Hardrock 100 Post-Race Interview 2026",
-          "podcast_title": "The Freetrail Podcast with Dylan Bowman",
-          "episode_url": "https://podcasts.apple.com/us/podcast/courtney-dauwalter-hardrock-100-post-race-interview-2026/id1492327668?i=1000776415598&uo=4",
-          "audio_url": "https://pscrb.fm/rss/p/traffic.libsyn.com/secure/thewellwithdylanbowman/Courtney_Dauwalter__Hardrock_100_Post-Race_Interview_2026.mp3?dest-id=1746794",
-          "pub_date": "2026-07-12T01:11:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/fd/a7/befda794-8757-27b5-a09a-6d320fb0d81d/mza_18263586815604263330.png/600x600bb.jpg"
         }
       ]
     },
@@ -425,6 +425,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "episodes": [
         {
+          "title": "Jensen Huang in 2009: The Charlie Rose Interview Before AI Changed the World",
+          "podcast_title": "A Charlie Rose Global Conversation",
+          "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-in-2009-the-charlie-rose-interview/id1836001770?i=1000803225520&uo=4",
+          "audio_url": "https://anchor.fm/s/108883b4c/podcast/play/129839664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-21%2F437265219-44100-2-82ccffd5f1c3d.mp3",
+          "pub_date": "2026-11-21T01:08:41Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/44/46/384446b1-05c9-36de-b095-8a506ca1bdba/mza_14975421925929301829.jpg/600x600bb.jpg"
+        },
+        {
           "title": "9AM HOUR: AI Trade Pain, Meta and Tesla Slide, Jensen Huang Interview 10/22/26",
           "podcast_title": "Squawk on the Street",
           "episode_url": "https://podcasts.apple.com/us/podcast/9am-hour-ai-trade-pain-meta-and-tesla-slide-jensen/id1475116211?i=1000797630328&uo=4",
@@ -432,15 +441,6 @@
           "pub_date": "2026-10-22T14:45:18Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/a5/f7/52a5f739-0ac1-beac-d3ce-0c54f98d0af7/mza_14484496975303419360.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
-          "podcast_title": "BG2Pod with Brad Gerstner and Bill Gurley",
-          "episode_url": "https://podcasts.apple.com/us/podcast/jensen-huang-does-ai-revenue-justify-capex-27-ai-bottlenecks/id1727278168?i=1000796472885&uo=4",
-          "audio_url": "https://anchor.fm/s/f06c2370/podcast/play/127499364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-15%2F434203331-44100-2-dec3db8a7fb56.mp3",
-          "pub_date": "2026-10-15T10:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource126/v4/4b/ab/e5/4babe58b-7cda-b2b3-40a5-bcac3f262764/33f9cff7-dc0b-4293-a5bf-d8cc62ab8c98.jpg/600x600bb.jpg"
         }
       ]
     },
