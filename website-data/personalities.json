@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T14:06:00.136Z",
+  "updatedAt": "2026-11-22T14:07:36.004Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -559,9 +559,9 @@
           "podcast_title": "Cleo Abram",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/PODAGEN1347107158.mp3",
-          "pub_date": "2026-11-18T03:18:00Z",
+          "pub_date": "2026-11-21T14:48:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/05d4a9be-d3fb-11f1-9bab-57472740544b/image/50c7d45a5d185c410c246ff863f8f008.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+          "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/05d4a9be-d3fb-11f1-9bab-57472740544b/image/50c7d45a5d185c410c246ff863f8f008.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
         {
           "title": "TODAY September 24, 3rd Hour: Mark Zuckerberg on AI | Mind Your Macros | Catching Up With… CC Sabathia",
