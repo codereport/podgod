@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:07:36.004Z",
+  "updatedAt": "2026-11-22T22:42:51.776Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -113,6 +113,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
       "episodes": [
         {
+          "title": "Why the Agent Era Needs a New Operating System | DHH",
+          "podcast_title": "The a16z Show",
+          "episode_url": "https://podcasts.apple.com/us/podcast/why-the-agent-era-needs-a-new-operating-system-dhh/id842818711?i=1000803152201&uo=4",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
+          "pub_date": "2026-11-20T15:48:13Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/04/91/3e049169-5b95-784c-2197-01cfff9f41eb/mza_10026788811025472218.jpg/600x600bb.jpg"
+        },
+        {
           "title": "Tech Genius Reveals Why The AI Revolution is Inevitable | David Heinemeier Hansson",
           "podcast_title": "Decoded Genius",
           "episode_url": "https://podcasts.apple.com/us/podcast/tech-genius-reveals-why-the-ai-revolution-is/id6785087782?i=1000792387787&uo=4",
@@ -120,15 +129,6 @@
           "pub_date": "2026-09-30T13:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b5/67/79b56756-3dbe-e287-50a8-42f72563dc53/mza_15649641932241596923.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Confronting The Creator Of Omarchy | DHH",
-          "podcast_title": "Tech Over Tea",
-          "episode_url": "https://podcasters.spotify.com/pod/show/tech-over-tea/episodes/Confronting-The-Creator-Of-Omarchy--DHH-e3o9qlk",
-          "audio_url": "https://anchor.fm/s/149fd51c/podcast/play/125151348/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-3%2F431114324-44100-2-aac48ccc95ce7.mp3",
-          "pub_date": "2026-09-04T22:05:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/3360191/3360191-1582876308682-774a5e811e2b3.jpg"
         }
       ]
     },
