@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "languages": [
     "da",
     "de",
@@ -85,7 +85,7 @@
       "title": "Software developer and entrepreneur",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/david-heinemeier-hansson.png?v=a580d9fb",
       "feed_url": "https://podgod.ca/data/v1/personalities/david-heinemeier-hansson.json",
-      "episode_count": 33,
+      "episode_count": 35,
       "handle_entity_id": null,
       "nickname": "DHH"
     },
@@ -292,7 +292,7 @@
       "title": "Meta CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
-      "episode_count": 44,
+      "episode_count": 46,
       "handle_entity_id": null
     },
     {
