@@ -4,8 +4,25 @@
   "name": "Palmer Luckey",
   "title": "Founder of Anduril & Oculus",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "episodes": [
+    {
+      "guid": "b4fd2d7c-e44e-11f1-861a-5b048cae50d6",
+      "title": "Palmer Luckey on War 2.0",
+      "podcast_title": "New York Times Events: Conversations Shaping Markets",
+      "description": "Discover the journalism Times subscribers get daily, free for your first month in The New York Times app.Uploaded 19-11-26Download app: https://nytimes.onelink.me/Xpht/a6wzplraMore from The New York Times Video: http://nytimes.com/video--------Guests: Palmer Luckey; founder of Anduril IndustriesInterviewer: Andrew Ross Sorkin, founder and editor at large of DealBookFilmed live in 2026 at The New York Times DealBook Summit",
+      "feed_url": "https://feeds.megaphone.fm/new-york-times-events-conversations-shaping-markets",
+      "audio_url": "https://traffic.megaphone.fm/VG7831578365.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ef/3b/4f/ef3b4f2f-d094-b4fc-4470-3be510c66280/mza_13411234852252014755.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/de/db/57dedbf6-3df7-e618-aed9-b630dc2fe65c/mza_11470894333246340198.jpg/600x600bb.jpg",
+      "collection_id": 6837325032,
+      "duration": 3483,
+      "pub_date": "2026-11-22T22:40:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-war-2-0/id6837325032?i=1000803138852&uo=4",
+      "language": "en",
+      "itunes_id": 1000803138852,
+      "added_at": "2026-11-23T14:00:41.215717Z"
+    },
     {
       "guid": "c37673d9-5970-4516-ac16-b508006a128e",
       "title": "After The Builders: On Palmer Luckey and Alex Karp",
