@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T22:42:51.776Z",
+  "updatedAt": "2026-11-23T02:45:54.986Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -633,20 +633,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/sean-parent.png?v=dbc9fded",
       "episodes": [
         {
+          "title": "Episode 300: Sean Parent \"I&#39;m not writing code anymore.\"",
+          "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
+          "episode_url": null,
+          "audio_url": "https://www.buzzsprout.com/1501960/episodes/19678861-episode-300-sean-parent-i-m-not-writing-code-anymore.mp3",
+          "pub_date": "2026-08-21T12:00:00.000Z",
+          "language": "en",
+          "podcast_artwork_url": "https://storage.buzzsprout.com/69bxa002sazai6fq21aswycjmwvu?.jpg"
+        },
+        {
           "title": "Episode 263: 🇳🇱 The Sean Parent Origin Story",
           "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
           "episode_url": "https://podcasts.apple.com/us/podcast/episode-263-the-sean-parent-origin-story/id1541407369?i=1000739854710&uo=4",
           "audio_url": "https://www.buzzsprout.com/1501960/episodes/18304237-episode-263-the-sean-parent-origin-story.mp3",
           "pub_date": "2025-12-05T13:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Episode 262: 🇳🇱 Chaos with Sean Parent! Bikes, Buses, Waffles & More!",
-          "podcast_title": "ADSP: Algorithms + Data Structures = Programs",
-          "episode_url": "https://podcasts.apple.com/us/podcast/episode-262-chaos-with-sean-parent-bikes-buses-waffles-more/id1541407369?i=1000738790868&uo=4",
-          "audio_url": "https://www.buzzsprout.com/1501960/episodes/18264398-episode-262-chaos-with-sean-parent-bikes-buses-waffles-more.mp3",
-          "pub_date": "2025-11-28T13:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/20/90/ff20903c-a341-8111-6ee9-e75793f10ebe/mza_9720895112286812421.jpg/600x600bb.jpg"
         }
