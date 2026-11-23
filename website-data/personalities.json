@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T03:15:09.372Z",
+  "updatedAt": "2026-11-23T14:05:02.511Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -143,7 +143,7 @@
           "podcast_title": "Varun Mayya",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG5277856527.mp3",
-          "pub_date": "2026-11-20T03:03:16Z",
+          "pub_date": "2026-11-23T02:04:08Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
@@ -152,9 +152,9 @@
           "podcast_title": "The Royal Society: Questions That Shape Our Future",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
-          "pub_date": "2026-11-18T18:21:10Z",
+          "pub_date": "2026-11-22T14:31:34Z",
           "language": "en",
-          "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+          "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
@@ -334,7 +334,7 @@
           "podcast_title": "The Ezra Klein Show",
           "episode_url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=82FI35Px",
-          "pub_date": "2026-11-13T10:00:00.000Z",
+          "pub_date": "2026-11-13T10:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
         }
@@ -477,6 +477,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/josh-kerr.png?v=ec4a2138",
       "episodes": [
         {
+          "title": "Josh Kerr On The Mindset & Training Behind Breaking The Mile World Record",
+          "podcast_title": "The Rich Roll Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/josh-kerr-on-the-mindset-training-behind-breaking/id582272991?i=1000803564447&uo=4",
+          "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1112/traffic.megaphone.fm/VAOGC9808577042.mp3",
+          "pub_date": "2026-11-23T10:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/79/73/247973ca-0868-9852-e66b-61e28e0ee71a/mza_7587627905992125546.jpeg/600x600bb.jpg"
+        },
+        {
           "title": "Running a Mile with World Record holder Josh Kerr",
           "podcast_title": "Paula's Run Club",
           "episode_url": "https://podcasts.apple.com/us/podcast/running-a-mile-with-world-record-holder-josh-kerr/id1786774007?i=1000781330504&uo=4",
@@ -484,15 +493,6 @@
           "pub_date": "2026-08-10T02:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/ef/c5/8cefc545-8127-c57f-1eba-e91f0d60ab07/mza_2366220677727622774.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "E471| Josh Kerr (Re-Release)",
-          "podcast_title": "The Drop",
-          "episode_url": "https://podcasts.apple.com/us/podcast/e471-josh-kerr-re-release/id1530996749?i=1000779668524&uo=4",
-          "audio_url": "https://anchor.fm/s/347e3928/podcast/play/123484631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-29%2F428838401-44100-2-b3a186d875b49.mp3",
-          "pub_date": "2026-08-03T10:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3a/44/5d/3a445d89-5273-9c11-7a81-17df0b8a5145/mza_8345768886873157223.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -581,6 +581,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "episodes": [
         {
+          "title": "Palmer Luckey on War 2.0",
+          "podcast_title": "New York Times Events: Conversations Shaping Markets",
+          "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-war-2-0/id6837325032?i=1000803138852&uo=4",
+          "audio_url": "https://traffic.megaphone.fm/VG7831578365.mp3",
+          "pub_date": "2026-11-22T22:40:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/de/db/57dedbf6-3df7-e618-aed9-b630dc2fe65c/mza_11470894333246340198.jpg/600x600bb.jpg"
+        },
+        {
           "title": "The Builders:  Palmer Luckey",
           "podcast_title": "TechStuff",
           "episode_url": "https://podcasts.apple.com/us/podcast/the-builders-palmer-luckey/id282795787?i=1000802886596&uo=4",
@@ -588,15 +597,6 @@
           "pub_date": "2026-11-19T08:05:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/b0/c3/f5b0c38e-77dd-af43-9592-92cad79d83c8/mza_1313272657195752278.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Palmer Luckey: “Steve Jobs Ruined Everything with the iPhone”",
-          "podcast_title": "The Builders",
-          "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-steve-jobs-ruined-everything-with-the-iphone/id6820674378?i=1000802426961&uo=4",
-          "audio_url": "https://tracking.swap.fm/track/DfXIxNL4FlhsFXtrke08/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8adeeef5-b6c0-4cfa-b6cc-b4c0011490b1/0660608e-1378-4134-9c86-b4ff011b0940/audio.mp3?utm_source=Podcast&in_playlist=51d9281c-e886-4139-b940-b4c0011494bc",
-          "pub_date": "2026-11-17T08:01:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -685,20 +685,20 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
       "episodes": [
         {
+          "title": "#208 - Carl Tart and Mandal",
+          "podcast_title": "Stavvy's World",
+          "episode_url": "https://siriusxm.com",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/40de7631-83e4-408a-bf6e-7ab4b5196c79/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=40de7631-83e4-408a-bf6e-7ab4b5196c79&feed=Fa0PP4fl",
+          "pub_date": "2026-11-23T11:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
+        },
+        {
           "title": "Bonus #207 - Django Gold and JP McDade [PATREON PREVIEW]",
           "podcast_title": "Stavvy's World",
           "episode_url": "https://siriusxm.com",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/15a3907e-1113-4ce8-a517-08a52addc33d/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=15a3907e-1113-4ce8-a517-08a52addc33d&feed=Fa0PP4fl",
           "pub_date": "2026-11-19T11:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
-        },
-        {
-          "title": "#207 - Nathan Lund and Sam Tallent",
-          "podcast_title": "Stavvy's World",
-          "episode_url": "https://siriusxm.com",
-          "audio_url": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/277e9722-3dd2-44dc-b189-37dfd9736e71/episodes/3f10a227-7445-47fb-971c-92d74dd75554/audio/128/default.mp3?aid=rss_feed&awCollectionId=277e9722-3dd2-44dc-b189-37dfd9736e71&awEpisodeId=3f10a227-7445-47fb-971c-92d74dd75554&feed=Fa0PP4fl",
-          "pub_date": "2026-11-16T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://image.simplecastcdn.com/images/4c14138e-3e80-4101-a475-f4f13d910023/b9f921c4-057f-41fc-98cb-638e760ad6cf/3000x3000/sxm-cover-stavvys-world-3000x3000-final.jpg?aid=rss_feed"
         }
