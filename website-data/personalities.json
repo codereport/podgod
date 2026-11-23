@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:58:50.799Z",
+  "updatedAt": "2026-11-23T03:15:09.372Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -330,13 +330,13 @@
           "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
         {
-          "title": "What Next - Hasan Piker and Adam Mockler Are Ready for Something New",
-          "podcast_title": "Slate News",
-          "episode_url": "https://podcasts.apple.com/us/podcast/what-next-hasan-piker-and-adam-mockler-are-ready-for/id1093260018?i=1000793392896&uo=4",
-          "audio_url": "https://sphinx.acast.com/p/open/s/6961268923ce58f14615840d/a/slatenews-podcasts/e/6ac40daa22e4cb85bd58029a/media.mp3",
-          "pub_date": "2026-10-06T07:00:00Z",
+          "title": "Hasan Piker Has Joined the Party",
+          "podcast_title": "The Ezra Klein Show",
+          "episode_url": "https://www.nytimes.com/2026/11/13/opinion/ezra-klein-podcast-hasan-piker.html",
+          "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/063cfbaa-9228-4fb5-a876-6dac25e308bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=063cfbaa-9228-4fb5-a876-6dac25e308bc&feed=82FI35Px",
+          "pub_date": "2026-11-13T10:00:00.000Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/b3/7c/f1b37c94-52b6-ad89-46b1-2c1dbb4b8b67/mza_1494488240045395607.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
         }
       ]
     },
