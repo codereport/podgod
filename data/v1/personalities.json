@@ -310,6 +310,16 @@
       "handle_entity_id": null
     },
     {
+      "id": "pete-holmes",
+      "name": "Pete Holmes",
+      "aliases": [],
+      "title": "Comedian and podcast host",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/pete-holmes.png?v=c467e8a6",
+      "feed_url": "https://podgod.ca/data/v1/personalities/pete-holmes.json",
+      "episode_count": 16,
+      "handle_entity_id": null
+    },
+    {
       "id": "peter-steinberger",
       "name": "Peter Steinberger",
       "aliases": [
