@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:56:41.116Z",
+  "updatedAt": "2026-11-23T02:58:50.799Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -597,6 +597,32 @@
           "pub_date": "2026-11-17T08:01:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1a/2e/de/1a2ede66-1775-0875-c938-7f77c0e2ea85/mza_10281795707287482764.jpg/600x600bb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pete-holmes",
+      "name": "Pete Holmes",
+      "title": "Comedian and podcast host",
+      "artwork_url": "https://podgod.ca/data/v1/personalities/art/pete-holmes.png?v=c467e8a6",
+      "episodes": [
+        {
+          "title": "Pete Holmes on God, Truth, and Finding Humor in the Big Questions",
+          "podcast_title": "The Lisa Show",
+          "episode_url": "https://podcasts.apple.com/us/podcast/pete-holmes-on-god-truth-and-finding-humor-in-the/id1436541189?i=1000796078488&uo=4",
+          "audio_url": "https://media.byub.org/bd8db2e3-58b1-5831-8d69-0e73a333ba8b/5360139.mp3?fromPodcast=true&contentId=423a58e0-e969-476d-81ea-a22042b82b3a",
+          "pub_date": "2026-10-13T06:00:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1d/b1/27/1db12720-a279-516d-cf51-afaf6003781a/mza_7449866227835093187.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Two Whats?! And A Wow! People Who Wow Edition – Pete Holmes – Guess the True Facts about this Comedian, Actor, Podcaster, and Author!",
+          "podcast_title": "Wow in the World",
+          "episode_url": "https://podcasts.apple.com/us/podcast/two-whats-and-a-wow-people-who-wow-edition-pete/id1233834541?i=1000791582025&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/rss.art19.com/episodes/718c3709-e2f3-4480-bb8f-5fa6357158a2.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "pub_date": "2026-09-25T07:01:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4c/b0/4a/4cb04a06-4e0a-d534-2a28-3f2fb37fa14e/mza_14610475686329584932.jpeg/600x600bb.jpg"
         }
       ]
     },
