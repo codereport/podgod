@@ -402,6 +402,20 @@
       "wikimedia": "Palmer Luckey"
     },
     {
+      "id": "pete-holmes",
+      "name": "Pete Holmes",
+      "aliases": [],
+      "title": "Comedian and podcast host",
+      "queries": [
+        "Pete Holmes"
+      ],
+      "review_pending": true,
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "comedian"
+      ]
+    },
+    {
       "id": "peter-steinberger",
       "name": "Peter Steinberger",
       "aliases": [
