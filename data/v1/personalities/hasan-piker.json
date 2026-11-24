@@ -4,8 +4,24 @@
   "name": "Hasan Piker",
   "title": "Political commentator and streamer",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/hasan-piker.png?v=b42e8894",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "episodes": [
+    {
+      "guid": "47e0f2d2-e75f-11f1-b524-e391b95ab9d7",
+      "title": "The Return of Gianmarco Soresi | Fear&",
+      "podcast_title": "Fear&",
+      "description": "COMEDY IS ALIVE AND WELL, even if Mr Soresi tried to jinx us...\n\nReady to be seen? Check that appointment off your to-do list with Zocdoc ✅:  https://zocdoc.com/fear  #sponsored\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/QCD3550222091",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2006377602.mp3",
+      "artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/30ed2f4e-54dd-11ef-ba13-9fdd3ef43b1c/image/58ee851ae035103237cd3bb54b2e9464.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 4023,
+      "pub_date": "2026-11-23T16:54:00Z",
+      "episode_url": null,
+      "language": "en",
+      "hosted_podcast_id": "podcastindex-5601816",
+      "added_at": "2026-11-24T14:01:06.279121Z"
+    },
     {
       "guid": "3f8fec4c-e4ed-11f1-8f10-13e58733d489",
       "title": "It is actually the end of Hasan Piker..",
@@ -1673,23 +1689,6 @@
       "episode_url": "https://podcasts.apple.com/us/podcast/democrats-war-against-hasan-piker-deprogram-with-ted/id1825379504?i=1000783888431&uo=4",
       "language": "en",
       "itunes_id": 1000783888431,
-      "added_at": "2026-08-18T17:55:30.045802Z"
-    },
-    {
-      "guid": "15c4e8ce-7eca-11f1-8f31-bb920b977485",
-      "title": "Hasan Piker’s challenge to the center",
-      "podcast_title": "Today, Explained",
-      "description": "Democrats have been duking it out all summer. He’s at the center of it all.\n\nThis show was edited by Kasia Broussalian, fact checked by Esther Gim, mixed by Shannon Mahoney, video edited by Christopher Snyder, and hosted by Astead Herndon.\n\nHasan Piker at the Vancouver Convention Centre in Vancouver, Canada in 2026. Photo By Florencia Tan Jun/Web Summit via Sportsfile via Getty Images.\n\nYou can also watch this episode on youtube.com/vox. Listen to Today, Explained ad-free by becoming a Vox Member: vox.com/members. New Vox members get $20 off their membership right now. \n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/VMP5705694065",
-      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9288263411.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/35/0f/37350f3c-8ba6-2a4b-9516-46f068608dd3/mza_15361059034890983170.jpeg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/bc/e4/57bce477-b6e7-ba7d-5bca-6289f3f32e26/mza_17986217629149107841.jpeg/600x600bb.jpg",
-      "collection_id": 1346207297,
-      "duration": 2162,
-      "pub_date": "2026-08-15T12:00:00Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/hasan-pikers-challenge-to-the-center/id1346207297?i=1000783487648&uo=4",
-      "language": "en",
-      "itunes_id": 1000783487648,
       "added_at": "2026-08-18T17:55:30.045802Z"
     }
   ],

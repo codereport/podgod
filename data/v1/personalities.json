@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "languages": [
     "da",
     "de",
@@ -155,7 +155,7 @@
       "title": "Godfather of AI",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/geoffrey-hinton.png?v=3e7357f6",
       "feed_url": "https://podgod.ca/data/v1/personalities/geoffrey-hinton.json",
-      "episode_count": 46,
+      "episode_count": 47,
       "handle_entity_id": "geoffrey-hinton"
     },
     {
@@ -282,7 +282,7 @@
       "title": "AMD CEO",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
       "feed_url": "https://podgod.ca/data/v1/personalities/lisa-su.json",
-      "episode_count": 27,
+      "episode_count": 28,
       "handle_entity_id": null
     },
     {
@@ -306,7 +306,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 61,
+      "episode_count": 63,
       "handle_entity_id": null
     },
     {

@@ -4,8 +4,25 @@
   "name": "Lisa Su",
   "title": "AMD CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/lisa-su.png?v=3316f798",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "episodes": [
+    {
+      "guid": "9134c4c7-6b8d-4992-af37-0b414988849f",
+      "title": "Huang Le Case Reaches Lisa Su; AMD–Nvidia “Smuggling Link”? Trump-Xi Chip Talks",
+      "podcast_title": "China Insights",
+      "description": "Could the Huang Le case involve AMD CEO Lisa Su? Is there a connection behind the alleged “smuggling route” involving AMD and Nvidia? This episode looks at those questions, the Trump-Xi chip talks described in the source video, Scott Bessent’s change in stance, and what the shifting chip dispute could mean for Jensen Huang.#LisaSu #AMD #Nvidia #ScottBessent #JensenHuang #ChipWar",
+      "feed_url": "https://anchor.fm/s/1125cd2f4/podcast/rss",
+      "audio_url": "https://anchor.fm/s/1125cd2f4/podcast/play/129997558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F437480398-44100-2-77dc84561eef4.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/e0/8d/75e08da7-4516-1daa-9a5d-9a157e93a39c/mza_242686529585759572.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/75/e0/8d/75e08da7-4516-1daa-9a5d-9a157e93a39c/mza_242686529585759572.jpg/600x600bb.jpg",
+      "collection_id": 1896475120,
+      "duration": 1647,
+      "pub_date": "2026-11-24T04:43:27Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/huang-le-case-reaches-lisa-su-amd-nvidia-smuggling/id1896475120?i=1000803718405&uo=4",
+      "language": "en",
+      "itunes_id": 1000803718405,
+      "added_at": "2026-11-24T14:01:06.279121Z"
+    },
     {
       "guid": "c8a7937a-1a12-4bb6-aba4-e6a1163eccb7",
       "title": "Lisa Su should lead a merged NVIDIA and AMD",
