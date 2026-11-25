@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T18:40:09.714Z",
+  "updatedAt": "2026-11-25T14:06:26.342Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -139,6 +139,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
       "episodes": [
         {
+          "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
+          "podcast_title": "The Royal Society: Questions That Shape Our Future",
+          "episode_url": "",
+          "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
+          "pub_date": "2026-11-24T16:38:24Z",
+          "language": "en",
+          "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+        },
+        {
           "title": "Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming and More",
           "podcast_title": "Varun Mayya",
           "episode_url": "",
@@ -146,15 +155,6 @@
           "pub_date": "2026-11-23T02:04:08Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/4c49a708-b6f7-11f1-ac36-7fc143fd6674/image/3d111637683f8ad4027561a4ec492412.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
-        },
-        {
-          "title": "AI and science with Demis Hassabis | The Royal Society x Nobel Prize",
-          "podcast_title": "The Royal Society: Questions That Shape Our Future",
-          "episode_url": "",
-          "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
-          "pub_date": "2026-11-22T14:31:34Z",
-          "language": "en",
-          "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         }
       ]
     },
@@ -559,7 +559,7 @@
           "podcast_title": "Cleo Abram",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/PODAGEN1347107158.mp3",
-          "pub_date": "2026-11-21T14:48:00Z",
+          "pub_date": "2026-11-24T22:56:00Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/05d4a9be-d3fb-11f1-9bab-57472740544b/image/50c7d45a5d185c410c246ff863f8f008.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
