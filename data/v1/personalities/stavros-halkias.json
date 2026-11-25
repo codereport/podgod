@@ -4,8 +4,25 @@
   "name": "Stavros Halkias",
   "title": "Stand-up comedian and podcaster",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/stavros-halkias.png?v=d54a01d9",
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "episodes": [
+    {
+      "guid": "https://api.spreaker.com/episode/76541062",
+      "title": "Stavros Halkias and the Fuss Over GTA 6’s Fake Sports Radio",
+      "podcast_title": "Daily Comedy News with Johnny Mac",
+      "description": "Mark Carney called for the “emergency comedy button” at a Canadian press dinner. Enter comedian Mark Critch doing his Donald Trump impression. Johnny Mac plays the clip on Daily Comedy News and gets into the fuss over a fictional sports radio segment voiced by Stavros Halkias in Grand Theft Auto VI.\n\nAlso in this episode, Riverkeeper responds to John Mulaney’s Saturday Night Live monologue about RFK Jr. and the Hudson River, Bowen Yang apologizes for language he used on Las Culturistas, and Gabriel “Fluffy” Iglesias brings his colorful VW buses to the LA Auto Show.\n\nPlus, Jimmy Fallon is set to perform at the Macy’s Thanksgiving Day Parade, and Johnny Mac explains why he misses the old Times Square route.\n\n\nBecome a supporter of this podcast: https://www.spreaker.com/podcast/daily-comedy-news-with-johnny-mac--4522158/support.\n\n🎄 DCN every day, no ads, for the whole family: Caloroga+ on Apple Podcasts is $49.99 a year and shares with up to 6 people. Try it free for 30 days: tap Try Free in Apple Podcasts.\n\nToday's DCN is brought to you by MyBookie use promo code DCN!\n\nDaily Comedy News is hosted by Johnny Mac and releases every weekday. Subscribe on Spotify, Apple Podcasts, or your favorite app. Part of the Caloroga Media network. For transcripts and show notes visit www.dailycomedynews.com\n\nDaily Comedy News with Johnny Mac is a daily podcast covering comedians, stand-up comedy, late night television, and the comedy industry. New episodes every morning. Follow on Apple Podcasts, Spotify, or wherever you listen.  \n\nContact John at John@thesharkdeck dot com \n\nFor Uninterrupted Listening, use the Apple Podcast App and click the banner that says Uninterrupted Listening.  $4.99/month \n\nJohn's Substack about media is free.",
+      "feed_url": "https://rss.pdrl.fm/a6631c/prfx.byspotify.com/e/www.spreaker.com/show/4522158/episodes/feed",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/rss.pdrl.fm/a6631c/prfx.byspotify.com/e/op3.dev/e/api.spreaker.com/download/episode/76541062/dcn_wed_nov25_recut.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/40/a3/cb40a3cc-2a56-f190-2e25-c78f8fded165/mza_10558550569437554271.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/40/a3/cb40a3cc-2a56-f190-2e25-c78f8fded165/mza_10558550569437554271.jpg/600x600bb.jpg",
+      "collection_id": 1474309028,
+      "duration": 799,
+      "pub_date": "2026-11-25T08:05:02Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/stavros-halkias-and-the-fuss-over-gta-6s-fake-sports-radio/id1474309028?i=1000803938780&uo=4",
+      "language": "en",
+      "itunes_id": 1000803938780,
+      "added_at": "2026-11-25T14:00:47.895177Z"
+    },
     {
       "guid": "d4cad986-e48e-4a77-ae36-67e65493b09b",
       "title": "#208 - Carl Tart and Mandal",
