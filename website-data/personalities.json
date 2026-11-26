@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T14:06:26.342Z",
+  "updatedAt": "2026-11-26T16:49:41.034Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -582,21 +582,21 @@
       "episodes": [
         {
           "title": "Palmer Luckey on War 2.0",
+          "podcast_title": "New York Times Events: Conversations Shaping Markets",
+          "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-war-2-0/id6837325032?i=1000803138852&uo=4",
+          "audio_url": "https://traffic.megaphone.fm/VG7831578365.mp3",
+          "pub_date": "2026-11-26T05:20:00Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/de/db/57dedbf6-3df7-e618-aed9-b630dc2fe65c/mza_11470894333246340198.jpg/600x600bb.jpg"
+        },
+        {
+          "title": "Palmer Luckey on War 2.0",
           "podcast_title": "DealBook Summit",
           "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-war-2-0/id1718472373?i=1000803772745&uo=4",
           "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/nyt.simplecastaudio.com/baf61bef-dd03-4be4-bca0-94e63489aabb/episodes/3d040e82-ef6a-4a14-ae17-087d80ac0dd3/audio/128/default.mp3?aid=rss_feed&awCollectionId=baf61bef-dd03-4be4-bca0-94e63489aabb&awEpisodeId=3d040e82-ef6a-4a14-ae17-087d80ac0dd3&feed=HZtr0HV5",
           "pub_date": "2026-11-24T11:05:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ff/bd/6b/ffbd6b6c-1f97-d6c4-534f-7eacf9ea48aa/mza_402313461866120222.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Palmer Luckey on War 2.0",
-          "podcast_title": "New York Times Events: Conversations Shaping Markets",
-          "episode_url": "https://podcasts.apple.com/us/podcast/palmer-luckey-on-war-2-0/id6837325032?i=1000803138852&uo=4",
-          "audio_url": "https://traffic.megaphone.fm/VG7831578365.mp3",
-          "pub_date": "2026-11-22T22:40:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/de/db/57dedbf6-3df7-e618-aed9-b630dc2fe65c/mza_11470894333246340198.jpg/600x600bb.jpg"
         }
       ]
     },
