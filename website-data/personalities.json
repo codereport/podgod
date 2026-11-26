@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T16:49:41.034Z",
+  "updatedAt": "2026-11-26T17:23:56.808Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -128,7 +128,7 @@
           "audio_url": "https://media.transistor.fm/3a26078f/aa145579.mp3",
           "pub_date": "2026-09-30T13:00:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/b5/67/79b56756-3dbe-e287-50a8-42f72563dc53/mza_15649641932241596923.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/98/f3/ca98f359-f9f3-7eff-92fd-f45ac4c89817/mza_3575793758640901515.jpeg/600x600bb.jpg"
         }
       ]
     },
@@ -362,7 +362,7 @@
           "audio_url": "https://api.substack.com/feed/podcast/179924094/8fff4c8da77eff5a44fad5d13ae599e2.mp3",
           "pub_date": "2025-11-25T17:04:02Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/6f/48/af6f4828-86a2-d4c3-b998-de2af1fdc8c0/mza_949624848217027907.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -414,7 +414,7 @@
           "audio_url": "https://api.substack.com/feed/podcast/187741497/443b8df57e77c5522b031c52b1302c0d.mp3",
           "pub_date": "2026-02-12T22:02:35Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2d/c3/b1/2dc3b1c6-2170-e926-04d0-0aaabf848eff/mza_2266632206147105925.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/7d/2a/5c7d2ade-4458-04e8-9838-979d187712ed/mza_16100858243175777898.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -466,7 +466,7 @@
           "audio_url": "https://anchor.fm/s/2be66934/podcast/play/99573634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-9%2F396223564-44100-2-9b672afd107b5.mp3",
           "pub_date": "2025-03-09T14:00:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ac/6e/7c/ac6e7c64-a1b0-8d64-99b1-b71fbe4f49e8/mza_11715346177390740927.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/38/ef/f938efc6-7d78-da25-4689-151bfe79f76f/mza_17969916034422449447.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -492,7 +492,7 @@
           "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5935978001.mp3",
           "pub_date": "2026-08-10T02:00:00Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/ef/c5/8cefc545-8127-c57f-1eba-e91f0d60ab07/mza_2366220677727622774.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/33/02/fe/3302fe28-d0de-8dcc-cc94-15cdd47015ad/mza_9527917628427617348.jpeg/600x600bb.jpg"
         }
       ]
     },
@@ -639,7 +639,7 @@
           "audio_url": "https://media.transistor.fm/b41e5338/059d2992.mp3",
           "pub_date": "2026-09-29T21:29:57Z",
           "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/7c/4b/ea7c4b0b-2896-b3d0-c601-b375662a3630/mza_9279396183922450909.jpg/600x600bb.jpg"
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/6f/83/da6f83ce-5d6e-e4e6-42e8-906e085d2431/mza_7970262893223688744.jpg/600x600bb.jpg"
         },
         {
           "title": "Peter Steinberger: Stop Sending Me Code. Send Me Your Prompt",
