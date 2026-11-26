@@ -4,8 +4,25 @@
   "name": "Ilya Sutskever",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/ilya-sutskever.png?v=e0ede5d1",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "episodes": [
+    {
+      "guid": "2126e682-a47b-11f1-b721-c756700ab2a0",
+      "title": "Ilya Sutskever new \"Superintelligence\" model will change EVERYTHING",
+      "podcast_title": "Wes Roth",
+      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.______________________________________________My Links 🔗➡️ Twitter: https://x.com/WesRoth➡️ AI Newsletter: https://natural20.beehiiv.com/subscribeWant to work with me?Brand, sponsorship & business inquiries: wesroth@smoothmedia.coCheck out my AI Podcast where me and Dylan interview AI experts:https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk______________________________________________#ai #openai #llm\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN7739518384.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/45/83/0845838c-03bd-27bf-9979-57c9202ac705/mza_16364063334028273037.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
+      "collection_id": 6806726491,
+      "duration": 1474,
+      "pub_date": "2026-11-25T16:44:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-new-superintelligence-model-will-change/id6806726491?i=1000786825169&uo=4",
+      "language": "en",
+      "itunes_id": 1000786825169,
+      "added_at": "2026-09-09T17:27:04.878434Z"
+    },
     {
       "guid": "43b12962-a456-11f1-9f14-23f791116782",
       "title": "Altman@Microsoft, Shear@OpenAI, Chaos@Everywhere: Sutskever Regret and the Weekend That Changed AI",
@@ -121,23 +138,6 @@
       "language": "en",
       "itunes_id": 1000800559654,
       "added_at": "2026-11-16T14:00:39.694588Z"
-    },
-    {
-      "guid": "2126e682-a47b-11f1-b721-c756700ab2a0",
-      "title": "Ilya Sutskever new \"Superintelligence\" model will change EVERYTHING",
-      "podcast_title": "Wes Roth",
-      "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.______________________________________________My Links 🔗➡️ Twitter: https://x.com/WesRoth➡️ AI Newsletter: https://natural20.beehiiv.com/subscribeWant to work with me?Brand, sponsorship & business inquiries: wesroth@smoothmedia.coCheck out my AI Podcast where me and Dylan interview AI experts:https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk______________________________________________#ai #openai #llm\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
-      "feed_url": "https://feeds.megaphone.fm/wes-roth",
-      "audio_url": "https://traffic.megaphone.fm/PODAGEN7739518384.mp3",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/08/45/83/0845838c-03bd-27bf-9979-57c9202ac705/mza_16364063334028273037.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/33/32/a533321e-3da2-7668-11a6-df02fa3ec885/mza_17236256653718592941.jpg/600x600bb.jpg",
-      "collection_id": 6806726491,
-      "duration": 1474,
-      "pub_date": "2026-11-15T18:01:15Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/ilya-sutskever-new-superintelligence-model-will-change/id6806726491?i=1000786825169&uo=4",
-      "language": "en",
-      "itunes_id": 1000786825169,
-      "added_at": "2026-09-09T17:27:04.878434Z"
     },
     {
       "guid": "6260001c-a8f8-11f1-a08b-87906656882b",

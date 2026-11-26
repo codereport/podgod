@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "languages": [
     "da",
     "de",
@@ -306,7 +306,7 @@
       "title": "Founder of Anduril & Oculus",
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/palmer-luckey.png?v=6e2ac843",
       "feed_url": "https://podgod.ca/data/v1/personalities/palmer-luckey.json",
-      "episode_count": 63,
+      "episode_count": 64,
       "handle_entity_id": null
     },
     {

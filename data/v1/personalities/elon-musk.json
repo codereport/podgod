@@ -4,8 +4,25 @@
   "name": "Elon Musk",
   "title": "Tesla & SpaceX CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "episodes": [
+    {
+      "guid": "urn:bbc:podcast:p0ppz1kd",
+      "title": "Trump approves Elon Musk's plan for data centres in space",
+      "podcast_title": "Global News Podcast",
+      "description": "The Trump Administration has approved Elon Musk's plan to launch one million SpaceX satellites into space for AI data centres which will function using solar power. Also: At least thirty people have been killed in the Egyptian capital, Cairo, after a petrol tanker overturned and caught fire on a major ring road. We have a special report on the German boat dealer suspected of being a key supplier to migrant smugglers operating in the English Channel. A new survey suggests that young people in Britain are having less sex, drinking less alcohol and living with their parents for longer. The US army blows up five tonnes of toxic explosives at a military base in Iowa. Why tiny licence-free cars like the Citroën Ami are gaining in popularity. And the former Duran Duran guitarist, Andy Taylor, has died after a long fight with prostate cancer.\nThe Global News Podcast brings you the breaking news you need to hear, as it happens. Listen for the latest headlines and current affairs from around the world. Politics, economics, climate, business, technology, health – we cover it all with expert analysis and insight.\nGet the news that matters, delivered twice a day on weekdays and daily at weekends, plus special bonus episodes reacting to urgent breaking stories. Follow or subscribe now and never miss a moment.\nGet in touch: globalpodcast@bbc.co.uk\nPhoto: SpaceX launch site from BBC TV headline",
+      "feed_url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+      "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss-low/proto/http/vpid/p0ppz1cj.mp3",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/28/9c/79289c9d-43a2-174a-fc25-e93051e37c5f/mza_6488530284399964171.jpg/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/4f/d1/f14fd1cf-7b5c-0bb7-683d-325c83bb089e/mza_17540730169954302156.jpg/600x600bb.jpg",
+      "collection_id": 135067274,
+      "duration": 1816,
+      "pub_date": "2026-11-26T05:34:00Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/trump-approves-elon-musks-plan-for-data-centres-in-space/id135067274?i=1000804130603&uo=4",
+      "language": "en",
+      "itunes_id": 1000804130603,
+      "added_at": "2026-11-26T14:00:42.189973Z"
+    },
     {
       "guid": "34264073-5667-441b-b96c-be02c1b5ef5b",
       "title": "Elon Musk Says the AI Singularity Is Here – Is It Too Late to Stop AI?",
@@ -1687,23 +1704,6 @@
       "language": "en",
       "itunes_id": 1000791677425,
       "added_at": "2026-09-28T20:19:43.895226Z"
-    },
-    {
-      "guid": "d7a1fd97-1ec2-4dc1-bff4-b4d1015a3ec7",
-      "title": "THOUGHTCRIME Ep. 144 — Lesbian Bar Drama? Toys 'R' Us Returns? Elon Musk's Paramount?",
-      "podcast_title": "The Charlie Kirk Show",
-      "description": "The team come back to jump right into compelling topics like:\n  \n -Is a Boston Globe story on a loopy lesbian bar the funniest ever?\n -Why is Toys 'R' Us having a revival?\n -What should be made if Elon Musk buys Paramount?\n Watch every episode ad-free on members.charliekirk.com! \n  \n Get new merch at charliekirkstore.com!\nSupport the show: http://www.charliekirk.com/support\nSee omnystudio.com/listener for privacy information.",
-      "feed_url": "https://www.omnycontent.com/d/playlist/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/8978e846-cacd-4d65-b085-ac64014cd49f/podcast.rss",
-      "audio_url": "https://pdst.fm/e/claritaspod.com/measure/dts.podtrac.com/redirect.mp3/mgln.ai/e/205/pscrb.fm/rss/p/traffic.omny.fm/d/clips/5e27a451-e6e6-4c51-aa03-a7370003783c/c865b590-c84f-4f7e-a43e-ac64014b61d9/d7a1fd97-1ec2-4dc1-bff4-b4d1015a3ec7/audio.mp3?utm_source=Podcast&in_playlist=8978e846-cacd-4d65-b085-ac64014cd49f",
-      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/ec/27/a4ec2744-0819-caea-f34a-98a9384b53a8/mza_198406029451208643.jpg/600x600bb.jpg",
-      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/ec/27/a4ec2744-0819-caea-f34a-98a9384b53a8/mza_198406029451208643.jpg/600x600bb.jpg",
-      "collection_id": 1460600818,
-      "duration": 5129,
-      "pub_date": "2026-09-26T21:09:21Z",
-      "episode_url": "https://podcasts.apple.com/us/podcast/thoughtcrime-ep-144-lesbian-bar-drama-toys-r-us-returns/id1460600818?i=1000791797765&uo=4",
-      "language": "en",
-      "itunes_id": 1000791797765,
-      "added_at": "2026-09-27T18:00:09.046538Z"
     }
   ]
 }
