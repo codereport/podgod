@@ -9,6 +9,11 @@ import re
 from pathlib import Path
 from typing import Any
 
+if __package__:
+    from .personality_revision import stamp_feed_revision
+else:
+    from personality_revision import stamp_feed_revision
+
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
@@ -241,6 +246,8 @@ def edit_personality(
             index_person["hosted_podcasts"] = public_hosted
         else:
             index_person.pop("hosted_podcasts", None)
+
+    stamp_feed_revision(feed, index)
 
 
 def write_json(path: Path, payload: dict[str, Any]) -> None:

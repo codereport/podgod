@@ -9,6 +9,11 @@ import re
 from pathlib import Path
 from typing import Any
 
+if __package__:
+    from .personality_revision import stamp_feed_revision
+else:
+    from personality_revision import stamp_feed_revision
+
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
@@ -66,6 +71,7 @@ def update_title(
     config_person["title"] = title
     index_person["title"] = title
     feed["title"] = title
+    stamp_feed_revision(feed, index)
 
 
 def write_json(path: Path, payload: dict[str, Any]) -> None:

@@ -48,6 +48,11 @@ from typing import Any
 
 import requests
 
+if __package__:
+    from .personality_revision import stamp_feed_revision
+else:
+    from personality_revision import stamp_feed_revision
+
 try:
     # GitHub downloads this optional helper into RUNNER_TEMP, outside the repo.
     from podgod_network_activity import install_requests_tracing, set_personality
@@ -966,6 +971,7 @@ def main() -> int:
             feed_payload["nickname"] = person["nickname"]
         if hosted_podcasts:
             feed_payload["hosted_podcasts"] = hosted_podcasts
+        stamp_feed_revision(feed_payload)
         wrote = write_json(feed_path, feed_payload)
         added = len(merged) - len(existing_eps)
         print(f"  {pid}: {len(fresh)} fresh, {len(merged)} total (+{added}){' [written]' if wrote else ''}")
@@ -982,6 +988,7 @@ def main() -> int:
                 "artwork_url": artwork_url,
                 "feed_url": f"{SITE_BASE}/{pid}.json",
                 "episode_count": len(merged),
+                "revision": feed_payload["revision"],
                 "handle_entity_id": person.get("handle_entity_id"),
             }
             if person.get("nickname"):

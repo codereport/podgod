@@ -44,6 +44,11 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 
+if __package__:
+    from .personality_revision import stamp_feed_revision
+else:
+    from personality_revision import stamp_feed_revision
+
 import requests
 
 try:
@@ -98,10 +103,15 @@ def update_artwork_references(pid: str, art_path: Path) -> list[Path]:
     changed: list[Path] = []
 
     feed_path = PERSONALITY_DIR / f"{pid}.json"
+    feed = None
     if feed_path.exists():
         feed = json.loads(feed_path.read_text(encoding="utf-8"))
-        if feed.get("artwork_url") != artwork_url:
+        previous_revision = feed.get("revision")
+        artwork_changed = feed.get("artwork_url") != artwork_url
+        if artwork_changed:
             feed["artwork_url"] = artwork_url
+        stamp_feed_revision(feed)
+        if artwork_changed or previous_revision != feed["revision"]:
             feed_path.write_text(
                 json.dumps(feed, indent=2, ensure_ascii=False) + "\n",
                 encoding="utf-8",
@@ -113,8 +123,12 @@ def update_artwork_references(pid: str, art_path: Path) -> list[Path]:
         for personality in index.get("personalities", []):
             if personality.get("id") != pid:
                 continue
-            if personality.get("artwork_url") != artwork_url:
+            if personality.get("artwork_url") != artwork_url or (
+                feed is not None and personality.get("revision") != feed["revision"]
+            ):
                 personality["artwork_url"] = artwork_url
+                if feed is not None:
+                    personality["revision"] = feed["revision"]
                 PERSONALITY_INDEX_PATH.write_text(
                     json.dumps(index, indent=2, ensure_ascii=False) + "\n",
                     encoding="utf-8",
