@@ -4,7 +4,7 @@
   "name": "Demis Hassabis",
   "title": "DeepMind CEO",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/demis-hassabis.png?v=f00daefa",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "episodes": [
     {
       "guid": "03c7c056-ce8e-11f1-9f56-2b710a8985af",
@@ -16,7 +16,7 @@
       "artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/03c7c056-ce8e-11f1-9f56-2b710a8985af/image/90ff3b8f4000da553279ace37810930c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "duration": 5231,
-      "pub_date": "2026-11-24T16:38:24Z",
+      "pub_date": "2026-11-26T18:25:06Z",
       "episode_url": "",
       "language": "en",
       "podcastindex_id": 63692797157,
@@ -1597,5 +1597,5 @@
       "language": "pt"
     }
   ],
-  "revision": "d30a3e5d0e54e0285efa720b4b5a8f3b9c9d6dbf72f75de56dbceecf43c7fe0e"
+  "revision": "8512ec314af374494dfeb139f10ae6d955f47489586bb49a4723a0bb28022d6d"
 }

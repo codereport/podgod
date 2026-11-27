@@ -4,8 +4,25 @@
   "name": "Courtney Dauwalter",
   "title": "Ultramarathon champion",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "episodes": [
+    {
+      "guid": "https://sandyboyproductions.com/?p=6054",
+      "title": "Episode 716: Courtney Dauwalter: Chasing an Olympic Trials Qualifier at CIM",
+      "podcast_title": "I'll Have Another with Lindsey Hein Podcast",
+      "description": "Courtney Dauwalter is back on the podcast! It’s been three years since we last caught up, and this time she’s taking on a different kind of challenge: chasing an Olympic Trials Marathon qualifier at CIM.\n\nCourtney is one of the greatest ultrarunners of all time, with wins at Western States, UTMB, and Hardrock. But right now, she’s focused on getting faster over 26.2 miles. After running around 2:38 at CIM last year, she’s returning with the goal of breaking 2:37 and earning her spot at the 2028 Olympic Trials.\n\nWe talk about what she’s doing differently in training, how she’s approaching marathon speed after years of ultrarunning success, and what she’s looking forward to about racing CIM again.\n\nI always love catching up with Courtney. Her attitude toward running, willingness to take on new challenges, and ability to enjoy the process are such great reminders of why we love this sport. I hope you enjoy this conversation as much as I did!\n\nSupport our Sponsors:\n\nDONNA Marathon Weekend: One of my favorite race weekends of the entire year! Join me February 5–7, 2027, in Jacksonville, Florida, for a weekend of running, community, and supporting those impacted by breast cancer. Use code LINDSEY10 for 10% off your registration at breastcancermarathon.com. You can also enter to win a VIP trip for two!\n\nBeam Minerals: I’ve been loving Beam Minerals as an easy way to support my recovery and replenish essential minerals. Their plant-based liquid minerals and electrolytes come in a convenient one-ounce daily serving. Get 20% off your first order at beamminerals.com/another with code ANOTHER.\n\nLever Movement: As I’m building my mileage back up, Lever Movement has been such a great tool for adding running volume without all the extra impact. Their body weight support system helps you train smarter while reducing the load on your body. Get 20% off a device through December 31 at levermovement.com/discount/IHA20.\n\nPlantifique: I’ve been loving this female-founded skincare brand, especially their turmeric cleansing pads, calming toner, and vitamin C serum. They have some great holiday deals happening right now, with savings up to 60% off! Get an additional 5% off with code ANOTHER5 at plantifique.com.\n\nThe post Episode 716: Courtney Dauwalter: Chasing an Olympic Trials Qualifier at CIM appeared first on SandyBoy Productions.",
+      "feed_url": "https://feeds.podcastmirror.com/i-ll-have",
+      "audio_url": "https://pscrb.fm/rss/p/media.blubrry.com/lindseyhein/mc.blubrry.com/lindseyhein/courtneywithgoodradded.mp3?awCollectionId=346508&awEpisodeId=12332780&aw_0_azn.pgenre=Sports&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB2%2CIAB4%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11%2CIAB12%2CIAB13%2CIAB19%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fsandyboyproductions.com%2Ffeed%2Fpodcast",
+      "artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/96/45/e0/9645e064-6ec6-95a8-3915-21dfbf86fdb3/mza_18038618384599169663.png/600x600bb.jpg",
+      "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/96/45/e0/9645e064-6ec6-95a8-3915-21dfbf86fdb3/mza_18038618384599169663.png/600x600bb.jpg",
+      "collection_id": 1100818156,
+      "duration": 4466,
+      "pub_date": "2026-11-27T06:00:33Z",
+      "episode_url": "https://podcasts.apple.com/us/podcast/episode-716-courtney-dauwalter-chasing-an-olympic/id1100818156?i=1000804322707&uo=4",
+      "language": "en",
+      "itunes_id": 1000804322707,
+      "added_at": "2026-11-27T14:00:44.745336Z"
+    },
     {
       "guid": "c5275450-24cd-4c1d-97b8-02653f15e8e4",
       "title": "#163 | Courtney Dauwalter | The Power of Belief, Finding Your Limits & More Pain Cave",
@@ -303,5 +320,5 @@
       "language": "en"
     }
   ],
-  "revision": "887d35319c641dc1ab101cccbfa9c3bffaf37e1c792595607f547e07ecd2044d"
+  "revision": "81c81b33ddc4c074a1dfa5a701920824909c03bf46f6a2cfdca8a579d7fa6c27"
 }
