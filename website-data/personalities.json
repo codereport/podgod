@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:25:08.746Z",
+  "updatedAt": "2026-11-27T14:06:41.975Z",
   "personalities": [
     {
       "id": "andrej-karpathy",
@@ -87,6 +87,15 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/courtney-dauwalter.png?v=63b0eb12",
       "episodes": [
         {
+          "title": "Episode 716: Courtney Dauwalter: Chasing an Olympic Trials Qualifier at CIM",
+          "podcast_title": "I'll Have Another with Lindsey Hein Podcast",
+          "episode_url": "https://podcasts.apple.com/us/podcast/episode-716-courtney-dauwalter-chasing-an-olympic/id1100818156?i=1000804322707&uo=4",
+          "audio_url": "https://pscrb.fm/rss/p/media.blubrry.com/lindseyhein/mc.blubrry.com/lindseyhein/courtneywithgoodradded.mp3?awCollectionId=346508&awEpisodeId=12332780&aw_0_azn.pgenre=Sports&aw_0_1st.ri=blubrry&aw_0_azn.pcountry=US&aw_0_azn.planguage=en-us&cat_exclude=IAB1-8%2CIAB1-9%2CIAB2%2CIAB4%2CIAB7-41%2CIAB8-5%2CIAB8-18%2CIAB11%2CIAB12%2CIAB13%2CIAB19%2CIAB23%2CIAB24%2CIAB25%2CIAB26&aw_0_cnt.rss=https%3A%2F%2Fsandyboyproductions.com%2Ffeed%2Fpodcast",
+          "pub_date": "2026-11-27T06:00:33Z",
+          "language": "en",
+          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/96/45/e0/9645e064-6ec6-95a8-3915-21dfbf86fdb3/mza_18038618384599169663.png/600x600bb.jpg"
+        },
+        {
           "title": "#163 | Courtney Dauwalter | The Power of Belief, Finding Your Limits & More Pain Cave",
           "podcast_title": "Choose Strong",
           "episode_url": "https://podcasts.apple.com/us/podcast/163-courtney-dauwalter-the-power-of-belief-finding/id1591743310?i=1000803280963&uo=4",
@@ -94,15 +103,6 @@
           "pub_date": "2026-11-21T11:00:00Z",
           "language": "en",
           "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/41/27/35/412735c8-3358-9165-c4a9-63d303daacca/mza_7002650638943562710.jpg/600x600bb.jpg"
-        },
-        {
-          "title": "Courtney Dauwalter: No Coach, No Plan",
-          "podcast_title": "Frodeno Going Mental",
-          "episode_url": "https://podcasts.apple.com/us/podcast/courtney-dauwalter-no-coach-no-plan/id1866924141?i=1000798099043&uo=4",
-          "audio_url": "https://traffic.megaphone.fm/PDS1958293735.mp3",
-          "pub_date": "2026-10-26T02:00:00Z",
-          "language": "en",
-          "podcast_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2f/16/13/2f161345-e45a-4832-44fd-e5c92e835051/mza_11905731200605615931.jpg/600x600bb.jpg"
         }
       ]
     },
@@ -143,7 +143,7 @@
           "podcast_title": "The Royal Society: Questions That Shape Our Future",
           "episode_url": "",
           "audio_url": "https://traffic.megaphone.fm/VG1853474890.mp3",
-          "pub_date": "2026-11-24T16:38:24Z",
+          "pub_date": "2026-11-26T18:25:06Z",
           "language": "en",
           "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/ededf7a4-cdb7-11f1-8fdd-3fa6bf980c48/image/9d8e4fb84aa09c3b4660290dcf1db089.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
         },
