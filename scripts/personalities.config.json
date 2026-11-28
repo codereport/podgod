@@ -60,6 +60,20 @@
       "wikimedia": "Andrej Karpathy"
     },
     {
+      "id": "bernard-jackman",
+      "name": "Bernard Jackman",
+      "aliases": [],
+      "title": "Rugby analyst and former player",
+      "queries": [
+        "Bernard Jackman"
+      ],
+      "review_pending": true,
+      "potentially_common_name": true,
+      "required_context_keywords": [
+        "rugby"
+      ]
+    },
+    {
       "id": "boris-cherny",
       "name": "Boris Cherny",
       "aliases": [
