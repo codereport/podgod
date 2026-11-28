@@ -4,8 +4,24 @@
   "name": "Andrej Karpathy",
   "title": "AI researcher",
   "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "episodes": [
+    {
+      "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
+      "title": "The REAL Reason Andrej Karpathy Joined Anthropic",
+      "podcast_title": "Wes Roth",
+      "description": "<p>Links, details, etc: <a href=\"https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic\">https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic</a><br><br>The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.<br><br>______________________________________________<br>My Links 🔗<br>➡️ Twitter: <a href=\"https://x.com/WesRoth\">https://x.com/WesRoth</a><br>➡️ AI Newsletter: <a href=\"https://natural20.beehiiv.com/subscribe\">https://natural20.beehiiv.com/subscribe</a><br><br>Want to work with me?<br>Brand, sponsorship & business inquiries: wesroth@smoothmedia.co<br><br>Check out my AI Podcast where me and Dylan interview AI experts:<br><a href=\"https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\">https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk</a><br>______________________________________________<br><br><br><br>#ai #openai #llm</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+      "feed_url": "https://feeds.megaphone.fm/wes-roth",
+      "audio_url": "https://traffic.megaphone.fm/PODAGEN3272513351.mp3",
+      "artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/5d341524-a498-11f1-8c46-e744a5422d49/image/3644b18eecede64a11aa9cdd0f538093.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "podcast_artwork_url": "https://megaphone-images.spotifycdn.com/podcasts/8068b5f2-a2f6-11f1-a759-9fff6ab98f04/image/21ad3bf4cc7838be234119188e512b11.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "duration": 2045,
+      "pub_date": "2026-11-27T23:14:00Z",
+      "episode_url": "",
+      "language": "en",
+      "podcastindex_id": 63845539699,
+      "added_at": "2026-09-12T16:39:46.523409Z"
+    },
     {
       "guid": "37a77854-cc4e-11f1-8c5c-07a0ccbaac10",
       "title": "Building makemore Part 4: Becoming a Backprop Ninja",
@@ -53,22 +69,6 @@
       "language": "en",
       "podcastindex_id": 62378835238,
       "added_at": "2026-10-30T18:56:10.568168Z"
-    },
-    {
-      "guid": "5d341524-a498-11f1-8c46-e744a5422d49",
-      "title": "The REAL Reason Andrej Karpathy Joined Anthropic",
-      "podcast_title": "Wes Roth",
-      "description": "<p>Links, details, etc: <a href=\"https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic\">https://natural20.beehiiv.com/p/the-real-reason-andrej-karpathy-joined-anthropic</a><br><br>The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.<br><br>______________________________________________<br>My Links 🔗<br>➡️ Twitter: <a href=\"https://x.com/WesRoth\">https://x.com/WesRoth</a><br>➡️ AI Newsletter: <a href=\"https://natural20.beehiiv.com/subscribe\">https://natural20.beehiiv.com/subscribe</a><br><br>Want to work with me?<br>Brand, sponsorship & business inquiries: wesroth@smoothmedia.co<br><br>Check out my AI Podcast where me and Dylan interview AI experts:<br><a href=\"https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk\">https://www.youtube.com/playlist?list=PLb1th0f6y4XSKLYenSVDUXFjSHsZTTfhk</a><br>______________________________________________<br><br><br><br>#ai #openai #llm</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-      "feed_url": "https://feeds.megaphone.fm/wes-roth",
-      "audio_url": "https://traffic.megaphone.fm/PODAGEN3272513351.mp3",
-      "artwork_url": "https://megaphone.imgix.net/podcasts/5d341524-a498-11f1-8c46-e744a5422d49/image/3644b18eecede64a11aa9cdd0f538093.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "podcast_artwork_url": "https://megaphone.imgix.net/podcasts/8068b5f2-a2f6-11f1-a759-9fff6ab98f04/image/21ad3bf4cc7838be234119188e512b11.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "duration": 2015,
-      "pub_date": "2026-11-11T20:27:30Z",
-      "episode_url": "",
-      "language": "en",
-      "podcastindex_id": 62850921380,
-      "added_at": "2026-09-12T16:39:46.523409Z"
     },
     {
       "guid": "37e89cf1-2a12-448d-bef7-3d36c6e46cee",
@@ -981,5 +981,5 @@
       "language": "zh"
     }
   ],
-  "revision": "0444a51ec133413d51a00c23f9aa37372bb068acfba84d00947014096d363ce4"
+  "revision": "d2d4b2787a65b6665e49f4e276439bf399383c01aa81317dd7b492a1532e0100"
 }

@@ -36,7 +36,7 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/andrej-karpathy.png?v=9c986736",
       "feed_url": "https://podgod.ca/data/v1/personalities/andrej-karpathy.json",
       "episode_count": 59,
-      "revision": "0444a51ec133413d51a00c23f9aa37372bb068acfba84d00947014096d363ce4",
+      "revision": "d2d4b2787a65b6665e49f4e276439bf399383c01aa81317dd7b492a1532e0100",
       "handle_entity_id": null
     },
     {
@@ -118,7 +118,7 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/elon-musk.png?v=c2b8389e",
       "feed_url": "https://podgod.ca/data/v1/personalities/elon-musk.json",
       "episode_count": 100,
-      "revision": "1e310b93906b3564972b0c37317ed2627da43db8d19bc39f609dc3654ad9866f",
+      "revision": "c4c05392d411c57270169781a12493ce1cec6dc207f5f9c3861daf5abba1c708",
       "handle_entity_id": null
     },
     {
@@ -256,7 +256,7 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/jensen-huang.png?v=f147ac9a",
       "feed_url": "https://podgod.ca/data/v1/personalities/jensen-huang.json",
       "episode_count": 100,
-      "revision": "fa24213c96b2659e71784c8e02f7abd3c4797629e7ef70ce4db53bef536a16a9",
+      "revision": "6ab1c4a817ee683000202796b555303ad1ad090faef289d56322cd6fb5c0fb7d",
       "handle_entity_id": null
     },
     {
@@ -314,7 +314,7 @@
       "artwork_url": "https://podgod.ca/data/v1/personalities/art/mark-zuckerberg.png?v=392b5335",
       "feed_url": "https://podgod.ca/data/v1/personalities/mark-zuckerberg.json",
       "episode_count": 46,
-      "revision": "42d18d9372943be56ffe826c8a26e008bf8cd73d4c5281cff699bf742b1d6f49",
+      "revision": "d20de70c7d63bb653f056ef87f5264cdeecb4c4ecb520cfcc0a541f01c7bad82",
       "handle_entity_id": null
     },
     {
